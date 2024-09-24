@@ -1,0 +1,581 @@
+1. Oracle Database Administrator 
+
+Experience: 10+ years of experience in Oracle DBA roles.
+Install, configure, and maintain Oracle database systems (11g/12c/19c).
+Perform tuning, backups, and data replication using RMAN.
+Manage Oracle RAC and Data Guard for high availability and disaster recovery.
+Ensure database security and implement access controls.
+Provide support for SQL performance tuning and troubleshooting.
+
+------------------------------------------------------------------------------------
+
+2. Oracle PL/SQL Developer (5-7 years)
+
+Experience: 5-7 years in Oracle PL/SQL development.
+Design and develop PL/SQL scripts, packages, procedures, and triggers.
+Optimize complex SQL queries for performance improvement.
+Collaborate with DBA and DevOps teams to ensure smooth deployments.
+Conduct unit testing and participate in code reviews.
+Experience with Oracle SQL Developer, TOAD, and APEX tools.
+
+-------------------------------------------------------------------------------------
+
+3. Oracle Apps DBA (6+ years)
+
+Experience: 6+ years in Oracle E-Business Suite administration.
+Install and patch Oracle EBS R12 applications.
+Manage database backups, restore, and recovery procedures using RMAN.
+Administer Oracle RAC and Oracle WebLogic for application scalability.
+Troubleshoot and resolve performance issues in Oracle applications.
+Apply security patches and manage database access controls.
+
+--------------------------------------------------------------------------------------
+
+4. Oracle Functional Analyst (5+ years)
+
+Experience: 5+ years in Oracle EBS or Cloud applications.
+Gather business requirements and design Oracle ERP solutions.
+Configure Oracle Financials modules (GL, AP, AR, FA).
+Support month-end and year-end close processes.
+Troubleshoot issues related to Oracle forms, reports, and workflows.
+Strong knowledge of Procure-to-Pay and Order-to-Cash cycles.
+
+---------------------------------------------------------------------------------------
+
+5. Oracle Cloud Engineer 
+
+Experience: 3-5 years in cloud infrastructure management.
+Implement and manage Oracle Cloud services (OCI).
+Automate cloud operations using Terraform and Ansible.
+Ensure data security and compliance in cloud environments.
+Set up monitoring and alerting for cloud services.
+Experience with Oracle Autonomous Database and Exadata Cloud.
+
+---------------------------------------------------------------------------------------
+
+
+6. Oracle Business Intelligence Developer (5-7 years)
+
+Experience: 5-7 years in Oracle BI development.
+Create reports and dashboards using Oracle BI (OBIEE).
+Perform ETL processes using Oracle Data Integrator (ODI).
+Collaborate with business users to define reporting requirements.
+Tune and optimize BI reports for performance improvements.
+Strong SQL and data modeling skills.
+
+----------------------------------------------------------------------------------------
+
+7. Oracle HRMS Analyst (5+ years)
+
+Experience: 5+ years working with Oracle HRMS modules.
+Implement and configure Oracle HRMS (Core HR, Payroll, iRecruitment).
+Troubleshoot and resolve HRMS issues and processes.
+Develop custom reports using Oracle BI Publisher.
+Conduct data audits and provide payroll support.
+Knowledge of Oracle HCM Cloud is a plus.
+
+------------------------------------------------------------------------------------------
+
+8. Oracle EBS Financial Consultant (5-7 years)
+
+Experience: 5-7 years in Oracle EBS Financials.
+Configure Oracle Financials modules (GL, AP, AR, FA).
+Perform gap analysis and provide recommendations for enhancements.
+Develop custom financial reports using Oracle BI tools.
+Collaborate with business stakeholders for continuous improvements.
+Experience with Oracle EBS R12 and third-party integrations.
+
+-------------------------------------------------------------------------------------------
+
+9. Oracle Data Architect 
+
+Experience: 7-10 years in data architecture and design.
+Design and implement data models for OLTP and OLAP systems.
+Work on Oracle Exadata, partitioning, and compression.
+Ensure data integrity and quality through proper ETL processes.
+Implement Oracle GoldenGate for data replication.
+Strong experience in data warehousing and business intelligence.
+
+--------------------------------------------------------------------------------------------
+
+10. Oracle Systems Analyst 
+
+Experience: 4-6 years in Oracle ERP system analysis.
+Support Oracle ERP system implementations and upgrades.
+Conduct business requirements analysis and develop technical specs.
+Troubleshoot system issues and resolve user queries.
+Provide post-implementation support for Oracle modules.
+Experience with Oracle Cloud and ERP systems.
+
+--------------------------------------------------------------------------------------------
+
+11. Oracle Integration Developer 
+
+Experience: 5+ years in Oracle integration and SOA Suite.
+Develop and manage Oracle Service Bus and BPEL integrations.
+Work with REST/SOAP web services for third-party integrations.
+Debug and troubleshoot integration failures in Oracle Fusion Middleware.
+Collaborate with cross-functional teams for integration testing.
+Strong knowledge of Oracle WebLogic, JMS, and APIs.
+
+----------------------------------------------------------------------------------------------
+
+12. Oracle Database Architect (8-10 years)
+
+Experience: 8-10 years in database architecture.
+Design and implement Oracle database solutions for large-scale systems.
+Manage high-performance databases using Oracle RAC and ASM.
+Conduct database performance tuning and optimization.
+Implement backup strategies and disaster recovery using RMAN.
+Strong knowledge of Oracle Exadata and Data Guard.
+
+----------------------------------------------------------------------------------------------
+
+13. Oracle Applications Developer 
+
+Experience: 4-6 years in Oracle Apps development.
+Customize Oracle EBS modules using PL/SQL and Oracle Forms.
+Develop custom reports using Oracle BI Publisher and XML Publisher.
+Troubleshoot Oracle EBS technical issues and bugs.
+Collaborate with functional teams for module enhancements.
+Strong knowledge of Oracle Application Framework (OAF).
+
+-----------------------------------------------------------------------------------------------
+
+14. Oracle ERP Consultant 
+
+Experience: 7+ years in Oracle ERP implementation.
+Implement Oracle ERP modules (Financials, SCM, Procurement).
+Conduct fit-gap analysis and system customization.
+Provide end-user training and support.
+Manage Oracle ERP system integrations with third-party applications.
+Experience with Oracle Cloud ERP is preferred.
+
+-----------------------------------------------------------------------------------------------
+
+15. Oracle Security Specialist (6+ years)
+
+Experience: 6+ years in Oracle database security.
+Implement Oracle security policies, encryption, and auditing.
+Manage Oracle Audit Vault and Database Firewall.
+Monitor and resolve security vulnerabilities in Oracle databases.
+Perform database security assessments and audits.
+Experience with Data Masking and Transparent Data Encryption (TDE).
+
+------------------------------------------------------------------------------------------------
+
+16. Oracle DBA (3-5 years)
+
+Experience: 3-5 years in Oracle database administration.
+Perform database backups, restores, and recovery.
+Monitor and optimize database performance.
+Support application teams with SQL query tuning.
+Implement security measures and manage database access.
+Experience with Oracle OEM, RMAN, and Data Pump.
+
+------------------------------------------------------------------------------------------------
+
+
+17. Oracle Financials Analyst (5+ years)
+
+Experience: 5+ years in Oracle Financials (GL, AP, AR, FA).
+Provide functional support for Oracle Financials modules.
+Troubleshoot financial module issues and user queries.
+Assist with month-end and year-end closing processes.
+Develop and generate financial reports using Oracle BI Publisher.
+Conduct system testing and validation for Oracle upgrades.
+
+------------------------------------------------------------------------------------------------
+
+18. Oracle Middleware Administrator (5-7 years)
+
+Experience: 5-7 years in Oracle Middleware administration.
+Administer Oracle WebLogic, SOA Suite, and Fusion Middleware.
+Perform server patching, upgrades, and performance tuning.
+Manage and troubleshoot Oracle middleware applications.
+Provide technical support for Oracle middleware integrations.
+Strong knowledge of Java EE, JMS, and web services.
+
+------------------------------------------------------------------------------------------------
+
+19. Oracle Supply Chain Consultant (5+ years)
+
+Experience: 5+ years in Oracle Supply Chain management.
+Implement and configure Oracle Supply Chain modules (Inventory, Procurement).
+Optimize supply chain workflows and processes.
+Provide functional support for Oracle WMS and OTM.
+Collaborate with business users to streamline supply chain operations.
+Strong knowledge of Oracle EBS and cloud-based SCM solutions.
+
+-------------------------------------------------------------------------------------------------
+
+20. Oracle Apps Developer (3-5 years)
+
+Experience: 3-5 years in Oracle Apps development.
+Develop custom extensions and reports for Oracle EBS.
+Customize Oracle Forms, Reports, and Oracle Application Framework (OAF).
+Support integrations with third-party applications.
+Debug and resolve technical issues in Oracle EBS.
+Experience with Oracle Workflow and Oracle ADF is a plus.
+
+-------------------------------------------------------------------------------------------------
+
+21. Oracle Exadata
+
+Hands-on with Oracle Exadata Cloud
+Participates in initiatives that improve overall product and documentation quality
+Participates in product/platform testing
+Drives improvements in product quality
+Serves as Situation Manager on highly critical Customer issues
+Consult with Management in directing the resolution of critical Customer situations
+Consult with Customers on the complex use of Oracle products
+Achieves knowledge transfer through the development and delivery of training, knowledge sessions, mentoring, etc.
+Creation/Review of Knowledge Articles
+Contribute significantly towards the “My Oracle Support” Database communities
+Analyzes workload, determines standard processes, and implements changes to improve productivity.
+
+-------------------------------------------------------------------------------------------------
+
+22. Oracle Developer (Mid-Level)
+
+Experience: 4-8 years in Oracle development.
+Design and develop SQL/PLSQL queries for large databases.
+Collaborate with ETL & BI teams for complex SQL scripting.
+Implement best practices in Oracle database design.
+Troubleshoot production issues and database outages.
+Support full lifecycle project development.
+Skills: PL/SQL, database optimization, Oracle database management.
+
+-------------------------------------------------------------------------------------------------
+
+23. Oracle Database Administrator (Entry-Level)
+
+Experience: 1-3 years in database administration.
+Install and configure Oracle databases.
+Maintain database security and backup processes.
+Manage user access and monitor system performance.
+Debug and resolve database errors.
+Skills: SQL, database backup, Oracle tools, communication skills.
+
+-------------------------------------------------------------------------------------------------
+
+
+24. Oracle Application Consultant (Senior-Level)
+
+Experience: 5+ years of consulting experience.
+Assist in Oracle application deployment.
+Customize Oracle ERP systems based on business needs.
+Provide post-deployment support and training.
+Lead cross-functional teams on Oracle projects.
+Skills: Oracle ERP, communication, technical documentation.
+
+------------------------------------------------------------------------------------------------
+
+25. Oracle Functional Consultant (Mid-Level)
+
+Experience: 3-5 years in Oracle consulting.
+Analyze client business processes to implement Oracle solutions.
+Configure Oracle modules to meet project requirements.
+Develop system documentation and reports.
+Skills: Oracle EBS, problem-solving, team collaboration.
+
+-----------------------------------------------------------------------------------------------
+
+26. Oracle DBA (Senior-Level)
+
+Experience: 7+ years in database administration.
+Implement high-availability and disaster recovery solutions.
+Design and manage database partitions.
+Optimize database performance and queries.
+Support production environments with high transaction volumes.
+Skills: Oracle RAC, database tuning, query optimization.
+
+----------------------------------------------------------------------------------------------
+
+27. Oracle Cloud Architect (Senior-Level)
+
+Experience: 5+ years in cloud infrastructure design.
+Design and deploy Oracle Cloud solutions.
+Lead cloud migration projects.
+Work with development teams to optimize cloud usage.
+Skills: Oracle Cloud, IaaS, PaaS, cloud security.
+
+----------------------------------------------------------------------------------------------
+
+28. Oracle PL/SQL Developer (Entry-Level)
+
+Experience: 2-4 years of PL/SQL experience.
+Write, test, and optimize PL/SQL code.
+Develop complex SQL queries and stored procedures.
+Assist in system debugging and troubleshooting.
+Skills: PL/SQL, SQL, data modeling, problem-solving.
+
+---------------------------------------------------------------------------------------------
+
+29. Oracle EBS Technical Consultant (Mid-Level)
+
+Experience: 4-6 years in Oracle EBS.
+Customize Oracle E-Business Suite modules.
+Provide technical support for Oracle EBS environments.
+Skills: Oracle EBS, programming, troubleshooting.
+
+----------------------------------------------------------------------------------------------
+
+30. Oracle Apps DBA
+
+Manage and clone Oracle Apps instances (single & multi-node architecture).
+Monitor and troubleshoot performance issues, errors, and concurrent manager problems.
+Implement security access controls and ensure compliance with policies and procedures.
+Oversee Oracle EBS instances hosted in the Oracle Public Cloud.
+Responsible for Oracle database backup, recovery using RMAN, and replication with Data Guard.
+Lead database administration team to maintain high availability systems (RAC, PCP).
+Minimum 7+ years of experience with Oracle E-Business Suite and Core Databases​
+
+----------------------------------------------------------------------------------------------
+
+31. Oracle EBS Consultant
+
+Experience with Oracle e-Business Suite implementation, including at least one 12.2 project.
+Develop and execute test cases for Oracle EBS Financials system integration.
+Provide L2/L3 technical support for Oracle EBS applications.
+Manage Oracle EBS Financial system with 3rd party app integration.
+Collaborate with business leaders to develop scalable technical solutions.
+Oversee project financials and resource management​.
+
+----------------------------------------------------------------------------------------------
+
+32. Oracle Technical Consultant
+
+Engage with stakeholders at all levels for technical and functional design.
+Customize Oracle EBS using PHP, .NET, XML, HTML, and JavaScript.
+Develop and configure technical and integration solutions for Oracle MOM implementations.
+Assist with cloud-based solutions including AWS and Azure integrations.
+Provide mentoring to junior developers and participate in project estimation.
+Implement best practices for database and batch process configurations​(
+
+----------------------------------------------------------------------------------------------
+
+33. Oracle Fusion Middleware Consultant
+
+Develop and maintain integrations using Oracle SOA Suite and OSB.
+Perform middleware installation, upgrades, and support of WebLogic server.
+Implement security policies using OAM, OID, and SSL protocols.
+Provide performance tuning and optimization for middleware components.
+Support high-availability setups with Oracle RAC integration.
+Design solutions based on Oracle Integration Cloud​
+
+----------------------------------------------------------------------------------------------
+
+34. Oracle Cloud ERP Consultant
+
+Experience in full-lifecycle Oracle ERP Cloud implementations.
+Implement Oracle Cloud solutions, including Financials and SCM.
+Develop custom reports using OTBI, FBDI, and WebServices.
+Troubleshoot and resolve integration issues between ERP Cloud and third-party apps.
+Collaborate with clients to gather business requirements and create configurations.
+Lead technical design for ERP modules such as AP, GL, and Procurement​
+
+---------------------------------------------------------------------------------------------
+
+35. Oracle Database Architect
+
+Design and implement scalable Oracle database architectures.
+Oversee database security, backups, and high availability (RAC, Data Guard).
+Manage large-scale data migrations and performance tuning.
+Implement database monitoring, alert systems, and capacity planning.
+Provide guidance on cloud migration strategies for Oracle databases.
+Lead team of database administrators and ensure adherence to best practices​.
+
+---------------------------------------------------------------------------------------------
+
+36. Oracle EBS Developer
+
+Work with functional teams to design and implement customizations in Oracle EBS.
+Create and modify PL/SQL scripts, packages, and procedures.
+Integrate Oracle EBS with third-party applications using APIs and Web Services.
+Provide L3 technical support and troubleshoot production issues.
+Experience with Oracle Forms, Reports, and ADF development.
+Conduct performance tuning of SQL queries and application optimization​.
+
+---------------------------------------------------------------------------------------------
+
+37. Oracle HCM Functional Consultant
+
+Configure and implement Oracle HCM Cloud modules such as Core HR, Payroll, and Talent Management.
+Lead client workshops to define functional requirements and implement Oracle HCM solutions.
+Provide expertise in Oracle Recruiting, Benefits, and Compensation modules.
+Develop testing strategies and manage UAT for Oracle HCM implementations.
+Collaborate with clients on business process improvements and automation.
+Experience with Oracle HCM integration using REST and SOAP services​
+
+---------------------------------------------------------------------------------------------
+
+38. Oracle SOA Integration Specialist
+
+Design and implement integrations using Oracle SOA Suite and BPEL processes.
+Develop and deploy Oracle Service Bus (OSB) solutions for message routing.
+Integrate Oracle SOA with ERP, CRM, and third-party applications.
+Provide expertise in SOAP, REST APIs, and XML for web services integration.
+Troubleshoot and optimize performance for SOA composites.
+Implement security for SOA services using SSL, OAuth, and SAML protocols​
+
+---------------------------------------------------------------------------------------------
+
+39. Oracle Financials Functional Lead
+
+Lead implementation and support of Oracle Financials modules (AR, AP, GL, FA).
+Configure Oracle Financials Cloud for client-specific business processes.
+Develop and maintain custom workflows and reports for financial transactions.
+Provide expertise in Oracle EBS R12 and Oracle Fusion Financials.
+Collaborate with clients to streamline accounting and reconciliation processes.
+Ensure compliance with SOX and other regulatory requirement.
+
+----------------------------------------------------------------------------------------------
+
+40. Senior Oracle Analyst
+
+Experience: 5+ years with Oracle EBS R12.
+Manage Oracle EBS R12 modules like Financials and Supply Chain.
+Develop SQL queries, reports, and procedures.
+Perform system customizations and configurations.
+Troubleshoot and resolve Oracle EBS issues.
+Collaborate with stakeholders for business process integration.
+Provide user training and support on Oracle functionalities​.
+
+---------------------------------------------------------------------------------------------
+
+41. Oracle Data Security Engineer
+
+Experience: 5+ years with Oracle Database technologies.
+Implement security protocols for Oracle databases (e.g., Data Safe, TDE).
+Manage encryption and access controls.
+Configure and manage Oracle Cloud Infrastructure (OCI).
+Perform audits and vulnerability assessments.
+Collaborate on security policies and data protection measures.
+Provide training on database security best practices​.
+
+--------------------------------------------------------------------------------------------
+
+42. Oracle Cloud Integration Engineer
+
+Experience: 8+ years in Oracle Cloud integration.
+Expertise in Oracle Integration Cloud (OIC).
+Develop custom applications using Visual Builder Cloud Service (VBCS).
+Utilize the Redwood design system for UI development.
+Lead Oracle Cloud implementation projects.
+Provide post-go-live support for integrated applications.
+Ensure data integrity and smooth cloud-to-cloud integrations​.
+
+-------------------------------------------------------------------------------------------
+
+43. Oracle Software Engineer
+
+Experience: 3-4 years in Oracle ERP Versions 4, 7, 10, and 12.
+Design and develop Oracle ERP modules.
+Customize Oracle ERP workflows and processes.
+Provide ongoing support for ERP applications.
+Collaborate with global teams for offshore development.
+Conduct unit testing and system integration.
+Participate in Agile project management for Oracle deployments​.
+
+-------------------------------------------------------------------------------------------
+
+44. Oracle Functional Consultant
+
+Experience: 5+ years in Oracle Financials and Supply Chain.
+Configure Oracle EBS modules like AP, AR, and GL.
+Analyze business processes and suggest Oracle-based solutions.
+Design functional specifications for Oracle integrations.
+Perform user acceptance testing (UAT).
+Provide ongoing user support and system maintenance.
+Create user training manuals and documentation​.
+
+------------------------------------------------------------------------------------------
+
+45. Oracle DBA
+
+Experience: 6+ years managing Oracle databases.
+Install, configure, and maintain Oracle databases.
+Perform backup, recovery, and database performance tuning.
+Develop and test disaster recovery plans.
+Manage Oracle RAC and ASM environments.
+Monitor and optimize SQL query performance.
+Provide database security measures and auditing​.
+
+------------------------------------------------------------------------------------------
+
+46. Oracle Cloud Technical Lead
+
+Experience: 7+ years in Oracle Cloud implementations.
+Lead Oracle Cloud technical design and architecture.
+Configure Oracle Cloud services like OCI, OIC, and Autonomous Database.
+Manage Oracle Cloud migration projects.
+Troubleshoot technical issues in Oracle Cloud environments.
+Provide technical guidance to junior engineers.
+Collaborate with clients to gather technical requirements​.
+
+-----------------------------------------------------------------------------------------
+
+47. Oracle Financials Specialist
+
+Experience: 5+ years in Oracle Fusion or EBS Financials.
+Configure Oracle Financials modules (e.g., AP, AR, GL).
+Assist with financial system integration and automation.
+Develop custom reports and dashboards in Oracle Financials.
+Conduct end-user training and provide technical support.
+Manage financial data migration to Oracle Cloud.
+Troubleshoot and resolve Oracle Financials issues​.
+
+----------------------------------------------------------------------------------------
+
+48. Oracle Applications Manager
+
+Experience: 8+ years in managing Oracle applications.
+Oversee Oracle ERP, CRM, and SCM systems.
+Lead Oracle implementation and upgrade projects.
+Manage Oracle system configurations and customizations.
+Ensure system security and compliance with company policies.
+Troubleshoot and resolve system issues.
+Collaborate with cross-functional teams for system optimization​.
+
+----------------------------------------------------------------------------------------
+
+49. Oracle HCM Cloud Consultant
+
+Experience: 6+ years in Oracle HCM Cloud.
+Configure Oracle HCM modules like Core HR, Payroll, and Benefits.
+Lead Oracle HCM implementations and upgrades.
+Develop custom workflows and reports in HCM Cloud.
+Provide user training and post-implementation support.
+Ensure data accuracy and compliance in HCM systems.
+Collaborate with HR teams to automate processes​.
+
+----------------------------------------------------------------------------------------
+
+50. IT Oracle CPQ Developer
+
+2+ years of experience in Oracle CPQ development and configuration
+Proficient in CPQ developer toolkit, such as BML, BMQL, CSS, JavaScript, and HTML
+Experience in Oracle Asset Based Ordering
+Experience in web services API development and integration with other systems
+Knowledge of CPQ business processes and best practices
+Excellent communication, problem-solving, and analytical skills
+Ability to work independently and collaboratively in a fast-paced environment
+Develop custom code and objects using the CPQ developer toolkit, such as BML, BMQL, CSS, JavaScript, and HTML
+
+-----------------------------------------------------------------------------------------
+
+51. Oracle CPQ
+
+Experience: 8+ Years
+8+ years of experience in Oracle CPQ development and configuration
+Strong understanding and Experience of CPQ Cloud implementations, configuration rules, pricing, discounting and quote document creation.
+Proficient in CPQ developer toolkit, such as BML, BMQL, CSS, JavaScript, and HTML
+Experience in web services API development and integration with other systems.
+Knowledge of CPQ business processes and best practices
+Excellent communication, problem-solving, and analytical skills
+Ability to work independently and collaboratively in a fast-paced environment.
+
+------------------------------------------------------------------------------------------
+
+
