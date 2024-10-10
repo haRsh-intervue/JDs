@@ -1,0 +1,718 @@
+JOB DESCRIPTION 1
+
+Microsoft Dynamics 365 Business Analyst
+
+3+ years of experience as a business analyst with expertise in Dynamics 365; knowledge of Agile methodologies is essential.
+Collaborate with business stakeholders to gather and document business requirements for Dynamics 365 implementations.
+Analyze existing business processes and suggest improvements using Dynamics 365 modules.
+Work closely with development teams to translate business needs into technical solutions.
+Ensure that Dynamics 365 solutions align with business goals and compliance standards.
+Provide ongoing support, troubleshooting, and user training.
+Conduct testing to ensure proper functionality of custom workflows.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 2
+
+Microsoft Dynamics 365 Solution Architect
+
+5+ years of experience as a solution architect with Dynamics 365; Azure integration skills are highly valued.
+Lead the overall architecture design and deployment of Dynamics 365 solutions for enterprise-level clients.
+Collaborate with cross-functional teams to design scalable, high-performance solutions.
+Ensure architectural integrity and alignment with business needs and strategies.
+Conduct system performance tuning and optimization for large-scale implementations.
+Provide technical leadership to developers and junior architects.
+Work on system integration projects with Azure and other cloud platforms.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 3
+
+Microsoft Dynamics 365 Implementation Lead
+
+Oversee end-to-end implementation of Dynamics 365 projects, ensuring they meet timelines and budget.
+Coordinate between technical teams, business users, and stakeholders to align project goals.
+Ensure proper configuration and customization of Dynamics 365 modules.
+Conduct risk assessments and establish mitigation strategies for the implementation.
+Lead user acceptance testing (UAT) and provide post-go-live support.
+Monitor project progress and report on key milestones to senior leadership.
+5+ years of experience in managing large-scale Dynamics 365 implementations PMP certification is a plus.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 4
+
+Microsoft Dynamics 365 Program Manager
+
+Lead multiple, concurrent Dynamics 365 projects across various business functions.
+Collaborate with senior management to define program scope, objectives, and deliverables.
+7+ years of experience in program or project management, specifically in ERP systems; expertise in Agile methodologies is preferred.
+Manage timelines, resources, and budgets to ensure successful delivery.
+Identify and mitigate risks across program operations, ensuring alignment with business strategies.
+Coordinate with various teams to ensure smooth deployment and integration of Dynamics 365 systems.
+Provide executive reports and presentations on program performance.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 5
+
+Power Platform Technical Lead
+
+5+ years of experience in Power Platform development and architecture; strong knowledge of Azure and API integrations is crucial.
+Lead a team of developers in designing and implementing Power Apps, Power Automate, and Power BI solutions.
+Develop best practices for Power Platform development, ensuring high performance and scalability.
+Conduct code reviews and ensure compliance with internal coding standards.
+Collaborate with business analysts to align technical solutions with business needs.
+Integrate Power Platform solutions with Dynamics 365 and other business applications.
+Provide technical mentorship and guidance to junior developers.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 6
+
+Dynamics 365 Field Service Lead
+
+Lead the deployment of Dynamics 365 Field Service for optimizing field operations and resource management.
+4+ years of experience in field service management solutions, specifically with Dynamics 365.
+Customize workflows for scheduling, dispatching, and tracking work orders.
+Integrate IoT sensors and mobile devices for real-time monitoring of field activities.
+Collaborate with field technicians and customer service teams to align business operations.
+Provide post-implementation support and continuous improvement recommendations.
+Manage third-party vendors and contractors for field service solutions.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 7
+
+Power BI Analytics Manager
+
+4+ years of experience in data analytics and Power BI, with proficiency in SQL and DAX.
+Lead the design and implementation of enterprise-level Power BI reporting solutions.
+Collaborate with business users to gather requirements and deliver high-impact dashboards and reports.
+Manage the end-to-end data pipeline, ensuring data accuracy and integrity.
+Develop data models and visualizations to support decision-making processes.
+Provide training to end-users on Power BI best practices.
+Ensure compliance with data governance policies.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 8
+
+Dynamics 365 CRM Functional Consultant
+
+Implement and configure Dynamics 365 CRM solutions to enhance customer relationship management.
+Customize CRM modules to manage leads, opportunities, and customer accounts.
+Work with marketing and sales teams to design and automate customer engagement processes.
+Provide post-implementation support and system training for users.
+Conduct system testing and troubleshoot any issues related to CRM functionality.
+Analyze CRM data to deliver insights to management for customer retention strategies.
+4+ years of experience with Dynamics 365 CRM and customer engagement strategies.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 9
+
+Microsoft Power Platform Architect
+
+Design enterprise-level solutions using Power Apps, Power Automate, and Power BI.
+Ensure alignment of Power Platform solutions with business strategies and technology standards.
+Conduct architecture reviews and ensure scalability of solutions.
+Collaborate with business leaders to identify automation opportunities and implement workflows.
+Provide technical leadership to development teams and conduct training sessions.
+Lead integration projects with Azure and Dynamics 365.
+5+ years of experience in Power Platform architecture; Azure expertise is highly beneficial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 10
+
+Dynamics 365 Finance and Operations Consultant
+
+Implement Dynamics 365 Finance and Operations (F&O) solutions, customizing modules for financial management, procurement, and supply chain.
+Collaborate with business teams to gather requirements and translate them into technical configurations.
+3+ years of experience in ERP solutions, specifically Dynamics 365 F&O; financial expertise is a plus.
+Provide training and support to finance and operations teams for efficient system use.
+Integrate F&O modules with other business applications such as Power BI and Azure.
+Conduct performance testing and ensure system reliability and scalability.
+Troubleshoot and resolve system issues during the implementation phase.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 11
+
+Dynamics 365 Functional Consultant
+
+Configure Dynamics 365 to align with business requirements.
+Collaborate with clients to gather and document business requirements.
+Customize entities, workflows, and forms in Dynamics 365.
+Perform data migration and integrations with external systems.
+Develop and deliver end-user training sessions.
+2+ years of experience in Dynamics 365 implementation.
+Good to have skills in Business process mapping, Azure integration, and Power Platform.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 12
+
+Power Automate Developer
+
+2+ years of experience in workflow automation.
+Design and develop automated workflows using Power Automate.
+Integrate workflows with data sources like SharePoint, Dynamics 365, and SQL Server.
+Troubleshoot and optimize existing workflows for efficiency.
+Collaborate with business users to understand automation needs.
+Expertise in Power Automate, API integration, and logic apps is required.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 13
+
+Dynamics 365 Marketing Consultant
+
+Customize and implement the Dynamics 365 Marketing module.
+Collaborate with marketing teams to design campaigns and customer journeys.
+Integrate marketing automation tools such as email campaigns and lead management.
+Provide ongoing support and optimization for marketing operations.
+Skills in marketing automation, lead nurturing, and campaign management are essential.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 14
+
+Business Intelligence (BI) Consultant
+
+Design and implement BI solutions using Power BI and SQL.
+Develop data models and reporting dashboards for business insights.
+Integrate data from multiple sources like Dynamics 365, Excel, and Azure.
+Perform data analysis to support business decision-making.
+3+ years of experience in BI and data analysis.
+Proficiency in Power BI, DAX, and ETL processes is required.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 15
+
+Dynamics 365 Customer Service Consultant
+
+2+ years of experience in customer service systems implementation.
+Implement and configure Dynamics 365 Customer Service module.
+Customize cases, queues, and SLAs to enhance customer support workflows.
+Integrate chatbots and customer portals for self-service.
+Provide post-implementation support and performance tuning.
+Skills in CRM, case management, and Power Automate are preferred.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 16
+
+Power Platform Architect
+
+Lead the design and implementation of Power Platform solutions (Power Apps, Power BI, Power Automate).
+Integrate Power Platform with external systems like SharePoint, SQL, and Dynamics 365.
+Provide technical leadership and best practices to development teams.
+Conduct performance testing and ensure scalability.
+4+ years of experience in Power Platform solutions.
+Advanced skills in architecture, Azure, and API management are required.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 17
+
+Microsoft Dynamics 365 Sales Consultant
+
+2+ years of experience with Dynamics 365 Sales or similar CRM tools.
+Customize and implement Dynamics 365 Sales to meet business requirements.
+Design sales workflows, lead management processes, and customer engagement strategies.
+Train sales teams on CRM functionalities and processes.
+Provide ongoing system support and enhancements.
+Good understanding of sales process automation, lead management, and pipeline tracking is required.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 18
+
+Microsoft Dynamics 365 HR Consultant
+
+Implement Dynamics 365 for Human Resources (HR) to manage employee lifecycle processes.
+Customize employee onboarding, payroll, and performance management workflows.
+Integrate HR data with other business systems like finance and operations.
+Provide HR teams with training and ongoing support.
+3+ years of experience in HR systems and Dynamics 365.
+Deep knowledge of HR processes and employee management is beneficial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 19
+
+Power Apps UI/UX Designer
+
+Design user-friendly interfaces for Power Apps solutions.
+Collaborate with stakeholders to understand user needs and pain points.
+Develop wireframes, prototypes, and mockups for business applications.
+Ensure accessibility and performance optimization in app design.
+Proficiency in Figma, HTML/CSS, and responsive design is crucial.
+2+ years of experience in UI/UX design for enterprise applications.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 20
+
+Dynamics 365 Supply Chain Consultant
+
+Implement Dynamics 365 Supply Chain Management (SCM) to optimize logistics and inventory processes.
+Design workflows for procurement, warehouse management, and distribution.
+Integrate SCM data with finance and operations.
+Provide continuous improvement and system enhancements.
+3+ years of experience in supply chain management systems.
+Expertise in supply chain management, logistics, and ERP systems is required.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 21
+
+Dynamics 365 Solutions Architect
+
+Lead the design and implementation of enterprise-level solutions using Dynamics 365.
+Collaborate with business stakeholders to define requirements and translate them into technical specifications.
+5+ years of experience in Dynamics 365 solutions architecture is required.
+Ensure architectural integrity across Dynamics 365 and its integrations with other platforms.
+Conduct system performance tuning and optimization.
+Mentor junior developers and guide best practices in development and deployment.
+Deep understanding of cloud technologies and Azure integration is crucial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 22
+
+Microsoft Dynamics 365 Program Manager
+
+Oversee multiple Dynamics 365 implementation projects, ensuring they align with organizational goals.
+Coordinate cross-functional teams and manage project timelines, budgets, and deliverables.
+Analyze project risks and develop mitigation strategies.
+Serve as the primary point of contact between stakeholders and the project teams.
+Conduct regular status meetings and prepare reports for executive leadership.
+7+ years of experience in program or project management, particularly in ERP implementations, is necessary.
+Strong organizational and leadership skills are essential.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 23
+
+Dynamics 365 Technical Lead
+
+Lead a team of developers in the design and implementation of Dynamics 365 custom solutions.
+5+ years of experience in Dynamics 365 development is required.
+Conduct code reviews and ensure adherence to coding standards and best practices.
+Provide technical guidance on Dynamics 365 architecture and integrations.
+Manage deployment processes and system upgrades.
+Collaborate with business analysts to translate business requirements into technical solutions.
+Expertise in X++, C#, and Dynamics 365 API integrations is essential.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 24
+
+Power Platform Solution Architect
+
+6+ years of experience in enterprise application development is required.
+Design enterprise-level solutions leveraging the Power Platform, including Power Apps, Power BI, and Power Automate.
+Define best practices for application development and deployment within the Power Platform ecosystem.
+Assess existing business processes and identify automation opportunities.
+Collaborate with business leaders to align technology solutions with strategic objectives.
+Provide training and mentorship to development teams.
+Proficiency in Azure services and Power Platform is beneficial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 25
+
+Microsoft Dynamics 365 Customer Engagement Director
+
+Lead customer engagement strategies using Dynamics 365, focusing on sales and marketing automation.
+Collaborate with executive leadership to define customer experience initiatives.
+Analyze customer data to drive insights and improve engagement outcomes.
+Oversee the implementation of customer feedback mechanisms and satisfaction metrics.
+Strong analytical skills and experience in CRM systems are essential.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 26
+
+Dynamics 365 Change Management Consultant
+
+5+ years of experience in change management or organizational development is required.
+Develop and implement change management strategies for Dynamics 365 projects.
+Assess organizational readiness and identify training needs for stakeholders.
+Facilitate workshops and training sessions to promote user adoption.
+Monitor change initiatives and measure their effectiveness.
+Collaborate with IT and business teams to align change efforts with project goals.
+Familiarity with Agile methodologies is a plus.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 27
+
+Microsoft Dynamics 365 Business Transformation Manager
+
+Lead business transformation initiatives utilizing Dynamics 365 to drive operational efficiency.
+Identify opportunities for process improvements and technology enhancements.
+Collaborate with cross-functional teams to implement best practices and change initiatives.
+Analyze data to measure the impact of transformation efforts.
+7+ years of experience in business transformation or consulting is necessary.
+Strong project management skills and knowledge of ERP systems are essential.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 28
+
+Dynamics 365 Security and Compliance Officer
+
+5+ years of experience in IT security or compliance is required.
+Oversee security policies and compliance measures for Dynamics 365 implementations.
+Conduct risk assessments and ensure adherence to regulatory requirements.
+Develop and maintain security documentation, including policies and procedures.
+Collaborate with IT teams to implement security controls and monitor compliance.
+Familiarity with Microsoft compliance tools and security frameworks is beneficial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 29
+
+Power BI Data Governance Manager
+
+6+ years of experience in data governance or analytics is necessary.
+Lead data governance initiatives related to Power BI reporting and analytics.
+Establish data quality standards and metrics to ensure accurate reporting.
+Collaborate with data stewards to manage data integrity and compliance.
+Develop training programs for users on data governance best practices.
+Strong understanding of Power BI and data management is essential.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 30
+
+Microsoft Dynamics 365 Enterprise Architect
+
+Define and maintain the enterprise architecture framework for Dynamics 365 solutions.
+Align technology strategy with business goals and identify future technology needs.
+Lead architectural reviews and design discussions with stakeholders.
+Collaborate with IT and business teams to ensure seamless integration of systems.
+8+ years of experience in enterprise architecture or IT strategy is required.
+Extensive knowledge of Microsoft technologies and cloud services is crucial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 31
+
+Dynamics 365 Talent Consultant
+
+Implement Dynamics 365 Talent to enhance recruitment, onboarding, and performance management processes.
+Customize employee records and performance review workflows to meet business requirements.
+Conduct user training sessions on leveraging the platform for talent management.
+Collaborate with HR teams to streamline processes and improve employee experience.
+Monitor system performance and suggest enhancements based on user feedback.
+2+ years of experience in HR systems implementation is required; knowledge of HR compliance and policies is beneficial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 32
+
+Microsoft Business Central Consultant
+
+Deploy Microsoft Dynamics 365 Business Central to optimize financial and operational processes.
+Customize workflows, dashboards, and financial reports based on client needs.
+Assist clients in inventory management, sales forecasting, and financial analysis.
+Train end-users on navigating and utilizing Business Central effectively.
+Provide post-implementation support and continuous improvement recommendations.
+3+ years of experience with ERP solutions is necessary; understanding of accounting principles is crucial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 33
+
+Power Platform Analyst
+
+2+ years of experience in data analysis or business analysis is required proficiency in Power BI is essential.
+Analyze business requirements and design solutions using Power Platform (Power BI, Power Apps, Power Automate).
+Create automated workflows to enhance business operations and reduce manual tasks.
+Support integration of Power Platform applications with Dynamics 365 and SharePoint.
+Conduct data analysis and visualization to drive data-driven decisions.
+Deliver training sessions on Power Platform tools to end-users.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 34
+
+Microsoft Dynamics AX Developer
+
+Develop and customize Dynamics AX (now part of Dynamics 365 for Finance and Operations) for various business needs.
+Create and maintain integrations with third-party applications and data sources.
+Write X++ code to enhance the functionality of AX modules.
+3+ years of experience in Dynamics AX development is required strong understanding of ERP systems is essential.
+Collaborate with functional consultants to ensure the technical solution meets business requirements.
+Perform system testing and debugging to ensure quality assurance.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 35
+
+Dynamics 365 Finance Consultant
+
+Implement and configure Dynamics 365 Finance to streamline financial processes.
+Customize modules for accounts payable, receivable, and general ledger.
+Provide training and support to finance teams on using the system effectively.
+Analyze financial data and generate reports for stakeholders.
+Work with IT teams to ensure integration with other business systems.
+3+ years of experience in finance or ERP consulting is necessary; accounting knowledge is crucial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 36
+
+Power BI Report Developer
+
+Design and develop interactive reports and dashboards using Power BI.
+Transform raw data into actionable insights through data modeling and visualization.
+Collaborate with business users to gather requirements and deliver tailored reporting solutions.
+Optimize Power BI reports for performance and user experience.
+Ensure data accuracy and integrity by validating datasets.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 37
+
+Dynamics 365 Sales Engineer
+
+2+ years of experience in CRM systems is required; strong understanding of sales processes is essential.
+Implement and configure Dynamics 365 Sales to improve sales processes and customer engagement.
+Customize lead and opportunity management workflows to meet sales objectives.
+Provide training and ongoing support to sales teams on using the system effectively.
+Analyze sales performance data and generate reports for management.
+Collaborate with marketing teams to integrate lead generation campaigns.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 38
+
+Microsoft Power Apps Developer
+
+Design, develop, and deploy custom applications using Microsoft Power Apps.
+Integrate Power Apps with various data sources, including SharePoint and Dynamics 365.
+Collaborate with stakeholders to gather requirements and translate them into functional apps.
+Ensure applications are user-friendly and accessible.
+Provide ongoing support and maintenance for deployed applications.
+2+ years of experience in app development is required familiarity with Azure and API integration is a plus.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 39
+
+Dynamics 365 Support Specialist
+
+Provide technical support for users of Dynamics 365 across various modules.
+Troubleshoot and resolve issues related to system performance and functionality.
+2+ years of experience in technical support for enterprise applications is necessary familiarity with Dynamics 365 is essential.
+Create and maintain documentation for troubleshooting procedures.
+Conduct training sessions for new users on system features.
+Monitor system updates and ensure compliance with security standards.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 40
+
+Microsoft Dynamics CRM Administrator
+
+Manage and maintain Dynamics 365 CRM environments to ensure optimal performance.
+Configure user roles, security settings, and data access permissions.
+Monitor system health and troubleshoot issues as they arise.
+Conduct regular audits and data cleaning to maintain data integrity.
+Provide training and support to end-users on CRM functionalities.
+3+ years of experience in CRM administration is required; knowledge of data management best practices is crucial.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 41
+
+Microsoft Dynamics 365 Business Analyst
+
+3+ years of experience as a business analyst with expertise in Dynamics 365 knowledge of Agile methodologies is essential.
+Collaborate with business stakeholders to gather and document business requirements for Dynamics 365 implementations.
+Analyze existing business processes and suggest improvements using Dynamics 365 modules.
+Work closely with development teams to translate business needs into technical solutions.
+Ensure that Dynamics 365 solutions align with business goals and compliance standards.
+Provide ongoing support, troubleshooting, and user training.
+Conduct testing to ensure proper functionality of custom workflows.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 42
+
+Microsoft Dynamics 365 Solution Architect
+
+5+ years of experience as a solution architect with Dynamics 365 Azure integration skills are highly valued.
+Lead the overall architecture design and deployment of Dynamics 365 solutions for enterprise-level clients.
+Collaborate with cross-functional teams to design scalable, high-performance solutions.
+Ensure architectural integrity and alignment with business needs and strategies.
+Conduct system performance tuning and optimization for large-scale implementations.
+Provide technical leadership to developers and junior architects.
+Work on system integration projects with Azure and other cloud platforms.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 43
+
+Business Applications Sales Specialist
+
+Engage with C-level decision-makers to drive Microsoft's business applications solutions.
+Lead consultative sales engagements focused on solving business challenges.
+Demonstrate expertise in Microsoft Dynamics 365, Power Platform, and business application ecosystems.
+Drive adoption and expansion of Microsoft Business Apps within customer organizations.
+Coordinate with internal teams to develop tailored solutions for clients.
+Achieve revenue growth targets and market share objectives.
+Maintain up-to-date knowledge of industry trends and competitor activities.
+Build strong client relationships and serve as a trusted advisor.
+Experience: 3-5 years in sales roles related to business applications.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 44 
+
+Functional Consultant - Dynamics 365
+
+2-4 years as a functional consultant in Dynamics 365​.
+Gather and analyze business requirements to design solutions that modernize processes.
+Configure and implement Dynamics 365 applications based on customer needs.
+Oversee data migration, system configuration, and support testing efforts.
+Specialize in areas such as finance, supply chain, or customer engagement.
+Use Microsoft tools like Azure DevOps and Power Platform for application lifecycle management.
+Collaborate with cross-functional teams to meet project goals.
+Ensure solutions align with industry standards and best practices.
+Provide training and post-implementation support to end users.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 45
+
+Specialist Manager - Business Applications
+
+7+ years in business applications sales leadership roles​.
+Lead a team of sales specialists focused on Microsoft Business Apps solutions.
+Develop and execute strategies to grow the business applications market share.
+Mentor team members to improve performance and customer engagement.
+Oversee large and complex deals, ensuring successful closing.
+Build relationships with enterprise customers to identify future opportunities.
+Track performance metrics and adjust strategies to meet business objectives.
+Collaborate with technical teams to ensure delivery aligns with sales promises.
+Stay updated on business application trends and customer needs.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 43
+
+Microsoft Dynamics 365 Functional Consultant
+
+
+Experience: 3-5 years
+Analyze business requirements and translate them into technical specifications.
+Implement Dynamics 365 solutions, including configuration, customization, and integration.
+Work closely with stakeholders to understand their needs and provide guidance on best practices.
+Collaborate with technical teams to deliver solutions on time.
+Conduct training sessions for end users.
+Troubleshoot and resolve system issues.
+Document technical processes and provide post-implementation support.
+Familiarity with Power Platform and Azure DevOps.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 44
+
+Microsoft Power Platform Developer.
+
+Develop and design Power Apps to automate business processes.
+Build and manage Power Automate flows to streamline tasks.
+Integrate Power Platform with Dynamics 365 and other Microsoft services.
+Work with business analysts to gather and analyze requirements.
+Customize apps with Power BI to create dashboards for real-time data insights.
+Ensure solutions comply with governance and security standards.
+Provide ongoing support and enhancements to existing solutions.
+Strong knowledge of Common Data Service (Dataverse).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 45
+
+Microsoft Business Applications Consultant
+
+Experience: 4+ years
+Lead the implementation of Microsoft Business Applications (Dynamics 365, Power Platform).
+Map client business processes to application capabilities.
+Deliver system configurations and conduct quality testing.
+Provide expertise on business process improvements using Microsoft technologies.
+Assist in system integrations with other enterprise platforms.
+Conduct user training and ensure knowledge transfer.
+Support change management activities and post-launch troubleshooting.
+Experience with Agile methodologies and Microsoft’s ALM tools.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 46
+
+Microsoft Dynamics 365 Business Analyst
+
+
+Work with stakeholders to define business requirements and document them.
+Design workflows and reports to streamline operations.
+Collaborate with development teams to ensure business requirements are met.
+Assist with data migration and system integration efforts.
+Conduct testing to validate system functionality.
+Provide training to end users and support post-implementation.
+Identify areas for business process improvement using Dynamics 365.
+Experience with project management tools like Azure DevOps.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
