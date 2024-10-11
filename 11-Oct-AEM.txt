@@ -1,0 +1,821 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 1 :
+
+• Overall 10-15 years of experience in IT
+• proven experience as a project manager including client facing project management, including delivering enterprise-scale web applications or analytics implementations
+• Solid project management experience in application support and maintenance projects.
+• Innovative problem solver.
+• Strong verbal, presentation and written communication skills.
+• Excellent problem-solving skills, with a proven ability to identify issues, solve them quickly and well, and know when to rely on internal resources to assist.
+• Strong conflict resolution and negotiation skills.
+• Professional demeanour, ability to interact with and lead teams with varied strengths throughout Adobe, and communicating with client managers, directors
+• Superb organizational skills to be able to coordinate complicated projects.
+• Exceptional team building and team management skills, with shown experience handling virtual teams.
+• Prior experience with the launch and operation of a highly available, high traffic internet or mobile service.
+• Shown ability to understand the impact of technical changes, and to articulate high level technical solutions to address business problems.
+• Understanding of standard software development processes and engagement methodologies. Hands on experience in handling agile development projects is a must
+• Expereince managing projects with one or more of following technologies: AEM, AEP, Adobe Campaign, Adobe Analytics, RTCDP, Target , UI frameworks like React, Typescript, Node.js
+• Proven understanding of and experience with one or more of the following domains: Web Content Management, Rich internet applications, Web & Social Analytics, online ad targeting and content personalization.
+• Ability to handle in an environment of ambiguity with diverse customers.
+• Ability to build strong relationships and generate opportunities for repeat business.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 2 :
+
+• Understanding of the digital advertising market, preferably of the Programmatic & Search space with proven track record of optimally handling Customer relationships with exceptional presentation, and interpersonal skills.
+• 8-10 years of SEM & DSP experience in brand or agency’s digital marketing team
+• Strong understanding of the Search & Display Advertising Ecosystem, Ad networks, rich media vendors, RTB/Programmatic media buying
+• Hands-on expertise in handling high-value campaigns across Google & Bing advertising platforms
+• Excellent MS Office skills to build reports, dashboard & PPTs
+• Strong hold on Marketing fundamentals to help customer drive maximum out of their digital Ad spends
+• Control spends vs. monthly budget/performance goals
+• Follow daily performance checks for all SEM accounts
+• Commercial/Business awareness and Renewal & Retention Management skills
+• Strong analytical skills; Knowledge of PowerBI, Statistical analysis etc will be preferred
+• Ability to form an understanding of account’s business goals and marketing strategy
+• Previous experience working with Adobe Advertising or similar tools.
+• Certification on Adobe Analytics or Adobe Audience Manager or RT CDP
+• Knowledge of Pixel tracking, cookie management, javascript for reporting automations
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 3 :
+
+• Experience in Development using Adobe AEM, Android, Cordova, CRX, Java, Html, JavaScript. Also working knowledge of the Mobil app development. 2. Built websites and applications using Adobe Experience Manager
+• Experienced working knowledge of the Experience Server (CRX), including the Content Explorer, Design and build components, templates, dialogs, and workflows using the AEM architecture. 
+4. Experience in developing applications, templates, and components for the Adobe AEM product. 
+5. Excellent working knowledge of the Android Mobile app development using java. 
+6. Excellent working knowledge of the hybrid mobile app development for android and iOS platform (Cordova). 
+7. Should have knowledge of development of curated content, websites, landing pages and managing digital assets.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 4 :
+
+• Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+• Proven experience as an AEM Developer, with a minimum of 3 years of hands-on experience working with Adobe Experience Manager.
+• Experience in developing and integrating RESTful web services and APIs.
+• Proficiency in front-end technologies such as HTML5, CSS3, JavaScript, and frameworks like Angular or React.
+• Solid understanding of web development concepts, including responsive design, accessibility, and performance optimization.
+• Familiarity with version control systems (e.g., Git) and build tools (e.g., Maven, Gradle).
+• Excellent problem-solving skills and the ability to debug and troubleshoot complex issues.
+• Strong communication and collaboration skills, with the ability to work effectively in cross-functional teams.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 5 :
+
+• 5 - 6 years of experience in AEM (Adobe Experience Manager) administration (AEM Forms specifically) and development
+• Looking for a combined role with Administrator and Developer experience
+• Exposure to AEM development (preferably in Java) will be an added advantage
+• Experience in understanding product patches and able to apply patched with-out any interruption to services
+• Experience with Linux environment, Cronjobs, Scripting on Unix Platform.
+• Willing to work in US(CST) time-zone and scrum methodology
+• Experience in Insurance domain will be an advantage
+• Experience in AEM (Forms) 6.5 version
+• Architecture and Design, Best practices, Integration with Cloud, Sequence Diagrams
+• Install and Configure AEM, Groups & Permissions, ACL, Replication agents, Service packs
+• Troubleshoot AEM Environment - Index issues, OSGi issues, slow JVM, Caching, Rights
+• management issues, Perform Backups, Cloning, Compaction, System Maintenance
+• Configuration and Deployment, Dispatcher Config, Multiple Dispatcher setup
+• Build and Deployments – AEM packages, Pipelines, Code repository
+• Packaging and Deploying AEM projects, Troubleshoot AEM projects
+• Business Requirements, High level solution, Performance planning
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 6 :
+
+Qualifications
+• Bachelor's degree in Computer Science, Information Technology, or a related field.
+• 4 to 14 years of experience in Java development with a focus on backend systems.
+• Proven experience with Adobe Experience Manager (AEM) 6.x or later.
+• Strong knowledge of OSGi, Sling, and JCR (Java Content Repository).
+• Proficiency in RESTful web services and integrating APIs.
+• Experience with AEM Assets, Sites, and Forms is a plus.
+• Familiarity with frontend technologies (HTML, CSS, JavaScript) is advantageous.
+• Understanding of Agile methodologies and best practices.
+• Excellent problem-solving skills and attention to detail.
+• Strong communication and collaboration skills.
+
+Key Requirements
+• Design, develop, and maintain AEM components, templates, and services using Java and AEM best practices.
+• Implement AEM workflows and integrate with external systems as needed.
+• Collaborate with frontend developers to ensure seamless integration of backend services.
+• Optimize AEM applications for performance, scalability, and maintainability.
+• Troubleshoot and resolve technical issues in AEM environments.
+• Participate in code reviews, providing constructive feedback to peers.
+• Stay updated with the latest AEM features and industry trends to drive innovation.
+• Contribute to the design and architecture of AEM solutions.
+• Document technical specifications and maintain comprehensive records of development processes.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 7 :
+
+RESPONSIBILITIES
+• Design and develop web applications using the AEM including components, workflows, dialogs, Sling model, Sling exporter, OSGI bundles, Schedulers, Event listeners, Maven, Git and Jenkins
+• Familiarity of all AEM building blocks including editable templates,Core components,Touch UI dialogs,CUG,Sling API etc., including the build and deployment processes
+• Develop components using the front-end technologies that includes HTL (Sightly), HTML, JavaScript, CSS
+• Ability to develop component based on user story specifications
+• Follow best practices for secure web programming and deployment. Adhere to internal best practices with respect to coding standards, unit test coverage
+• Participate actively as part of an Agile Scrum team
+
+REQUIREMENTS
+• Minimum 5 to 8 years of relevant experience is required
+• Strong development experience in AEM 6.x/CQ5
+• Proficiency in AEM building blocks and front-end technologies
+• Experience with AEM integration with 3rd party services
+• Knowledge of secure web programming and deployment best practices
+• Technical skills in JSP, Angular, REST-based web services, and session management.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 8 :
+
+• Software Development skills
+• Content Management and JCR proficiency
+• Create bundles, OSGI services, listeners, handlers and workflows and perform CMS administration task's
+• Responsible to configure AEM authoring, publish and dispatcher environment.
+• Responsible for Develop and maintain server-side application logic.
+• Strong problem-solving and analytical skills
+• Ability to work collaboratively in a team environment
+• Bachelor's degree in Computer Science or related field.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 9 :
+
+Experience/Qualifications
+• 8+ years of experience in Software Engineering development
+• 3+ years development experience using any JCR based WCM products
+• 2+ years of experience in developing and designing applications in Adobe Experience Manager
+• 3+ years of Java programming experience
+• Strong problem-solving skills
+• Excellent verbal, interpersonal and written communication skills
+
+Knowledge
+• Git and social coding platforms Bitbucket, Github, Gitlab, etc.
+• Testing: unit, integration, and e2e testing.
+• Agile methodology and SAFe principles
+
+Qualifications
+
+Skills (must have)
+• CMS Design, Java/J2EE, Sling, Application design and development experience
+• Strong skills to effectively interface with client. Great business analysis skills with architecture and implementation experience
+• Requirement analysis, conceptual, logical and detailed design skills
+• Configuration planning, testing, change management knowledge and experiences
+• Strong collaboration and team leading skills
+• Performance optimization and debugging.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 10 :
+
+• Participate in the implementation of AEM related features. Including design, definition, and development of AEM content type models, workflows, templates, components, and user permissions.
+• Building AEM components and templates as needed while working closely with UX, Design and other developers.
+• Implement rapid updates to fulfil changing business and marketing requirements.
+• Develop functional and technical documentation and designs for assigned projects.
+• Work within a team environment, supporting the team goals, and improving development engineering practices.
+• Develop code consistent with A&F standard coding practices.
+• Ensuring that implementations meet the required scalability and reliability required for A&F eCommerce operations.
+• Ensure the entire stack is crafted and built for scalability, security, performance.
+• Solid problem-solving skills, with a focus on understanding overall business issues and figuring out innovative solutions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 11 :
+
+Your Role Responsibilities and Duties :
+
+1. Adobe Experience Cloud Expertise :
+- In-depth knowledge and experience with Adobe Experience Cloud solutions, including Adobe Experience Manager (AEM), Adobe Campaign, Adobe Customer Journey, Adobe Analytics, Adobe Target, and other related products.
+- Understanding of the capabilities, features, and integration points of each Adobe solution to architect comprehensive and effective digital experience solutions.
+
+2. Architecture and Design Skills :
+- Strong architectural and design skills to develop scalable, reliable, and high-performance Adobe solutions that meet business requirements and align with industry best practices.
+- Ability to create solution blueprints, technical specifications, and architectural diagrams that articulate the design and implementation of Adobe solutions.
+
+3. Technical Proficiency :
+- Proficiency in relevant programming languages and technologies, such as Java/J2EE, JavaScript, HTML, CSS, and other web technologies commonly used in Adobe solution development.
+- Experience with integration patterns, API development, and data modelling to integrate Adobe solutions with other enterprise systems and external services.
+
+4. Leadership and Collaboration :
+- Strong leadership qualities with the ability to lead cross-functional teams, provide technical guidance and mentorship, and drive successful project outcomes.
+- Effective collaboration skills to work with business stakeholders, IT teams, and external partners/vendors to understand business needs, gather requirements, and propose innovative solutions.
+
+5. Strategic Thinking :
+- Strategic vision to align Adobe solutions with business objectives, digital strategy, and customer experience goals.
+- Ability to evaluate emerging technologies, trends, and industry developments to identify opportunities for innovation and improvement within Adobe solutions.
+
+6. Problem-Solving and Troubleshooting:
+- Excellent problem-solving skills to analyse complex technical challenges, identify root causes, and propose effective solutions.
+- Proficiency in troubleshooting and debugging Adobe solutions to resolve issues and optimize performance.
+
+7. Continuous Learning and Development :
+- Commitment to staying updated on the latest features, enhancements, and best practices in Adobe
+- Experience Cloud and digital experience management.
+- Willingness to pursue relevant certifications, training, and professional development opportunities to enhance skills and knowledge.
+
+8. Communication and Presentation :
+- Strong communication and presentation skills to articulate technical concepts, designs, and recommendations to both technical and non-technical stakeholders.
+- Ability to create clear and concise documentation, including technical specifications, architecture diagrams, and project plans.
+
+Required Skills and Qualifications :
+
+- In-depth knowledge of Adobe Campaign Classic, Adobe Experience Manager (AEM), and other Adobe products.
+- 4+ years of experience as an enterprise architect having relevant experience with architecting and developing solutions for highly scalable, highly available systems.
+- Strong technical skills on Adobe In-depth knowledge of Adobe Campaign Classic, Adobe Experience Manager (AEM), and other Adobe products.
+- Strong understanding of web development technologies, including HTML, CSS, JavaScript, and server-side languages.
+- Experience architecting & estimating deep technical custom solutions & integrations that require large data volumes & cloud environments.
+- Analyse various integration aspects between Adobe Analytics and allied systems like Websites, Adobe Target, Adobe Campaign, Adobe Audience Manager, Ensighten and Adobe Strong and thorough understanding of web development, content management, personalization, campaign management, and analytics principles.
+- Outstanding problem solving and analytical skills, including ability to create clear observations, analysis and conclusions based on data.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 12 :
+
+Desired Experience
+
+1. Overall experience of about 3-6 years in developing solutions for highly scalable, highly available systems.
+2. Translate business requirements using methods/models to determine appropriate WCM solutions. Design and implement headless, hybrid and design patterns as per business requirements.
+3. Deep understanding of all AEM building blocks including templates, components, touch UI dialogs, content fragments, experience fragments, graphQL etc. and AEM development
+4. Deep understanding of Sightly (HTL), Sling Models, Queries, OSGi services and components.
+5. Experience on AEM Sites deployment, Dispatcher Configuration, Clustering, and fragmentation.
+6. Experience with core web technologies Java, HTML5, CSS3 and attendant technologies and data exchange protocols like JSON and XML, XHTML, Client Server-Side.
+7. Experience in scripting languages such as JavaScript, JSP and web services development using RESTful and SOAP-based web services.
+8. Experience in frontend JavaScript frameworks such as ReactJS, VueJS or Angular.
+9. Experience in Java unit testing using Mockito, Junit etc.
+10. Should be able to design and implement external integrations (API, DB etc) with Adobe Experience Cloud solution.
+11. Should have good knowledge in DevOps process like CI/CD pipeline
+12. Understanding of security, risk, and compliance management processes in the context of IT solutions delivery
+13. Experience with REST, Web Services, Web application frameworks, webservers
+14. Knowledge on source control management (GIT, SVN etc.)
+15. Experience with CDN, Cache, monitoring, infrastructure setup, dispatcher, capacity, performance, load testing, documentation, debugging, best practices etc.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 13 :
+
+Responsibilities:
+
+- Develop and customize components in Adobe Experience Manager (AEM).
+- Integrate AEM with Adobe DAM for managing and delivering digital assets.
+- Collaborate with front-end teams using frameworks like Next.js for headless integrations.
+- Set up and manage AEM Dispatcher for caching, security, and deployments.
+- Create and maintain AEM workflows, templates, and content fragments.
+- Utilize AEM’s out-of-the-box features like GraphQL and REST for API-driven experiences.
+- Optimize AEM components for performance, scalability, and security.
+- Provide technical guidance throughout the development lifecycle.
+
+Requirements:
+
+- 3+ years of proven experience in Adobe Experience Manager (AEM) development.
+- Strong understanding of AEM as a headless CMS, with expertise in content fragments and APIs.
+- Experience with AEM Dispatcher for caching and deployments.
+- Proficiency in Java, Sling, OSGi, JCR, and RESTful API development.
+- Familiarity with Adobe DAM integration for asset management.
+- Experience collaborating with front-end frameworks like Next.js.
+- Knowledge of cloud hosting environments, preferably Azure.
+- Strong problem-solving and analytical skills.
+- Ability to work collaboratively in a team and communicate technical concepts clearly.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 14 :
+
+Responsibilities:
+• 5 - 6 years of experience in AEM (Adobe Experience Manager) administration (AEM Forms specifically) and development
+• Looking for a combined role with Administrator and Developer experience
+• Exposure to AEM development (preferably in Java) will be an added advantage
+• Experience in understanding product patches and able to apply patched with-out any interruption to services
+• Experience with Linux environment, Cronjobs, Scripting on Unix Platform.
+• Willing to work in US(CST) time-zone and scrum methodology
+• Experience in Insurance domain will be an advantage
+• Experience in AEM (Forms) 6.5 version
+• Architecture and Design, Best practices, Integration with Cloud, Sequence Diagrams
+• Install and Configure AEM, Groups & Permissions, ACL, Replication agents, Service packs
+• Troubleshoot AEM Environment - Index issues, OSGi issues, slow JVM, Caching, Rights
+• management issues, Perform Backups, Cloning, Compaction, System Maintenance
+• Configuration and Deployment, Dispatcher Config, Multiple Dispatcher setup
+• Build and Deployments – AEM packages, Pipelines, Code repository
+• Packaging and Deploying AEM projects, Troubleshoot AEM projects
+• Business Requirements, High level solution, Performance planning
+
+Mandatory Skills Description:
+• experience with AEM (Adobe Experience Manager) administration
+• experience in Linux environment, Cronjobs, Scripting on Unix Platform
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 15 :
+
+Qualifications :
+• Min 5 years' experience as an AEM Developer with a strong understanding of the platform's architecture and functionalities.
+• Mastery of Java, JEE, XML, and JSON.
+• Deep understanding of AEM backend development, including Sling Servlets, OSGi Components, and JCR Queries.
+• Expert knowledge of Touch UI, Sightly (HTL), and Sling Models. Core frameworks such as Apache Sling and Apache Felix.
+• Familiarity with REST APIs, unit testing, Git source control, agile methodologies, and software design patterns.
+• Previous experience implementing Adaptive Forms is an asset.
+• Experience with Content Delivery Networks and Cloud Computing.
+• Adobe Experience Manager developer certification demonstrates your expertise (preferred).
+
+Requirements·
+
+• Bachelor's degree in computer science, Software Engineering, or a related field.
+• Proven experience as an AEM Developer or similar role, with a strong understanding of AEM architecture and customization.
+• Proficient in Java, OSGi framework, and web technologies (HTML, CSS, JavaScript).
+• Familiarity with front-end frameworks and libraries (Angular, React, Vue.js) is a plus.
+• Experience with agile development methodologies and version control systems.
+• Strong problem-solving skills and the ability to work independently as well as in a team environment.
+• Excellent communication and collaboration skills.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 16 :
+
+Key Responsibilities :
+
+- Hands-on expertise with Adobe Experience Manager (AEM) , specifically focused on AEM Forms .
+- Design, architect, and develop enterprise-level AEM Forms solutions, including adaptive forms , form fragments , and document services .
+- Strong understanding of web development technologies, including HTML , CSS , JavaScript (ES6) , and XML .
+- Proficiency in Java , JSP , and the OSGi framework to extend AEM functionalities.
+- Extensive experience in integrating AEM Forms with other services through RESTful web services and APIs .
+- Advanced knowledge of databases and SQL, ensuring proper form data management and retrieval.
+- Apply Agile methodologies to ensure seamless project execution, from concept to implementation.
+- Customize and configure AEM Forms to meet complex business requirements and enhance user experience.
+- Collaborate with cross-functional teams, including designers, content authors, project managers, and developers, to deliver integrated, user-friendly solutions.
+- Lead technical discussions, offering guidance and mentorship to junior developers and other team members.
+- Establish and enforce best practices in coding standards, development methodologies, and quality assurance.
+- Design and manage form workflows, approval processes, and data storage strategies.
+- Conduct unit testing, integration testing, and performance tuning to ensure optimized deliverables.
+- Identify, troubleshoot, and resolve performance, scalability, and security issues in AEM Forms solutions.
+- Maintain detailed technical documentation for all AEM Forms solutions and integrations.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 17 :
+
+Total Experience : 6+years
+
+Notice period : Immediate-30Days
+
+Location : Pan India
+
+
+
+ 
+
+AEM Assets:
+
+Able to create files and folders with Adobe Assets and DAM
+
+Able to define & implement metadata schemas for Adobe Assets & Tags
+
+Able to define & OOTB and Custom ACLs 
+
+Able to implement assets collection, search filters, assets template and InDesign Server
+
+Able to write code for custom workflows, components, templates
+
+Able to implement integration between Adobe Cloud Assets and Workfront using Connector
+
+Able to integrate Brand Portal with Adobe Cloud Assets
+
+Able to implement and configured Brand Portal Components 
+
+Able to implement review, approval process for assets to publish
+
+Able to integrate Adobe Creative Cloud with Workfront and Adobe Cloud Assets
+
+Able to write migration utility or leverage ACS Tools to migrate assets from various source platform to Adobe Cloud Assets
+
+Able to integrate analytics scripts for assets and components
+
+Able to build and deploy code by leveraging pipelines
+
+Able to write unit testing
+
+Able to define and implement configuration between Adobe Cloud Assets, Workfront, Brand Portal and Adobe Creative Cloud
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 18 :
+
+
+Minimum 5+ years of experience in AEM
+Eager to learn new applications of traditional technologies
+Able to articulate and convey technical concepts to a mixed audience
+Familiarity with enterprise software and project implementation life cycles is a plus
+Worked on any of the Java frameworks like Spring, Struts
+Worked on any ORM framework like Hibernate
+In-depth understanding and implementation of Java/J2EE design patterns
+Experience with front end frameworks such as Angular, React, and Bootstrap.
+Design, develop and support AEM components, integrations and applications
+Experience integrating Adobe Analytics or Google Analytics with AEM
+Experience with Adobe Target not required but consider a huge plus.
+Experience with Portal or related technologies a plus
+Experience with RESTful and SOAP-based web services
+Working with Adobe Marketing Cloud tools including Experience Manager and Scene 7.
+Hands on experience with designing and building AEM components and working with JCR, AEM workflows.
+Knowledge of using AEM in a cloud environment like Adobe Cloud, AWS, or other.
+4-year college degree in a technical field or equivalent
+In-depth understanding of AEM Assets and experience in setting up brand pages and portals.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 19 :
+
+Responsibilities:
+
+- Develop and customize components in Adobe Experience Manager (AEM).
+
+- Integrate AEM with Adobe DAM for managing and delivering digital assets.
+
+- Collaborate with front-end teams using frameworks like Next.js for headless integrations.
+
+- Set up and manage AEM Dispatcher for caching, security, and deployments.
+
+- Create and maintain AEM workflows, templates, and content fragments.
+
+- Utilize AEM’s out-of-the-box features like GraphQL and REST for API-driven experiences.
+
+- Optimize AEM components for performance, scalability, and security.
+
+- Provide technical guidance throughout the development lifecycle.
+
+
+
+Requirements:
+
+- 3+ years of proven experience in Adobe Experience Manager (AEM) development.
+
+- Strong understanding of AEM as a headless CMS, with expertise in content fragments and APIs.
+
+- Experience with AEM Dispatcher for caching and deployments.
+
+- Proficiency in Java, Sling, OSGi, JCR, and RESTful API development.
+
+- Familiarity with Adobe DAM integration for asset management.
+
+- Experience collaborating with front-end frameworks like Next.js.
+
+- Knowledge of cloud hosting environments, preferably Azure.
+
+- Strong problem-solving and analytical skills.
+
+- Ability to work collaboratively in a team and communicate technical concepts clearly.
+
+
+
+Preferred:
+
+- Experience integrating AEM with external systems like search engines and databases.
+
+- Knowledge of CI/CD processes and Git-based workflows.
+
+- Familiarity with front-end technologies such as React.js, HTML5, CSS3, and JavaScript.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 20 :
+
+13+ Years of work experience with good knowledge on object-oriented design principles/concepts. 
+Experience in application development on Java/JEE platform. 
+Experience in development of AEM Forms - Adaptive Forms/Fragments. 
+Experience in development of AEM Forms OSGi workflows. 
+Experience in development of OSGi Services/Components. 
+Experience in development of XDPs. 
+Experience in usage of AEM Forms Document Services. 
+Experience in Adobe LiveCycle Modules like - LiveCycle Forms, Process Management, Rights Management, document security, digital signatures. 
+Experience in development of web services - SOAP/REST. 
+Experience in HTML5, JavaScript, CSS3 and frameworks/technologies like jQuery and AJAX. 
+Experience in working with RDBMS. 
+Experience in working in an Agile development environment. 
+Experience in Adobe LiveCycle upgrades [ES2/ES3/ES4]
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 21 :
+
+Total 5+ years of AEM hands on experience with both BE and FE experience and should have worked on latest version of AEM.
+Worked as lead and experience in Sling (including Sling Models), OSGI, Sightly basic/standard CSS, Java 8 (JUnit, Mockito).
+Experience in AEM frontend technologies like HTML, Java, CSS, JS, jQuery, HTML, Junits, IDE, SonarQube or equivalent, Maven, version control tools, Postman, Analytics experience, Angular or equivalent, Cloud Manager, PR Handling.
+Should have exp in Java fundamentals & Java 11 Topics.
+Best Practices followed as a lead for the team to be productive at the earliest and tools that could be used to achieve this.
+Experience in low level design creations from High level designs.
+Hands on experience in Server-side issues trouble shooting.
+Hands on experience in web services and Servlets.
+Working knowledge on Linux.
+Should have AEM Architecture understanding as well as knowledge of Adobe Marketing cloud.
+Integration Exp with Search, API's, Commerce Cloud, Authentication, UI Frameworks like Angular, React, Vue.
+Should understand Headless, Hybrid & Headful CMS experience (Architectural use case).
+Should have exp in Adobe Asset and Dynamic Media.
+Should have good communication skills and have handled client interaction.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 22 :
+
+Requirements:
+
+6 + years of hands-on experience in Adobe Experience Manager (AEM) development (Assets), with a strong focus on AEM 6.x or later versions.
+
+Bachelor’s degree in Computer Science, Information Technology, or related field (or equivalent work experience).
+
+Proven experience as an AEM Assets Developer, with in-depth knowledge of Adobe Experience Manager and its DAM capabilities.
+
+Proficiency in Java programming and web development technologies.
+
+Familiarity with front-end technologies (HTML, CSS, JavaScript) is a plus.
+
+Adobe certification in AEM is a strong advantage.
+
+Strong problem-solving and analytical skills.
+
+Excellent communication and collaboration skills
+
+Preferred Qualifications:
+
+Adobe Certified Expert (ACE) certification in Adobe Experience Manager (AEM).
+
+Experience with Adobe Target, Adobe Analytics, and other Adobe Marketing Cloud products.
+
+Knowledge of cloud platforms such as AWS, Azure, or Google Cloud Platform (GCP).
+
+Familiarity with DevOps practices and tools, including CI/CD pipelines and containerization technologies (e.g, Docker, Kubernetes).
+
+Prior experience in digital transformation initiatives and large-scale AEM implementations.
+
+Job Responsibilities:
+
+AEM Integration: Integrate Adobe Experience Manager (AEM) Assets with the core AEM platform to ensure seamless asset management capabilities.
+
+Customisation: Customize AEM DAM to meet the specific needs of the organization, including creating custom workflows, metadata schemas, and user interfaces.
+
+Asset Ingestion: Manage the ingestion process of digital assets into AEM, ensuring proper tagging and efficient organization.
+
+Asset Metadata: Work with metadata to ensure assets are easily searchable and retrievable.
+
+Asset Transcoding: Set up and manage asset transcoding to accommodate various formats and resolutions for different devices and screen sizes.
+
+Workflow Automation: Create and configure workflows for asset approval, publishing, and archiving to streamline asset management processes.
+
+Performance Optimisation: Optimize the performance of AEM Assets to ensure fast and efficient asset retrieval and delivery.
+
+DAM Security: Implement security measures to protect digital assets and control access.
+
+Asset Delivery: Configure AEM to deliver assets to web pages and digital channels, ensuring they are displayed correctly and efficiently.
+
+Third-Party Integration: Integrate AEM Assets with third-party systems and tools, such as content delivery networks (CDNs), marketing automation platforms, and analytics solutions.
+
+Versioning and History: Manage asset versioning and history to track changes and enable rollbacks when necessary.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 23 :
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Proven 7 years experience in developing and implementing AEM solutions using AEM 6.x and above.
+Expertise in Java development and familiarity with JavaScript, HTML, and CSS.
+Hands-on experience with Adobe Analytics and integrating analytics tools into AEM.
+Hands-on experience of using AEM consoles/browser-based IDE CRXDE Lite.
+Good knowledge of AEM applications using AEM Components and Templates, Workflows, Taxonomy, Metadata Management, Replication Strategies, Content Authoring, Versioning, and Publishing Pages, Tagging, JCR/CRX Repository Concepts Nodes, Properties, etc.
+Experience in AEM Sites, AEM Assets, AEM Form, Brand Portal Setup, and Dynamic Media.
+Well-versed with Maven/Gradle, Custom Tags, Open Services Gateway Initiative (OSGi) Services/Components, Apache Sling, Adobe Cloud Services, Workflows, Search (JCR, Query Builder).
+Proficiency in source control tools such as GIT and experience with Agile methodologies.
+Setup and configuration of AEM development environments, AEM author and publish instances, dispatcher or proxy.
+Strong, conceptual knowledge of OSGi, Apache Sightly, Apache Oak, and Adobe Dispatcher.
+Expertise in AEM capabilities including multi-site manager and blueprinting.
+Experience on one or more Adobe marketing cloud products like Dynamic Tag Manager, Target, Analytics, Adobe Communities, and Campaign Manager.
+Strong experience of back-end technologies like Java Enterprise Edition, Spring, web services, and Hibernate.
+Strong understanding of Content Management Systems (CMS) and web application architecture.
+Ability to work effectively in a collaborative team environment and communicate with cross-functional stakeholders.
+Knowledge of responsive design principles and mobile development best practices.
+Certification in Adobe Experience Manager is a plus.
+Excellent problem-solving skills and the ability to analyze and resolve complex technical issues.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 24 :
+
+Responsibilities
+
+
+Design and develop web applications using the AEM including components, workflows, dialogs, Sling model, Sling exporter, OSGI bundles, Schedulers, Event listeners, Maven, Git and Jenkins
+Familiarity of all AEM building blocks including editable templates,Core components,Touch UI dialogs,CUG,Sling API etc., including the build and deployment processes
+Develop components using the front-end technologies that includes HTL (Sightly), HTML, JavaScript, CSS.
+Ability to develop component based on user story specifications
+Follow best practices for secure web programming and deployment. Adhere to internal best practices with respect to coding standards, unit test coverage,
+Participate actively as part of an Agile Scrum team.
+
+
+Requirements
+
+
+Minimum 5 to 8 years of relevant experience is required.
+Strong development experience in AEM 6.x/CQ5.
+Proficiency in AEM building blocks and front-end technologies.
+Experience with AEM integration with 3rd party services.
+Knowledge of secure web programming and deployment best practices.
+Technical skills in JSP, Angular, REST-based web services, and session management.
+
+
+Nice to have
+
+
+Good to have certification as AEM developer.
+Exposure to Headless content services via content fragments/experience fragments will be added advantage.
+
+
+Technologies
+
+
+REST-based web services
+Session management
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 25 :
+
+1+ years of relevant technology consulting or industry experience 
+Strong working knowledge of AEM/Digital Marketing Suite 
+Java, J2EE strong knowledge in Web-centric applications 
+Experience with full lifecycle of application from requirement gathering to deployment.
+Make changes to AEM site content, assets, and workflow
+Designs and builds components, templates, dialogs, and workflows using the AEM architecture (Sling, CRX, OSGI, JCR)
+Diagnoses and solves technical problems related to content management such as search result accuracy, dynamic content linking, formatting, image scaling, internationalization, and personalization
+Works in an agile, rapid development and prototyping environment
+Strong Java programming foundation and experience with OSGi bundles
+Knowledge on workflows ,Sling servlet, REST, JSON, Lucene indexing.
+Exposure to Coral / Granite UI, Adobe UI customization is a must
+Working Experience with Sightly / Sling models.
+Willingness to travel offshore and onshore 
+Strong knack and willingness for adapting latest and greatest technologies to drive performance.
+Exceptionally good at document and explaining core technical processes.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 26 :
+
+Responsibilities:
+
+5 - 6 years of experience in AEM (Adobe Experience Manager) administration (AEM Forms specifically) and development
+Looking for a combined role with Administrator and Developer experience
+Exposure to AEM development (preferably in Java) will be an added advantage
+Experience in understanding product patches and able to apply patched with-out any interruption to services
+Experience with Linux environment, Cronjobs, Scripting on Unix Platform.
+Willing to work in US(CST) time-zone and scrum methodology
+Experience in Insurance domain will be an advantage
+Experience in AEM (Forms) 6.5 version
+Architecture and Design, Best practices, Integration with Cloud, Sequence Diagrams
+Install and Configure AEM, Groups & Permissions, ACL, Replication agents, Service packs
+Troubleshoot AEM Environment - Index issues, OSGi issues, slow JVM, Caching, Rights
+management issues, Perform Backups, Cloning, Compaction, System Maintenance
+Configuration and Deployment, Dispatcher Config, Multiple Dispatcher setup
+Build and Deployments – AEM packages, Pipelines, Code repository
+Packaging and Deploying AEM projects, Troubleshoot AEM projects
+Business Requirements, High level solution, Performance planning
+
+
+Mandatory Skills Description:
+
+experience with AEM (Adobe Experience Manager) administration
+experience in Linux environment, Cronjobs, Scripting on Unix Platform
+
+
+Nice-to-Have Skills Description:
+
+Experience in Insurance domain
+Java
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 27 :
+
+3+ years experience developing applications with AEM 6.5
+3+ years experience with AEM 6.5 building blocks including templates, components, dialogs, widgets and bundles.
+Hands on development building OSGi services for systems integration, workflow, and batch processing
+Experience with Adobe’s latest maven archetype for building AEM projects - NPM, specifically webpack (https://www.npmjs.com/package/webpack) to allow for the use of Sass for compiled css files (https://sass-lang.com/) a definite bonus to have.
+5+ years of Web application development experience including REST, Java, J2EE, Javascript, jQuery, Bootstrap, AJAX, JSON, HTML5, CSS3
+3+ years experience with Unix/Linux, web and web hosting technologies
+3+ years experience using DevOps tools (Jenkins, Artifactory, BitBucket, Maven, CDD/Ansible) and also Adobe Cloud Manager
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 28 :
+
+Your Skills & Experience: 
+
+The overall experience of 6to 8years with 2-3 years of AEM including AEM 6. x.
+Strong hands-on experience in Components, Templates, Taxonomy, metadata management, Forward and Reverse Replication, workflow, Content Publishing and unpublishing, Tagging, Analytics, Deployment(Maven), and Content migration/ planning. · Significant hands-on design experience with AEM and very strong concepts of OSGi, Apache Sling, Apache Sightly, Apache Oak, and Adobe Dispatcher
+Has worked on and implemented at least one of the popular Search engines with AEM like Solr, ElasticSearch, or Lucene and is involved in search queries performance tuning.
+Worked on integrations with popular products /Technologies like Salesforce, SSO, LDAP, and API Gateways using ReST · Understands and implements the Quality Properties of the system in everyday work including Accessibility, SEO, URL management, Security, Performance, and Responsive architecture.
+Has implemented Quality Processes for projects like Continuous Integration (Bamboo/Jenkins/Git/BitBucket/Cloud Manager), SonarQube, Code reviews (Manual and Automated), code Formatters, Automation testing, etc.
+Understanding of frontend technologies like Bootstrap, Backbone.js, ReactJS, Handlebars, Grunt, Angular, CSS3, HTML 5, and jQuery.
+Mastery of all core web and Java technologies including Java 8/11, JEE, XML, XHTML, client/server-side scripting languages such as JavaScript, and JSP, HTL, and web services development using Restful implementations.
+A good understanding of AEM capabilities including Multi-site manager (MSM) and Blueprinting, and the use of Online marketing components such as advanced targeting/personalization, and multi-variate testing, is preferred.
+Proficient knowledge of the end-to-end content lifecycle, web content management, content publishing/deployment, and delivery processes.
+Knowledge of Cloud-native approaches and platforms including AWS, Azure, or GCP. Understanding of AEM as Cloud Service.
+Familiarity with Adobe I/O Runtime and Adobe I/O Events.
+A good understanding of integration patterns and content-centric application development patterns using AEM Search, Commerce package, or other platforms is preferred. Education:
+Full-time Bachelor’s/Master’s degree (Science or Engineering preferred)
+Set Yourself Apart With: 
+
+Develop Digital Consumer experiences based on Adobe marketing product suite including Adobe Sites (AEM), CRX, WCM, Adobe Launch, Adobe Assets (DAM) & Adobe Social.
+Develop powerful features such as multi-site and multi-channel delivery, personalization/targeting, content aggregation & syndication, multi-lingual support, automated workflow management, social media, etc.
+Diagnose and solve technical problems related to web content management implementation.
+Interact with clients to create end-to-end specifications and solution architecture for content & collaboration solutions.
+Mentor and provide inputs and direction to senior developers on the team for design and implementation.
+Collaborate with your architect to define implementation processes and quality gates and standards
+Write application code and extensions for the AEM platform that exceeds the defined quality standards
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 29 :
+
+Your Skills & Experience: 
+
+The overall experience of 6to 8years with 2-3 years of AEM including AEM 6. x.
+Strong hands-on experience in Components, Templates, Taxonomy, metadata management, Forward and Reverse Replication, workflow, Content Publishing and unpublishing, Tagging, Analytics, Deployment(Maven), and Content migration/ planning. · Significant hands-on design experience with AEM and very strong concepts of OSGi, Apache Sling, Apache Sightly, Apache Oak, and Adobe Dispatcher
+Has worked on and implemented at least one of the popular Search engines with AEM like Solr, ElasticSearch, or Lucene and is involved in search queries performance tuning.
+Worked on integrations with popular products /Technologies like Salesforce, SSO, LDAP, and API Gateways using ReST · Understands and implements the Quality Properties of the system in everyday work including Accessibility, SEO, URL management, Security, Performance, and Responsive architecture.
+Has implemented Quality Processes for projects like Continuous Integration (Bamboo/Jenkins/Git/BitBucket/Cloud Manager), SonarQube, Code reviews (Manual and Automated), code Formatters, Automation testing, etc.
+Understanding of frontend technologies like Bootstrap, Backbone.js, ReactJS, Handlebars, Grunt, Angular, CSS3, HTML 5, and jQuery.
+Mastery of all core web and Java technologies including Java 8/11, JEE, XML, XHTML, client/server-side scripting languages such as JavaScript, and JSP, HTL, and web services development using Restful implementations.
+A good understanding of AEM capabilities including Multi-site manager (MSM) and Blueprinting, and the use of Online marketing components such as advanced targeting/personalization, and multi-variate testing, is preferred.
+Proficient knowledge of the end-to-end content lifecycle, web content management, content publishing/deployment, and delivery processes.
+Knowledge of Cloud-native approaches and platforms including AWS, Azure, or GCP. Understanding of AEM as Cloud Service.
+Familiarity with Adobe I/O Runtime and Adobe I/O Events.
+A good understanding of integration patterns and content-centric application development patterns using AEM Search, Commerce package, or other platforms is preferred. Education:
+Full-time Bachelor’s/Master’s degree (Science or Engineering preferred)
+Set Yourself Apart With: 
+
+Develop Digital Consumer experiences based on Adobe marketing product suite including Adobe Sites (AEM), CRX, WCM, Adobe Launch, Adobe Assets (DAM) & Adobe Social.
+Develop powerful features such as multi-site and multi-channel delivery, personalization/targeting, content aggregation & syndication, multi-lingual support, automated workflow management, social media, etc.
+Diagnose and solve technical problems related to web content management implementation.
+Interact with clients to create end-to-end specifications and solution architecture for content & collaboration solutions.
+Mentor and provide inputs and direction to senior developers on the team for design and implementation.
+Collaborate with your architect to define implementation processes and quality gates and standards
+Write application code and extensions for the AEM platform that exceeds the defined quality standards
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 30 :
+
+Excellent knowledge and technical expertise in following technologies
+ Strong hands-on experience with Developing Applications on AEM 5.x or 6.x
+ Experience in Administration/ Production Support and Migration of CQ5 (CMS) projects.
+ Strong Knowledge CQ Servlet Engine, CRX, and CQ5.
+ Experience working with creative web design teams to implement web designs in CQ5.
+ Multi-Site Management for Day CQ5 (CSS, JavaScript, HTML) o Writing custom components in Java for Day CQ5 o Experience in CRX
+ Basic awareness of the core Java CMS frameworks like (JCR, Apache Sling/Felix, OSGI and Ext JS (nice to have)) o Strong Java/ J2EE background with minimum 2-3 years of content management system experience.
+ Java Scripting, jQuery
+ Understanding and working knowledge of REST Web-Services
+ Experience in various Content Management Implementation Projects
+ Exposed to all stages of SDLC.
+ Good Communication Skills
+ Exposure to other CMS products like Vignette, FatWire, Alfresco, Liferay, Interwoven and SharePoint will be added advantages
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 21 :
+
+Responsibilities
+
+Design, develop, and test UI for customer-facing websites;
+Ensure and drive the success of AEM enterprise-level integration and development efforts affecting upstream and downstream legacy systems;
+Ownership and accountability for delivering quality outcomes that balance technical, business and operational goals;
+Build reusable code and libraries for future use;
+Accurately translate user and business needs into functional front-end code;
+Delivery of the test preparation and execution on a day to day basis, including execution and defects reporting;
+
+Requirements
+
+Competitive compensation (fair salary, bonus plans + equity);
+Tuition reimbursement;
+Experience with products in the Adobe Suite such as Audience Manager, Test and Target, Campaign Manager, Analytics, and others;
+Be well-versed with AEM workflows setup and maintenance as well as User and Group Management;
+Solid skills in HTML5 and CSS3;
+Working knowledge in AEM 6.1 or above;
+Experience in Maven, SVN, MySql5.6;
+Experience collaborating with various stakeholders;
+Experience in front end technologies like JavaScript (MVC frameworks), HTML5, CSS3, iOS, Android;
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
