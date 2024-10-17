@@ -1,0 +1,897 @@
+
+
+Sheet : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RoadMap 1 : 
+RoadMap 2 : 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 1 : 
+
+Installing the SharePoint platform, integrating applications, and creating libraries.
+Adding users, controlling access to document libraries, and setting permissions.
+Performing maintenance of the SharePoint platform, servers, and intranet.
+Troubleshooting and resolving SharePoint issues or malfunctions.
+Providing SharePoint support and end-user training.
+Performing data retrieval and backup procedures to prevent data loss.
+Ensuring sufficient storage space by performing clean-ups and archiving data.
+Reviewing usage and activity reports and making adjustments to ensure optimized user-experiences.
+Maintaining network infrastructure, as well as managing encryption, security zones, and firewalls.
+Keeping up to date with SharePoint developments and performing version updates and upgrades
+Determining business needs and evaluating existing network infrastructure and systems.
+Optimizing network hardware and software to enable VMware integration.
+Developing and deploying customized VMware solutions.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 2 : 
+
+Demonstrates specific knowledge of the function and makeup of Microsoft SharePoint.
+Is proficient in the use of Microsoft Office Suite and Windows Servers.
+Possesses strong problem-solving and analytical skills.
+Possesses knowledge of best practices for maintaining information security.
+Able to handle confidential and sensitive company information responsibly.
+Possesses the ability to think creatively to devise customization and uses for SharePoint.
+Exhibits knowledge of the software development industry.
+Communicates clearly and effectively.
+Works well with a team.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 3 : 
+
+Education Qualifications:
+Possess at least a Bachelor’s degree in Computer Science, Computer Engineering, Information Technology or equivalent
+Job Description:
+Experience in SharePoint: SP2013, SP2016, SP2019, SP Online.
+Experience in JavaScript object model (JSOM).
+Experience in REST API.
+Experienced on JavaScript, HTML5, CSS3, Bootstrap and XML
+Experience in working with SharePoint designer workflows.
+Experience in creation of site definitions, Server-Side object model (SSOM), SQL Server, experience in reporting tools like SSRS, SSIS
+Strongly preferred skills Nintex, Power Apps / MS Teams
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 4 : 
+
+Job Description:
+
+3-4 years of experience with Office 365 development utilizing PowerApps, Power Automate and SharePoint Online.
+Extensive experience in the Microsoft Power Platform – PowerApps and Power Automate
+Experience customizing SharePoint lists and disparate systems with PowerApps – Canvas Apps
+Good understanding of OpenAPI standards & at least one scripting language (Javascript preferred).
+Excellent UI design skill and hands on experience in designing and developing entities in PowerApps.
+Knowledge of PowerApps and Flow licensing plans and features included in different plans.
+Microsoft Certification in PowerApps will be an added advantage.
+Work directly with clients to support various projects and solutions.
+Responsible for estimating work content and achieving planned timelines.
+Strong interpersonal and communication skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 5 : 
+
+Requirements
+1. Bachelor's degree in Computer Science, Information Technology, or related field.
+2. Proven experience as a SharePoint Developer or similar role, with a minimum of [X] years of experience.
+3. Strong knowledge of SharePoint architecture, configuration, and administration.
+4. Proficiency in SharePoint development tools such as SharePoint Designer, Visual Studio, and Power Platform.
+5. Experience with SharePoint Online, SharePoint Server, and SharePoint Framework (SPFx).
+6. Solid understanding of SharePoint features, including document management, collaboration, and workflow automation.
+7. Proficient in programming languages such as C#, JavaScript, HTML, CSS, and PowerShell.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 6 :
+
+Requirements
+SharePoint on-prem / Online (M365)
+Microsoft Powerplatform / Power Apps
+Nintex Workflows
+Web Development (HTML, Javascript, CSS, etc) [OPTIONAL]
+Web Cloud Technologies (Azure, AWS, etc) [OPTIONAL]
+Qualification graduate from computer/IT background
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 7 :
+
+Requirements
+Knowledge in SharePoint Online sites, lists, libraries, etc.
+SharePoint Online customization
+Knowledge of Power Platform (Power Automate, Power Apps, Power BI)
+SharePoint framework development knowledge
+React js, typescript, jquery, etc.
+SharePoint Administration
+PowerShell, etc.
+Respect, honesty, passion, dedication towards work
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 8 : 
+
+Development, configuration and customization experience on SharePoint Online and SharePoint 2013
+Good knowledge of JavaScript, jQuery, HTML5 and CSS3
+Experience on working with JSOM
+Experience on SharePoint branding using Design Manager
+Experience working on Taxonomy, configuring and customizing SharePoint OOTB Web Parts like CQWP, CSWP etc.
+Experience on Search customization/configuration: Display Templates, refinement panel etc.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 9 : 
+
+Good experience in designing SharePoint Online based custom applications.
+Good hands-on exposure to ReactJS, SPFX framework and Modern experience.
+Good hands-on experience in Workflow tools Power Automate and Power Apps
+Good to have experience on Microsoft Azure – Logic apps, Azure functions
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 10 : 
+
+Hands on expertise in building advanced custom web applications using Microsoft SharePoint and SharePoint Online
+Strong knowledge of HTML5, CSS3, JavaScript, jQuery, and all other related technologies related to front end web designing
+Experience working with Bootstrap, Rest/SOAP APIs, Angular
+Hands on expertise in responsive frontend development
+Strong understanding of SharePoint on-prem
+Nintex Forms, Nintex Workflows and other automation features available on SharePoint platform
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 11 : 
+
+Experience with SharePoint migration tools and techniques for migration of sites between domains.
+Strong problem-solving skills to identify and resolve issues in short notice.
+Fundamental grasp of database concepts, including SQL for data manipulation and querying
+Experience in creating clear and concise documentation.
+The ability to troubleshoot code errors and perform unit testing to ensure code quality and functionality.
+Effective communication skills for collaborating with team members, discussing requirements, and presenting ideas.
+Familiarity with version control systems like GitHub to track changes.
+Basic understanding of security principles and the importance of secure coding practices.
+Experience in C#, JavaScript, HTML, CSS is desirable.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 12 : 
+
+Work Experience
+
+A minimum of 3 years hands-on experience working with and supporting SharePoint.
+Minimum of 1 year of experience in developing Power Apps and Power Automate solutions.
+Hands on experience:
+creating Power BI reports and dashboards
+writing and executing PowerShell scripts
+SharePoint migration
+
+Education and Qualifications
+· Bachelor’s degree in computer science, Information Technology, or a related field
+· Strong knowledge of SharePoint Online, MS Teams, OneDrive, and SharePoint Out-Of-The-Box capabilities
+· Good understanding of Security and compliance in SharePoint
+· Strong knowledge of SharePoint integration with Power Platform components and other M365 applications
+· Proficiency in creating custom Power Apps and Power Automate (Flow), PowerBI solutions.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 13 : 
+
+Qualifications
+
+SharePoint Designer, SharePoint Administration, and InfoPath skills
+Software Development and SharePoint expertise
+Strong problem-solving and analytical skills
+Excellent communication and teamwork abilities
+Bachelor’s degree in Computer Science or related field
+Experience with creating and maintaining SharePoint solutions
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 14 : 
+
+Develop and implement automated workflow using Power Automate to streamline business processes and improve efficiency.
+Establish governance guidelines and best practices for SharePoint usage globally.
+Monitor and evaluate SharePoint usage patterns, recommend improvements, and administer licenses.
+Collaborate with stakeholders to gather requirements and design SharePoint that address business needs.
+Assist in the development, customization, and integration of SharePoint applications.
+Ensure adherence to SharePoint development standards, security protocols, and branding guidelines.
+Manage SharePoint environments for the Global team.
+Monitor and troubleshoot SharePoint issues, ensuring high availability of services.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 15 : 
+
+Monitor for VTBA SharePoint Online sites, usage, and health.
+Monitor VTBA MS SharePoint Online storage usage and support in clean-up activities or to archive data.
+Solve tickets forwarded into the Service Now ticket queue.
+Coordinate with third party support as required.
+Solving complex technical problems escalated from the global IM Service Desk.
+Be part of Atlas Copco council´s and SharePoint Online projects and represent the VTBA infrastructure view.
+Collaborate with our project partners and coordinate VTBA's topics with them.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 16 : 
+
+Technical Expertise:
+SharePoint Online Development Experience
+SharePoint Framework (SPFx)
+Good exposure on SharePoint 2019 / 2016 / 2013 Versions
+PowerApps for the given requirements.
+Experience in HTML / CSS / JavaScript / jQuery / REST
+Knowledge of Office365 / SharePoint Online / SharePoint 2013 / 2016 from the user, admin, and management perspectives
+PowerShell Scripting
+
+Soft Skills:
+Communication skills
+Problem solving skills
+Analytical skills
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 17 : 
+
+Sound knowledge on Object Oriented Programming OOPs concept
+Developing Web and Client/Server Application based on Microsoft .Net technologies.
+MVC, ASP.NET, C#, ADO.NET, Entity Framework, LINQ, SOAP, Web Services, IIS, XML and XSLT
+HTML, JavaScript, CSS, JQuery
+Database SQL Server
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 18 : 
+
+2+ Years of work experience.
+Experience with SharePoint Online, SharePoint 2010/2013 is a must.
+Experience in Power Apps is a must.
+Experience with SharePoint Framework (SPFx).
+Expertise in React J.S./Angular.
+Experience in CSOM/JSOM is an added advantage.
+Good working knowledge of SQL 2008.
+Understand browser-specific compatibility issues.
+Expertise in the design, implementation, and development of user-centric software, with a focus on usability.
+Programming with SharePoint Web Parts.
+Expert knowledge and expertise, including Troubleshooting/debugging using SharePoint.
+Professional standards-based web development using ASP.Net, HTML, CSS, and JavaScript.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 19 : 
+
+Responsibilities
+5+ years of experience in SharePoint development and architecture with SharePoint 2013, 2016 and Office 365.
+Expertise in SharePoint Online development, including Power Automate/Flow, Forms, and PowerApps and supporting SharePoint migrations to Microsoft Office 365.
+Expertise in business process analysis, user requirements development and documentation, system development life cycle (SDLC) programming, and systems analysis.
+Expertise in hands-on development of SharePoint on-premise 2013 and 2016, building complex, out of the box SharePoint Solutions using development tools, including 
+InfoPath, SharePoint Designer, JavaScript, CSS, .NET, HTML, and JQuery.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 20 : 
+
+Proven experience developing SharePoint solutions within the Microsoft 365 environment.
+In-depth knowledge of SharePoint Online architecture, features, and capabilities.
+Proficiency in SharePoint Framework (SPFx), JavaScript, TypeScript, HTML, CSS, and other relevant technologies.
+Relevant certifications such as Microsoft Certified: SharePoint Developer, Microsoft 365 Certified: Developer Associate, or similar are a plus.
+Familiarity with Agile development methodologies is preferred.
+Eagerness to learn and adapt to new technologies.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 21 :
+
+Job Requirements
+5+ years of experience working with
+Point Online and Office 365
+Proficiency in Point Framework (SPFx), Point Designer, and modern
+Point custom development
+Expertise in PowerApps, Power Automate, Power BI, and their integration with
+Point Online
+Strong knowledge of front-end technologies: JavaScript, jQuery, CSS3, HTML5
+Experience with REST APIs, JSON, CAML, and CSOM/JSOM
+Familiarity with Microsoft Teams and its integration with Point
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 22 : 
+
+Good knowledge in SQL
+Experience of SharePoint Server Side and Client Side Object Model
+Experience in SharePoint Designer Workflows
+Experience in ASP.NET / MVC / C# .NET / HTLM / CSS / JavaScript / jQuery
+Experience in using Visual Studio and using Microsoft Team Foundation Services
+Experience of working with the AGILE methodology
+Good presentation and communication skills
+Self-management and strong organization skills
+Excellent troubleshooting and debugging skills
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 23 : 
+
+Meeting with the design team to review website and application requirements.
+Setting tasks and development goals.
+Configuring the company SharePoint systems to specified requirements.
+Developing new web components using XML, .NET, SQL, and C#.
+Designing, coding, and implementing scalable applications.
+Meeting with the design team to review website and application requirements.
+Extending SharePoint functionality with forms, web parts, and application technologies.
+Testing and debugging code.
+Reviewing website interface and software stability.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 24 : 
+
+Must possess an in-depth understanding of the capabilities of SharePoint Server, SharePoint Designer and InfoPath
+Working knowledge of configuration and custom development of SharePoint components including web parts, event receivers, timer jobs, templates, Features, application pages, site pages, custom list types, site columns, content types, custom workflows and site definitions and web development (HTML, CSS, XSL, XSLT, JavaScript/ jQuery)
+Hands on experience on SharePoint applications using Client and Server Object modelling
+Experience in analysis, design, hands-on development and delivery of web-based applications
+Strong Experience in troubleshooting SharePoint applications
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 25 : 
+
+Job Description:
+
+3-4 years of experience with Office 365 development utilizing PowerApps, Power Automate and SharePoint Online.
+Extensive experience in the Microsoft Power Platform – PowerApps and Power Automate
+Experience customizing SharePoint lists and disparate systems with PowerApps – Canvas Apps
+Good understanding of OpenAPI standards & at least one scripting language (Javascript preferred).
+Excellent UI design skill and hands on experience in designing and developing entities in PowerApps.
+Knowledge of PowerApps and Flow licensing plans and features included in different plans.
+Microsoft Certification in PowerApps will be an added advantage.
+Work directly with clients to support various projects and solutions.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 26 : 
+
+Supports Intranet sites built on SharePoint 2013, 2016, 2019 and Office 365
+Monitor/troubleshoot SharePoint software for any glitches or problems
+Manages system security, system patching, and upgrades
+Deploys custom developed and third-party SharePoint solution packages
+Configures SharePoint services and settings
+Documents SharePoint configuration and architecture
+Manages site quotas and file size limits
+Reviews and monitoring usage reports
+Manages content databases and creating new ones as required
+Administers and maintains sites and sub-sites
+Manages security for sites and sub-sites
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 27 : 
+
+Provides SharePoint support to end-users
+Install and build SharePoint 2016, 2019 farm
+Troubleshoots issues promptly.
+Oversees activity pertaining to the maintenance of SharePoint.
+Analyses daily user activity on SharePoint.
+Maintains records of SharePoint updates, maintenance, and activity.
+Reports to company management with updates and information about SharePoint use.
+Provides technical support for SharePoint users.
+Addresses questions or concerns from business owners or directors regarding the function of the software.
+Keeps apprised of Microsoft updates to SharePoint software.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 28 : 
+
+Building new solutions in SharePoint Online based on business requirements, including Power Automate, Power Apps, REACT and other custom code solutions
+Troubleshooting and resolving issues related to existing workflows and forms in SharePoint Online, including issues related to jQuery or REACT custom code
+Supporting end users with the greater Office 365 experience such as Office 365 Groups and Teams
+Creating, modifying, executing, and scheduling PowerShell scripts
+Troubleshooting break-fix tasks in workflows, forms, and other code customizations in a timely manner
+Developing and supporting out-of-box functions on Sites including lists, libraries, alerts, permissions, navigation, web parts, pages, recycle bin, and other out-of-box tools
+Providing end users with excellent support service, daily
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 29 : 
+
+ooking for someone having very strong experience in SharePoint and some knowledge of Azure, passionate about work, self, and fast learner, ready to learn new things/technologies, a positive attitude towards work, and self-motivated.
+
+Must to have skills
+SharePoint Online OOTB - Site Columns, Content Types, List, Libraries
+SharePoint Apps
+ECMA Script - JSOM
+Angular JS
+Strong experience on SharePoint Framework (Spfx) with Javascript, Typescript
+Rest API
+Strong experience on C# - SharePoint CSOM
+Web API (C#)
+Basic knowledge about Power BI
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 30 : 
+
+We have an immediate opening for Sharepoint Developer, 3+ Yrs, Chennai
+Development, configuration and customization experience on SharePoint Online and SharePoint 2013
+
+Good knowledge of JavaScript, jQuery, HTML5 and CSS3
+Experience on working with JSOM
+Experience on SharePoint branding using Design Manager
+Experience working on Taxonomy, configuring and customizing SharePoint OOTB Web Parts like CQWP, CSWP etc.
+Experience on Search customization/configuration: Display Templates, refinement panel etc
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Good working experience on Power Automate.
+Good working experience on Power Apps, Canvas Apps and Model Driven Apps.
+Good experience on SPFX and extensions.
+Experience in SharePoint on-prem solutions.
+Good experience on REST and Graph APIs.
+Experience maintain SharePoint online and collaborative tolls.
+Good experience on on-prem webparts development, Master pages, Page layouts development.
+knowledge on Azure is added advantage.
+Knowledge on React JS
+
+
+Good To Have:
+
+Knowledge of C#
+Knowledge of migration from 2016 to SP Subscription edition
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Proficiency in Microsoft Power Platform including PowerApps, Canvas Apps, Power Automate (MS Flows), and Chat Bot.
+Extensive experience with SharePoint and Office 365 platforms, including intranet portals, custom workflows, forms, and processes.
+Knowledge of Client-Side Object Model and REST API.
+Experience with Nintex Workflows and Microsoft PWA Project Online.
+Familiarity with Keyword Query Language and custom search pages.
+Proficiency in HTML, CSS3, JavaScript, and TypeScript.
+Experience with SPFx, Microsoft Graph, PowerShell, and Office 365 APIs.
+Knowledge of developing business applications using Microsoft PowerApps and Flow.
+Experience with SharePoint Patterns and Practices (PnP) is a plus .
+Ability to work autonomously in a fast-paced and complex environment with a self-motivated work ethic; utilize sound judgment with an ability to manage multiple priorities with a sense of urgency.
+Strong communication skills and the ability to collaborate effectively with cross-functional teams.
+Willingness to engage in global travel and occasional on-call work.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bachelor’s degree in computer science, systems analysis, product management or a related study, or equivalent experience.
+
+3+ years of experience developing and administering software built on top of SharePoint & Office365.
+
+Hands-on knowledge of key SharePoint relevant programming languages and frameworks: C#, JavaScript/TypeScript, React, SharePoint Framework (SPFx), HTML/CSS
+
+Solid Power Platform development experience.
+
+Hands-on experience developing complex solutions against relational databases.
+
+Ability to communicate complex technical concepts.
+
+Self-starter with a passion for taking ownership of your work and delivering outcomes.
+
+Ability to continuously enhances own skills.
+
+Strong communication skills, a team player with a 'winning as a team' attitude.
+
+Ability to write and speak in the English language.
+
+Practice efficient time management and coordinates tasks, working in an international environment.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Should be well versed with .net development, minimum 3 years experience.
+Should have a sound knowledge on SharePoint, minimum 3-4 years experience.
+Central Administration handling
+Event Receivers
+CAML Query
+Webparts
+Workflows / Timer Jobs
+Managing permissions
+SSRS for reporting
+Should have working experience on source safe
+Should have experience in production support
+Exposure to powershell
+Should be good in trouble shooting
+Should be able to work independently
+Good communication
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Proven design, configuration, integration, testing, release, maintenance, and support of SharePoint Online applications and Services
+Experience in deploy SharePoint Online Apps using VSCode
+Experience in developing code using .NET (ASP.NET, C#), Visual Studio
+Experience in Office 365 open API’s, MS Teams and Graph API’s for Integration of SharePoint Online and other systems
+Experience in defining and implementing various levels of Office 365 security features including Multi Factor Authentication, Conditional Access Policy, DLP's and rules based filtering
+Have a thirst and willingness to expand knowledge with new technologies bringing benefits into the Tribe
+You have strong interpersonal skills and ability to successfully manage customer and stakeholder relationships.
+Experience working in an Agile environment
+Understand customer needs to make sound judgments
+Understanding of current state landscape and relevant technologies
+Has a broad understanding of how to apply New Ways of Working to their role
+Must Have Skills:
+
+SharePoint Online Development using SPFX (Web Parts, Components)
+React.js
+Node.js
+Typescript
+CSS/SCSS
+JQuery
+GitHub
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Design, develop & support K2 Forms and Workflow applications
+Knowledge around K2 platform architecture and design principles.
+SharePoint Online Experience in designing SP list, permissions & Content management Good to have the following
+SharePoint 2010/2013/2016 knowledge
+SharePoint Online experience with Modern pages, team & communication sites.
+Office 365 -Products like MS Teams, Azure AD, Office, etc.
+Nintex Onpremise and Cloud – forms and workflow development and debugging knowledge.
+Content migration knowledge using tool
+Experience in CLIs for Sharepoint, azure & pnp
+React, Angular, Bootstrap, Javascript, CSS, HTML, Jquery, Vue, TypeScript 1.7 or higher
+Good knowledge of application development using Agile, and DevOps best practices
+CI/CD – Pipe line
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Design, develop & support K2 Forms and Workflow applications
+Knowledge around K2 platform architecture and design principles.
+SharePoint Online Experience in designing SP list, permissions & Content management Good to have the following
+SharePoint 2010/2013/2016 knowledge
+SharePoint Online experience with Modern pages, team & communication sites.
+Office 365 -Products like MS Teams, Azure AD, Office, etc.
+Nintex Onpremise and Cloud – forms and workflow development and debugging knowledge.
+Content migration knowledge using tool
+Experience in CLIs for Sharepoint, azure & pnp
+React, Angular, Bootstrap, Javascript, CSS, HTML, Jquery, Vue, TypeScript 1.7 or higher
+Good knowledge of application development using Agile, and DevOps best practices
+CI/CD – Pipe line
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SharePoint Architect/Tech lead, with 7+ years of experience in SharePoint online, SharePoint on premise and M365 based applications.
+Good SharePoint migration experience (On premise to O365 or Version upgrade).
+SharePoint development experience in SPFx, C#, ASP.NET, and .NET Frameworks
+Good working experience of Power Platform (Power apps and Power Automate)
+Knowledge of the Azure environment, Active Directory, and AD Single Sign-on
+Familiarity with JavaScript, HTML5, CSS, XML, jQuery, SQL Server, and Web Services.
+Strong communication (oral and written) and negotiation skills.
+Ability to translate business requirements into system requirements.
+A good understanding of IT design patterns
+Job Types: Full-time, Permanent
+
+Pay: ₹1,000,000.00 - ₹2,000,000.00 per year
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Bachelor’s degree in computer science, systems analysis, product management or a related study, or equivalent experience. 
+3+ years of experience developing and administering software built on top of SharePoint & Office365.
+Hands-on knowledge of key SharePoint relevant programming languages and frameworks C#, JavaScript/TypeScript, React, SharePoint Framework (SPFx), HTML/CSS
+Solid Power Platform development experience.
+Hands-on experience developing complex solutions against relational databases.
+Ability to communicate complex technical concepts.
+Self-starter with a passion for taking ownership of your work and delivering outcomes.
+Ability to continuously enhances own skills.
+Strong communication skills, a team player with a 'winning as a team' attitude.
+Ability to write and speak in the English language.
+Practice efficient time management and coordinates tasks, working in an international environment.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Responsibilities
+• Design, develop, and implement top-notch user interfaces and custom software using Angular and related JavaScript frameworks
+• Writing efficient JavaScript/Typescript code while being proficient with HTML and CSS
+• Ability to use latest front-end technologies and create adaptable interfaces for online web applications
+• Perform analysis of user stories that may sometimes include complex functionalities
+• Conduct high and low level design, development, testing, coding and issue/query resolutions
+• Perform unit testing, integration testing while participating in configuration management and deployment procedures
+• Participate in UAT/production support activities
+
+Qualifications
+• Good Communication
+• Angular,
+• JavaScript
+• HTML
+• CSS
+• UAT/ Production Support,
+• Perform Unit/ Integration testing
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This is a full-time on-site role for a SharePoint Online | SPFx | React | Power Automate | Power BI | Power App professional. The role involves SharePoint administration, designing, troubleshooting, and implementing information technology solutions to meet business needs.
+
+Qualifications
+• Proficiency in SharePoint Administration, SharePoint Designer, and Troubleshooting
+• Experience with SharePoint and Information Technology
+• Strong problem-solving and analytical skills
+• Ability to work effectively in a team environment
+• Excellent communication and interpersonal skills
+• Bachelor's degree in Computer Science, Information Technology, or related field
+• Certifications in SharePoint or related technologies are a plus.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Job Description/Responsibilities –
+• *
+• SharePoint 2013/ 2016/2019, App development.
+• Good understanding of SharePoint object model.
+• Hands on jQuery, REST API, Angular /Angular JS, CSS/ Bootstrap.
+• Good understanding of SQL.
+• Good knowledge of .NET platform (ASP.NET and C# language).
+• Power shell commands, CAML.
+• SharePoint 2016/2019 out of box development using default provisions.
+• SharePoint custom development, Apps / Add-ins development.
+• Debug and deploy the SharePoint web parts/ Event handlers / timer job/ features.
+• Develop Master page, page layouts, Site columns and content types.
+• Build and manage SharePoint workflow.
+• Report development (Crystal Report/ SSRS), excel services.
+• Customer handling for support and simple new requirements.
+• Documentation, Testing, Deployment.
+• Good to have hands on SPFx for On Premises.
+• Good Knowledge of SharePoint designer.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Solid experience and in-depth knowledge of:
+• Proficiency in Microsoft Power Platform including PowerApps, Canvas Apps, Power Automate (MS Flows), and Chat Bot.
+• Extensive experience with SharePoint and Office 365 platforms, including intranet portals, custom workflows, forms, and processes.
+• Knowledge of Client-Side Object Model and REST API.
+• Experience with Nintex Workflows and Microsoft PWA Project Online.
+• Familiarity with Keyword Query Language and custom search pages.
+• Proficiency in HTML, CSS3, JavaScript, and TypeScript.
+• Experience with SPFx, Microsoft Graph, PowerShell, and Office 365 APIs.
+• Knowledge of developing business applications using Microsoft PowerApps and Flow.
+• Experience with SharePoint Patterns and Practices (PnP) is a plus .
+
+• Ability to work autonomously in a fast-paced and complex environment with a self-motivated work ethic; utilize sound judgment with an ability to manage multiple priorities with a sense of urgency.
+
+• Strong communication skills and the ability to collaborate effectively with cross-functional teams.
+
+• Willingness to engage in global travel and occasional on-call work.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+• 7+ years of experience in SharePoint development (Online and On-prem).
+• Strong understanding of SharePoint architecture, design patterns, and governance.
+• Hands-on experience with SPFx, PowerShell, Power Automate, Power Apps, and Azure Integration.
+• Expertise in HTML, CSS, JavaScript, jQuery, and client-side scripting.
+• Strong understanding of SharePoint REST APIs, workflows, and forms.
+• Good knowledge of SQL Server, document libraries, and permission management.
+• Prior experience with Microsoft Teams and OneDrive integration.
+• Proven leadership experience with the ability to mentor team members.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SharePoint Online OOTB - Site Columns, Content Types, List, Libraries
+• SharePoint Apps
+• ECMA Script - JSOM
+• Angular JS
+• Strong experience on SharePoint Framework (Spfx) with Javascript, Typescript
+• Rest API
+• Strong experience on C# - SharePoint CSOM
+• Web API (C#)
+• Basic knowledge about Power BI
+
+Good to have skills-
+• Azure
+• Web APP
+• Open Id Connect
+• Azure APIM
+• Azure AD APP
+• App Publish Process on Seller Dashboard
+• MS Teams BOT
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Server-Side and Client-Side Object model development
+• Integration of SharePoint applications with existing Business Applications
+• Building and maintaining web technologies utilizing .NET, ASP.NET, HTML, HTML5, CSS, XHTML, DOM, JavaScript, AJAX, jQuery, C#, MS SQL 2008/2012.
+• InfoPath, PowerApps, Nintex and K2 forms design and development
+• Developing and building Web Parts using SharePoint object model
+• Building SharePoint Workflows (OOB and Custom) and using Windows Workflow Foundation (Workflow Manager)
+• App Model of development for SharePoint
+• Manage SharePoint Designer
+• Team player, responsive and self-managed
+• CAML Query-Optional
+• Excellent Customer Service skills including both written and verbal communications
+
+
+SharePoint Online OOTB - Site Columns, Content Types, List, Libraries
+• SharePoint Apps
+• ECMA Script - JSOM
+• Angular JS
+• Strong experience on SharePoint Framework (Spfx) with Javascript, Typescript
+• Rest API
+• Strong experience on C# - SharePoint CSOM
+• Web API (C#)
+• Basic knowledge about Power BI
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Configuring the company SharePoint systems to specified requirements.
+
+Developing custom applications such as LMS, HR modules using SharePoint online.
+
+Developing new web components using XML, .NET, SQL, and C#.
+
+Designing, coding, and implementing scalable applications.
+
+Extending SharePoint functionality with forms, web parts, Power Apps, and SPFx.
+
+Sharepoint Integration with Other applications such as Microsoft Dynamics.
+
+Providing systems training to staff and customers.
+
+Job Requirements:
+
+Minimum 5 years of experience working with SharePoint.
+
+Proficiency with Office 365 and SharePoint online.
+
+Working experience with Microsoft Dynamics and able to integrate with SharePoint.
+
+Extensive knowledge of C#, ASP.NET, and SPFx.
+
+Extensive knowledge of JavaScript, HTML5, CSS, XML, jQuery, SQL Server, and Web Services.
+
+Familiarity with React JS and Typescript.
+
+High-level coding skills.
+
+Detail orientated and Self-motivated.
+
+Good verbal and written English is must.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+• 3-5 years of experience in SharePoint development and administration.
+• Proficiency in SharePoint Online, SharePoint 2016/2019, and SharePoint Designer.
+• Strong knowledge of HTML, CSS, JavaScript, jQuery, and other front-end technologies.
+• Experience with SharePoint Framework (SPFx), PowerShell scripting, and REST APIs.
+• Familiarity with Microsoft 365 services, including Teams, OneDrive, and Power Platform (PowerApps, Power Automate).
+• Understanding of SharePoint architecture, site structure, and best practices for design and development.
+• Excellent problem-solving skills and attention to detail.
+• Strong communication and interpersonal skills, with the ability to work effectively in a team environment.
+• Ability to manage multiple tasks and projects simultaneously, meeting deadlines and delivering high-quality results.
+
+Preferred Skills
+• Microsoft SharePoint certification (e.g., MS-300, MS-301).
+• Experience with Nintex workflows, K2, or other workflow automation tools.
+• Knowledge of SQL Server and database management.
+• Familiarity with Agile/Scrum methodologies.
+
+Benefits
+• Competitive salary with performance-based incentives.
+• Comprehensive training and certifications benefits.
+• Professional development opportunities.
+• Collaborative and innovative work environment.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Lead the design and development of SharePoint Online solutions to meet business requirements.
+• Oversee the implementation of SPFx web parts and extensions to enhance SharePoint functionality.
+• Provide technical expertise in creating and managing workflows in SharePoint to streamline business processes.
+• Develop and maintain SharePoint Branding to ensure a consistent and professional appearance.
+• Collaborate with cross-functional teams to gather requirements and deliver high-quality solutions.
+• Ensure the security and integrity of SharePoint environments through best practices and compliance.
+• Troubleshoot and resolve technical issues related to SharePoint and associated technologies.
+• Mentor and guide junior developers to foster a collaborative and productive team environment.
+• Stay updated with the latest SharePoint technologies and industry trends to drive innovation.
+• Conduct code reviews and ensure adherence to coding standards and best practices.
+• Create and maintain technical documentation for developed solutions.
+• Optimize SharePoint performance and scalability to support business growth.
+• Coordinate with stakeholders to ensure successful project delivery and client satisfaction.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Qualifications
+• Possess strong technical skills in SharePoint Online SPFx Workflows in SharePoint and SharePoint Branding.
+• Have a minimum of 6 years of experience in SharePoint development and related technologies.
+• Demonstrate excellent problem-solving and troubleshooting abilities.
+• Exhibit strong communication and collaboration skills.
+• Experience in Investment Banking Operations and Investment Banking & Brokerage is a plus.
+• Show a proactive approach to learning and implementing new technologies.
+• Ability to mentor and guide junior team members effectively.
+• Proven track record of delivering high-quality solutions on time.
+• Strong understanding of SharePoint security and compliance best practices.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bachelor's degree in Computer Science, Information Technology, or related field.
+
+- Proven experience as a SharePoint Developer or in a similar role.
+
+- In-depth knowledge of SharePoint architecture, features, and customization options.
+
+- Proficiency in SharePoint programming using C#, . NET, and SharePoint Designer.
+
+- Experience with SharePoint migrations, upgrades, and version control.
+
+- Strong understanding of JavaScript, HTML, and CSS for front-end development.
+
+- Familiarity with PowerShell scripting for automation and administration tasks.
+
+- Ability to analyze complex business requirements and recommend appropriate SharePoint solutions.
+
+- Excellent problem-solving and troubleshooting skills related to SharePoint.
+
+- Good communication and collaboration abilities to work effectively with cross-functional teams.
+
+- Microsoft certifications such as MCSD: App Builder or MCSA: Office 365 are a plus.
+
+- Experience with SharePoint Online and Office 365 integration is desirable.
+
+- Understanding of SQL Server and database management is beneficial.
+
+- Strong attention to detail and commitment to delivering high-quality solutions.
+
+- Ability to multitask and manage concurrent projects effectively.
+
+Exp : 6 to 10 years.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Key Responsibilities:
+• Design, develop, and manage SharePoint applications.
+• Provide high-level technical support and guidance to SharePoint users.
+• Ensure the integrity and security of SharePoint data.
+• Collaborate with IT staff to integrate SharePoint with other systems.
+• Lead and mentor junior SharePoint developers and administrators.
+• Stay up-to-date with the latest SharePoint technologies and best practices.
+• Address existing issues in the current environment.
+• Document issues and submit them to clients for resolution.
+• Provide proactive support to all SharePoint servers and database servers.
+• Manage migrations from one version to another, including SharePoint On-Prem and Online.
+• Analyze the health of SharePoint and SQL environments (QA & PROD) weekly.
+• Conduct periodic reviews of SharePoint and SQL servers for patching.
+• Administer SharePoint Online.
+• Prepare and submit weekly server performance reports to clients.
+• Handle new client requirements, including assessment, discovery, planning (SOW), and delivery.
+• Manage ticket handling and provide daily reports to clients.
+
+Additional Skill-
+• SQL Administration
+• Windows Server Administration
+• Azure AD & VMs Administration
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B.E, BCA
+• Solid grasp of object-oriented development and design principles.
+• 4+ years of hands-on experience developing SharePoint solutions with Visual Studio using C# and SharePoint object model.
+• 4+ years of experience, as a .NET Developer, in building, debugging and maintaining mission-critical enterprise applications.
+• Demonstrated ability to translate business requirements and processes into effective SharePoint and .NET solutions.
+• Experience in professional standards-based web development using ASP.NET, C#, MVC, .Net Frameworks, HTML, CSS, JavaScript, jQuery, web services, Rest API
+• Experience designing and consuming Web Services, experience with XML and XSLT.
+• Strong SQL development skills, experience with SQL Server. Experience developing data access layer components using ADO.NET or Enterprise Library.
+• Should have working knowledge on SharePoint Framework (SPFx)
+• Should have working knowledge on SharePoint Add-in Model (Provider and SharePoint hosted add-ins)
+• Experience modifying SharePoint UI, including master pages, page layouts and CSS
+• In-depth knowledge and understanding of SharePoint Online and on-premise SharePoint
+• Knowledge of SharePoint list, library Permissions, Permission Inheritance is a must
+• In-Depth knowledge of SharePoint list, library views, views customization and web parts
+• Familiar with Business process management (e.g. workflow, electronic forms)
+• Experience with UI Flows, Business Process Flows is a must
+• Experience in Document Management (e.g. custom content types, policies, metadata)
+• OneDrive for Business, SharePoint database usage (on premise), SharePoint Architecture, SharePoint resource management, and permissions management
+• Deployment of custom developed SharePoint sites and workflows
+• Working knowledge of Active Directory and IIS management and configuration.
+• Excellent problem solving and coding/debugging/rapid prototyping skills.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Experience/Knowledge of SharePoint Online/ Office 365 is a plus
+• Experience/Knowledge of SharePoint migration project experience is a plus
+• Experience/Knowledge of Angular JS / Vue JS/ React JS is a plus
+• Experience evaluating and integrating 3rd party plug-ins with SharePoint
+• Understanding of the Agile software development life cycle
+• Experience with Integrating Active Directory
+• Experience with PowerBI
+• Experience working with Microsoft Team Foundation Server (TFS)
+• Technical skills that include MS SQL Server, Web Services, Web Forms, -N- Tier Architecture
+• Knowledge of Service Oriented Architectures (SOA) and REST-based web services; experience consuming web services with SharePoint
+• MCSE certifications:
+o 70-339: Managing Microsoft SharePoint Server 2016
+o 70-346: Managing Office 365 Identities and Requirements
+o 70-347: Enabling Office 365 Services
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
