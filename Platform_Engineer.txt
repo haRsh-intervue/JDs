@@ -22,25 +22,28 @@ Bachelor's or Master's degree in Computer Science, Information Technology, or a 
 
 JOB DESCRIPTION 2
 
-
-Bachelor’s Degree in computer science, information technology, or related field (or equivalent experience.) 
-Minimum 5 experience in technically configuring digital capability and supporting application portfolios. Individual to show competence in at least 2 of the 5 areas:
-Content, Data, and Protection Management (Corporate Websites, OpenText Content Manager, ControlPoint, OneTrust, etc.)
-Supplier and Contract Management (ARAVO, MyContract, myBuy, OnSpring (Savings Tracking), Vizibl (Supplier Tool), etc.)
-Compliance, Risk, and Audit Management (Riskonnect, Klaxon, Auditboard, ECAP - Corestream, Ethics Point, Echo, PWC THUB, Red Flag, Onit, Workshare, etc.)
-Learning Management (EBSCO, NXLevel, Harvard, etc.)
-Business Life Cycle (Sigma, Wave, Anaqua, Asana, etc.)
-Experience with managing landscape (aging infrastructure and software currency), Software Lifecycle Compliance, End of life planning, and contributing to roadmap strategy.
-Proficiency in relevant tools, languages, and technologies, e.g., SAS, Java, C++, Python, R, SQL is highly beneficial.
-Knowledge of key business processes and how enterprise platforms and systems support these processes.
-Demonstrating skills to balance multiple disciplines including development, architecture, and operations.
-Ability to think innovatively and propose creative solutions to complex technical challenges.
-Strong analytical and problem-solving skills.
-Ability to work effectively in a team environment.
-Experience with Agile methodology and mindset.
-Work experience across multiple cultures and regions, facilitating effective collaboration in diverse environments.
-Excellent communication and interpersonal skills, enabling effective collaboration with cross-functional teams, business stakeholders, and technical experts. Ability to simplify technical complexities for different audiences. 
-Demonstrated understanding of global pharmaceutical or healthcare technical delivery, providing exceptional customer service, and enabling strategic insights and decision-making.
+Software Skills:
+Deep experience in Python programming with a strong emphasis on leveraging dynamic languages for automation.
+Capable in C# programming, specializing in developing cross-platform solutions that are efficient and scalable
+Capable in writing secure, stable, testable, and maintainable code with minimal defects.
+3+ years of non-internship professional software development experience
+Capable in software engineering best practices for full SDLC, including coding standards, code reviews, source control management, continuous deployments, testing, and operations.
+Familiar with DevOps methodologies and using industry standard configuration management practices.
+Capable in building complex software systems end-to-end, optimally delivered and operated in production.
+Understand security and privacy best practices and its implementation.
+CORS / security best practices, JavaScript / React JS
+Infrastructure Skills:
+Capable in building and scaling infrastructure services using Amazon Web Services or Microsoft Azure
+Capable in the understanding of using core cloud application infrastructure services including identity platforms, networking, storage, databases, containers, and serverless.
+Capable in troubleshooting large-scale distributed systems.
+2+ years of experience in application development and support environments with more than one technology and multiple design techniques and supported these production systems through on-call rotations.
+Database Skills:
+Capable knowledge of databases, such as relational, graph, document, and key-value
+Capable ability in data modelling and database design, Capable ability in SQL
+Familiar with Azure ADF and have used AWS RedShift.
+Skills that set you apart:
+Experience with OpenTelemetry
+Possess a passion for mentoring and coaching engineers in both technical and soft skill
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
