@@ -334,16 +334,13 @@ Knowledge in SuccessFactors PA Stories and Planning, data modelling in general
 JOB DESCRIPTION 14
 
 
-Strong knowledge of z/OS software and hardware architecture (especially as related to data storage), including strong problem diagnosis skills, and familiarity with SMP/E.
-Strong understanding of many of the following storage hardware technologies: EMC Symmetric (including its replication features), EMC PowerMax, Brocade DCX, IBM TS7700.
-Strong understanding of many of the following storage software technologies: DFSMS (including SMS ACS code and constructs), DFSMSdss, DFSMShsm, RMM, CR Plus, IBM Utilities
-Ability to program in REXX. SAS programming would be a plus.
-Knowledge of the following would be a plus: SQL, Assembler, COBOL, DTS Software ACC and SRS products, RACF
-Knowledge of distributed storage technologies would be a plus.
-Excellent project management skills, including the ability to coordinate multiple responsible groups and request processes in parallel, so that complex projects can move ahead expeditiously.
-Excellent verbal and written communication skills as well as organizational Skills.
-Must mentor and provide direction for staff members.
-Strong familiarity with PC software, especially Microsoft Excel and Word.
+Bachelor’s degree in Computer Science, Engineering, or related field.
+3+ years of experience in platform engineering, DevOps, or infrastructure roles.
+Strong knowledge of cloud platforms (AWS, GCP, or Azure) and automation tools.
+Proficiency in containerization and orchestration tools (Docker, Kubernetes).
+Experience with CI/CD tools such as Jenkins, GitLab CI, or CircleCI.
+Familiarity with monitoring and logging tools (Prometheus, Grafana, ELK stack).
+Strong problem-solving skills with a focus on system reliability and performance
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
