@@ -1,5 +1,9 @@
 https://github.com/mbianchidev/platform-engineering-roadmap
 
+https://kodekloud.com/learning-path/platform-engineer
+
+https://www.spiceworks.com/tech/it-careers-skills/articles/platform-engineer-job-role/
+
 JOB DESCRIPTION 1
 
 Bachelor's or Master's degree in Computer Science, Information Technology, or a related field, or relevant work experience. 
