@@ -1070,3 +1070,72 @@ Requirements:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Job responsibilities:
+Leads technology and process implementations to achieve functional technology objectives
+Accountable for decisions that influence teams’ resources, budget, tactical operations, and the execution and implementation of processes and procedures
+Carries governance accountability for coding decisions, control obligations, and measures of success such as cost of ownership, maintainability, and portfolio operations
+Delivers technical solutions that can be leveraged across multiple businesses and domains
+Influences peer leaders and senior stakeholders across the business, product, and technology teams
+Champions the firm’s culture of diversity, equity, inclusion, and respect
+Keen eye and bias towards execution excellence across entire lifecycle including operational stability
+Expert in Stakeholder management
+Experience with hiring, developing, and recognizing talent
+Experience leading a product as a Product Owner or Product Manager will be strong differentiator for the role
+
+Required qualifications, capabilities, and skills
+18+ years of experience developing or leading cross-functional teams of technologists
+Expert hands-on experience in messaging & streaming systems like Kafka, ActiveMQ, abstractions and constructs in application integration domain
+Experience in AWS messaging platforms like Amazon MSK, Amazon MQ, Amazon SQS etc.,
+Practical micro-services and cloud native experience is must
+Experience in cloud infrastructure provisioning e.g,. Terraform, CI/CD systems and practices.
+Hands-on technologist with experience in Architecture, Design and Coding of complex systems
+Experience in in programming languages specifically Java, Scala, Python, etc.
+Excellent communication skills
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job responsibilities
+Lead the design and development of the cloud infrastructure offerings and platform tools, ensuring that they are secure, scalable, and reliable
+Collaborate with development teams to enable the delivery of high-quality, secure, and scalable applications on the cloud
+Identify areas of improvement and prioritize initiatives that align with business goals and objectives
+Provide technical leadership and guidance to the cloud engineering team
+Stay up-to-date with the latest advancements in cloud technologies and bring in recommendations for adoption and implementation of new tools/technologies
+Ensure compliance with security and regulatory requirements for the cloud 
+
+Required qualifications, capabilities, and skills
+Formal training or certification on software engineering concepts and 10+ years applied experience
+Hands-on experience with one or more cloud computing platform providers AWS.
+Advanced knowledge of Containerization and Container Runtime/Orchestration platforms (Docker/Kubernetes/ECS etc)
+Hands-on experience with Cloud Infrastructure Provisioning Tools like Terraform, Pulumi, Crossplane & Cloud Formation etc
+Hands-on experience with CI/CD/SCM tools like Jenkins, Spinnaker, Bitbucket / Github etc 
+Hands-on experience with logging and monitoring tools Splunk, Grafana, Prometheus etc 
+Deep understanding of cloud infrastructure design and architecture and cloud migration strategies
+Strong knowledge of cloud security best practices, shift left methodologies and DevSecOps processes
+Proficiency with programming languages like Golang & Python, and understand software development best practices
+Experience in Computer Science, Computer Engineering, Mathematics, or a related technical field
+
+Preferred qualifications, capabilities, and skills
+Experience implementing multi-cloud architectures
+Certifications in target areas (Cloud/Kubernetes/IaC etc)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job responsibilities
+Regularly provides technical guidance and direction to support the business and its technical teams, contractors, and vendors
+Develops secure and high-quality production code, and reviews and debugs code written by others
+Drives decisions that influence the product design, application functionality, and technical operations and processes
+Serves as a function-wide subject matter expert in one or more areas of focus, Actively contributes to the engineering community as an advocate of firmwide frameworks, tools, and practices of the Software  Development Life Cycle
+Influences peers and project decision-makers to consider the use and application of leading-edge technologies
+Streamline Installation, administration, monitoring, and production support for multiple cloud native messaging platforms,Automate provisioning with capacity based on onprem usage.
+Develop technical and non-technical processes for streamlined migration of applications from onprem to public cloud that use messaging components
+Required qualifications, capabilities, and skills
+Formal training or certification on software engineering concepts and 5+ years applied experience
+Expertise in messaging systems (Kafka, ActiveMQ, ...)
+Expertise in Terraform
+Proficiency in AWS messaging platforms like Amazon MSK, Amazon MQ, Amazon SQS etc.,
+Proficiency in one of more programming languages (Java, Python, Go, etc., )
+Hands-on practical experience delivering messaging systems design, application development, testing, and operational stability
+Ability to tackle design and functionality problems independently with little to no oversight with large cross functional teams
+Preferred qualifications, capabilities, and skills
+Familiarity in provisioning and public cloud native components
+Platforming solutions for general purpose consumption within the enterprise is a plus
