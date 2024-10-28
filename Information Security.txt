@@ -967,22 +967,6 @@ Relevant certifications (e.g., CISSP, CISM, CompTIA Security+, Cisco CCNA Cyber 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-JOB DESCRIPTION 40
-
-Bachelor's degree or equivalent in Computer Science or a related discipline. 5-8 years progressive experience in information technology system engineering, system management, and system operations. Ability to configure Firewall ACL's, VPN's, OSPF, EBGP, iBGP, for FortiGate, Networking gear.
-Ability to diagnose and resolve server and network problems quickly and accurately.
-Strong technical expertise in security systems and tools, such as firewalls, IDS/IPS, SIEM solutions, antivirus/anti-malware software, and endpoint detection and response (EDR) platforms.
-Ability to manage operational service levels, including SLAs.
-Ability to design, analyze and plan projects.
-Ability to work effectively with vendors, internal staff, and other company/client staff.
-Ability to quickly analyze and understand business functions and client needs.
-Strong interpersonal and communication (written and verbal) skills.
-Time management skills (including task prioritization)
-Relevant certifications (e.g., CISSP, CISM, CompTIA Security+, Cisco CCNA Cyber Ops, GIAC Certified Incident Handler - GCIH) are highly desirable.
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 JOB DESCRIPTION 41
 
 Responsibilities:
