@@ -1,0 +1,862 @@
+JOB DESCRIPTION 1
+
+Vulnerability Management :
+
+- Utilize tools such as Tenable , Wiz , and other vulnerability scanning platforms to identify security gaps and potential threats.
+- Analyze vulnerability data, track remediation efforts, and report findings to stakeholders.
+- Conduct regular vulnerability scans, penetration tests, and configuration audits.
+
+Automation & Scripting :
+
+- Develop and maintain automation scripts using Python and Pandas to streamline vulnerability detection and reporting.
+- Design and optimize processes to improve efficiency in identifying and addressing vulnerabilities.
+
+Process Engineering :
+
+- Define, document, and improve security processes related to vulnerability management.
+- Collaborate with cross-functional teams to align security processes with broader IT and business goals.
+
+Collaboration & Communication :
+
+- Work closely with IT, DevOps, and other engineering teams to prioritize and address security vulnerabilities.
+- Track and manage security tasks using Jira , ensuring transparency and timely resolution.
+
+Compliance & Reporting :
+
+- Generate detailed reports on the current security posture and vulnerabilities for internal and external stakeholders.
+- Ensure compliance with security frameworks and standards (e.g., NIST, ISO, etc.).
+
+Required Qualifications:
+
+- 3+ years of experience in vulnerability management and cybersecurity.
+- Hands-on experience with tools like Tenable , Wiz , and other vulnerability assessment platforms.
+- Strong proficiency in Python and data manipulation libraries like Pandas .
+- Proven experience with Jira for project and task management.
+
+Skills :
+
+- Strong understanding of cybersecurity principles and practices, including vulnerability management, risk analysis, and threat modeling.
+- Experience in designing and optimizing processes related to cybersecurity.
+- Excellent analytical and problem-solving skills.
+- Ability to work independently and in a team environment, with a strong attention to detail.
+
+Preferred Qualifications:
+
+- Experience with cloud-based security tools and environments (AWS, Azure, etc.).
+- Knowledge of compliance standards (e.g., GDPR, HIPAA) and regulatory requirements.
+- Certifications such as CISSP, CEH, or equivalent are a plus.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 2
+
+
+Manages security tools and technologies that protect IT assets, detect security incidents, and rapidly respond and recover.
+Contribute to Increff’s security strategy, policies and roadmap
+Define, document and iterate upon best security practices and create and foster a security culture in cloud operations and development
+Monitor, analyze and perform system administration tasks necessary to ensure the security of application and Cloud platform.
+Responsible for Audit and compliance management; risk and business continuity management
+Understanding and working with clients to develop a client-specific security operations/delivery plan
+Collaborate with Engineering and Operations teams to address security vulnerabilities and risks
+Automation of vulnerability assessments and other security-related SecOps tasks
+
+Requirements
+
+2-5 yrs of experience in Information security governance role
+2+ years proven experience in Google cloud or AWS
+Experience in scripting using one or more languages (Python, Shell, Bash)
+Solid understanding of Unix system internals
+Solid understanding of Cloud networking concepts
+Experience working with Indian and International security standard like ISO, GDPR, HIPAA, SOC etc.
+Experience managing incidents and developing incident response.
+Experience supporting 3rd-party audit activities
+Excellent and effective communication skills to interact with domestic and international customers.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 3
+
+
+
+Security Integration:
+Implement security controls and processes into the software development lifecycle (SDLC) from the ground up.
+Collaborate with development and operations teams to incorporate secure coding, vulnerability scanning, and security testing in CI/CD pipelines.
+Cloud Security Design & Management:
+Design and maintain secure AWS infrastructure using best practices such as least privilege, IAM, and encryption.
+Leverage AWS security services (e.g., VPC Flow Logs, Guard Duty, IAM, and CloudTrail) to monitor and secure cloud environments.
+Implement and manage security measures like firewalls, VPNs, and intrusion detection/prevention systems.
+Automation and Continuous Security:
+Build and manage Infrastructure-as-Code (IaC) scripts using tools like AWS CloudFormation and Terraform to automate secure infrastructure deployment.
+Automate security tasks by integrating security tools into CI/CD pipelines for continuous security testing and remediation (e.g., AWS Code Pipeline, Jenkins).
+Incident Response & Monitoring:
+Develop incident response plans and workflows to detect, contain, and remediate security incidents.
+Monitor systems and networks for signs of compromise using AWS monitoring tools (e.g., CloudWatch, CloudTrail, XDR).
+Conduct security assessments and penetration testing to identify and mitigate vulnerabilities. 
+Risk Management & Threat Intelligence:
+Identify, assess, and prioritize security risks associated with the cloud environment.
+Implement threat detection, vulnerability scanning, and patch management processes.
+Stay up to date on emerging cloud security threats and vulnerabilities, and proactively mitigate risks.
+Bachelors degree in computer science, Information Security, or a related field (or equivalent work experience).
+Who you are and what you bring
+
+Experience:  4+ years of experience in a DevSecOps, cloud security, or related role.
+Hands-on experience with AWS security services such as IAM, Security Hub, Guard Duty, WAF, and CloudTrail.
+Experience with DevOps tools (e.g., Jenkins, GitLab, Docker, Kubernetes) and Infrastructure-as-Code (IaC) tools (e.g., Terraform, AWS CloudFormation).
+Experience with integrating security into CI/CD pipelines.
+Certifications (preferred but not mandatory):AWS Certified Security – SpecialtyAWS Certified DevOps Engineer – ProfessionalCertified Information Systems Security Professional (CISSP)Certified Cloud Security Professional (CCSP)
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 4
+
+
+Design and implement defense-in-depth infrastructure and application security solutions for a customer-facing SaaS platform hosted on AWS public cloud.
+Drive architecture, configuration, implementation, and automation of both native and third-party cloud security solutions for hardening, detection, prevention, logging, and response to security vulnerabilities and threats.
+Act as a thought leader with a security mindset to guide organizational security practices.
+Collaborate closely with Product, Engineering, and IT teams in a DevSecOps model, utilizing technologies such as firewalls (FWs), Access Control Lists (ACLs), Web Application Firewalls (WAFs), IAM roles, vulnerability management, threat detection, intrusion detection, and Kubernetes container security solutions.
+Assist in incident response and triage activities as required for security incidents and events.
+What You'll Need:
+
+5-7 years of experience in deploying and managing security infrastructure in GCP or AWS cloud environments using Infrastructure as Code (IaC).
+Strong hands-on expertise with at least one public cloud platform (AWS or GCP), including advanced skills in securing IaaS services such as WAFs, Security Groups, EC2/Compute, EKS/GKE, ECR/GCR, S3/Cloud Storage, RDS/Cloud SQL, logging, and monitoring.
+Experience collaborating with Product, DevOps, and CloudOps/Site Reliability Engineers on "shift-left" security strategies, CI/CD tools, and solutions.
+Security experience in cloud-native environments in one or more areas: authentication, access management, API security, Linux security, vulnerability scanning, threat and intrusion detection, firewalls, WAF, encryption technologies, and container security.
+Proficiency in programming, particularly with Python for automation (a plus).
+Security certifications such as AWS, GCP, CISSP, CEH, or OSCP preferred.
+Strong communication skills, with the ability to clearly document and explain technical concepts.
+Agility to work in a dynamic environment, handling ambiguity, change, and high-pressure incidents.
+Flexibility to contribute across programs and teams as needed.
+Strong influence and teamwork skills, along with sound judgment, problem-solving, negotiation, and decision-making abilities.
+Solid understanding of industry standards, vulnerability classifications, and attack vectors.
+Experience collaborating with global teams across multiple time zones.
+Company Vision:
+
+Dedicated to building a financial ecosystem that enables equal participation and provides tools for financial health.
+Embraces inclusion and values a diverse team from various backgrounds, cultures, and experiences.
+Committed to hiring talented people without regard to race, religion, color, nationality, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 5
+
+
+Deep understanding of multi-cloud environments like AWS, Azure and Google Cloud. Hands-on experience in working on any one of the public/private clouds is a must.
+Good understanding of secure communication, protocols, network security architecture, authentication protocols, and web applications
+Ability to communicate complex information, concepts, or ideas in a confident and well-organized manner through verbal, written, and/or visual means
+Basic understanding of CI/CD concepts.
+Should have a good understanding of cost optimizations' and performance tuning of highly scalable infrastructure.
+Have experience in DevSecOps practices and have an understanding of vulnerability assessments and penetration testing.
+Ability to implement and drive Cloud and Data security initiatives.
+Experience in providing practical solutions that enable product teams to meet business goals while controlling security risk.
+Ability to solve problems at their root and step back to understand the broader context.
+Bachelor s degree in computer science or a related analytical field, or equivalent experience.
+6-8 years of experience in the Cloud Security domain.
+Experience in providing practical solutions that enable product teams to meet business goals while controlling security risk.
+Knowledge on thick client testing
+Knowledge on API and web app testing
+Knowledge on android and IOS app testing
+Knowledge on ISO security frame works
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 6
+
+
+Participates in developing and implementing security policies, protocols, and procedures.
+Stays updated with the latest cybersecurity trends, threats, and technologies.
+Contributes the design, implementation, and maintenance of security systems and infrastructure.
+Conducts regular security assessments, vulnerability testing, and risk analysis.
+Responds to security incidents and provide thorough post-event analyses.
+Coordinates with other IT teams to ensure seamless integration of security measures.
+Manage project timelines, deliverables, and resource allocation.
+Ensure compliance with industry standards and regulatory requirements (e.g., GDPR, TISAX, ISO27k, NIST).
+Prepare and present detailed reports on security status, incidents, and improvements to stakeholders.
+Develop and maintain documentation related to security policies and procedures.
+Be a referent/contact Level 3 escalation point for cybersecurity topics
+
+
+Professional Skills Required :
+Significant successful experience in IT infrastructure and Cybersecurity operations of minimum 4 years.
+Good communication skills
+Good IT infrastructure, networking and cyberese
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 7
+
+
+Leading IT compliance efforts to ensure adherence to regulatory standards and industry best practices
+Conducting regular audits to assess the effectiveness of IT security measures and controls
+Collaborating with independent security teams to address findings and improve security posture
+Managing and maintaining security technologies including firewall, VPN, DLP, CASB, SASE, EDR, XDR, AV, UTM, Okta, SAML, Google Workspace, Microsoft 365, IAM, AD, Azure AD, Intune, Jamf, and DM Manage Engine Patch Management
+Developing and implementing IT security policies, procedures, and guidelines
+Providing guidance and support to the IT team in implementing security measures and best practices
+Participating in the incident response process and contributing to security incident investigations
+Keeping abreast of emerging security threats and technologies to enhance the organizations security posture
+Communicating effectively with stakeholders regarding IT compliance and security matters.
+Requirements
+Bachelors degree in BE/Btech
+Relevant certifications such as CCNP Security and NSE4 or equivalent
+Proven experience in IT compliance management and security operations
+Comprehensive knowledge of security technologies including firewall, VPN, DLP, CASB, SASE, EDR, XDR, AV, UTM, Okta, SAML, Google Workspace, Microsoft 365, IAM, AD, Azure AD, Intune, Jamf, and DM Manage Engine Patch Management
+Strong understanding of regulatory standards and compliance requirements (e.g., GDPR, HIPAA, ISO 27001)
+Excellent communication and leadership skills
+Ability to work effectively in a fast-paced, dynamic environment
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 8
+
+
+B.S. Degree in Computer Science or related field or equivalent combination of professional development training and experience
+5-7 years of previous experience deploying and administering security infrastructure in GCP or AWS public cloud environments, using Infrastructure as Code required
+In-depth hands-on experience with at least one public Cloud platform (AWS or GCP) with advanced knowledge of securing IaaS platforms and services like WAFs, Security Groups, EC2/Compute, EKS/GKE, ECR/GCR, S3/Cloud Storage, RDS/Cloud SQL, Logging and Monitoring
+Prior experience working closely with Product, DevOps and CloudOps Site Reliability Engineers on shift-left strategies, CI/CD tools and solutions needed
+Security experience in a cloud native environment in one or more areas: authentication, access management, API security, Linux security, vulnerability scanning, threat and intrusion detection, firewalls, WAF, encryption technologies, container security etc.
+Experience using a programming language such as Python for automation (would be a plus)
+Security certifications such as AWS, GCP , CISSP, CEH, OSCP preferred
+Excellent verbal and written communication skills and ability to document and explain technical details and concepts clearly and concisely
+Agility and willingness to deal with a high level of ambiguity, change, and pressures of high-profile incidents
+Flexibility to pitch in where needed across program and team
+Strong influence and teamwork skills; sound problem resolution, judgment, negotiating, and decision-making skills
+Strong knowledge of industry standards, vulnerability classifications, and attack vectors
+Experience working effectively with global teams in multiple time zones
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 9
+
+
+Bachelor s or master s degree in computer science, Information Security, Engineering, or a related field.
+7+ years of experience in cybersecurity, security operations, or a similar role in a SaaS/cloud environment.
+Strong hands-on experience with security automation tools and practices for CI/CD pipeline integration and infrastructure-as-code (IaC)..
+Hands-on experience with vulnerability management tools such as Qualys, Prisma, Lacework, and Mend (SAST/SCA).
+Development/Automation experience to automate the workflows, security operations/tooling by using Python/Ruby/Go..
+Proficient in automating vulnerability scanning, patch management, and compliance monitoring processes across hybrid cloud environments.
+Strong understanding of Cloud Security Posture Management (CSPM) tools and processes.
+Experience with SIEM tools and security monitoring best practices.
+Proficient with secret management and scanning in CI/CD environments.
+Familiarity with hardening techniques across various platforms (Linux, Windows, network, databases, etc.).
+Proficient in driving security sprint boards using Jira or other task management tools.
+Excellent presentation and communication skills, with experience in running security meetings and cadence discussions.
+Strong documentation skills to ensure security processes and incidents are thoroughly recorded.
+Knowledge of infrastructure-as-code frameworks such as Terraform, Ansible, or similar, with experience automating security configurations a plus.
+Strong problem-solving skills and the ability to work under pressure in a fast-paced environment.
+Continuous desire to learn and stay updated on the latest in cybersecurity practices and threats
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 10
+
+
+
+in responding to RFPs/RFIs: design, solution specification, product information.
+in supporting key projects to ensure Fortinets success.
+in leading technical discussions, articulating the technology and demonstrating differentiated value.
+in conducting compelling solution presentations, demonstrations and POC (Proof of Concept).
+Hands on assistance
+Responsible for building technical materials to support sales activities (slideware, solution brief, white papers, success stories, technical notes, TOI, etc) and designing Internal workshops.
+Perform External workshops PoCs for prospects or customers on product evaluations and do demonstrations, in collaboration with Account SE.
+Perform hands-on tests to validate network designs, customer proof-of-concept setups and network deployments for new products and feature.
+Effectively disseminate product knowledge to the Sales Team and Channel.
+Point of contact for the CSE team: responsible to report and consolidate customer needs across India region, validate business cases, write, and escalate feature requests.
+Report project activities, analyze project trends and provide market vision.
+Participate in the development of commercial strategies.
+Ability to Travel at a short notice, as required within India region.
+Collect information on competitive solutions, products, and services and update the Channel and Account team
+Requirements:
+
+Excellent Communication and Presentation Skills: Must be able to deliver presentations to CXOs, Partners etc
+Must be able to interface seamlessly between Sales and Presales team/Customers/Partners: Requires good Technical, Presentation and PR skills.
+Excellent Hands-on experience on SIEM , SOAR and NDR is a must.
+Must have working experience on automation scripts using any platforms.
+Must have experience developing SecOPS Solutions/Architectures for customers.
+Good Hands-on experience with deploying at least NGFW, WAF, Mail security in any kind of environment.
+Problem-Solving, Monitoring and Incident Response.
+Must be able to deliver technical training to partners.
+Must be able to create use-cases basis the available solutions and the different type of existing/potential customers.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 11
+
+
+Bachelor’s degree in Computer Science, Information Systems, Computer Engineering, Cybersecurity, Systems Analysis, or a related field or equivalent work experience.
+At least 4 years of hands-on AWS security experience.
+Infrastructure as code (IaC) - CloudFormation, Terraform, Git.
+Container technologies - ECS, EKS, Fargate, Docker.
+Industry-recognized professional certification(s) such as CISSP, AWS Security Specialty, etc.
+Ability to work on highly complex projects that require in-depth knowledge within multiple IT architecture and security domains.
+Strong knowledge of a wide variety of information security architectures, concepts, and techniques, as well as supporting security tools.
+Ability to communicate effectively in high-pressure situations.
+Knowledge of malware analysis tactics and techniques.
+Experience reviewing and analyzing network packet captures.
+Experience performing security/vulnerability reviews of network, server, and endpoint environments.
+Understanding of attack surface reviews and multi-layer defense systems to prevent exploits, detect and intercept attacks, and discover threat agents.
+Experience with web application testing tools for DAST, SAST, and IAST analysis.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 12
+
+
+Monitor and respond to security alerts, and analyze their potential impacts on the system.
+• Act as a primary responder during security incidents, working closely with other teams to mitigate risks and minimize damage.
+• Write and implement scripts to automate security tasks and improve operational efficiency.
+• Manage end-to-end security incidents to ensure a timely resolution and minimize impact.
+• Conduct threat intelligence research to stay abreast of the latest cyber threats and share knowledge to enhance defensive strategies.
+• Develop and maintain detailed documentation for security incidents and operational procedures.
+• Collaborate with different teams in the organization to enhance security policies and procedures.
+• Utilize AWS security tools such as GuardDuty and CloudTrail, and ensure secure deployment of Kubernetes.
+
+Requirements
+• 1-3 years of experience
+• Bachelor's degree in Computer Science, Cybersecurity, or a related field.
+• Proficient in AWS and Kubernetes security, along with experience in using AWS security tools such as GuardDuty and CloudTrail.
+• Proficiency in scripting languages like Python, Bash, or PowerShell.
+• Experience in security incident response and management, and security alert management.
+• Familiarity with threat intelligence methodologies and sources.
+• Excellent problem-solving skills and ability to work under pressure.
+• Strong communication skills for effective collaboration with team members and other departments.
+• Familiarity with cloud and container security best practices.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 13
+
+
+
+What You Will Do
+• Security Integration:
+• Implement security controls and processes into the software development lifecycle (SDLC) from the ground up.
+• Collaborate with development and operations teams to incorporate secure coding, vulnerability scanning, and security testing in CI/CD pipelines.
+• Cloud Security Design & Management:
+• Design and maintain secure AWS infrastructure using best practices such as least privilege, IAM, and encryption.
+• Leverage AWS security services (e.g., VPC Flow Logs, Guard Duty, IAM, and CloudTrail) to monitor and secure cloud environments.
+• Implement and manage security measures like firewalls, VPNs, and intrusion detection/prevention systems.
+• Automation and Continuous Security:
+• Build and manage Infrastructure-as-Code (IaC) scripts using tools like AWS CloudFormation and Terraform to automate secure infrastructure deployment.
+• Automate security tasks by integrating security tools into CI/CD pipelines for continuous security testing and remediation (e.g., AWS Code Pipeline, Jenkins).
+• Incident Response & Monitoring:
+• Develop incident response plans and workflows to detect, contain, and remediate security incidents.
+• Monitor systems and networks for signs of compromise using AWS monitoring tools (e.g., CloudWatch, CloudTrail, XDR).
+• Conduct security assessments and penetration testing to identify and mitigate vulnerabilities.
+• Risk Management & Threat Intelligence:
+• Identify, assess, and prioritize security risks associated with the cloud environment.
+• Implement threat detection, vulnerability scanning, and patch management processes.
+• Stay up to date on emerging cloud security threats and vulnerabilities, and proactively mitigate risks.
+
+Education:
+• Bachelor’s degree in computer science, Information Security, or a related field (or equivalent work experience).
+
+Who You Are And What You Bring
+• Experience: 4+ years of experience in a DevSecOps, cloud security, or related role.
+• Hands-on experience with AWS security services such as IAM, Security Hub, Guard Duty, WAF, and CloudTrail.
+• Experience with DevOps tools (e.g., Jenkins, GitLab, Docker, Kubernetes) and Infrastructure-as-Code (IaC) tools (e.g., Terraform, AWS CloudFormation).
+• Experience with integrating security into CI/CD pipelines.
+
+Certifications (preferred but not mandatory):
+
+AWS Certified Security – Specialty
+
+AWS Certified DevOps Engineer – Professional
+
+Certified Information Systems Security Professional (CISSP)
+
+Certified Cloud Security Professional (CCSP)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 14
+
+
+Bachelor’s degree in Information Technology, Computer Science, or a related field.
+• Minimum 4 years of experience in cybersecurity engineering in multinational companies.
+
+Relevant Certifications (any of the following are preferred):
+• Microsoft SC-200: Microsoft Security Operations Analyst
+• Microsoft SC-300: Microsoft Identity and Access Administrator
+• Microsoft SC-400: Microsoft Information Protection Administrator
+• Microsoft SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+• EC-Council Certified Ethical Hacker (CEH)
+• EC-Council Certified Incident Handler (ECIH)
+• Systems Security Certified Practitioner (SSCP)
+• Certified Secure Software Lifecycle Professional (CSSLP)
+• Subject Expert certification in Network (CCNA), System (GCUX, Linux+, LPI, LFCS), or SAP (C_SECAUTH_20, P_TSEC10_75).
+
+Technical Skills & Knowledge:
+• Strong expertise in Azure/Microsoft solutions and platforms.
+• Experience with Power Automate/PowerApps.
+• Cybersecurity solutions such as Checkpoint Firewalls.
+• Familiarity with industry standards such as ISO27001 and GDPR.
+• Expertise in network security technologies such as Menlo, Zscaler, Palo Alto, and Cisco.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 15
+
+
+Proactively monitor network activity and manage threat intelligence to identify and respond to security incidents.
+Perform root cause analysis and document findings on security incidents.
+Develop and optimize incident response playbooks to streamline processes.
+Work with cross-functional teams to improve overall security posture.
+Stay up to date on emerging security threats, vulnerabilities, and technology advancements.
+Requirements:
+
+Bachelor's degree in Computer Science, Information Security, or a related field.
+3+ years of experience in a SOC or similar environment.
+Strong understanding of SIEM tools (e.g., Splunk, QRadar).
+Hands-on experience with malware analysis and threat intelligence.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 16
+
+
+Design & Implementation of Cloud Security Controls:
+
+Configure and enforce security policies across multi-cloud environments (AWS, Azure, GCP).
+Implement cloud-native security solutions such as AWS Security Hub and GCP Security Command Center.
+Continuously assess the cloud environment for potential security risks and ensure optimal configuration settings.
+Infrastructure-as-Code (IaC) Security:
+
+Integrate security checks into the IaC lifecycle using tools such as Terraform or CloudFormation.
+Perform regular IaC audits to ensure that the infrastructure meets security standards and industry best practices.
+Collaborate with DevOps Teams:
+
+Establish security standards for CI/CD workflows and assist DevOps in implementing security gates and automated checks.
+Lead the security review process for new cloud services and recommend secure configurations.
+Incident Response for Cloud Environments:
+
+Develop and maintain cloud-specific incident response plans.
+Collaborate on cloud incident response exercises to enhance readiness and ensure alignment with organizational security protocols.
+Requirements:
+
+5+ years of experience in cloud security or security operations with expertise in AWS, GCP, or Azure.
+Strong understanding of IaC tools like Terraform and CloudFormation.
+Experience with container security (Kubernetes, Docker) and cloud-native security tools.
+Industry certifications in cloud security, such as AWS Certified Security – Specialty or Google Professional Cloud Security Engineer, are a plus.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 17
+
+
+Conduct regular scans across all systems and applications using tools like Nessus and Qualys.
+Analyze scan results, prioritize vulnerabilities based on risk level, and coordinate with teams to track and confirm remediation.
+Work closely with IT, development, and DevOps teams to identify risks and implement mitigation steps.
+Provide actionable insights to remediate vulnerabilities promptly and improve the security of the overall environment.
+Lead the vulnerability risk assessment process to determine the impact and likelihood of risks.
+Ensure timely and effective application of patches across infrastructure components in alignment with security policies.
+
+Required Skills and Experience:
+
+Bachelor’s degree in Cybersecurity, IT, or a related discipline.
+2+ years of experience in vulnerability management, penetration testing, or related security fields.
+Proficiency in vulnerability assessment tools and methods (Nessus, Qualys).
+Knowledge of security standards, including OWASP, CVSS, and patch management processes.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 18
+
+Bachelor’s degree in Cybersecurity, Information Technology, or a related field.
+4+ years of experience in security engineering with a focus on endpoint security.
+Expertise in EDR solutions (CrowdStrike, SentinelOne, etc.) and proficiency in scripting for automation.
+Strong knowledge of security controls across Windows, macOS, and Linux platforms.
+Continuously monitor endpoint security alerts, investigate potential threats, and execute immediate response actions.
+Leverage tools like CrowdStrike or Carbon Black to mitigate endpoint threats and track malicious activity.
+Deploy, manage, and tune endpoint security solutions (e.g., EDR, antivirus, DLP).
+Regularly update endpoint policies to reflect evolving threat landscapes and business needs.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 19
+
+
+Bachelor’s degree in Cybersecurity or related field; advanced degrees preferred.
+7+ years in security operations, with at least 3 years in a leadership role.
+Deep understanding of security frameworks (NIST, MITRE ATT&CK) and hands-on experience with SIEM and security orchestration tools.
+Proven track record in leading security teams and improving security operations.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 20
+
+
+Professional Experience: Minimum 3+ years of experience as a Systems Engineer, DevOps Engineer, or similar roles, with a focus on monitoring, alerting, and observability solutions.
+Cloud Technology Experience - 2+ yrs of hands-on experience with and understanding of Cloud and Container technologies (GCP/Azure/AWS + K8/EKS/GKE/AKS). Cloud Service Provider DevOps certifications would be a plus
+Observability Expertise: Good knowledge and hands-on experience with 2 or more Observability platforms, including alert creation, dashboard creation, and infrastructure monitoring.Researching latest industry trends is part of the scope.
+Deployments & Automation: Good understanding of CI/CD with at least one deployment and version control tool. Engineers would need to package alerts and dashboards as extension packs on an ongoing basis. 
+Grafana & PromQL Proficiency: Basic understanding and practical experience with PromQL, Prometheus's query language, for querying metrics and creating custom dashboards. Person would also need to learn Dataprime and Lucene syntax on the job.
+Troubleshooting Skills: Excellent problem-solving and debugging skills to diagnose issues, identify root causes, and propose effective solutions.
+Communication Skills: Strong English verbal and written communication skills to collaborate with the customer's cross-functional teams, deliver training sessions, and create clear technical documentation.
+Analytical Thinking: Ability to analyze complex systems, identify inefficiencies or gaps, and propose optimized monitoring solutions.
+Availability: Ability to also work across US and European timezones
+This is a work from office role 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 21
+
+
+Bachelor’s degree in Cybersecurity, Computer Science, Information Technology or related field.
+5+ years demonstrated technical experience evaluating, designing, developing and supporting Identity and Access Management technologies and capabilities.
+5+ of experience supporting preferably Okta / Auth0 or other Customer and Partner identity solutions like ForgeRock, Azure B2C, Akamai Identity Cloud, PingOne.
+Additional Preferences:
+
+Technical experience across identity and access management technologies such as Azure AD/Entra ID and/or Active Directory.
+Understanding of authentication and authorization technologies and federated identity standards and protocols (multifactor authentication, certificate-based authentication, LDAP, Kerberos, OAuth, SAML, OpenID Connect).
+Experience in addressing consumer data regulations and integrating regulatory and industry standards (ISO/IEC, PCI DSS, SOX, HIPAA, FDA, GDPR, CCPA) into cybersecurity designs.
+Experience in designing, developing, implementing, and supporting enterprise-class security systems and services.
+Experience defining and implementing identity lifecycle workflow solutions.
+Ability to translate Customer requirements that effectively balance user experience, supportability and security.
+Strong communication and presentation skills, and ability to adapt messaging for diverse audiences.
+Effective collaboration with other Technical counterparts, Leaders and Stakeholders to deliver and enhance IAM solutions.
+Demonstrated self-starter that is accountable to delivering solutions that meet defined timelines and budget.
+Ability to work with a distributed and virtual team.
+Experience developing solutions with PowerShell, Python, NodeJS, PHP or other development and scripting languages.
+An understanding of common services used in cloud-based architectures, with experience in AWS and/or Azure, and awareness of cloud platform security and controls.
+Experience working in Agile teams and using tools such as Confluence and Jira.
+Relevant certifications such as CISSP, CISM, or similar.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 22
+
+
+As a SecOps Engineer, you will bring your technical experience to evaluate and select advanced identity and access technologies to meet business and security requirements.
+
+Implement and maintain technical integration of identity technologies to meet business requirements.
+
+Ensure operational excellence across all IAM Services.
+
+Understand the threat landscape with the ability to translate the general threats into relevant business and technical impacts.
+
+As a superb communicator with strong interpersonal skills, you will work and collaborate effectively on a team including with remote team members, to define, design and implement identity capabilities and solutions.
+
+Focusing on our business partners, you will develop and implement technical solutions and capabilities in Identity that improve security while enhancing user experience.
+
+With a high level of curiosity, you’ll keep abreast of the latest developments in IAM technologies, security threats, and regulatory changes.
+
+Drive the adoption of innovative and creative solutions to address complex, global IAM problems.
+
+Collaborate with enterprise IT, architects and stakeholders to understand business needs and incorporate feedback into the IAM technologies and solutions.
+
+
+Your Basic Qualifications:
+
+Bachelor’s degree in Cybersecurity, Computer Science, Information Technology or related field.
+
+5+ years demonstrated technical experience evaluating, designing, developing and supporting Identity and Access Management technologies and capabilities.
+
+5+ years in areas like encryption services, internal certificate authority, public certificate provisioning, enabling certificate management, and digital signatures.
+
+
+Additional Preferences:
+
+Experience in electronic signature services (e.g., Adobe Sign)
+
+Broad technical experience across identity and access management technologies.
+
+Experience in designing, developing, implementing, and supporting enterprise-class security systems.
+
+Demonstrated experience developing solutions with PowerShell, Python, NodeJS, PHP or other development and scripting languages.
+
+Critical thinking, analytical skills, and thought leadership.
+
+Excellent communication and presentation skills, and ability to adapt messaging for diverse audiences.
+
+Experience with IT Service Management (ITIL).
+
+Experience in addressing consumer data regulations and integrating regulatory and industry standards (ISO/IEC, PCI DSS, SOX, HIPAA, FDA, GDPR, CCPA) into cybersecurity designs.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 23
+
+
+3+ years demonstrated experience with CI/CD (continuous integration/continuous delivery) pipelines
+2+ years of experience using and deploying Docker containers
+2+ years of experience using Linux/Unix based operating systems
+2+ years of experience with monitoring, alerting and logging software
+2+ years of experience developing in Python and Bash
+Degree or background in Computer Science, Engineering or a related information technology discipline or equivalent experience
+Other demonstrated experiences which are highly desired, though not required, include:
+Demonstrated experience using Ansible
+Demonstrated experience using Prometheus and Grafana
+Demonstrated experience using Elasticsearch, Kibana, and Logstash
+Demonstrated experience using CloudFormation
+AWS Certified DevOps Engineer or AWS Certified Solutions Architect
+Demonstrated experience using X.509 and PKI security solutions
+Demonstrated experience using LDAP (Lightweight Directory Access Protocol
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 24
+
+
+Install and maintain security products .
+Security information and event management .
+Identity and access management .
+Responding to incidents involving malware .
+Responding to network-based attacks .
+Monitoring system events, logfiles and alerts .
+Utilize security orchestration and automated response (SOAR) .
+Perform threat hunting .
+Develop metrics to measure malware analysis and detection system performance .
+Perform research into malware development and trends.
+Perform incident response and/or digital forensics on hardware.
+Analyze network security alerts and events.
+Requirements:
+
+Security+ , CySA +, or G SEC or equivalent certification required ; SSCP or equivalent certification required preferred
+Demonstrable education and/or certification related to computer science, information security, server platform, or cloud environments .
+5+ years of experience in Infrastructure and Information Security in Microsoft Windows and Azure environments .
+3+ years working on Microsoft Azure running multiple production workloads .
+2 + years of experience with Azure DevOps CI/CD pipelines and deployment automation security .
+5+ years of experience with endpoint protection and management tools for Microsoft Windows, Apple macOS, and Apple iOS operating systems
+Experience with hardening techniques for server operating systems and cloud architectures .
+Experience with access logging, centralized logging, and monitoring/alerting of security log events such as ELK, InsightIDR , Splunk, and SumoLogic ; experience with Microsoft Sentinel is preferred .
+Experience with applications for monitoring infrastructure security and detecting intrusions through alerts, enrichment, and investigations .
+Experience with application security testing tools such as Burp Suite, OWASP ZAP, etc.
+Working knowledge of incident response, threat modeling, and mitigation .
+Working knowledge of common information security management frameworks such as AICPA’s SOC 2 and NIST’s Cyber Security Framework .
+Experience designing and implementing access control models for privileged access in a fast-paced production environment .
+Knowledge of security best practices such as CIS Benchmarks .
+Strong understanding of common internet protocols such as DNS, SMTP, LDAP, etc.
+Strong understanding of email authentication including SPF, DKIM, DMARC, etc.
+Self-motivated and strong sense of ownership of tasks and personal responsibility.
+Excellent project management skills with a track record of successfully delivering multiple projects on time and within budget.
+Exceptional problem-solving and decision-making abilities.
+Strong communication and interpersonal skills, with the ability to effectively interact with both technical and non-technical stakeholders.
+Commitment to improving literacy and student reading achievement.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 25
+
+
+Work directly with our clients as an AWS Cloud SecOps Engineer
+Improve and remediate security in existing AWS accounts, infrastructure and resources based on Samsung corporate security standards and AWS security best practices
+Experience with remediating security in IAM, S3, Security Groups, NACL, IGW, NFW, VPC, Endpoints and other AWS resources
+Expertise in writing JSON IAM and S3 policies – deep understanding of AWS policy language
+Experience in AWS account security auditing
+Experience in scripting using AWS API’s (boto3 or AWS cli)
+Understanding of TCP/IP networking principles
+Develop and maintain secure and reliable cloud infrastructure (OS security patching, secure backups, monitoring, secure logging, and IAM user account creation)
+Support or modify underlying AWS infrastructure and services for security hardening
+Familiarity with cloud deployment automation, as well as CI/CD pipeline builds to support cloud based workloads
+Provide experience, knowledge and develop competency on Terraform, Ansible and Cloud native automation tools
+Stay on top of the latest AWS security trends and develop expertise in emerging cloud security technologies
+Develop and maintain technical documentation in Atlassian Confluence
+Excellent experience using Atlassian Jira ticketing and Jira project management
+Troubleshoot technical security issues
+Must Have the Following Competencies:
+AWS Security-Specialty certification with minimum 3 years practical experience securing AWS environments
+Master’s or Bachelor’s degree in Computer Science, Computer Engineering, Electrical Engineering or related technical field, and two years of experience in related software or systems
+8+ years overall industry experience.
+Supervisory Requirements:
+No
+Requirements:
+DevOps: automation experience on Amazon AWS
+Cloud: Amazon AWS, AWS Marketplace, PaaS, IaaS, SaaS
+Platforms and tools: Bash, python or other scripting languages
+DevOps/Automation: Terraform, Ansible
+Experience with networking and compute infrastructure such as servers, database, firewalls and load balancers
+Experience with current information security practices and procedures
+Cloud Solutions Architect-Associate level or above and AWS Security Specialty certifications
+Hands-on experience with Jira and Confluence
+Excellent interpersonal and organizational skills
+Excellent oral and written communication skills
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 26
+
+
+
+
+Developing and implementing technical security solutions to monitor and control the security of our cloud infrastructure, custom code, and SaaS applications.
+Analyzing and monitoring risk trends using SIEM alerts, scanning technologies, penetration tests, and more.
+Identifying root causes, drive-ing remediation efforts, and fine-tuning security baselines.
+Working closely with Product, Infrastructure, R&D, and business teams to define actionable responses to security issues.
+Challenging existing security practices and routines, updating, replacing, or automating them as needed.
+Working with security team members worldwide to leverage collective intelligence in addressing security challenges.
+Promoting a continuous focus on security within the dev & ops community through training, coaching, process integration, and automation, fostering a successful SecOps culture.
+You will bring:
+Extensive experience in designing and implementing security solutions for cloud infrastructure and SaaS applications.
+Strong Linux and public cloud security (Azure, AWS, etc.) skills
+Experience with SIEM technologies
+Ability to write code (NodeJS / scripting / terraform) to automate security controls
+Experience with technical compliance such as CIS benchmark, STIG and NIST 800-53 guidelines (FedRamp)
+Experience on auditing and securing Salesforce applications
+Comfortability to work collaboratively across diverse regions and teams to meet organisational security goalsExcellent interpersonal and communications skills
+Preferred Requirements:
+3+ years experience in a Senior/Lead Security position
+BA/BS in Computer Science or a similar technical field
+Ability to explain findings to both technical and non-technical professionals
+Developer background and mindest
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 27
+
+
+Key Responsibilities:
+
+SOAR Development: Design, implement, and manage SOAR playbooks to automate incident response.
+Script and Tool Integration: Create and maintain scripts to automate routine security tasks, using languages like Python and PowerShell.
+Process Optimization: Identify areas for automation and develop tools to support vulnerability management, threat detection, and log analysis.
+Cross-Team Collaboration: Work closely with the SOC, threat intelligence, and IT teams to enhance security workflows and integrate automation into existing processes.
+Requirements:
+
+4+ years in security operations with a strong focus on automation.
+Experience with SOAR platforms (e.g., Phantom, Demisto, or Swimlane).
+Proficiency in scripting and coding (Python, Bash, PowerShell).
+Familiarity with APIs and integrating third-party security tools.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 28
+
+Bachelor’s degree in Cybersecurity, Intelligence, or a related field.
+3+ years of experience in threat intelligence or cybersecurity.
+Strong analytical skills with knowledge of threat intelligence platforms and techniques.
+Certifications like Certified Threat Intelligence Analyst (CTIA) are a plus.
+Collect and analyze threat intelligence from multiple sources, providing actionable insights to the SecOps team.
+Create and update IOCs and collaborate with the SOC team to enhance detection capabilities.
+Continuously evaluate the threat landscape to determine relevant risks to the organization’s assets and data.
+Provide guidance on security control improvements based on intelligence insights.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 29
+
+Integrate security practices into the development lifecycle, including secure coding, code review, and static/dynamic analysis.
+Perform penetration tests and application security assessments to identify vulnerabilities.
+Work with development teams to address security issues and recommend mitigation solutions.
+Develop application security policies and standards, including best practices for secure coding.
+Bachelor’s degree in Computer Science, Information Security, or related field.
+3+ years of experience in application security or secure software development.
+Proficiency in application security tools (Burp Suite, OWASP ZAP).
+Familiarity with programming languages (Java, Python, JavaScript).
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 31
+
+
+8+ years of experience in cybersecurity, with a focus on architecture and engineering.
+Proficiency in security architecture frameworks (e.g., SABSA, TOGAF).
+Experience with cloud security architectures for AWS, Azure, or GCP.
+Relevant certifications like CISSP or AWS Certified Security - Specialty are preferred.
+Architecture Design: Develop secure architectures and frameworks to support SecOps initiatives.
+Conduct risk assessments for new technologies and business processes.
+Recommend and implement security technologies to enhance detection and response capabilities.
+Document architectural decisions and ensure they comply with security policies and standards.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 32
+
+Program Development: Design and deliver training on security awareness topics such as phishing, social engineering, and data protection.
+Awareness Campaigns: Run security awareness campaigns, including simulated phishing exercises.
+Content Creation: Develop content, including emails, presentations, and e-learning modules, to increase security awareness.
+Metrics & Reporting: Track program effectiveness and measure employee understanding through KPIs and feedback.
+Requirements:
+
+Bachelor’s degree in Education, Communications, or Cybersecurity.
+2+ years of experience in a security awareness or training role.
+Strong presentation and communication skills.
+Familiarity with e-learning platforms and training development tools.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 33
+
+
+Implement security gates within CI/CD pipelines, using tools like Jenkins, GitLab CI, or CircleCI.
+Develop automated security tests and integrate them into the DevOps workflow.
+Perform vulnerability assessments on code and infrastructure and ensure timely remediation.
+Work with Docker and Kubernetes to secure containerized applications.
+Bachelor’s degree in Computer Science or related field.
+3+ years of experience in DevOps with a security focus.
+Knowledge of IaC tools (Terraform, Ansible) and container security practices.
+Experience with DevSecOps tools like Snyk, Aqua Security, or Twistlock.
