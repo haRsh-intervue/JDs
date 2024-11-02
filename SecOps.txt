@@ -211,7 +211,7 @@ Requirements
 Bachelors degree in BE/Btech
 Relevant certifications such as CCNP Security and NSE4 or equivalent
 Proven experience in IT compliance management and security operations
-Comprehensive knowledge of security technologies including firewall, VPN, DLP, CASB, SASE, EDR, XDR, AV, UTM, Okta, SAML, Google Workspace, Microsoft 365, IAM, AD, Azure AD, Intune, Jamf, and DM Manage Engine Patch Management
+Comprehensive knowledge of security technologies including firewall, VPN, DLP, CASB, SASE, EDR, XDR, AV, UTM, Okta, SAML, Google Workspace, Microsoft 365, IAM, AD, Azure AD, and DM Manage Engine Patch Management
 Strong understanding of regulatory standards and compliance requirements (e.g., GDPR, HIPAA, ISO 27001)
 Excellent communication and leadership skills
 Ability to work effectively in a fast-paced, dynamic environment
@@ -248,7 +248,7 @@ JOB DESCRIPTION 9
 Bachelor s or master s degree in computer science, Information Security, Engineering, or a related field.
 7+ years of experience in cybersecurity, security operations, or a similar role in a SaaS/cloud environment.
 Strong hands-on experience with security automation tools and practices for CI/CD pipeline integration and infrastructure-as-code (IaC)..
-Hands-on experience with vulnerability management tools such as Qualys, Prisma, Lacework, and Mend (SAST/SCA).
+Hands-on experience with vulnerability management tools such as Qualys, Prisma, and Mend (SAST/SCA).
 Development/Automation experience to automate the workflows, security operations/tooling by using Python/Ruby/Go..
 Proficient in automating vulnerability scanning, patch management, and compliance monitoring processes across hybrid cloud environments.
 Strong understanding of Cloud Security Posture Management (CSPM) tools and processes.
