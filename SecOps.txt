@@ -855,3 +855,226 @@ Bachelor’s degree in Computer Science or related field.
 3+ years of experience in DevOps with a security focus.
 Knowledge of IaC tools (Terraform, Ansible) and container security practices.
 Experience with DevSecOps tools like Snyk, Aqua Security, or Twistlock.
+
+
+
+
+
+Manage escalations from SOC, troubleshoot incidents, analyze root causes, and escalate alerts to relevant stakeholders.
+Administer, configure, and troubleshoot security programs and mechanisms, analyzing the impact of patches and updates on systems and networks.
+Develop cyber risk assessment techniques and implement endorsed measures to address identified cybersecurity risks, threats, and vulnerabilities.
+Perform cybersecurity BAU activities such as vulnerability tracking and closure, and various GRC-related work like risk assessment, treatment, & mitigation.
+Coordinate closely with the Technical Lead in Singapore, who has over 5 years of experience in handling cybersecurity incidents, and the Technical Lead in India, with over 7 years of experience in network security technologies such as Menlo, Zscaler, Palo Alto, and Cisco.
+Strong expertise in Azure/Microsoft solutions and platforms.
+Experience with Power Automate/PowerApps.
+Cybersecurity solutions such as Checkpoint Firewalls.
+Familiarity with industry standards such as ISO27001 and GDPR.
+Expertise in network security technologies such as Menlo, Zscaler, Palo Alto, and Cisco.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 34
+
+
+At least 6 years of experience in SecOps
+Has led a team before
+Proven ability to achieve compliance with ISO or SOC2 or any such security standards
+Knowledge of CCPA / GDPR
+Certifications related to security processes and operations
+Experience with EDR, Antivirus, and remote mitigation of threats
+Experience with setting up and governance of security processes
+Used Crowdstrike, QRoC, Qualys, Sysmon tools, AWS Security Hub, AWS Guard Duty
+Proven experience in the mitigation of a security incident
+Knowledge of cyber-security frameworks, risk management frameworks, and related standards and guidance to defend proposed security architecture patterns from a risk management perspective.
+Answer security questionnaires sent by customers and evaluate the security posture of vendors
+Establish runbooks to mitigate the impact of malicious activities. Find the root cause and execute the next steps to ensure such activities do not repeat
+Participate in prioritization exercises and provide technical solutions
+Be a security evangelist in the company through training and guidance about security items
+Optimally use security tools available to achieve the security and compliance posture required
+Drive security intelligence efforts to explain patterns and trends to improve the ability to prevent and circumvent potential attacks
+Ensure all security tools related to EDR, Antivirus, and Compliance are properly in place & working
+Ensure regular review of the security objectives and work towards rectifying shortcomings
+Evaluate and initiate efforts to detect patterns to predict, identify, and define potential risk
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 35
+
+Preferred Bachelor's degree in Computer Science, Cybersecurity, or a related field.
+3-5 years of experience as a SOC analyst, preferably with lead responsibilities.
+Strong knowledge of KQL (Kusto Query Language) for querying and analyzing security data.
+Hands-on experience with Microsoft Sentinel, including rule creation, playbook implementation, and workbooks.
+Proficiency in Microsoft Defender and MS Purview Data Loss Prevention (DLP).
+Certifications such as CISSP, CEH, or CompTIA Security+ are a plus.
+Microsoft Sentinel: Experience with SIEM, rule creation, playbooks, and workbooks.
+KQL (Kusto Query Language): Proficiency in querying and data correlation.
+Microsoft Defender: Expertise in endpoint protection and threat detection.
+MS Purview Data Loss Prevention (DLP): Experience with data protection and loss prevention strategies.
+Incident Response Tools: Knowledge of containment and recovery strategies.
+Vulnerability Management Tools: Experience in assessments, penetration tests, and threat monitoring.
+Threat Intelligence Platforms: Ability to leverage and analyze threat intelligence.
+Network Security: Working knowledge of firewalls, IDS/IPS, and network security protocols.
+Data Forensics: Proficient in data forensic analysis and investigation.
+SOC Playbooks: Proficient in creating and managing SOC playbooks.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 36
+
+
+Experienced with Application Security Tools (SAST, DAST, SCA)
+Knowledge on threat modelling and security design review methodologies
+Promoting security knowledge sharing within technical organisations
+Assisting in the design of enhancements to the cloud security strategy by identifying and alerting on appropriate event types
+Managing CI/CD security strategy with integration of Security as Code (SaC) and Policy as Code (PaC)
+Great to have:
+Ability to carry out manual code security review (this would mean some knowledge of the Javascript, Java, PHP, Go, C#, Python, Terraform, HTML, XML and CSS languages)
+Experience in helping an organisation to meet the PCI DSS and SOC-2 compliance standards
+Experience in Kubernetes
+AWS/GCP exposure.
+Bachelor’s or master’s degree in Computer Science, Information Technology, or a related field, or 1 years equivalent practical Information Security professional experience.
+1+ years of Information Technology experience with a focus on Security.
+1+ years of experience in Cloud Administration, Networking, or another operations-related field.
+Candidates should have exceptional troubleshooting and problem-solving skills.
+Experience engineering and operating public-facing infrastructure
+Knowledge with integrating crucial security tasks into CI/CD pipelines
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 37
+
+2-3 years of experience in a security operations or similar role.
+Solid understanding of security tools such as SIEM, firewalls, IDS/IPS, endpoint protection, and vulnerability management.
+Familiarity with cloud security (AWS, Azure, GCP).
+Strong understanding of networking protocols, encryption, and secure architecture design.
+Experience with security monitoring, incident response, and investigation processes.
+Proficient in scripting languages like Python, Bash, or PowerShell for automation.
+Knowledge of compliance frameworks such as ISO 27001, SOC 2, NIST, or GDPR.
+Experience with DevSecOps practices and tools (e.g., CI/CD pipeline security).
+Excellent problem-solving skills and attention to detail.
+Certifications like CompTIA Security+, CEH, CISSP, or similar are a plus.
+Preferred Qualifications:
+
+Experience with container security (Docker, Kubernetes).
+Knowledge of zero-trust security principles.
+Experience with forensic analysis and threat intelligence.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 38
+
+
+Bachelor's degree in computer science, engineering or similar is preferred.
+
+Citizen of the United States (US) and residing on US soil.
+
+3+ years of experience in the following: software development & deployment in virtualized environments, security engineering, data engineering, SIEM platforms,SecOps, and Linux system administration experience.
+
+Good interpersonal skills and ability to collaborate with a variety of work partners.
+
+Experience building and deploying On premise and cloud applications and tools.
+
+Solid experience in installing, configuring and troubleshooting UNIX/Linux based environments;
+
+Strong familiarity with cloud technologies primarily Azure and AWS.
+
+Strong scripting experience with Shell Scripts, Powershell and Python.
+
+Strong familiarity with the functions of WAF and IDS/IPS components.
+
+Hands-on experience with using Splunk and Elasticsearch
+
+Familiarity with Red Hat Openshift is preferred
+
+Must be familiar with cloud security best practices.
+
+Experience with Azure and AWS Security controls.
+
+Must be familiar with tools used to secure docker/podman deployments such as Sentinalone
+
+Familiarity with CIS benchmarks including the Docker/podman, Linux benchmarks would be a plus.
+
+Excellent knowledge of networking technologies, particularly with OSI network layers and TCP/IP;
+
+CISM, CISSP or other Security Certifications preferred
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 39
+
+B.S. Degree in Computer Science or related field or equivalent combination of professional development training and experience
+5-7 years of previous experience deploying and administering security infrastructure in GCP or AWS public cloud environments, using Infrastructure as Code required
+In-depth hands-on experience with at least one public Cloud platform (AWS or GCP) with advanced knowledge of securing IaaS platforms and services like WAFs, Security Groups, EC2/Compute, EKS/GKE, ECR/GCR, S3/Cloud Storage, RDS/Cloud SQL, Logging and Monitoring
+Prior experience working closely with Product, DevOps and CloudOps' Site Reliability Engineers on shift-left strategies, CI/CD tools and solutions needed
+Security experience in a cloud native environment in one or more areas: authentication, access management, API security, Linux security, vulnerability scanning, threat and intrusion detection, firewalls, WAF, encryption technologies, container security etc.
+Experience using a programming language such as Python for automation (would be a plus)
+Security certifications such as AWS, GCP , CISSP, CEH, OSCP preferred
+Excellent verbal and written communication skills and ability to document and explain technical details and concepts clearly and concisely
+Agility and willingness to deal with a high level of ambiguity, change, and pressures of high-profile incidents
+Flexibility to pitch in where needed across program and team
+Strong influence and teamwork skills; sound problem resolution, judgment, negotiating, and decision-making skills
+Strong knowledge of industry standards, vulnerability classifications, and attack vectors
+Experience working effectively with global teams in multiple time zones
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 40
+
+
+Significant successful experience in IT infrastructure and Cybersecurity operations of minimum 4 years.
+Good communication skills
+Good IT infrastructure, networking and cybersecurity technical background
+Familiar with international security regulations, best practices and standards
+Project management abilities in IT and Cybersecurity related to business risks
+“Can do” and “Team Player” attitude
+Great interpersonal, problem-solving, analytical, and research skills in business context
+Innovative thinking
+Knowledge Required :
+
+
+
+MUST-HAVES
+
+
+Professional English.
+Expertise among
+Cloud Azure, Microsoft 365, Azure Active Directory, Entra ID
+Microsoft Security solutions, Defender; Sentinel
+Network: switch, firewall, TCP/IP, DNS, DHCP, VPN, Ipsec, WIFI
+Cybersecurity, CVSS, Vulnerability management, Pentesting
+System: FortiOS, CATO Networks, Microsoft Server and Client OS, Active Directory, Linux
+Powershell scripting
+Knowledge of various IT and business functions, software development process
+Capacity to work with an agile methodology, Kanban approach
+Risk management and Finance/legal basic knowledge
+Good knowledge of relevant ITIL / ITSM / ISO27001 /NIST best practice standards and IT and Security
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 41
+
+
+Extensive experience with SIEM solutions Microsoft Sentinel
+Strong knowledge of security operations, incident response methodologies, and security technologies (SIEM, IDS/IPS, EDR, Insider Risk, DLP, WAF, Cloud Application, SaaS monitoring, Vulnerability Management, Firewall, Antivirus, and other SOC monitoring and or detection tools).
+In-depth understanding of networking concepts, including TCP/IP protocols, firewall configuration, and network segmentation.
+In-depth understanding of identity concepts, including multifactor authentication, authentication protocols, user behaviors.
+In-depth understanding of cloud and endpoint concepts, including malware forensics, browser forensics, cloud forensics, mobile device forensics.
+
+Skills and Expertise:
+Proven ability to enhance SOC processes and implement best practices.
+Strong understanding of Threat Intelligence, Threat Hunting, Vulnerability Management, and risk assessment frameworks.
+Experience in creating and refining SIEM rules, alerts, and correlation logic.
