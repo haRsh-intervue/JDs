@@ -83,32 +83,27 @@ JOB DESCRIPTION 3
 
 
 
-Security Integration:
-Implement security controls and processes into the software development lifecycle (SDLC) from the ground up.
-Collaborate with development and operations teams to incorporate secure coding, vulnerability scanning, and security testing in CI/CD pipelines.
+
 Cloud Security Design & Management:
 Design and maintain secure AWS infrastructure using best practices such as least privilege, IAM, and encryption.
 Leverage AWS security services (e.g., VPC Flow Logs, Guard Duty, IAM, and CloudTrail) to monitor and secure cloud environments.
 Implement and manage security measures like firewalls, VPNs, and intrusion detection/prevention systems.
 Automation and Continuous Security:
 Build and manage Infrastructure-as-Code (IaC) scripts using tools like AWS CloudFormation and Terraform to automate secure infrastructure deployment.
-Automate security tasks by integrating security tools into CI/CD pipelines for continuous security testing and remediation (e.g., AWS Code Pipeline, Jenkins).
-Incident Response & Monitoring:
-Develop incident response plans and workflows to detect, contain, and remediate security incidents.
-Monitor systems and networks for signs of compromise using AWS monitoring tools (e.g., CloudWatch, CloudTrail, XDR).
-Conduct security assessments and penetration testing to identify and mitigate vulnerabilities. 
 Risk Management & Threat Intelligence:
 Identify, assess, and prioritize security risks associated with the cloud environment.
 Implement threat detection, vulnerability scanning, and patch management processes.
 Stay up to date on emerging cloud security threats and vulnerabilities, and proactively mitigate risks.
 Bachelors degree in computer science, Information Security, or a related field (or equivalent work experience).
-Who you are and what you bring
+Security Integration:
+Implement security controls and processes into the software development lifecycle (SDLC) from the ground up.
+Collaborate with development and operations teams to incorporate secure coding, vulnerability scanning, and security testing in CI/CD pipelines.
+Incident Response & Monitoring:
+Develop incident response plans and workflows to detect, contain, and remediate security incidents.
+Monitor systems and networks for signs of compromise using AWS monitoring tools (e.g., CloudWatch, CloudTrail, XDR).
+Conduct security assessments and penetration testing to identify and mitigate vulnerabilities. 
 
-Experience:  4+ years of experience in a DevSecOps, cloud security, or related role.
-Hands-on experience with AWS security services such as IAM, Security Hub, Guard Duty, WAF, and CloudTrail.
-Experience with DevOps tools (e.g., Jenkins, GitLab, Docker, Kubernetes) and Infrastructure-as-Code (IaC) tools (e.g., Terraform, AWS CloudFormation).
-Experience with integrating security into CI/CD pipelines.
-Certifications (preferred but not mandatory):AWS Certified Security – SpecialtyAWS Certified DevOps Engineer – ProfessionalCertified Information Systems Security Professional (CISSP)Certified Cloud Security Professional (CCSP)
+
 
 
 
