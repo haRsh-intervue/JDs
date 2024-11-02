@@ -813,7 +813,6 @@ JOB DESCRIPTION 31
 
 
 8+ years of experience in cybersecurity, with a focus on architecture and engineering.
-Proficiency in security architecture frameworks (e.g., SABSA, TOGAF).
 Experience with cloud security architectures for AWS, Azure, or GCP.
 Relevant certifications like CISSP or AWS Certified Security - Specialty are preferred.
 Architecture Design: Develop secure architectures and frameworks to support SecOps initiatives.
