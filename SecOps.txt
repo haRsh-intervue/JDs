@@ -364,7 +364,7 @@ What You Will Do
 • Implement and manage security measures like firewalls, VPNs, and intrusion detection/prevention systems.
 • Automation and Continuous Security:
 • Build and manage Infrastructure-as-Code (IaC) scripts using tools like AWS CloudFormation and Terraform to automate secure infrastructure deployment.
-• Automate security tasks by integrating security tools into CI/CD pipelines for continuous security testing and remediation (e.g., AWS Code Pipeline, Jenkins).
+• Automate security tasks by integrating security tools into CI/CD pipelines for continuous security testing and remediation.
 • Incident Response & Monitoring:
 • Develop incident response plans and workflows to detect, contain, and remediate security incidents.
 • Monitor systems and networks for signs of compromise using AWS monitoring tools (e.g., CloudWatch, CloudTrail, XDR).
