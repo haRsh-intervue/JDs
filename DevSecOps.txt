@@ -1,0 +1,1366 @@
+JOB DESCRIPTION 1
+
+Bachelor's degree in Computer Science, Information Technology, or related field.
+
+● 4+ years of experience in software development, operations, or security roles.
+
+● Strong understanding of DevOps principles and practices.
+
+● Strong understanding of CDN (e.g AKAMAI, CLOUDFRONT,CLOUDFARE)
+
+● Strong experience in Cloud technologies, particularly AWS.
+
+● Proficiency in scripting and programming languages (e.g., Python, Ruby, Shell).
+
+● Experience with configuration management and infrastructure as code tools (e.g., Ansible, Terraform).
+
+● Knowledge of containerization technologies (e.g., Docker, Kubernetes) and microservices architecture.
+
+● Familiarity with AWS Well-Architected and security frameworks and standards (e.g., OWASP, NIST, CIS PCI DSS,).
+
+● Certifications such as Certified DevOps Engineer, Certified Information Systems Security Professional (CISSP), or Certified Ethical Hacker (CEH) are a plus.
+
+● Excellent communication and collaboration skills.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 2
+
+10+ years of experience in software development, DevOps practices, and CI/CD processes.
+3+ years in an administrative or architectural role specifically focused on Azure DevOps and GitHub.
+Strong understanding of software development methodologies (Agile, DevOps).
+Proficient in Azure DevOps services, including Boards, Repos, Pipelines, and Artifacts.
+Extensive experience with GitHub features, including Actions, Packages, and repository management.
+Strong understanding of infrastructure as code (e.g., ARM templates, Terraform).
+Familiarity with containerization technologies (e.g., Docker, Kubernetes).
+Strong understanding on system administration, tools lifecycle management, integration framework, basic networking & database administration 
+Experience with cloud platforms (AWS, Azure, GCP) and their security practices
+Familiarity with tools : JFrog Artifactory, SonarQube, Fortify, Snyk, Argo CD
+Strong in YAML scripting
+Knowledge on API based automation for tools onboarding
+
+Preferred Qualifications:
+
+Relevant certifications (e.g., Microsoft Certified: Azure DevOps Engineer Expert, GitHub Advanced Security).
+Experience with security and compliance frameworks.
+Familiarity with agile methodologies and project management tools.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 3
+
+
+Proven experience in DevOps or systems administration roles, with a focus on data infrastructure and platforms. Proficiency in scripting and programming languages such as Python, Bash, or PowerShell. Hands-on experience with Azure cloud and containerization technologies (e.g., Docker, Kubernetes).
+Strong understanding of data management concepts, including data modeling, ETL processes, and data warehousing. Experience with configuration management tools (e.g., Terraform, Ansible, Chef), version control systems (e.g., Git), and CI/CD pipelines.
+Familiarity with monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack) for observability and troubleshooting. Knowledge of database systems (e.g., SQL, NoSQL) and big data technologies (e.g., Hadoop, Spark) is a plus.
+Excellent problem-solving skills and attention to detail. Strong communication and collaboration skills, with the ability to work effectively in a cross-functional team environment
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 4
+
+
+Bachelor's degree in computer science, information security, or related field. 
+3+ years of hands-on experience DevSecOps or security engineering roles.
+Relevant certifications (e.g., CISSP, CCSP, CEH, AWS Security Specialty or equivalent).
+Experience with security test tooling (SAST, DAST, SCA) and integrating them into agile environment and build pipelines.
+Strong experience in implementing and managing vendor security tools across various cloud platforms (AWS, GCP, Azure).
+Proficiency in cloud security and securing infrastructure through Infrastructure as Code (IaC).
+Container security knowledge (Docker, Kubernetes), with expertise in hardening containerized environments.
+Deep understanding of supply chain security frameworks and secure software development practices.
+Proficiency in automation and scripting (Python, Bash) to support security workflows.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 5
+
+
+Bachelor's degree or above in IT, IT-Security, or related fields. 
+At least 6 years of relevant professional experience in similar roles. 
+Proficient oral and written English language skills
+ Experience and deep understanding of vulnerabilities e.g. OWASP Top 10 
+Robust organization skills and dependable management mentality over owned topics like vulnerability management 
+ Good programming skills e.g. python, yaml. 
+Knowledge and understanding of some IT-Security topics e.g. vulnerability management, pen testing, SCA, DAST, SAST, Secret scanning, DevSec and preferably some IT topics e.g. CI/CD pipelines, Azure, Azure DevOps, software engineering, web technologies. 
+Great team player, with self-organization and hands-on mentality. 
+Compassionate about working and supporting development teams and application owners. 
+Security certifications are appreciated or willing to obtain in future
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 6
+
+
+Bachelor’s degree in computer science, Information Systems, or a related field
+Knowledge of AI and Generative AI technologies
+Minimum of 2 years of hands-on experience in the DevSecOps engineering discipline, prefer enterprise engineering experience or equivalent 
+Experience with Application and Infrastructure Operations
+Proficiency in scripting languages (e.g., Bash, Python) for automation tasks and infrastructure management.
+Working knowledge of programming frameworks (e.g., .NET, JAVA) and application development.
+Working experience with Terraform for infrastructure as code (IaC) management, including writing and maintaining modules.
+Experience with CI/CD tools and practices (e.g., Azure DevOps, Jenkins, GitLab CI, GitHub Actions), including creating and managing pipelines.
+Experience with cloud platforms (e.g., AWS, Azure, GCP), including designing and implementing cloud services and architectures.
+Strong analytical and problem-solving skills, with the ability to work effectively in a fast-paced, evolving environment, ensuring platform reliability and scalability.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 7
+
+
+
+A minimum of 10 years’ experience in cybersecurity, with a proven track record in hybrid cloud security and application security. 
+
+- Demonstrated leadership abilities in managing and developing cybersecurity teams. 
+
+- Proven expertise in leading the creation and implementation of comprehensive cybersecurity programs, including team development and strategic oversight. 
+
+- Strong proficiency in incident management and familiarity with security technologies pertinent to application and cloud security. 
+
+- Project management skills, including experience with agile methodologies, to effectively plan, prioritize, and execute development projects. 
+
+- Excellent communication and interpersonal skills, with the ability to work effectively in a cross functional team and communicate technical concepts to non-technical stakeholders. 
+
+- Experience in leading and managing geographically dispersed teams, demonstrating strong capabilities in remote collaboration, communication, and project management to ensure cohesion and productivity across different time zones, cultures, and languages. 
+
+- Professional certifications in cybersecurity (e.g., CISSP, CISM) are highly desirable.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 8
+
+
+Guide "shift-left" paradigm adoption by strategically introducing security testing mechanisms into Rocket's CI/CD pipelines (SAST, DAST, SCA, RASP, and/or IAST)
+Function as subject matter expert for application development on the security team
+Experience with SDLC/OSS compliance system based on automated scanning and categorization
+Operate in a secure coding architect and evangelist capacity with network, systems, developer, application, and other teams throughout Rocket
+Introduce and enforce best development practices
+Design and implement technical security measures to support policies and prove compliance
+Collect security-related metrics and increase security visibility across the organization
+Assist in responding to secure coding service requests and tickets
+Security oriented individual that strives for excellence in all they do
+Prior experience as an SecOps Engineer, SDET or Application Developer role
+Minimum 3 years of experience in software engineering
+Eager to engage in a role that demands software engineering skills and the ability to consistently execute on solutions
+Understanding of software development methodology and lifecycle
+Some experience training others on the use of secure coding tools
+Able to work independently in an autonomous environment
+Strong interpersonal and communication skills, with ability to provide a focus on service
+Enjoy diving into complex technical problems and communicating their solutions
+Be comfortable in a fast changing and fluid environment
+Experience in a software and/or technology company
+Familiarity with managing and deploying tools to cloud service providers such as AWS, Azure, Google Cloud, etc. preferred
+Experience with Jenkins, Bamboo, and Ansible Tower or other automation toolset preferred
+Knowledge of the OWASP Top 10 and/or SANS Top 25 nice to have
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 9
+
+
+
+5+ years of experience in software or firmware security, with a focus on SecDevOps and Secure Development Lifecycle implementation
+Deep knowledge of Linux and embedded systems security with strong growth mindset
+Strong programming skills in languages such as Python, Go, or Ruby, with experience in C/C++ for embedded systems
+Have experienced knowledge of embedded systems development concepts, including cross-platform development and build tools (GNU toolchain, OpenWrt, buildroot, Yocto), bootloaders (U-Boot, coreboot, UEFI), kernel configuration, device drivers, device trees
+Experience with DevOps tools and practices (e.g., Jenkins, GitLab CI, Docker, Kubernetes)
+Experience implementing and running security tools such as SAST, DAST, SCA, and container security solutions
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 10
+
+
+
+Team Leadership:
+Manage, mentor, and guide a team of 3 DevOps engineers.
+Provide technical guidance and career development support to the team.
+Foster a culture of collaboration, accountability, and continuous improvement.
+Cloud Infrastructure & Automation:
+Design, implement, and manage scalable cloud infrastructure (AWS and Google Cloud).
+Lead the automation of infrastructure management using tools like Terraform and Ansible.
+Ensure high availability, scalability, and security of production systems.
+Kubernetes & Containerization:
+Manage and optimize Kubernetes clusters for application deployment.
+Ensure container orchestration is efficient and follows best practices.
+Software Pipelines:
+Design and maintain CI/CD pipelines for seamless application deployments.
+Collaborate with development teams to integrate and improve DevOps processes.
+Operations & Monitoring:
+Implement and manage monitoring systems to ensure application performance and availability (Prometheus, Grafana, OpenSearch, etc.).
+Set up alerts and dashboards for proactive identification and resolution of issues.
+Incident Management:
+Lead incident response and post-incident reviews, ensuring root cause analysis and prevention.
+Develop and maintain disaster recovery and business continuity plans.
+Infrastructure as Code (IaC):
+Drive the adoption of IaC practices to automate infrastructure provisioning and management.
+Ensure configuration management, version control, and deployment are fully automated.
+Project Management:
+Lead DevOps initiatives from planning to execution, managing timelines and deliverables.
+Work closely with engineering and product teams to align DevOps projects with business objectives.
+Proficiency in scripting languages (Python, Bash, etc.) for automation.
+Strong incident handling and root cause analysis skills.
+Experience working with distributed teams.
+Knowledge of security best practices in cloud and DevOps environments.
+Experience with serverless technologies.
+Ability to monitor and optimize cloud costs, including right-sizing and resource allocation.
+Proficient with Git, Jenkins, unit tests, code reviews and other software development practices & tools.
+Familiarity with Agile and Lean methodologies, especially with regards to how they integrate with DevOps in practice.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 11
+
+
+10 years of overall experience.
+7+ years of development or application engineering in languages such as Python, Ruby, Go, Swift, Java, .Net, C++ or similar object-oriented language.
+Experience architecting cloud native CI/CD workflows and tools, such as Jenkins, Bamboo, TeamCity, GitLab etc...
+Architectural leadership experience with microservices and distributed applications.
+Experience with the full software development lifecycle and delivery using Agile practices.
+Experience architecting, designing, and developing applications on one or more Cloud platforms like Azure, AWS etc...
+Experience with Configuration Management platforms (e.g., Chef, Puppet, Salt, or Ansible).
+Experience architecting highly available systems that utilize load balancing and horizontal scalability.
+Experience working directly with partners, product development team or third-party developers.
+Own the quality of DevOps architecture and design.
+Work with Product development, operations and other development teams to understand their requirements. 
+Lead technical elements of solution, prototype and proposal in collaboration with Development & operation team.
+Harvest and harden assets (code, best practices, solution guidance, technique papers, etc.) for reuse within the practice. 
+Functionally decompose complex problems into simple, straight-forward solutions.
+Fully and completely understand system interdependencies and limitation.
+Influence multiple teams, increasing their productivity and effectiveness by sharing your deep knowledge and experience.
+Lead technical and design discussions to help speed their adoption of new technologies and practices.
+Prototype, develop and launch new services capabilities.
+Lead and mentor team members (Dev- ops & automation engineers).
+Experience with Infrastructure as Code, using CloudFormation, ARM templates, Terraform, or other tools.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 12
+
+
+Team Leadership & Management
+
+Lead, mentor, and manage a team of DevOps engineers, fostering their growth and professional development.
+Collaborate with software development, QA, and IT teams to ensure seamless integration and deployment of applications.
+Set clear goals and expectations for the team, conduct regular performance reviews, and provide ongoing feedback.
+
+Infrastructure & Operations
+
+Design, implement, and maintain scalable, reliable, and secure infrastructure using cloud platforms (e.g., AWS, Azure, GCP).
+Oversee the management of servers, databases, and networking resources to ensure optimal performance and uptime.
+Develop and maintain infrastructure-as-code using tools such as Terraform, CloudFormation, or Ansible.
+
+CI/CD Pipeline Management
+
+Design and manage continuous integration and continuous deployment (CI/CD) pipelines to automate the software development process.
+Ensure efficient and reliable build, test, and deployment processes using tools like Jenkins, GitLab CI, or CircleCI.
+Collaborate with development teams to integrate testing, security, and monitoring into the CI/CD pipelines.
+
+Security & Compliance
+
+Work closely with the Information Security Team and Implement and enforce security best practices across all infrastructure and deployment processes.
+Ensure compliance with industry standards and regulations, including data protection and privacy requirements.
+
+Monitoring & Incident Management
+
+Implement monitoring and alerting systems to proactively identify and resolve infrastructure and application issues.
+Lead incident response efforts, including root cause analysis and the development of preventive measures.
+
+Collaboration & Communication
+
+Work closely with cross-functional teams to ensure alignment on project goals, timelines, and deliverables.
+Communicate effectively with stakeholders at all levels to provide updates on infrastructure status, issues, and improvements.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 13
+
+
+5+ years of experience maintaining large-scale production environments in AWS.
+Deep knowledge of AWS, especially with services like S3, CloudFront, ELB, Lambda, VPC, Route 53, RDS, Elasticache, CloudWatch, EC2, Security Center, Kubernetes, ECS/Fargate, ECR.
+Expertise in AWS IAM, security groups, VPC configuration/connection, and encryption services (e.g., AWS KMS), AWS WAF, AWS Shield.
+Proficiency in using AWS security tools such as AWS Config, AWS CloudTrail, AWS GuardDuty, and AWS Security Hub for monitoring, auditing, and managing security incidents.
+Strong working knowledge on compliance, AWS & cloud security.
+Promote and integrate a DevSecOps culture within the organization.
+Solid understanding of networking principles and how it applies to data flow and security.
+5+ years administering Linux environments with programming/scripting experience (e.g., Python, JavaScript, PowerShell).
+Proficiency with Infrastructure as Code (IaC) tools like Terraform, Ansible, and scripting languages (Shell, Python).
+Experience in automating deployments of cloud-based highly-available services (e.g., AWS EC2/RDS, Docker, Kubernetes).
+Experience with monitoring, logging, and analysis tools (e.g., CloudWatch, Datadog, Sumo Logic, New Relic).
+Strong background in implementing and managing security controls, conducting security assessments, and remediating vulnerabilities.
+Experience with version control systems (e.g., Git).
+Worked within agile and lean software development teams.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 14
+
+
+Five years of CI/CD, DevOps experience with good understanding on Software Configuration Management.
+Well versed with Azure DevOps (VSTS).
+Well versed with Azure offerings with work experience on the same as Web apps, ASE, ASP, function apps, SQL PaaS, Storage accounts.
+In-depth knowledge of the Microsoft platform (IIS, .NET, Web Services, SQL Server, SharePoint, Windows Server, Service Fabric, Active Directory etc.).
+Expertise knowledge on container-based applications (AKS).
+Experience to build and deploy applications on Linux environments.
+Ability to maintain and manage repositories on JFrog Artifactory.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 15
+
+
+4+ years of experience working as a software engineer on complex software projects
+ Must have hands-on experience with DevSecOps Tools ,Jenkins,CI/CD , Kubernetes , AWS , Azure , Terraform
+knowledge on (Java, Python, .Net etc.) with problem-solving skills
+Deep Knowledge of architecture design - Microservices architecture, containers (Docker & k8s), messaging queues
+
+Preferred Technical And Professional Experience
+
+Bachelor's degree in Computer Science, related technical field, or equivalent practical experience
+Good to have Certification in one or more of the hyperscalers (Azure, AWS, and Google GCP) - otherwise, you can obtain certifications with Kyndryl
+Experience with DevSecOps tools and modern engineering practices
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 16
+
+
+Minimum 3 years of related work experience in SDLC & cloud ops
+● Team player, proactive, self-driven, self-motivated, solution-oriented, hands-on.
+● Demonstrated experience in Cloud computing technologies, full stack deployments etc.
+● Demonstrated experience in K8S, AWS or GCP, Docker and other cloud native tools
+● Demonstrated skills in Python, NodeJS, MySQL, Redis and ElasticSearch
+● Ability to develop Terraform, K8S manifests or other forms of infrastructure as code
+● Demonstrated experience automating security controls (eg shell scripting, python)
+● Experience in managing information security and privacy risks and threat modeling.
+● BA/BS in Business, Information Systems, Computer Science or a related relevant area of study is a plus
+● Certifications are a plus: SANS GIAC (GCIH, GPEN, GCIA, GCFA and others) , CEH, CISSP, CISA, CISM, LA ISO27001.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 17
+
+
+Provide operational support for maintaining and improving the DevSecOps toolchain, ensuring seamless integration of security practices in the software development lifecycle.
+Collaborate with cross-functional teams, including software developers, IT operations, and cybersecurity experts, to solve technical challenges that align with security best practices.
+Enhance security measures within the development pipeline by automating security testing and implementing robust monitoring tools.
+Develop and maintain documentation of processes, workflows, and configurations to support transparency and knowledge sharing.
+Conduct periodic vulnerability assessments and security reviews to identify and mitigate potential risks within the CI/CD pipelines.
+
+Qualifications:
+Bachelor’s degree in Computer Science, Information Security, or a related field.
+Proven experience with DevSecOps tools such as Jenkins, Docker, Kubernetes, and security frameworks (e.g., OWASP).
+Strong understanding of cybersecurity trends, vulnerabilities, and emerging security technologies.
+Familiarity with scripting languages like Python, Bash, or PowerShell for automation tasks.
+Excellent communication skills for coordinating across teams and articulating security issues to technical and non-technical stakeholders.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 18
+
+
+Extensive experience with cloud security solutions, including AWS, Azure, or Google Cloud.
+In-depth knowledge of secure coding practices, encryption standards, and data protection mechanisms.
+Advanced certifications in security (e.g., CISSP, CISM, AWS Security Specialty).
+Familiarity with threat modeling and risk assessment methodologies.
+Strong interpersonal skills to effectively manage team members and collaborate across departments.
+Lead the development, design, and implementation of security strategies for DevSecOps practices across various teams, ensuring that security is embedded throughout the software development lifecycle.
+Oversee secure software development practices, including code reviews, static and dynamic analysis, vulnerability assessments, and secure coding training for developers.
+Collaborate with development and operations teams to integrate automated security checks in CI/CD pipelines, enhancing early vulnerability detection.
+Mentor junior DevSecOps engineers, providing guidance on best practices, troubleshooting, and professional development.
+Maintain security documentation, establish metrics to track success, and perform root cause analysis on security incidents.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 19
+
+
+5+ years of DevOps/DevSecOps experience, with a focus on security, automation, and cloud infrastructure.
+
+Expertise in Terraform for provisioning cloud resources and infrastructure automation.
+
+Expertise with Docker and container orchestration (ECS/EKS).
+
+Expertise experience with AWS services, including ECS, ECR, EKS, Cognito, Lambda, S3, VPC Transit Gateway, and Route53-.
+
+Proficiency in Docker, with experience containerizing applications and deploying them on AWS ECS Fargate and EKS Fargate.
+
+Proficiency in GitHub and GitHub Actions, including managing repositories, creating workflows, and automating deployment pipelines.
+
+Proficiency in TypeScript/JavaScript, including experience with frameworks like NestJS and Next.js.
+
+Solid understanding of CI/CD processes and ability to architect scalable, efficient pipelines.
+
+Experience with networking and security in AWS (e g, VPC, IAM, Security Groups).
+
+Ability to work independently and manage complex tasks in a fast-paced environment with minimal oversight.
+
+Strong problem-solving skills with a focus on security, automation, and efficiency.
+
+Excellent written and verbal communication skills.
+
+Nice to Have:.
+
+Familiarity with compliance frameworks such as NEST CSF, HIPAA, SOC 2, or similar.
+
+Experience working in highly secure, regulated environments
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 20
+
+
+3+ years' experience in Cloud Testing or Cloud Engineering.
+
+- Experience working on Agile-based projects.
+
+- Graduation in Computer Science, Engineering, or similar field.
+
+- Good interpersonal and team working skills.
+
+Mandatory skills:
+
+- Develop, improve, and maintain automated tests in collaboration with Full-Stack Engineers and DevOps Engineers
+
+- Experienced on different OS (Linux, Windows).
+
+- Knowledge of Shell scripting.
+
+- Experience with programming languages including Java, JavaScript, and Python
+
+- Good understanding of smart contract written in Go lang, particularly if the testing involves executing transactions and evaluating smart contract behaviour.
+
+- Strong understanding of networking fundamentals, including TCP/IP, DNS, HTTP/HTTPS, firewalls, routers, and switches.
+
+- Knowledge of network security principles, encryption, secure communication protocols, and the ability to identify and mitigate network-based attacks.
+
+- Experience with Infrastructure as Code tools (e.g., Terraform, Ansible) for automating the deployment and configuration of blockchain nodes and supporting infrastructure.
+
+- Familiarity with cloud platforms (e.g., AWS, Azure) and the ability to deploy and manage blockchain nodes in cloud environments.
+
+- Knowledge of containerization technologies such as Docker and container orchestration tools like Kubernetes for deploying and managing blockchain components.
+
+- Monitoring tools: Prometheus, Grafana.
+
+- Familiarity with network protocols specific to blockchain, such as the Ethereum peer-to-peer (P2P) protocol or Hyperledger Fabric communication protocols.
+
+Good to have:
+
+- Understanding of blockchain concepts, including distributed ledgers, consensus algorithms, smart contracts, and decentralized networks.
+
+- Understanding with popular blockchain platforms such as Ethereum, Hyperledger Fabric, Binance Smart Chain, or others.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 21
+
+
+Person with minimum 12 years of experience in IT (preferably in software development, testing or Infrastructure areas) with at least 8+years in DevOps/SRE/DevSecOps area supporting various activities across Delivery, Presales and Practice.
+DevOps technology/delivery related skills
+o Experience in
+Continuous delivery, Agile Development Practices and Lean start-up methodology and should be proficient in cutting edge of DevOps, Cloud technologies.
+Implementing/Leading DevOps transformation journeys for enterprise customers
+Automating large enterprise production environments, one click provisioning, deployments & IAAC (Infrastructure as a Code)
+IAAC tools like terraform, AWS cloud formation, GCP deployment Manager, Azure ARM templates or multi-cloud provisioning tools.
+Experience on automating build & release process cycles.
+Minimum 5 or more on below DevOps tooling:
+Jenkins, GitLab, GitHub, Fortify, Checkmarx, SonarQube, Artifactory, Spinnaker, Argo CD, Rancher, Ansible, Chef, Puppet Terraform, Digital ai, Plutora, Cloudbees etc.,
+Onboarding below mentioned application technologies (two or more) into DevOps automation platform:
+Java, Python, Node, Data Science, Salesforce etc.,
+o Market awareness on latest DevOps Tools, trends, and Solutions
+DevOps Practice and Presales related skills.
+o Experience in creating solutions for Client requirements with exposure to writing proposals, responding to RFP(Q) and other presales functions.
+o Experience in performing consulting and due-diligence activities in DevOps area.
+o Should be a thought leader and should have presented multiple papers in various conferences on DevOps.
+o Should have been a subject matter expert in DevOps in Customer facing roles.
+o Exposure for creating collaterals for marketing and sales support
+Soft Skill
+Soft Skills: Good communication, analytical and presentation skills, problem solving skills and learning attitude.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 22
+
+
+Build and operate cloud infrastructure for Prudential Health India, including all aspects of DevSecOps e.g. release management, infrastructure provisioning through CI / CD tools, monitoring & alerting of application, database management, infrastructure security and site reliability engineering.
+Participate in all stages of the development lifecycle, from requirements gathering, to deployment to production, to triaging production issues, to proactive monitoring.
+Design, develop, unit test and implement pipeline and infrastructure programs that support high availability (5 9 s uptime), flex scalability, reliability (instant failover to BCP/DR) with latency to be 99th percentile being less than 30ms.
+Come up with desired sets of standards to be followed to build and deploy backend and frontend continuously and seamlessly.
+Conceptualize and incorporate reusable pipelines and infrastructure development frameworks.
+Create specifications and detailed plans, write code, own unit, performance and functional testing and debugging, and play an active role in the rollout and launch.
+Work in close collaboration with other engineers, designers, R&D, analysts, product managers and other teams and stakeholders to achieve desired outcomes for the company.
+Required to forecast, budgeting and optimize software license & infrastructure costs.
+Manage multiple interfaces (internal and external), relationship and communication to ensure systems are running and available.
+Mentor and upskill other technical staff on DevSecOps principles.
+Develop capabilities ingrained with enough intelligence around user activities and usage 100% adherence to enable user behavioural analytics using events and crashalytics
+You can define and ensure adherence to architecture and coding standards
+Keeping up with innovativeness to build world class propositions using bleeding edge technologies, frameworks and best practices as needed to bring differentiation through technology.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 23
+
+
+
+Job description
+DevSecOps with Azure or AWS background DevSecOps Engineer - Senior
+The DevSecOps Engineer Senior is pivotal in embedding security seamlessly into the development lifecycle, ensuring the deployment and operation of secure and compliant business applications.
+This role requires a strong focus on automation, security integration, and continuous monitoring within the DevOps framework, fostering a culture of Continuous Integration/Continuous Deployment (CI/CD) that prioritizes security.
+Qualifications:
+Key Attributes:
+7+ years of experience in a DevSecOps role, with demonstrated expertise in integrating security into DevOps processes.
+Strong technical foundation in deploying and maintaining secure, scalable systems within a CI/CD pipeline.
+Proficient in the use of security orchestration and automation tools and familiar with regulatory compliance requirements impacting system security.
+Design and implement secure automation solutions for development, testing, and operational processes to enhance system security and compliance.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 24
+
+
+Senior DevSecOps SME who will be a part of the DevSecOps Practice teamDefine, evolve and maintain DevSecOps standards, practices and process.Work with DevSecOps Practice, Platforms & Value Streams to continuously improve overall DevSecOps maturity.
+
+Engage with business teams & stakeholders to articulate DevSecOps opportunities and value.
+Engage with the platform owners and teams (Strategic Core, Data, Integration, Digital etc.) to plan and adopt DevSecOps practices.
+Ability to appreciate complexities and dependencies across all platforms to decide on DevSecOps standards and exception.
+DevSecOps Solution design assessment based on technology.
+Ability to work with Architecture Review Boards, Cyber Security to secure approvals on tool choices, solution etcExperience with multiple DevSecOps tooling & technology to build a PoV on modernising and simplifying the DevOps processesIdentify scope, Analyse, Design and Develop end to end DevSecOps or CICD solution for platform applications.
+Coach and train platform engineers on DevSecOps methodology and solution for effective use of capabilities and to enable cross-functional autonomous team culture.
+Provide guidance and consultancy for issue resolution with DevSecOps pipelines.
+DevSecOps governance and reporting across Platforms & Value Streams.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 25
+
+
+Proven 5 years of experience as a DevSecOps Engineer or a similar role, with a strong focus on
+
+security in the software development and operations lifecycle
+Deep understanding of security principles, best practices, and frameworks
+Strong knowledge of cloud platforms (e.g., AWS/Azure/GCP), infrastructure-as-code tools (Terraform/CloudFormation), Kubernetes, Docker, etc
+Proficiency in scripting languages and experience with automation and configuration management tools
+Hands-on experience with containerization technologies and associated security practices
+Experience with security scanning tools, vulnerability management platforms, and secure code analysis tools
+Knowledge of network security, web application security, and secure coding practices
+Excellent analytical and problem-solving skills, with the ability to think critically and prioritize tasks effectively
+Strong communication and collaboration skills, with the ability to work effectively in cross-functional teams
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 26
+
+
+Well-versed with Kubernetes (OpenShift) and Docker,container automation,and deploying Kubernetes clusters in the cloud (preferably Azure)
+Experience in creating Docker images,Docker files,maintaining versions of builds and images,Openshift,Helm charts
+Experience in security compliance certifications like FIPS,SOC2,etc
+Preferred Technical and Professional Expertise . .
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 27
+
+
+Roles & Responsibility : Develop security strategies and guidance documentation that drives the strategy
+Continuously improve the processes and procedures to include report exceptions/ risk acceptance for further review.
+Lead vulnerability assessments and monitoring services across several applications
+Knowledge of at least one of these security software Black duck/Twist lock/Coverity
+Knowledge of implementing Software Scanning in pipeline.
+Resolve technical issues escalated from app team
+Contribute to the development of security policies and security standards.
+Proficient in Java with 2-3 years of experience
+3+ yrs experience in DevSecOps and Software Security
+Knowledge of Java based build tools Maven, Gradle.
+Familiar with DevOps Tools/pipeline is plus Jfrog Artifactory, Jenkins
+Strong presentation, speaking, collaboration, and writing skills
+Basic cloud proficiency with GCP, AWS, or Azure.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 28
+
+
+Over 5 years of hands-on experience with programming languages such as Go, Python, Bash Scripting, and NodeJS/JavaScript (any one).
+Proven track record in developing and maintaining CI/CD pipelines for software delivery, with a focus on incorporating security best practices throughout the process.
+Knowledge of security tools, including static code analysis, vulnerability scanners, and intrusion detection/prevention systems.
+Experience on Containers and Container Orchestration tools such as Docker and Kubernetes.
+Familiarity with cloud platforms and their orchestration using IAC tools like Terraform.
+Understanding of version control systems like Git and artifact management tools such as JFrog Artifactory.
+
+
+Preferred Technical and Professional Expertise
+IBM Cloud Databases (NoSQL, Cloudant)
+IBM Kubernetes Service
+Red Hat OpenShift on IBM Kubernetes Service
+IBM Secrets Manager
+IBM Cloud Object Store
+IBM Continuous Delivery Service
+Activity Tracker, Sysdig and LogDNA
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 29
+
+
+Strong knowledge of build systems such as CMake and package manager Conan.
+
+- Proficiency in Python and Shell scripting, with experience in writing cross-platform scripts and good debugging skills. Knowledge of C++ is desirable.
+
+- Solid understanding of Linux and Windows operating systems.
+
+- Expertise in setting up, managing, and optimizing CI/CD pipelines using tools like Jenkins and GitLab CI/CD.
+
+- Mastery of version control systems like Git.
+
+- In-depth knowledge of security best practices and the ability to implement security measures within the CI/CD pipeline, infrastructure, and applications.
+
+- Familiarity with Agile methodologies and DevSecOps principles.
+
+- Experience with infrastructure as code for automated provisioning and configuration.
+
+- Excellent communication and collaboration skills.
+
+- Strong analytical, problem-solving, and troubleshooting abilities.
+
+- Adaptability, a continuous learning mindset, effective time management, and the ability to work under pressure and manage multiple tasks simultaneously.
+
+- Should have experience of 7+ years. Python / C++ / GIT / Jenkins / Conan / Cmake skill
+
+- Strong knowledge of build systems such as CMake and package manager Conan, CMake and Conan.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 30
+
+
+Qualification: BE / B.Tech / MCA / ME / M.Tech
+Good understanding of the end to end DevOps/DevSecOps Process & implementation for applications
+Good knowledge of Unix / Linux / Windows environments
+Good Know how of git based source code repositories is a must
+Good with Linux fundamentals.
+Experience in building devOps framework for Windows & Linux based applications
+Familiarity with cloud technologies is a plus
+Experience in Build tools like maven / Gradle / MsBuild / NuGet is a plus
+What You Need to Succeed
+Build and maintain the DevOps pipelines for the Project
+Build,Manage and enhance the deployment environments & platform(On prem K8s knowledge is a must)
+Work with the Development team to ensure that the build and deployment happens as per the requirement
+Trouble shoot and address issues related to the DevOps Framework
+Address the issues related to the Deployment environment
+Integrate the security scans in the DevOps pipeline and address the issues related to security scans
+Integrate testing framework & process into the DevOps Pipelines
+Work with the different teams to understand the current build and deployment process & enhance the process whenever required.
+Develop scripts/automation to address various business requirements
+Lead the Application Installer/Packaging activities
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 31
+
+
+Candidates should have 8 - 12 years of IT Experience
+
+Candidates should have a minimum 6 years of experience on DevOps on AWS
+
+Should have the ability to set up a DevOps platform for a newly built project
+
+Must have 3 years of Terraform experience
+Strong presentation and communication skills
+
+Experience presenting DevOps solution designs/Architecture
+
+Should have worked on both Infrastructure CI/CD and Application CI/CD
+Should have working experience with AWS native DevOps tools like Codecommit, CodeBuild, Code Deploy or third party DevOps tools like Git/Git Lab, Jenkins
+Knowledge on containers platform with Docker or Kubernetes
+Below AWS experience also recommended
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 32
+
+
+5+ years of experience in a DevOps or SRE role.
+
+Strong knowledge of Kubernetes (k8s) and experience with multiple cloud platforms: AWS, Azure, and GCP.
+
+Experience with Argo CD, Terraform, Helm, and Helmfile.
+
+Proven experience migrating infrastructure to Kubernetes clusters.
+
+Excellent analytical and problem-solving skills.
+
+Quick learner with the ability to adapt to new technologies and processes.
+
+Strong communication and collaboration skills.
+
+Experience with setting up monitoring, alerts, and load testing.
+
+Familiarity with scripting languages such as Bash, Python, or Go.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 33
+
+
+Overall 5+ years of relevant experience
+Bachelors degree in Computer Science or a related technical discipline, or equivalent practical experience.
+Solid understanding of Amazon Web Services (AWS) including VPC, ELB, IAM, KMS, EC2, S3, CloudTrail, CloudFormation, CloudWatch, Cloud HSM, AWS Encryption SDK, RDS, ELB, AWS Route 53, CloudFront, SNS
+Understanding of security frameworks and standards like OWASP NIST, Solid understanding of security protocols, cryptography, authentication, authorization
+Good understanding of Linux and Windows OS, TCP/IP protocol stack and networking fundamentals, and security principles at all layers of the OSI stack
+Experience with API security, AWS cloud security, container security, network security, cryptography, PKI, certificate management,
+Experience in CI/CD Tools Including Git, Jenkins, Ansible, or similar
+Knowledge and experience in web application security testing, vulnerability assessment, penetration testing, and generating reports using tools like Burp Suite, Paros, AppScan, Wireshark, Nmap, and Nessus.
+Experience in designing cloud-native security architectures applying defense in-depth strategies
+Advanced Expertise in at least one scripting language, Shell scripting, and AWS CLI
+Expert knowledge of container security (Docker/Kubernetes), Container security tools such as Twistlock and Aquatic
+Experience with third-party cloud security tools
+Experience with tooling and systems for a build, infrastructure automation, and monitoring
+Extensive experience in information security and risk management
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 34
+
+
+At least 5 years of relevant working experience in DevSecOps, Task Automation, or GitOps.
+Demonstrated proficiency in installation, configuration, or implementation in one or more of the following software.
+Jenkins, Azure DevOps, Bamboo, or software of similar capability.
+GitHub, GitLab, or software of similar capability.
+Jira, Asana, Trello, or software of similar capability.
+Ansible, Terraform, Chef Automate, or software of similar capability.
+Flux CD, or software of similar capability.
+Any test automation software.
+Any service virtualization software.
+Operating Software administration experience for Ubuntu, Debian, Alpine, RHEL.
+Technical documentation writing experience.
+DevOps Engineering certification for on-premises or public clouds is advantageous.
+Experience with work planning and effort estimation is an advantage.
+Strong problem-solving and analytical skills.
+Strong interpersonal and written and verbal communication skills.
+Highly adaptable to changing circumstances. Interest in continuously learning new skills and technologies.
+Experience with programming and scripting languages (e.g., Java, C#, C++, Python, Bash, PowerShell).
+Experience with incident and response management.
+Experience with Agile and DevOps development methodologies.
+Experience with container technologies and supporting tools (e.g. Docker Swarm, Podman, Kubernetes, Mesos).
+Experience with working in cloud ecosystems (Microsoft Azure AWS, Google Cloud Platform).
+Experience with configuration management systems (e.g. Puppet, Ansible, Chef, Salt, Terraform).
+Experience working with continuous integration/continuous deployment tools (e.g. Git, Teamcity, Jenkin, Artifactory).
+Experience in GitOps-based automation is Plus
+Experience with Github for Actions, Github for Security, and GitHub CoPilot
+BE/B-Tech/MCA or any equivalent degree in Computer Science OR related practical experience.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 35
+
+
+Must have 5+ years working experience in Jenkins, GCP (or AWS/Azure), Unix & LINUX OS
+Must have experience with automation/configuration management tool (Jenkins using Groovy scripting, Terraform, Ansible or an equivalent)
+Must have experience in Kubernetes (GKE, KUBECTL, HELM) and containers (Docker)
+Must have experience on JFrog Artifactory and SonarQube
+Extensive knowledge of institutionalizing Agile and DevOps tools, not limited to but including Jenkins, Subversion, Hudson, etc.
+Experience on Networking Skills (TCP/IP, SSL, SMTP, HTTP, FTP, DNS and More)
+Hands-on in source code management tools like Git, Bitbucket, SVN, etc.
+Should have working experience with monitoring tools like Grafana, Prometheus, Elasticsearch, SPLUNK, or any other monitoring tools/processes.
+Experience on Enterprise High Availability Platforms and Network and Security on GCP.
+Knowledge and experience in Java programming language
+Experience working on large-scale distributed systems with deep understanding of design impacts on performance, reliability, operations, and security is a big plus.
+Understanding of self-healing/immutable microservice-based architectures, cloud platforms, clustering models, and networking technologies.
+Great interpersonal and communication skills
+Self-starter and be able to work well in a fast-paced, dynamic environment with minimal supervision
+Must have Public Cloud provider certifications (Azure, GCP or AWS)
+Having CNCF certification is plus
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 36
+
+
+Delivering a reliable and scalable cloud-based educational Software-as-a-Service to our customers
+Designing automation, monitoring, deployment, configuration, service discovery tools and services
+Delivering simple yet robust software solutions by collaborating cross-functionally with internal/external customers
+Performing routine assessments of the Group s software security landscape, identifying possible improvements with the minimum disruption
+Performing source code and deployment scans for vulnerabilities and following up on the remediation of findings with the development team
+Developing security reports about the current state of infrastructure and deployments.
+Working closely with developers, adding security gates into CI/CD systems
+Following up on issue resolution and documentation with vendors and other IT personnel
+Integration of OWASP and automation testing in pipelines for package scanning and shift left testing.
+
+Qualifications & Experience
+
+1 - 2+ years of cloud DevOps or DevSecOps experience
+Extensive experience working with Microsoft Azure
+Good experience on Jenkins .
+Proficiency in containers and orchestration platforms (Kubernetes, Docker, Helm), infrastructure orchestration tools (Terraform), continuous integration and delivery tools (GitLab CI)
+Understanding of RBAC, pod identity, key management and security monitoring.
+Scripting language programming skills
+Exposure to the administration of application servers, web servers, and databases
+Knowledge of modern vulnerability security scanners.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 37
+
+
+Proven experience in DevSecOps, DevOps, or a similar role with a strong focus on AWS security.
+Deep knowledge of AWS services and security best practices, including VPC, IAM, GuardDuty, Shield, Security Hub, and CloudTrail.
+Experience with CI/CD tools compatible with AWS environments, such as AWS CodePipeline, Jenkins, or GitLab CI/CD.
+Hands-on experience with Infrastructure as Code (IaC) using AWS CloudFormation or Terraform.
+Experience with Datadog for monitoring, logging, and security alerting in DevOps environments.
+Familiarity with security frameworks and compliance standards (e.g., NIST, CIS, ISO 27001) and experience implementing controls to meet these standards in AWS.
+Proficiency in scripting (e.g., Python, Bash) to automate AWS security tasks.
+Strong analytical skills with a keen eye for identifying security threats and resolving them efficiently.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 38
+
+
+10+ years of experience of IT experience.
+Expert level knowledge on cloud foundational services around connectivity, networking, IAM and security (either AWS/Azure) cloud native preferred.
+Significant knowledge of security best practices for client-server product architectures, focusing predominantly on cloud-based server development
+Significant knowledge of AWS/Azure foundational (security) services around EC2, IAM, CloudWatch, CloudTrail, Config, Lambda, Security Groups, VPCs, WAF, Guard Duty, Inspector, AWS Security Hub, Azure Security Center etc.
+Experience on DevOps with large scale CI/CD implementation using IaC tools – Cloud Formation Template, Terraform on Azure, Azure DevOps, ARM Templates, AWS Code Build, Code Pipeline etc(integration with security plugins) and container orchestration technologies - Docker, Kubernetes, Mesos (nice to have)
+Experience with setting up and maintaining always available CI/CD pipeline with strong knowledge of toolchain (cloud native preferred) for build and dependency management tools, Static analysis tools, automation tools, configuration management and provisioning tools, Sonar Qube, Black Duck, JaCoCo, Jenkins, TeamCity, Atlassian Tools, Artifactory, Nexus etc.
+Experience with cloud-based security management/IDS/IPS/SIEM tools, such as Splunk, Dome9, AlienVault, AlertLogic, Fortinet, Threat Stack, etc.
+Programming or scripting experience with a popular modern language utilized by above tools (Java, Python, Ruby, etc.).
+Experience extracting pertinent security data from SIEM solutions and AWS audit, logs, and reports
+Experience in performing security vulnerability assessments, good familiarity with regulations and standards like Security, PCI and Data Privacy
+Bachelor’s degree or higher in Computer Science, Engineering, or other Engineering or Technical discipline or equivalent relevant experience
+4+ years of experience with Security Best Practices, implementing enterprise-grade security solutions
+3+ years of experience with AWS development and management (AWS Associate certification or higher preferred)
+2+ years of experience writing code or scripts in a modern programming or scripting language (Java, Python, Ruby, etc.).
+One or more recognized security and cloud specific certifications, e.g., CCSP, SSCP, CISSP, CCSK
+Self-motivated, proactive, driven individual
+Strong interpersonal, oral, and written communication skills
+Ability to work independently and in group environments
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 39
+
+
+Bachelor s degree in computer science, Information Systems, or a related field
+Minimum 1 year of experience with AI and Generative AI technologies or equivalent
+Minimum of 5 years of hands-on experience in the DevSecOps engineering discipline, prefer enterprise engineering experience or equivalent.
+Experience with Application and Infrastructure Operations
+Proficiency in scripting languages (e.g., Bash, Python) for automation tasks and infrastructure management.
+In-depth knowledge of programming frameworks (e.g., .NET, JAVA) and application development.
+Extensive experience with Terraform for infrastructure as code (IaC) management, including writing and maintaining modules.
+Proficiency with CI/CD tools and practices (e.g., Azure DevOps, Jenkins, GitLab CI, GitHub Actions), including creating and managing pipelines.
+Comprehensive experience with cloud platforms (e.g., AWS, Azure, GCP), including designing and implementing cloud services and architectures.
+Strong analytical and problem-solving skills, with the ability to work effectively in a fast-paced, evolving environment, ensuring platform reliability and scalability.
+
+Thought Leadership and Soft skills:
+
+Excellent communication and collaboration skills, with a willingness to learn and contribute to team success.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 40
+
+
+7+ years of experience in Azure DevOps and Terraform
+Strong understanding of DevOps principles and practices
+Experience with infrastructure as code (IaC) tools like Terraform, Ansible, or CloudFormation
+Experience with containerization technologies like Docker and Kubernetes
+Experience with monitoring and logging tools like Prometheus, Grafana, and ELK stack
+Strong understanding of security best practices and compliance frameworks
+Excellent problem-solving and troubleshooting skills
+Strong written and verbal communication skills
+Experience in cloud architecture design and implementation
+Candidates with Certified DevSecOps Professional (CDP) Certificate and Azure certification would be preferred
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 41
+
+
+Bachelor s Degree in Computer Science or Software Engineering with 5+ years of hands-on experience in software development, automation tooling, open source technologies.
+Develop and implement security policies, protocols and procedures.
+Experience with microservice deployment and monitoring.
+Experience creating and administrating release management processes and integration with source control management and best practices using Repositories like Bitbucket, Git, Artifactory.
+Strong deployment background with DevOps pipelines and tools, such as Jenkins and Maven.
+Experience with AWS, or similar cloud services
+Databases like MongoDB and MySQL.
+Configuration Management & Infrastructure as Code, such as Ansible or Chef.
+Container Technologies like Docker and Kubernetes.
+Strong background in Linux/Unix administration.
+Experience with NGINX and other load balancing technologies.
+Strong exposure to Java and Javascript.
+Working understanding scripting languages such as Bash, Python and/or Perl.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 42
+
+
+Bachelor s Degree in Computer Science or Software Engineering with 5+ years of hands-on experience in software development, automation tooling, open source technologies.
+Develop and implement security policies, protocols and procedures.
+Experience with microservice deployment and monitoring.
+Experience creating and administrating release management processes and integration with source control management and best practices using Repositories like Bitbucket, Git, Artifactory.
+Strong deployment background with DevOps pipelines and tools, such as Jenkins and Maven.
+Experience with AWS, or similar cloud services
+Databases like MongoDB and MySQL.
+Configuration Management & Infrastructure as Code, such as Ansible or Chef.
+Container Technologies like Docker and Kubernetes.
+Strong background in Linux/Unix administration.
+Experience with NGINX and other load balancing technologies.
+Strong exposure to Java and Javascript.
+Working understanding scripting languages such as Bash, Python and/or Perl.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 43
+
+
+
+5-7 years of experience in Azure Cloud Engineering.
+
+2-4 years of experience in a Security or DevSecOps role.
+
+Extensive experience with Azure cloud security and related services (e g, Azure Sentinel, Azure Firewall, Defender, WAF).
+
+Strong understanding of compliance standards (e g, ISO 27001, GDPR, HIPAA).
+
+Hands-on experience with Infrastructure-as-code (Terraform).
+
+Ability to translate security and technical requirements into business requirements.
+
+Strong communication skills to interact with stakeholders at all levels.
+
+Proven track record of leading security teams and owning security operations.
+
+Experience with DevSecOps practices and CI/CD pipeline integration.
+
+Have experience working with WIZ reports & troubleshooting.
+
+Ability to implement and drive Cloud and Data security initiatives.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 44
+
+
+10+ years of experience of IT experience.
+Expert level knowledge on cloud foundational services around connectivity, networking, IAM and security (either AWS/Azure) - cloud native preferred.
+Significant knowledge of security best practices for client-server product architectures, focusing predominantly on cloud-based server development
+Significant knowledge of AWS/Azure foundational (security) services around EC2, IAM, CloudWatch, CloudTrail, Config, Lambda, Security Groups, VPCs, WAF, Guard Duty, Inspector, AWS Security Hub, Azure Security Center etc.
+Experience on DevOps with large scale CI/CD implementation using IaC tools - Cloud Formation Template, Terraform on Azure, Azure DevOps, ARM Templates, AWS Code Build, Code Pipeline etc(integration with security plugins) and container orchestration technologies - Docker, Kubernetes, Mesos (nice to have)
+Experience with setting up and maintaining always available CI/CD pipeline with strong knowledge of toolchain (cloud native preferred) for build and dependency management tools, Static analysis tools, automation tools, configuration management and provisioning tools, Sonar Qube, Black Duck, JaCoCo, Jenkins, TeamCity, Atlassian Tools, Artifactory, Nexus etc.
+Experience with cloud-based security management/IDS/IPS/SIEM tools, such as Splunk, Dome9, AlienVault, AlertLogic, Fortinet, Threat Stack, etc.
+Programming or scripting experience with a popular modern language utilized by above tools (Java, Python, Ruby, etc.).
+Experience extracting pertinent security data from SIEM solutions and AWS audit, logs, and reports
+Experience in performing security vulnerability assessments, good familiarity with regulations and standards like Security, PCI and Data Privacy
+Bachelor s degree or higher in Computer Science, Engineering, or other Engineering or Technical discipline or equivalent relevant experience
+4+ years of experience with Security Best Practices, implementing enterprise-grade security solutions
+3+ years of experience with AWS development and management (AWS Associate certification or higher preferred)
+2+ years of experience writing code or scripts in a modern programming or scripting language (Java, Python, Ruby, etc.).
+One or more recognized security and cloud specific certifications, e.g., CCSP, SSCP, CISSP, CCSK
+Self-motivated, proactive, driven individual
+Strong interpersonal, oral, and written communication skills
+Ability to work independently and in group environments
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 45
+
+
+
+Bachelors degree in computer science, information security, or related field.
+3+ years of hands-on experience DevSecOps or security engineering roles.
+Relevant certifications (e.g., CISSP, CCSP, CEH, AWS Security Specialty or equivalent).
+Experience with security test tooling (SAST, DAST, SCA) and integrating them into agile environment and build pipelines.
+Strong experience in implementing and managing vendor security tools across various cloud platforms (AWS, GCP, Azure).
+Proficiency in cloud security and securing infrastructure through Infrastructure as Code (IaC).
+Container security knowledge (Docker, Kubernetes), with expertise in hardening containerized environments.
+Deep understanding of supply chain security frameworks and secure software development practices.
+Proficiency in automation and scripting (Python, Bash) to support security workflows.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 46
+
+
+Experience working on integrated DevSecOps tool chain ecosystem (GitHub, JFrog Artifactory, Jira, Confluence, SonarQube)
+
+Experience on Continuous Integration (CD) and Continuous Deployment (CD) practices (GitHub Actions)
+
+Experience on Infrastructure as Code (IaC) and GitOps technologies (Terraform or Ansible, Docker and Kubernetes) and cloud providers (Azure or AWS)
+
+Able to steer and guide software offers by dealing with the adoption of referenced guidelines and practices along the SDLC
+
+Strong communication skills
+
+Strong project management skills, being able to build a deployment/migration roadmap with business stakeholders and deliver according to plan with the support of Jira Support Team
+
+Strong collaboration skills to partner with business stakeholders in charge of software offers' SDLC practices
+
+Change management skills to define and execute a communication and training strategy to ensure correct adoption by teams
+
+Able to engage with stakeholders across different time zones, especially India, Europe and America
+
+Able to run an assessment of a Team way of working and propose continuous improvement plan based on internal defined assessments
+
+Able to work in a truly global environment
+
+Knowledge on Lean and Agile product management.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 47
+
+
+Bachelor's degree in computer science, information security, or related field.
+3+ years of hands-on experience DevSecOps or security engineering roles.
+Relevant certifications (e.g., CISSP, CCSP, CEH, AWS Security Specialty or equivalent).
+Experience with security test tooling (SAST, DAST, SCA) and integrating them into agile environment and build pipelines.
+Strong experience in implementing and managing vendor security tools across various cloud platforms (AWS, GCP, Azure).
+Proficiency in cloud security and securing infrastructure through Infrastructure as Code (IaC).
+Container security knowledge (Docker, Kubernetes), with expertise in hardening containerized environments.
+Deep understanding of supply chain security frameworks and secure software development practices.
+Proficiency in automation and scripting (Python, Bash) to support security workflows.
+&nbsp;
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 48
+
+
+8+ years’ IT industry experience with skills using DevOps tools to automate software development process.
+Application Development experience with programming languages such as Java, Java script, and Angular,
+Application or Infrastructure Support experience is a required.
+Administration experience in DevOps tools such as Jenkins, Bitbucket, JIRA, Fortify, SonarQube, and Nexus
+Experience with technologies and platforms including UNIX/Linux, Git, Maven, OpenShift, Chef, Kubernetes, Docker , across the Finance and Service Sector
+Scripting/programming experience using groovy, python, terraform, bash or ksh and PowerShell.
+AWS Cloud services such as compute, networking, and security.
+Implementation experience in Continuous Integration, Continuous Deployment, Continuous Delivery and DevOps Operations for Agile projects.
+Experience in supporting systems from an infrastructure, code, and security perspective.
+Experience in issue/bug tracking tools (JIRA)
+Solid understanding of Incident, Problem, and Change Management ITIL processes
+Understanding of Linux systems
+Ability to communicate effectively (both written and verbal)
+Familiarity with Programming languages such as Java, Angular and Python
+Working experience with tools such as Tomcat, Kibana, Splunk, WebSphere, and Power BI is a plus.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 49
+
+
+Extensive experience with wide range of AWS services
+5-7 years of experience in Azure Cloud Engineering.
+2-4 years of experience in a Security or DevSecOps role.
+Extensive experience with AWS cloud security and related services (e.g., EC2, S3, VPC, IAM).
+Proficiency in security tools and technologies such as AWS Security Hub, Guard Duty, and IAM.
+Strong understanding of compliance standards (e.g., ISO 27001, GDPR, HIPAA).
+Hands-on experience with systems automation and deployment tools (e.g., Cloud Formation, Terraform, Jenkins).
+Ability to translate security and technical requirements into business requirements.
+Strong communication skills to interact with stakeholders at all levels.
+Proven track record of leading security teams and owning security operations.
+Have experience working with WIZ reports & troubleshooting.
+Ability to implement and drive Cloud and Data security initiatives.
+Benefits:
+Hybrid working arrangements (2/3 days in the office)
+Annual performance-related bonus
+Health insurance
+6x Flexi Fridays: knock 2.5 hours off your day on any day.
+Engaging, fun & inclusive culture: check out the MRI Software APAC Insta feed and stories!
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 50
+
+
+5 to 18+ years of total industry experience and more than 8+ years of DevSecOps experience
+MUST have worked in a Practice/Center of Excellence (COE) team (Delivery experience is not relevant)
+Vision, Architect solution proposal and Support business development
+Lead the design, planning and implementation of innovative DevOps solutions
+Own and drive DevSecOps Maturity assessments for clients
+Experience in architecting and developing DevSecOps Accelerators and platforms
+Work with the customer to establish DevOps migration roadmaps and priorities and get implementation signoff
+Present Orion’s DevSecOps capabilities in client visits and client showcase
+Develop and Validate technical feasibility and target DevOps solution architecture
+Must have worked on RFP/RFQ responses and deliver solutions and prepare proposal responses
+Collaborating with engineering and client team to evaluate and identify optimal DevOps solutions
+Reviewing architecture design in accordance with DevOps best practices, making recommendations on security shift left practices
+Interacting with clients, providing DevOps support, and making recommendations based on client needs
+Good communication, presentation and collaboration skills
+Good client management skills
+
+Competencies
+
+Experience in DevSecOps Continuous Integration and Delivery practices and CICD tools chain on ADO, Jenkins, GitLab etc.
+Must have experience in Security shift left practices and implementation of SAST, DAST, SCA tools. Knowledge of SBOM is a plus.
+Experience in conducting DevOps Discovery and Assessments and developing a roadmap
+Good understanding of GitOps, Kubernetes, SRE, IaC and Cloud platforms
+Understanding of Platform Engineering and Internal Developer Platforms is a Plus
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 51
+
+
+Integrate and automate processes between software development, IT operations, and security to establish an efficient DevSecOps workflow.
+Ensure continuous integration, delivery, and deployment with security best practices embedded at every stage.
+Implement and manage security measures within the development lifecycle, including automated testing for vulnerabilities, code quality checks, and compliance monitoring.
+Design, build, and maintain tools for monitoring and responding to security events, alerts, and incidents in real time.
+Collaborate with compliance teams to ensure regulatory requirements are met and documented for internal and external audits.
+Qualifications:
+Bachelor’s degree in Information Security, Software Engineering, or related fields.
+Experience with DevOps and security practices, particularly with automation tools like Jenkins, Terraform, and Ansible.
+Proficiency in automation tools and scripting languages for orchestration and integration of security testing in CI/CD.
+Understanding of regulatory requirements (e.g., HIPAA, GDPR) and experience working in a regulated environment.
+Strong problem-solving skills and a proactive approach to managing security challenges.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 52
+
+
+Proficiency in scripting languages such as Python, Bash, or Ruby.
+Familiarity with industry-standard security protocols and frameworks, including NIST, OWASP, and ISO 27001.
+Experience in cloud security solutions (e.g., AWS Security Hub, Azure Security Center).
+Strong analytical skills to assess security risks and recommend appropriate solutions.
+Ability to work independently in a remote environment while coordinating with distributed teams.
+Work closely with development, security, and IT teams to ensure DevSecOps best practices are consistently followed throughout the project lifecycle.
+Develop and maintain automated security processes, from secure code scanning to runtime security monitoring.
+Conduct regular vulnerability assessments, penetration testing, and security audits to proactively identify potential threats.
+Build and integrate security dashboards to provide real-time visibility into security metrics, incidents, and compliance status.
+Monitor, detect, and respond to security incidents, providing on-call support as required.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 53
+
+
+
+Collaborate with development and operations teams to integrate security features directly into CI/CD pipelines, promoting a security-first approach.
+Develop and maintain tools to streamline security testing, vulnerability management, and configuration management processes.
+Perform security assessments, code reviews, and security audits on critical infrastructure and applications.
+Implement security automation using tools such as Jenkins, Docker, Kubernetes, and monitoring solutions.
+Engage in incident response and troubleshooting to rapidly address security breaches or other security incidents.
+Experience with DevSecOps practices, particularly in cloud environments (AWS, Azure, or GCP).
+Knowledge of security principles, including identity management, data encryption, and network security.
+Proficiency in automation tools and secure coding best practices.
+Excellent communication skills and experience in developing security-related training for engineering teams.
+Ability to work under pressure and prioritize tasks in a dynamic environment.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 54
+
+
+IT Industry experience in DevOps, SW Development: 10 – 15 years
+Technical skills
+5-7 years of experience in Azure DevOps, AWS DevOps
+Have hands on experience in DevOps pipeline, Triggers
+3-4 years of experience in Solutioning with DevOpsTools
+Ansible, Terraform, TerraTest
+Scripts using Yaml
+Security scan and Testing
+SonarQube and Integration
+Security vulnerability tools and assessment
+Optional skills: Puppet, Chef
+Successful implementation of DevOps Environment and tool chain 4 – 6 years in Azure and AWS environment
+Experience in DevOps Automation scripts
+Knowledge of Cloud Infrastructure (Azure /AWS) and IaaC
+Team Management and Development
+Managed a team 7 – 10 DevOps engineers for large projects
+SME Capability building, Training Plan development and mentor DevOps engineers
+Collaboration skills and working across multiple project teams
+Conduct interviews for the Practice and do the hiring on need basis
+Business development, Artefacts and Case studies
+Ability to prepare case studies, Practice Plan and implementation
+Proposals: Experience in working with Sales Team, Pre-sales
+Presentations and interactions with customers
+Campaigns: Working with Marketing team
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 55
+
+
+Implement and manage security measures for the protection of systems, networks, and data.
+
+Collaborate closely with development teams to integrate security into the SDLC.
+
+Conduct vulnerability assessments and implement remediation plans.
+
+Monitor security infrastructure for vulnerabilities and intrusions.
+
+Lead incident response activities and ensure timely resolution of security incidents.
+
+Evaluate and recommend new security tools and technologies.
+
+Provide technical guidance and support during security incidents.
+
+Develop and maintain security policies and procedures.
+
+Stay up-to-date with the latest security trends, threats, and vulnerabilities.
+
+Requirements
+
+
+Bachelor’s degree in Computer Science, Information Technology, or related field.
+
+Proven experience in production security, DevSecOps, and SDLC practices.
+
+Strong knowledge of security tools such as Qualys, Black Duck, and JFrog Xray.
+
+Experience in incident response management and security incident handling.
+
+Excellent problem-solving skills and ability to work under pressure.
+
+Effective communication skills and ability to collaborate with cross-functional teams.
+
+Relevant certifications (e.g., CISSP, CEH) preferred.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
