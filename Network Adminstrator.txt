@@ -1236,3 +1236,180 @@ Assist in IT projects and deployments, including system upgrades and network exp
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 44
+
+Provide Level 2/3 technical support for end users, both onsite and remotely.
+Manage and administer Active Directory, including user account creation, password resets, group policies, and permissions.
+Troubleshoot and resolve issues related to Windows desktop environments (Windows 10/11).
+Configure, monitor, and troubleshoot network infrastructure, including layer 2 and layer 3 switches (VLANs, STP, trunking, etc.) and ensure optimal network performance.
+Install, configure, and manage firewall appliances and Unified Threat Management (UTM) systems, including setting up firewall rules, NAT policies, VPN configurations, and web/content filtering.
+Conduct regular firewall and UTM performance tuning, monitoring traffic patterns, and implementing security measures to prevent unauthorized access.
+Configure and manage site-to-site and client VPNs to ensure secure remote connectivity for end users.
+Support VPN configuration and troubleshooting for remote users.
+Ensure high availability and load balancing of critical network services.
+Maintain firewall configurations, ensuring secure access, threat protection, and policy adherence.
+Perform network security audits and recommend improvements to enhance infrastructure security.
+Install, configure, and maintain software and hardware for end-user devices.
+Manage and troubleshoot network printers, peripherals, and mobile devices.
+Monitor and respond to incidents and service requests via a ticketing system (e.g., ServiceNow).
+Perform regular maintenance and updates to ensure systems are up-to-date with security patches and updates.
+Work closely with other IT teams (server, security, network) to resolve complex issues and improve infrastructure performance.
+Assist in IT projects and deployments, including system upgrades and network expansions
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 45
+
+
+Experience: At least 5-10 years of network administration experience, with a focus on Juniper networks.
+
+Technical Skills: Strong understanding of Juniper network hardware, routing protocols (BGP, OSPF), firewall configuration, VPNs, and LAN/WAN technologies.
+
+Knowledge on Juniper MX 80, MX120, MX 240, MX 204, MX480, MX 960, QFX5100 QFX 10000 (Having experience with the MX/SRX/QFX)
+SRX knowledge on any of the same models
+Knowledge on Junos OS versions
+Knowledge on DATA CENTER NETWORKs(should have experience)
+Knowledge on CARRIER NETWORKs (Should have experience)
+Knowledge on ROUTING Protocols BGP, OSPF.
+Knowledge on SWITCHING Protocols STP, RSTP, MC-LAG, VPC, MPLS(Mandotory)
+Knowledge on VIRTUAL-ROUTERs, Routing-Instances, IPSec Tunnels, (Mandatory)
+Knowledge on Incident/change management TOOLs like service now, Jira (Optional)Knowledge on Monitoring Tools Eg: PRTG (Optional)
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 46
+
+
+ob Description
+Monitoring, installation and configuration troubleshooting of network products-Router, switches, Firewalls, Wireless Access Points Wireless Devices.
+Provide L1 support and troubleshooting to resolve issue.
+Configure and install various network devices and services (e.g., routers, switches, firewalls,ACL NAT).
+Work within established configuration and change management policies to ensure awareness, approval and success of changes made to the network infrastructure.
+Perform network maintenance and system upgrades including service packs, patches, hot fixes and security configurations.
+Knowledge on Routing and switching to perform end to end route check.
+Monitoring of the Critical Parameters for the Network devices like Interface Status Bandwidth Utilization Resource utilizations Link Status.
+Incident Problem Management - Tracking and Co-ordination of all incidents / problems till resolution Identification of probable causes of failures in the WAN environment recommend on the possible solution / workaround to address the probable causes of failure. Performing router, switch configuration.
+Good communication and presenting skills.
+Strong stakeholder engagement / Client Relationship Management
+Very good attitude, good listener and adapter
+Motivated and proactive and ready to take more challenges.
+Must have ability to support flexible schedule in support of 7x24 operations.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 47
+
+
+Key Responsibilities:
+
+VMware Infrastructure Monitoring:
+Monitor the performance and availability of VMware ESXi hosts, virtual machines (VMs), and other VMware components using monitoring tools.
+Respond to alerts and system events in a timely manner, ensuring minimal downtime and disruptions.
+
+Basic Troubleshooting and Support:
+Assist in diagnosing and resolving hardware, software, and network issues related to the VMware environment.
+Escalate complex issues to senior team members or vendors as needed, while providing initial troubleshooting data.
+
+Virtual Machine Management:
+Perform basic tasks such as creating, configuring, cloning, and deleting virtual machines (VMs) based on user requests and organizational needs.
+Manage VM snapshots, ensuring proper storage utilization and system performance.
+
+User Support:
+Provide support to end-users and IT staff regarding VMware-related issues.
+Assist with access management by creating and modifying user accounts, roles, and permissions within VMware vCenter.
+
+Documentation and Reporting:
+Maintain accurate and up-to-date documentation of VMware infrastructure, including network diagrams, configuration files, and system settings.
+Generate reports on system performance, resource usage, and incidents as required.
+
+Backup and Recovery:
+Support backup and recovery operations for VMs, ensuring that all critical data is securely backed up and can be restored when needed.
+Participate in disaster recovery planning and testing to ensure business continuity.
+
+Software and Firmware Updates:
+Assist in the application of patches, updates, and upgrades to VMware products and related hardware.
+Ensure that all updates are applied following best practices and in accordance with change management procedures.
+
+Security and Compliance:
+Assist in maintaining the security of the VMware environment by applying necessary security settings, patches, and updates.
+Ensure compliance with organizational policies and industry standards, such as ISO27001, SOC2, or GDPR, as applicable.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 48
+
+
+Diploma or Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Minimum 2 years of experience as a Network Administrator or similar role.
+Strong knowledge of network protocols, routing, and switching.
+Experience with network security tools and practices.
+Proficiency in configuring and managing network hardware and software.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 49
+
+
+Responsibilities:
+
+Install, configure, and support LAN, WAN, and VPN connections across various locations.
+Monitor network performance to ensure high availability and reliability for all users and resolve network issues as they arise.
+Perform regular network maintenance, including upgrades, patches, and troubleshooting, to ensure optimal operation.
+Implement and maintain security solutions, including firewalls, VPNs, and intrusion detection/prevention systems.
+Maintain detailed documentation of network configurations, procedures, and changes.
+Provide technical support to staff and troubleshoot network-related issues on-site and remotely.
+Conduct regular security audits and vulnerability assessments to identify and mitigate potential risks.
+Configure and monitor network devices, such as routers, switches, firewalls, and load balancers.
+Collaborate with other IT staff to plan and implement network-related projects and system improvements.
+Ensure compliance with company policies, industry standards, and regulatory requirements.
+Qualifications:
+
+Bachelor's degree in Computer Science, Information Technology, or related field.
+3+ years of experience in network administration or a similar role.
+Proficiency in network monitoring tools (e.g., SolarWinds, Wireshark).
+Strong understanding of network protocols (TCP/IP, DNS, DHCP, etc.).
+Relevant certifications such as CCNA, CompTIA Network+, or equivalent are preferred.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 50
+
+
+
+Bachelor’s degree in Information Technology, Network Engineering, or related field.
+5+ years of network administration experience, with a focus on enterprise-level environments.
+Strong knowledge of network operating systems (e.g., Cisco IOS, Juniper Junos).
+Proficiency in configuring and managing network security solutions (e.g., firewalls, VPNs).
+Certifications such as CCNP, CISSP, or CompTIA Security+ are highly preferred.
+Familiarity with cloud networking concepts (e.g., AWS, Azure networking).
+Design, implement, and support network infrastructure, including LAN/WAN, VoIP, and security configurations.
+Develop and execute comprehensive network maintenance schedules to maximize network uptime and performance.
+Perform network upgrades, software updates, and firmware patches across multiple locations.
+Implement network security protocols and policies, including firewall configurations, access controls, and monitoring systems.
+Troubleshoot complex network issues and manage escalation processes, ensuring efficient resolution and documentation.
+Monitor and optimize network performance, responding to alerts and ensuring minimal downtime.
+Conduct regular backups and restore procedures to safeguard critical data and network configurations.
+Manage and oversee the deployment of network devices, such as switches, routers, and firewalls, ensuring compatibility and stability.
+Provide support to network users, including troubleshooting connectivity issues and coordinating with service providers.
+Stay updated with the latest industry trends, emerging technologies, and best practices to enhance network security and efficiency.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
