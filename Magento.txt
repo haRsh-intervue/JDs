@@ -1,0 +1,785 @@
+JOB DESCRIPTION 1
+
+Work on Magento 1.x & 2.x themes and extension development project.
+
+Work on Magento 1.x & 2.x customization project according clients requirements
+
+Work includes coding, handling support-requests, Magento unit testing via debugging code and project documentation.
+
+Explain and guide the flow of product/project to customers
+
+Required Skills
+
+Motivated self-starter and able to work with minimum supervision
+
+Must have knowledge of Magento functions and latest updates of Magento releases
+
+Creative approach to solving problems and love to work for Magento
+
+Expertise with MySQL and DBMS Concept
+
+Demonstrable knowledge of XML, XHTML, CSS, Modules i.e. API integration, Payment Gateways, XML with a focus on standards.
+
+Ability to work under pressure and in a rapidly changing environment
+
+Good understanding of cross-platform and cross-browser issues
+
+Good Communication Skill candidate have high preference
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 2
+
+
+ Excellent knowledge of Magento core features, architecture, system configuration and layout structure.
+• Strong experience and knowledge on HTML/CSS, JavaScript, PHP, MySQL, MVC and OOPS concepts.
+• Ability to adapt quickly to new Magento releases and versions, setup and configure websites.
+• Customize and enhance Magento’s core functionalities to meet project requirements by creating new plugins.
+• Experience with Magento Theme Customization, SASS/LESS, Bootstrap, JQuery, KnockoutJS, etc.
+• Integrate third-party solutions and plugins into Magento websites.
+• Good understanding of build release and deployment process
+• Good debugging skills with browser extensions & server tools.
+• Knowledge on internet security techniques and coding best practices.
+• Experience with performance tuning, handling large amount of data, caching and scaling techniques.
+• Experience in both Linux and Windows environment development.
+
+Qualifying Criteria
+• A minimum of 3 years of Magento 2 experience
+• Candidate must have upto 7 years of total programming background with ability to work with US counterparts.
+• Education: Bachelor’s or Master’s degree in IT or Computer Science; MBA with a solid understanding of IT.
+• Agile: Solid understanding of Agile development methodologies (Scrum, Kanban) and their application in software development.
+• Communication: Excellent written and verbal communication skills, with the ability to translate data into actionable insights.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 3
+
+
+
+
+
+
+Develop, test, deploy and maintain Magento 2 e-commerce platform
+• Identify and resolve issues, bugs, and performance bottlenecks in Magento websites
+• Integrate third-party APIs and services, such as payment gateways, shipping providers, and ERP systems, into Magento
+• Performance Optimization: Monitor and optimize website performance, including page load times and server resource usage
+• Implement security best practices to protect the website and customer data.
+• Strong knowledge of core PHP 8 and above concepts
+• Strong knowledge of JavaScript and ES6 + programming
+• Strong hand in MVC design patterns
+• Strong knowledge of Design Design patterns in Magento.
+• Strong knowledge of creating custom RESTful, SOAP or GraphQl API's in Magento.
+• Sound understanding of front-end technologies
+• Set up CI/CD pipelines for automated testing and deployment
+• Dockerize Magento 2 application for easy development and deployment.
+• Proficient in using Git and other version control systems.
+• Experience working in Agile/Scrum development environments.
+• Knowledge of setting up Multi-website, Multi-store, Multi-domain in Magento.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 4
+
+
+
+
+Setup and configure Magento 1.X or Magento 2.X sites.
+
+Must have the ability to develop Magento Modules and Customization,Extension Development.
+
+Demonstrable knowledge of API integration, Payment Gateways, Shipping, etc.
+
+Full understanding of the Magento themes and templating systems .
+
+Strong PHP, JavaScript, MYSQL, OOPS and RDBMS concepts.
+
+Strong understanding of Performance Tuning, Browser Compatibility, SEO Practices, and Version Control.
+
+Being Magento or Zend certified is an added advantage.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 5
+
+
+Develop, maintain, and optimize frontend features for Magento eCommerce websites.
+• Implement custom themes, layouts, and components to create dynamic user interfaces.
+• Work closely with backend developers and UI/UX designers to deliver polished, functional, and responsive designs.
+• Collaborate with team members to identify and resolve issues, ensuring the highest quality of frontend performance and user experience.
+• Contribute to continuous improvements in frontend development processes, performance optimization, and best practices.
+
+Qualifications:
+• 3-4 years of experience in Magento frontend development
+• Strong understanding of HTML, CSS, JavaScript, and responsive design principles
+• Experience with Magento 2 Frontend Technologies and solutions
+• Familiarity with Hyvä is a plus
+• Excellent troubleshooting skills and attention to detail
+• Ability to work effectively in a team environment
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 6
+
+
+
+Strong PHP and Magento skills with an emphasis on Object Orientated Programming
+• Strong experience on MYSQL DB
+• Experience with Agile methodologies
+• Strong understanding of the Magento System Architecture, Design, Theming, Functionality Enhancements, Configuration
+• Experience in creating customizable plugins for Magento
+
+Additional Responsibilities
+• Follow a user-centered design process, UI / UX integration experience
+• Should have the knowledge to customize Magento Theme
+• Experience in creating modules (payment, shipping, etc.)
+• Good understanding of Zend framework preferable.
+• Experience in UI development and integration for the web and mobile applications that scale to high-volume production quality
+• Strong understanding of W3C compliant HTML and CSS
+• Good HTML5, CSS3, AJAX, JSON skills & solid programming background in PHP for implementing web technologies
+• Experience in creating responsive web applications using Bootstrap
+• Experience in hand-coding JavaScript (ES5/ES6) and jQuery
+• Conceptual and implementation knowledge of MVC framework.
+• Knowledge and integration experience with server-side communication using Ajax and JSON;
+• Experience developing sophisticated front-end applications and solving Cross-browser, Cross-platform, cross-mobile UI issues;
+• Understand implement SEO and Accessibility compliance to the developed applications;
+• Understanding of build tools like Web pack, Grunt, Gulp
+• Good exposure to eCommerce is preferred.
+• Exposure to Mirakl or other marketplace platforms is a huge plus.
+• Experience in PWA is a plus.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 7
+
+
+Previous experience in development of high-end web applications in PHP, MYSQL and AJAX.
+• Strong understanding of W3C compliant HTML and CSS code.
+• Strong PHP skills, both in scripting and object orientation (OOPS).
+• Strong knowledge of MySQL databases,including their construction, stored procedures, triggers and performance management.
+• Good working knowledge on Open Source Technologies like Magento along with Core PHP. [Magento Certification is plus]
+• Knowledge into other Technologies like Drupal, Joomla, Wordpress, Codeigniter & other frameworks shall be an added advantage.
+• Solid Linux background (Ubuntu or CentOS preferred).
+• Working knowledge shopping cart development with shipping, and Payment Gateway Integration for E- commerce websites.
+• Should have excellent database design and implementation skills.
+• Strong knowledge of JavaScript and JavaScript frameworks, preferably jQuery.
+• Previous use of a version control system (Git or SVN).
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 8
+
+
+
+Senior Software Developer.
+• Should have min 2 Year of exp in PHP, Magento 2 and MySQL.
+• Proficient in MySQL database.
+• Certification in Magento 2 is must.
+• Should have strong exp in Magento 1.x to Magento 2.x.
+• Should have Migration experience from Magento 1.x to Magento 2.x must
+• Exposure on Magento 2, CMS, Code Ignitor, OpenCart as well as JavaScript frameworks such as jQuery.
+• Very good experience with Theme Customization as well as back end programming in both Magento 1.x and Magento 2.x
+• Should have exp in Payment Gateway Integration
+• Strong programming & communication skills.
+• should be a good team player.
+• should be able to work independently under pressure
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 9
+
+
+At least 3+ years of front-end Magento development experience.
+• Proficiency in client-side technologies including HTML and CSS.
+• Complete understanding of responsive web design and related development techniques.
+• Understanding of MVC architecture patterns.
+• Excellent knowledge on Magento theme and customizing on it for complex front-end development.
+• Good knowledge on Magento existing functionality and multi website concept.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 10
+
+
+Develop and manage e-commerce websites, web applications & web sites.
+• Analyze, design, code, debug, test, document & deploy applications.
+• Participate in project & deployment planning.
+• Must be a self-starter & be able to work with minimum supervision
+• Exp. In modules/extensions development/customization.
+• Exp. In Theme integration/customization.
+• Exp. In API creation/integration.
+• Exp. In Migration from Magento1 to Magento2
+• Extensive experience of PHP and MySQL.
+• Exposure on Magento 2, CMS and JavaScript frameworks such as jQuery.
+• Demonstrable knowledge of XML, XHTML, CSS, Modules i.e. API integration,
+• Payment Gateways, XML with a focus on standards.
+• Demonstrable source control experience
+• Two or more published websites in E-Commerce
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 11
+
+
+
+Minimum 2 years of development experience in Magento 1 and Magento 2 theme and custom module development/customization.
+• Good understanding and experience of HTML / CSS / JavaScript / jQuery.
+• Hands-on experience with Security and Optimization of Magento Website.
+• Expertise with MySQL Queries development.
+• Knowledgeable with Web Services / REST APIs.
+• Proficiency in Linux and deployment on Linux.
+• Experience with Angular JS / React JS / Knockout JS etc. will be an added advantage.
+• Knowledge of Magento 1 to Magento 2 Migration would be valuable.
+• Skilled in Magento integration with third-party systems like MailChimp / any CRM / ERP like SAP / Dynamic NAV, etc would be beneficial.
+• Knowledge of AWS services like S3, EC2 would be appreciated.
+• Expertise in Agile-based Team Development and Continuous Deployment Methodology.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 12
+
+
+
+Proficient in OOP and its application
+• Good understanding of Design Patterns used in Magento Open Source/Adobe Commerce
+• Knowledge of extensibility and backward compatibility
+• Experience with CI/CD tools like Jenkins and Bamboo
+• Proficiency in PHP language
+• Knowledge of Javascript, XML / SOAP / REST API’s
+• Knowledge of performance tools and best practices
+• Good communication skills
+• M2 experience is mandatory.
+• Comprehensive knowledge of PHP frameworks, OOP/OOD, DDD, backend architecture, system design, and Scrum/Kanban
+• Strong programming skills including experience in PHP or other object-oriented programming (GoLang, Python), clean code, SOLID principles
+• Relational Databases (MySQL)
+• Experience with various testing frameworks
+
+Version Control System (GIT, SVN, or similar)
+
+Experience with Agile development methodologies
+• Working experience with AWS, ElasticSearch, MySQL, Oracle, PHP, Symfony, RabbitMQ, Linux
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 13
+
+
+
+ Should have very good knowledge of Magento-2 Architecture
+• Magento 2 Website, App, Theme and Module Development
+• Can understand project requirements
+• Mockup/XD/Invision to Magento-2 feature/design implementation
+• Headless / PWA (Progressive Web App) setup in Magento-2 with React JS, Vue JS, Node JS & GraphQL
+• Payment Integrations : Paypal, Authorize.net, SagePay, Sofort, ePay, and more
+• Shipping Integrations : DHL, UPS, USPS, and more
+• Magento-2 Website Speed Optimization
+• Bug fixing & troubleshooting skills
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 14
+
+
+Experience in E-Commerce CMS such as Magento, OpenCart, PrestaShop
+• Experience of developing/editing third-Party extensions
+• Extensive experience of PHP and MySQL
+• Experience on Javascript frameworks such as jQuery
+• Must handle multiple projects simultaneously
+• Developer with strong PHP, Zend, and object-oriented programming experience
+• Good experience of Magento core development (PHP) and Module development which involves database-level operations (Creating new tables in the database and developing Models for that)
+• Website Development project including both back-end and front-end development, customizing themes, plugins, and modules
+• Experience with OCmod and vQmod in OpenCart
+• Performance Optimization using cache, solr (or any nosql search)
+
+Knows how to consume 3rd party RESTful services
+
+Knows how to consume Graphql services
+
+Good knowledge of GIT concepts and operations
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 15
+
+
+
+
+Develop the programming code from scratch or by adapting existing website graphics packages and software to meet business requirements after discussion sessions with the project management team.
+• Write clean, well-engineered code that comply with accepted standards, and test web applications
+• Understand the goals and strategy behind each project from conception through completion. * Communicate effectively with project managers, technical leads, internet strategists, and other internal team members.
+• Identify opportunities for process improvement and make constructive suggestions for change.
+• Determining any functionality that the site must support and developing PHP & Magento content based on practical approved layout
+• Prepare project management plan
+• Conduct technical reviews, project reviews and audits code review and QC of codes.
+• Reviews / testing of project deliverables.
+• Provide technical & non-technical trainings required by the team members
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 16
+
+
+
+Plan, architect, and develop new features and functionality for our e-commerce applications.
+• Assist in project planning and work with the Project Manager to manage the assigned task
+• Identify, troubleshoot and debug defects in code and related systems
+• Design, develop, install, configure and customize solutions using Magento
+• Knowledge in developing HTML5, CSS, jquery and responsive websites
+• Gather technical specifications and requirements as needed.
+
+Skills Requirement:
+• 3+ years experience in ecommerce development using Magento 2
+• Heavy experience in PHP, Mysql, Javascript, HTML, Codeigniter and Ajax
+• Strong object oriented programming skills & SDLC
+• Passionate for learning new technologies
+• Effective communication skills and ability to solve complex problems independently
+• Magento developer certification is an added advantage.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 17
+
+
+Bachelor's degree in Computer Science, Engineering, or related field.
+• 5+ years of experience in backend development with a focus on Magento.
+• Proficiency in PHP, MySQL, JavaScript, HTML, and CSS.
+• Strong understanding of Magento architecture, including modules, themes, and extensions.
+• Experience with version control systems such as Git.
+• Familiarity with one or more additional e-commerce platforms, preferably Shopify or Shopware.
+• Excellent problem-solving skills and attention to detail.
+• Ability to work independently and collaboratively in a fast-paced environment.
+• Strong communication skills and ability to effectively interact with team members and clients.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 18
+
+
+Proven Experience: Extensive experience in developing and managing large-scale e-commerce platforms.
+• Web Technologies Proficiency: Strong skills in HTML5, CSS3, JavaScript, and modern frameworks such as React, Angular, or Vue.js.
+• Backend Technologies Expertise: Proficiency in backend technologies like PHP, Node.js, Python, or Java.
+• E-Commerce Platforms Knowledge: Experience with e-commerce platforms such as Magento, Shopify, WooCommerce, or custom-built solutions.
+• Database Management: Solid understanding of database systems including MySQL, PostgreSQL, MongoDB, etc.
+• Cloud and DevOps: Experience with cloud platforms (AWS, Google Cloud) and DevOps practices.
+• SEO and Optimization: Familiarity with SEO best practices and web performance optimization techniques.
+• Problem-Solving Skills: Excellent analytical and problem-solving abilities.
+• Leadership and Communication: Strong leadership, communication, and project management skills.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 19
+
+
+Candidate should have done 2-4 projects on Magento 2.X
+• Software programming for Magento2.X to build extensions, widgets, custom integrations
+• Strong understanding of the Magento2.X System Architecture, Design, Theming, Functionality, Enhancements, Configuration.
+• Create and customize Magento 2.X themes including templates, layouts,CSS, Javascript, and other components of the front end of a Magento 2.X site
+• Uses the Admin Panel to implement design-related system configuration and modify the appearance of specific pages (for instance, CMS, categories, and products)
+• Use Business Processes in Magento 2.X such as Structure of catalog, indexes, promotions, price generation logic, Architecture of checkout, payment/shipment methods, sales/order processing
+• Good knowledge of MVC/PHP/Ajax.Jquery, Json
+
+Personal Skills
+• Good communication Skills
+• Must20be a self-starter & be able to work with minimum supervision
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 20
+
+
+
+4+ years of continuous Magento 1 & 2 development experience
+• Solid understanding of Magento fundamentals.
+• Good experience on Caching & Performance improvement.
+• Thorough functional and code level knowledge of all Magento products and all relevant commerce technologies
+• Magento Cloud experience is a plus
+• Experience building major 3rd party systems integrations (ERPs, Payment Gateways, 3PL, etc.)
+• Experience in identifying and implementing performance optimizations, understanding scalability concepts
+• In-depth knowledge of web-application security vulnerabilities and how to avoid them, understanding PCI compliance concepts
+• Solid understanding of business strategy
+• Great analytical and problem solving skills
+• Attention to detail, and ability to multitask and meet deadlines
+• Passion for quality and engineering excellence at scale
+• Strong communication and conflict resolution skills
+• Strong presentation and leadership skills
+• Strong mentoring skills, ability to adapt and work with team members of various experience levels
+• Expert PHP / Object Oriented Programming skills
+• Strong understanding of Design Patterns
+• Strong database architecture skills, MySQL knowledge, experience interacting with database systems through abstraction layer
+• Strong hold on Linux and other operating systems.
+• Understanding of Magento shell based installation ecosystem.
+• Proficient Linux user, understanding concepts behind LAMP stack applications
+• Ability to perform basic setup of the stack
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+JOB DESCRIPTION 21
+
+
+
+
+
+Develop and maintain Magento-based eCommerce websites, ensuring high performance and responsiveness.
+
+• Customize and extend Magento modules and themes to meet project requirements.
+
+• Collaborate with cross-functional teams to gather and analyze requirements, and deliver solutions that align with business goals.
+
+• Write clean, efficient, and maintainable code using PHP, HTML, CSS, and JavaScript.
+
+• Troubleshoot and resolve issues related to Magento applications, including performance and security concerns.
+
+• Implement and manage WordPress websites and integrate them with Magento where necessary.
+
+• Conduct code reviews and mentor junior developers to ensure best practices and coding standards.
+
+• Stay up-to-date with the latest industry trends, technologies, and Magento updates.
+
+Requirements:
+
+• Bachelor’s degree in Computer Science, Engineering, or a related field.
+
+• 4-7 years of professional experience as a Magento Developer, with a strong portfolio of eCommerce projects.
+
+• Expertise in Magento 2.x, including module development, customization, and optimization.
+
+• Proficiency in PHP, HTML, CSS, JavaScript, and related web technologies.
+
+• Experience with WordPress development and integration.
+
+• Strong understanding of eCommerce principles and best practices.
+
+• Ability to work independently and manage multiple projects in a remote work environment.
+
+• Excellent problem-solving skills and attention to detail.
+
+• Good communication skills and ability to collaborate effectively with team members.
+
+Additional Information:
+
+• Work Hours: 12:30 PM to 10:00 PM, 5 days a week.
+
+• Equipment: Must have a personal laptop and a reliable internet connection.
+
+• Work Arrangement: Remote work opportunity.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 22
+
+
+
+
+Lead the development team to build and maintain Magento websites.
+• Design, develop, and implement custom modules in Magento.
+• Liaise with project managers, designers, and other developers to ensure project success.
+• Troubleshoot and resolve issues with existing company websites.
+• Conduct code review to ensure high quality of application code.
+• Train and mentor junior developers in Magento and PHP development.
+• Coordinate with cross-functional teams to plan and execute project timelines.
+• Develop custom APIs for integrations with third-party systems.
+• Keep up-to-date with the latest eCommerce trends and technologies.
+• Utilize PHP to create dynamic web applications.
+• Collaborate with the design team to ensure a seamless user experience.
+• Regularly update project progress through project management tools.
+• Participate in the development of technical specifications.
+• Test and optimize site speed and performance.
+• Ensure proper documentation of code and technical configurations.
+• Oversee the maintenance and security of the Magento website.
+• Provide technical support and troubleshooting services when needed.
+• Maintain professional and technical knowledge by attending educational workshops; reviewing professional publications; establishing personal networks; participating in professional societies.
+• Participate in on-call rotation for critical website issues.
+• Ensure compliance with all established policies and procedures.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 23
+
+
+7 years experience with Magento Commerce, including solid knowledge of Magento hosting configuration and best practices.
+Outstanding coding skills in PHP, JavaScript.
+Strong knowledge of DBMS (MySQL, MSSQL, Oracle), XML, HTTP, HTML, NT/UNIX systems.
+Strong presentation skills; skilled and effective at presenting to both technical and business audiences
+Strong knowledge of vulnerability and performance of web application
+Strong knowledge of requirements analysis
+Skilled with frameworks such as Zend Framework, Prototype (JS), jQuery (JS).
+Skilled user of CI tools (Bamboo, TeamCity, Hudson).
+Understanding of sorting, searching algorithms and data structures and best practices of using them
+Knowledge of underlying technologies that Magento is built on (ex: LAMP, APIs, etc.) Knowledge of common systems within an eCommerce environment (ex: ERP, CRM, OMS, etc.)
+Web application fundamentals
+Experience with web services (SOAP, xmlRPC,
+Experience with distributed memory object caching systems, memcache.
+Experience and knowledge of Relational Databases (RDBMS), SQL, Oracle.
+Knowledge of Object Oriented design principles and methodology
+Experience with Version Control Systems (SVN, Git, etc.).
+Experience in UNIX systems on a user level.
+Experience with frameworks such as Zend Framework, Prototype (JS), jQuery (JS).
+Contribute to the design and development of a product feature or sub-system.
+Produce clear, well-communicated, complete designs for product features or sub[1]systems
+Participate in architecture discussions and proposes solutions
+Triage and solve live issues. Fix bugs and resolve production issues.
+Develop and maintain up to date technical documentation related to the Project
+Meet project deliverables on time and with good quality.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 24
+
+
+
+Technical Skills required:
+• > PHP
+• > Magento
+• > Zend
+• > Web services
+• > jQuery
+• > Ajax
+• > MySQL / Oracle / PostgreSQL
+
+Secondary Skills:
+• Must have strong oral and written communication skills, and be customer focused to understand and appropriately respond to customers' business needs.
+• Demonstrated critical thinking skills, ability to accurately analyze information and make sound decisions.
+• Team management
+• Performance Optimizations of application
+
+Key Responsibilities:
+• Understanding of business requirements and the process of translating them into well-engineered and integrated technical solutions and reusable components.
+• Interface effectively and collaborate with clients, peers, and management to develop solutions and ensure stakeholder buy-in.
+• Managing multiple client projects focusing on ecommerce implementation.
+• Setting up process for code quality & coding practices. Coach and mentor programmers.
+• Apply business case development and project justification techniques to varying information technology related questions.
+• Take initiative and accountability for achieving results.
+• Development of custom modules of Magento, as needed.
+• Integrating Magento / Other E-Commerce applications with other external applications like ERP etc.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 25
+
+
+
+Develop and maintain Magento-based eCommerce websites, ensuring high performance and responsiveness.
+
+• Customize and extend Magento modules and themes to meet project requirements.
+
+• Collaborate with cross-functional teams to gather and analyze requirements, and deliver solutions that align with business goals.
+
+• Write clean, efficient, and maintainable code using PHP, HTML, CSS, and JavaScript.
+
+• Troubleshoot and resolve issues related to Magento applications, including performance and security concerns.
+
+• Implement and manage WordPress websites and integrate them with Magento where necessary.
+
+• Conduct code reviews and mentor junior developers to ensure best practices and coding standards.
+
+• Stay up-to-date with the latest industry trends, technologies, and Magento updates.
+
+Requirements:
+
+• Bachelor’s degree in Computer Science, Engineering, or a related field.
+
+• 4-7 years of professional experience as a Magento Developer, with a strong portfolio of eCommerce projects.
+
+• Expertise in Magento 2.x, including module development, customization, and optimization.
+
+• Proficiency in PHP, HTML, CSS, JavaScript, and related web technologies.
+
+• Experience with WordPress development and integration.
+
+• Strong understanding of eCommerce principles and best practices.
+
+• Ability to work independently and manage multiple projects in a remote work environment.
+
+• Excellent problem-solving skills and attention to detail.
+
+• Good communication skills and ability to collaborate effectively with team members.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 26
+
+
+ Develop and manage e-commerce websites, web applications, and websites utilizing the Magento platform.
+• Customize Magento themes and modules to meet the company's specific requirements and business needs.
+• Integrate Magento with various applications and third-party services, ensuring seamless functionality.
+• Maintain site compatibility across multiple browsers and devices for an optimal user experience.
+• Optimize web pages for maximum speed, scalability, and overall performance.
+• Implement and maintain security measures, including the installation of security patches, while ensuring site functionality remains intact.
+• Troubleshoot and resolve issues related to Magento websites, ensuring minimal downtime and maximum efficiency.
+• Stay updated with the latest trends in Magento development, new Magento releases, updates, and evolving e-commerce strategies to ensure continuous improvement.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 27
+
+
+
+Develop and maintain Magento-based eCommerce websites, ensuring high performance and responsiveness.
+
+• Customize and extend Magento modules and themes to meet project requirements.
+
+• Collaborate with cross-functional teams to gather and analyze requirements, and deliver solutions that align with business goals.
+
+• Write clean, efficient, and maintainable code using PHP, HTML, CSS, and JavaScript.
+
+• Troubleshoot and resolve issues related to Magento applications, including performance and security concerns.
+
+• Implement and manage WordPress websites and integrate them with Magento where necessary.
+
+• Conduct code reviews and mentor junior developers to ensure best practices and coding standards.
+
+• Stay up-to-date with the latest industry trends, technologies, and Magento updates.
+
+Requirements:
+
+• Bachelor’s degree in Computer Science, Engineering, or a related field.
+
+• 4-7 years of professional experience as a Magento Developer, with a strong portfolio of eCommerce projects.
+
+• Expertise in Magento 2.x, including module development, customization, and optimization.
+
+• Proficiency in PHP, HTML, CSS, JavaScript, and related web technologies.
+
+• Experience with WordPress development and integration.
+
+• Strong understanding of eCommerce principles and best practices.
+
+• Ability to work independently and manage multiple projects in a remote work environment.
+
+• Excellent problem-solving skills and attention to detail.
+
+• Good communication skills and ability to collaborate effectively with team members.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 28
+
+
+Proven Experience: Extensive experience in developing and managing large-scale e-commerce platforms.
+• Web Technologies Proficiency: Strong skills in HTML5, CSS3, JavaScript, and modern frameworks such as React, Angular, or Vue.js.
+• Backend Technologies Expertise: Proficiency in backend technologies like PHP, Node.js, Python, or Java.
+• E-Commerce Platforms Knowledge: Experience with e-commerce platforms such as Magento, Shopify, WooCommerce, or custom-built solutions.
+• Database Management: Solid understanding of database systems including MySQL, PostgreSQL, MongoDB, etc.
+• Cloud and DevOps: Experience with cloud platforms (AWS, Google Cloud) and DevOps practices.
+• SEO and Optimization: Familiarity with SEO best practices and web performance optimization techniques.
+• Problem-Solving Skills: Excellent analytical and problem-solving abilities.
+• Leadership and Communication: Strong leadership, communication, and project management skills.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
