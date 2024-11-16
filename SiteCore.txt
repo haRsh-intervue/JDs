@@ -1,0 +1,1039 @@
+
+Sheet : 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RoadMap 1 : 
+RoadMap 2 : 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 1 : 
+Develop and maintain Sitecore solutions, ensuring high performance, reliability, and scalability.
+Utilize Sitecore Experience Accelerator (SXA) to create reusable components and templates.
+Implement and maintain design patterns to ensure code quality and maintainability.
+Collaborate with cross-functional teams, including designers, content creators, and other developers, to deliver high-quality digital experiences.
+Integrate Sitecore with third-party systems and services.
+Troubleshoot and resolve issues related to Sitecore implementations.
+Conduct code reviews and provide mentorship to junior developers.
+Stay up-to-date with the latest Sitecore features, tools, and industry best practices.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 2: 
+Sitecore - 3 Years
+.NET Framework 4.5 and above - 4 years
+Html / JS & CSS - 3 Years
+Azure (Optional)
+Must Have
+:
+At least 4 years of experience in Sitecore & .NET
+Experience in working in Sitecore 8.2 and above for multi-lingual and multisite implementations with Helix and SXA
+Good knowledge of C# fundamentals
+Good experience in building Templates, Renderings, Layouts, Page Designs, Partial Page Designs in Sitecore
+Experience in developing and exposing APIs from Sitecore using REST standards.
+Extending configurations in Sitecore by extending the built-in components such as Site Settings, Jobs and Pipelines
+Experience using Glass, Synthesis, or another ORM Mapper/Wrapper for Sitecore
+Must have good communication skills
+Experience with managing team using GitFlow branching pattern
+Nice to Have
+:
+Certification on Sitecore 9.x or above
+Knowledge of any of the javascript frameworks.
+Knowledge on any other CMS
+Experience on Azure Platform
+Experience in integrating applications using web services and REST APIs
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 3 : 
+
+2-4 years of experience in content authoring within Sitecore CMS.
+Previous experience in copywriting.
+Strong editing skills with a keen attention to detail.
+Proficiency in spoken and written English tailored for business communication.
+A basic understanding of HTML is preferred.
+Knowledge of SEO, metadata, and meta descriptions. Along with this familiarity with CSS is also needed.
+Basic knowledge of Photoshop, including tasks like image resizing, cropping, and compression.
+Fundamental comprehension of design and UX concepts.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 4 : 
+
+Qualifications:
+
+Proven experience with Sitecore development.
+Knowledge of Sitecore Experience Accelerator (SXA).
+Strong problem-solving and troubleshooting skills.
+Experience with integrating third-party systems.
+Ability to collaborate in a team environment.
+Experience with code reviews and mentoring.
+Preferred Skills:
+
+Front-end technologies (HTML, CSS, JavaScript).
+Knowledge of cloud services for hosting Sitecore.
+Familiarity with agile development methodologies.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 5 : 
+
+5+ years of C#, .net Framework and asp.net mvc
+5+ years of Sitecore Experience including:
+Development with asp.net mvc and Controller Renderings
+Sitecore Powershell
+Pipeline component development
+Multi-language support
+Implementing Sitecore commands and events
+Sitecore Caching
+Experience using Dependency Injection (preferrably Ninject)
+3rd party API integration experience of Rest/JSON and /or XML web services using C#
+Experience with developing automated/scheduled processes using Sitecore Agents or Hangfire.io
+Sql Server t-sql and stored procedure development
+Some experience with front end javascript and HTML/CSS
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 6 : 
+
+Responsibilities: Develop and maintain Sitecore-based web applications. 
+Implement new features and functionalities using Sitecore Helix architecture. 
+Integrate Sitecore with third-party systems and APIs. 
+Ensure high performance and responsiveness of applications. 
+Troubleshoot and resolve application issues. 
+Collaborate with cross-functional teams to define, design, and deliver new features. 
+Maintain code quality through code reviews and automated testing.
+
+Requirements: Bachelor’s degree in Computer Science or related field.
+Sitecore certification is required
+7+ years of experience in Sitecore development. Proficiency in C#, ASP.NET, and MVC architecture. Experience with SQL Server and database management.
+Strong knowledge of HTML, CSS, JavaScript, and front-end frameworks. Excellent problem-solving and communication skills.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 7 : 
+4+ years of strong experience in Dotnet Sitecore development.
+Work Experience in Sitecore latest version.
+Good experience with Dotnet 4.5, HTML, JavaScript, CSS, MVC, Web services, SQL Server.
+Good knowledge of Sitecore CMS.
+Strong knowledge of Visual Studio, TFS and at least one of the Dotnet languages (VB.Net, C#, ASP.NET)
+Hands-on experience in dot net core. Relevant certification is Mandatory.
+Deep understanding of the web: protocols, architecture, infrastructure, servers (IIS), proxies, load balancing, high availability and databases.
+Deep understanding of modern patterns and practices: unit testing, inversion of control, repository, MVC and continuous integration.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 8 : 
+Skills and experience we are looking for:
+Solid experience with HTML, CSS (we prefer SASS/SCSS) and JavaScript (great if has experience with ReactJS or VueJS)
+Solid experience with Web CMS development in PHP (Wordpress/Drupal etc) and .NET (Sitefinity/Sitecore/Kentico etc)
+Experience of working with CMS, prefer Drupal/Sitefinity/Sitecore/Kentico - but others CMS are fine
+Experience with design patterns, software development best practices (agile preferred) and versions control platforms
+English communication skills (both verbal & written), especially in the global software development environment.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 9 : 
+Sitecore Developer Job Description
+
+Position Overview:
+
+Sitecore
+GraphQL
+Next.js or React.js
+Good understanding of JavaScript and headless development
+Understanding of cloud technologies and .NET Core and APIs
+.Net or .Net core + API + Headless + Graph QL + Content Modeling+ Sitecore
+
+Experience Required: 5-7 years
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 10 : 
+Hands-on experience utilizing and customizing a CMS-driven website
+Strong experience designing and working with n-tier architectures (UI, Business Logic Layer, Data Access Layer) along with some experience with service-oriented architectures (SOA)
+Expert level proficiency in .Net 4.0, C#, ASP.Net, N-Tier application development, SOA, XML web services
+Database experience with MS SQL, DB Architecture/design, SQL Development (PL/SQL)
+Web 2.0 technologies, JQuery, Javascript, Ajax
+Web application security - user authentication, N-tier architecture, DB/file encryption
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 11 : 
+Hands-on experience using various flavours of Linux and Windows
+Hands-on experience on Sitecore, maintaining code integrity and organisation
+Understanding and Implementation of security and data protection
+Knowledge of code versioning tools such as TFS, and GIT
+Proficient in articulation communication and presentation with high integrity
+Should be able to understand and analyse the requirements to ensure the completeness of requirements
+Should be able to break down tasks into smaller items and schedule them
+Should be able to perform oriented technical architecture/design for the project
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 12 : 
+Experienced with programming languages such as .NET with C#
+Well-versed with best practices of Object-Oriented Programming Languages
+Well-versed with Data manipulation techniques and complex queries
+Sound Knowledge of Web Technologies like HTML, CSS, JavaScript and jQuery
+Knowledge of ORM tools like Glassmapper
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 13 : 
+Hands on Sitecore development with SXA
+Hands on design and in-depth development experience in Microsoft NET technologies including C#, ASP NET, MVC, Web AP,I Entity Framework and LINQ
+Sitecore pipelines customization
+Solr, Azure and Coveo search
+Sitecore upgrade
+PowerShell script
+Experience in developing for Sitecore Experience Platform version 9/10.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 14 : 
+Experience with Sitecore Forms.
+Knowledge in design and development of multilingual multi-region websites Web development and design experience with HTML5 JavaScript jQuery Bootstrap CSS3 and Razor syntax align with Sitecore development.
+Develop, configure, and maintain Sitecore solutions using MVC framework, preferably with Helix.
+Responsible to design the technical solution using best practices in Sitecore web application development regarding security, maintainability, and scalability.
+Responsible for support, maintenance, and enhancements to new and existing systems running, utilizing existing tools and technology.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 15 : 
+Strong working knowledge of Sitecore
+Should participate in Design/Code and System review during Scrum development process
+Microsoft Certifications in C#/.Net and SQL Server – preferred
+Minimum of a Bachelor's degree (or equivalent) and minimum of 5+ years of experience, in which working as a senior applications architect or senior web developer with Sitecore
+Design, develop and enable third party websites and related projects
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 16 : 
+Develop and maintain high-quality web applications using the Sitecore platform.
+Collaborate with cross-functional teams to gather and analyze requirements, design solutions, and implement new features.
+Customize and extend Sitecore CMS functionalities to meet project requirements.
+Integrate front-end components using either Angular or React frameworks.
+Ensure the performance, scalability, and reliability of applications.
+Troubleshoot and debug issues to optimize performance and user experience.
+Stay updated with the latest industry trends and best practices in Sitecore development and front-end technologies.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 17 : 
+Bachelors degree in Computer Science, Engineering, or a related field.
+years of experience in .NET development with a focus on Sitecore CMS.
+Proficiency in C#, ASP.NET MVC, and SQL Server.
+Strong understanding of Sitecore architecture, pipelines, and customization.
+Experience with either Angular or React frameworks for front-end development.
+Knowledge of HTML5, CSS3, and JavaScript.
+Familiarity with version control systems such as Git.
+Excellent problem-solving and communication skills.
+Ability to work independently and in a team environment.
+Preferred Qualifications:
+
+Sitecore certification(s) is a plus.
+Experience with cloud technologies such as Azure or AWS.
+Knowledge of CI/CD pipelines and DevOps practices.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 18 : 
+Role & responsibilities
+
+
+Experience in Digital Marketing, Digital Asset Management, EXM, Analytics etc.
+Experience with Sitecore 9+ including custom development versus out-of-the-box configuration.
+Conversant with full stack programming languages and tools ( Helix, Azure PaaS, C#, HTML), but are also not afraid to experiment with new tech.
+Knowledge in ASP. Net MVC.
+Expected to have hands on experience in Front end technologies like JavaScript, jQuery, HTML, CSS, Bootstrap, Typescript, Tailwind, Reactjs and Nextjs.
+Knowledge of building custom solution using Sitecore CMS, DMS, Workflow, Service Integration, Social service integration, Personalization, SEO, multi-site, multi-channel, multi-lingual delivery environment.
+Experience designing and building business and data layers and functional libraries.
+Experience in SOLR, Sitecore Analytics.
+Experience with creating and consuming web services
+Understanding of object-oriented design and development
+Knowledge of agile principles / scrum ceremonies
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 19 : 
+Desired Skills:
+
+Experience of 5+ year and relevant to 3+ years of strong experience in .Net Sitecore development.
+Work Experience in Sitecore latest version
+Good experience with .Net 4.5, HTML, JavaScript, CSS, MVC, Web services, SQL Server
+Good knowledge of Sitecore CMS
+Strong knowledge of Visual Studio, TFS and at least one of the .NET languages (VB.Net, C#, ASP.NET)
+
+Hands-on experience in dot net core. Relevant certification is Mandatory.
+Deep understanding of the web: protocols, architecture, infrastructure, servers (IIS), proxies, load balancing, high availability and databases, etc.
+Deep understanding of modern patterns and practices: unit testing, inversion of control, repository, MVC and continuous integration, etc.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 20 : 
+Develop and maintain Sitecore solutions, ensuring high performance, reliability, and scalability.
+Utilize Sitecore Experience Accelerator (SXA) to create reusable components and templates.
+Implement and maintain design patterns to ensure code quality and maintainability.
+Collaborate with cross-functional teams, including designers, content creators, and other developers, to deliver high-quality digital experiences.
+Integrate Sitecore with third-party systems and services.
+Troubleshoot and resolve issues related to Sitecore implementations.
+Conduct code reviews and provide mentorship to junior developers.
+Stay up-to-date with the latest Sitecore features, tools, and industry best practices.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 21 : 
+At least 4 years of experience in Sitecore & .NET
+Experience in working in Sitecore 8.2 and above for multi-lingual and multisite implementations with Helix and SXA
+Good knowledge of C# fundamentals
+Good experience in building Templates, Renderings, Layouts, Page Designs, Partial Page Designs in Sitecore
+Experience in developing and exposing APIs from Sitecore using REST standards.
+Extending configurations in Sitecore by extending the built-in components such as Site Settings, Jobs and Pipelines
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 22 : 
+Develop and maintain Sitecore solutions.
+Utilize Sitecore Experience Accelerator (SXA) for reusable components and templates.
+Implement and maintain design patterns for code quality.
+Collaborate with designers, content creators, and other developers.
+Integrate Sitecore with third-party systems and services.
+Troubleshoot and resolve Sitecore-related issues.
+Conduct code reviews and mentor junior developers.
+Stay updated with the latest Sitecore features and best practices.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 23 : 
+Proven experience with Sitecore development.
+Knowledge of Sitecore Experience Accelerator (SXA).
+Strong problem-solving and troubleshooting skills.
+Experience with integrating third-party systems.
+Ability to collaborate in a team environment.
+Experience with code reviews and mentoring.
+Preferred Skills:
+
+Front-end technologies (HTML, CSS, JavaScript).
+Knowledge of cloud services for hosting Sitecore.
+Familiarity with agile development methodologies.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 24 : 
+You will be responsible for supervising content authoring for the entire project.
+Provide guidance and advice to the team on optimizing CMS usage for maximum impact.
+Address and resolve content authoring issues encountered by your team.
+2-4 years of experience in content authoring within Sitecore CMS.
+Previous experience in copywriting.
+Strong editing skills with a keen attention to detail.
+Proficiency in spoken and written English tailored for business communication.
+A basic understanding of HTML is preferred.
+Knowledge of SEO, metadata, and meta descriptions. Along with this familiarity with CSS is also needed.
+Basic knowledge of Photoshop, including tasks like image resizing, cropping, and compression.
+Fundamental comprehension of design and UX concepts.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 25 : 
+5-10 years of Sitecore experience, seeking Sitecore developer roles in Bangalore.
+Proficiency in developing REST API Web Services for 3+ years.
+Minimum 4 years of Sitecore development experience, preferably with version Sitecore 9 and above.
+3+ years of SQL query writing and database management.
+1+ year experience using CI-CD tools like Azure DevOps, Jenkins, etc.
+At least 1 year of .NET unit testing framework experience.
+Strong grasp of computer science and object-oriented programming (OOP).
+Expertise in Test-Driven Development, relational database design, and database structure optimization for performance.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 26 : 
+Hands on Sitecore development with SXA
+Hands on design and in-depth development experience in Microsoft NET technologies including C#, ASP NET, MVC, Web AP,I Entity Framework and LINQ
+Sitecore pipelines customization
+Solr, Azure and Coveo search
+Sitecore upgrade
+PowerShell script
+Experience in developing for Sitecore Experience Platform version 9/10.
+Sitecore Headless
+Experience with Sitecore Forms.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 27 : 
+Knowledge in design and development of multilingual multi-region websites Web development and design experience with HTML5 JavaScript jQuery Bootstrap CSS3 and Razor syntax align with Sitecore development.
+Develop, configure, and maintain Sitecore solutions using MVC framework, preferably with Helix.
+Responsible to design the technical solution using best practices in Sitecore web application development regarding security, maintainability, and scalability.
+Responsible for support, maintenance, and enhancements to new and existing systems running, utilizing existing tools and technology.
+Solution & Assets Development on Sitecore Content Management System
+Employ experience with Sitecore XP to design highly scalable solutions leveraging the power of the platform.
+Experience with version control systems GIT
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 28 : 
+Required Technical Skills:
+4+ years of strong experience in Dotnet Sitecore development.
+Work Experience in Sitecore latest version.
+Good experience with Dotnet 4.5, HTML, JavaScript, CSS, MVC, Web services, SQL Server.
+Good knowledge of Sitecore CMS.
+Strong knowledge of Visual Studio, TFS and at least one of the Dotnet languages (VB.Net, C#, ASP.NET)
+Hands-on experience in dot net core. Relevant certification is Mandatory.
+Deep understanding of the web: protocols, architecture, infrastructure, servers (IIS), proxies, load balancing, high availability and databases.
+Deep understanding of modern patterns and practices: unit testing, inversion of control, repository, MVC and continuous integration.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Job description 29 : 
+Preferred skills
+
+5+ years of experience developing modern enterprise-level applications using .NET technologies specifically C#, ASP.NET MVC, and .NET Framework 4.6 & above.
+3+ years of dedicated hands-on experience using Sitecore XP. Must have in-depth knowledge of Content Management with strong technical hands-on knowledge of Sitecore including best practices and features.
+Strong development skills with Sitecore Helix, SXA, Forms, Unicorn, TDS, and ORMs.
+Hands-on Knowledge of Sitecore JSS, Item Serialization, Sitecore CLI, connect, and Docker containers is a plus.
+Must have a good understanding of Sitecore Pipelines, deployment topologies, Sitecore’s Application, and Storage Roles.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job description 30 :
+Full Stack Developer who knows all stages of software development
+He/she will be working alongside other engineers and developers in designing developing & and implementing using .net & CMS Platform such as Sitecore
+Experienced with programming languages such as .NET with C#
+Well-versed with best practices of Object-Oriented Programming Languages
+Well-versed with Data manipulation techniques and complex queries
+Sound Knowledge of Web Technologies like HTML, CSS, JavaScript and jQuery
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+JOB DESCRIPTION 31
+
+Understanding of Sitecore Forms, SXA, Habitat, xDB related customization
+
+" Good to have knowledge of latest sitecore features like xConnect, Cortex, Sitecore as PaaS, JSS.
+
+" CI/CD setup using any Devops platform like Azure Devops, Bamboo, Octopus, Jenkins.
+
+" Effective interpersonal and communication skills
+
+" Demonstrated leadership and team-building abilities
+
+" Creativity, self-confidence, and flexibility
+
+" Ability to quickly adapt to a changing environment
+
+" Ability to quickly learn new concepts and software is necessary
+
+" Candidate should be a self-motivated, independent, detail oriented, responsible team-player
+
+" Passionate about building high-quality systems with software implementation best practices
+
+" Ability to multi-task and support multiple priorities
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 32
+
+
+Develop and maintain websites using the Sitecore CMS.
+Design, code, and test website features to enhance user experience.
+Troubleshoot and resolve technical issues during website development.
+Collaborate with designers and content creators to ensure cohesive website functionality.
+Optimize websites for maximum speed and scalability.
+Ensure the technical feasibility of UI/UX designs.
+Stay updated with emerging technologies and industry trends.
+Participate in code reviews and provide constructive feedback.
+Maintain documentation of development processes and codebases.
+Assist in the integration of third-party services and APIs.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 33
+
+
+At least 5 years of experience in Sitecore & .NET
+• Good team player with achieving goals with the team in mind
+• Experience in working in Sitecore 8.2 and above for multi-lingual and multisite implementations with Helix and SXA
+• Strong knowledge of C#
+• Experience in integrating applications using web services and REST APIs
+• Good experience in building Templates, Renderings, Layouts, Page Designs, Partial Page Designs, Shared / Baseline site concepts, Sitecore Caching
+• Experience in developing and exposing APIs from Sitecore using REST standards.
+• Extending configurations in Sitecore by extending the built-in components such as Site Settings, Jobs and Pipelines, Sitecore Events, Custom Processors etc
+• Experience using Glass, Synthesis, or another ORM Mapper/Wrapper for Sitecore
+• Excellent knowledge and experience in building component by following SXA standards and Helix Architecture
+• Experience in SaaS solutions such as IAM, CDN (Content Delivery Network), Backend Services, etc.
+• Experience in Hosting Sitecore in Azure with Azure Search or Solr
+• Good understanding on the Web Development and troubleshooting issues in web browsers
+• Knowledge of Redis Cache and implementing custom caching within the website.
+• Strong analytical and problem-solving skills
+• Must have good communication skills
+• Must have ability to define components, troubleshoot the issues, review the implementation and provide recommendations to address the concerns within the team.
+• Experience with managing team using Gitlow branching pattern
+• Understanding the Azure DevOps process
+• Experience in working in a continuous integration and deployment environment (Microsoft Azure, Continuous Deployment/Release, Unicorn)
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 34
+
+
+
+Develop new .NET based functionalities and applications in Visual Studio.
+· Work for customers. In our office, or on-site in their office.
+· Accurately estimate the scale and scope of projects.
+· Ensure all solutions are documented and meet design requirements.
+· Lead and mentor other developers.
+· Fully understand and communicate business requirements clearly.
+· Architect custom solutions and maintain applications for our clients.
+· Good English skills and the ability to thrive in a multinational environment
+· Quality awareness, self-motivation, and problem solving skills
+· Experience with Design pattern is a plus
+· Full development lifecycle experience
+Education – Bachelors Degree
+· Minimum 3+ years of work experience and hands on experience on MVC 5.0 related projects.
+· Preference will be given to candidates who have any CMS knowledge
+· Minimum of 2+ years of experience working on Sitecore. Knowledge of working in Sitecore on Azure and/or AWS is plus
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 35
+
+
+
+Bachelor's Degree in Computer Science, Engineering, or related field (or equivalent experience).
+• 3+ years of experience working with Sitecore (preferably Sitecore XM or XP, with preferably experience migrating to or working on Sitecore XM Cloud).
+• Strong proficiency in Next.js or React, and modern front-end development (JavaScript, HTML, CSS).
+• Preferably experienced with Sitecore XM Cloud or headless CMS development.
+• Understanding of the Sitecore development best practices for headless development.
+• Version Control using Git, along with experience in CI/CD pipelines.
+• Ability to collaborate effectively with cross-functional teams, including marketers, designers, and other developers.
+• Sitecore Certification is a plus to have.
+• Experience with React.js and JavaScript frameworks, in particular Next.js.
+• Experience in JAMstack, Static Site Generation, and serverless architecture is a plus to have.
+• Extensive experience with RESTful APIs and writing queries for GraphQL (read, list, create, mutation queries) and API layer optimizations.
+• Strong problem-solving skills and attention to detail in delivering scalable, maintainable code.
+• Understanding of the OAuth2 standard and JSON Web Tokens.
+• Prior experience with Sitecore JSS (JavaScript Services) is an added advantage.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 36
+
+
+5+ years of experience in Content Management Systems in general, with at least 3+ yrs. of specific Sitecore experience required. Sitecore 8.X+ experience is ideal.
+
+· Bachelor's in computer science, software engineering or similar
+
+· Hands-on Sitecore development experience.
+
+· The .NET Framework including Visual Studio, C#, and ASP.NET MVC with an understanding of the basics of front end technologies.
+
+· Client-side browser technologies including JavaScript, CSS, and HTML, Responsive Web Design, JQuery and other front end development tools. Experience with Agile methodologies
+
+· Experience with REST, Web Services, Web application frameworks
+
+· Experience with build automation tools
+
+· Experience in TDD and software testing frameworks
+
+· Knowledge of IDEs and source control management (ideally TFS, GIT, SVN or similar)
+
+· Strong adherence to a consistent delivery methodology and associated deliverable generation
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 37
+
+
+
+ 5+ years of experience with Sitecore expertise preferred
+• 5+ years of experience with the Microsoft .NET platform ASP.NET, C#, LINQ, MVC, IIS, SQL Server
+• Good understanding of object-oriented design principles and software patterns,MVC
+• Experience integrating third-party search technologies with Sitecore
+• Experience in creating and maintaining a continuous integration environment for Sitecore
+• Bootstrap, Angularjs, jQuery, HTML5, CSS3
+• Digital marketing platforms like CRM, marketing automation and analytics.
+Experience in architecting and designing solutions around Sitecore.
+• Understanding of Digital Marketing, Analytics, CMS, DMS, Cloud concepts.
+• Ablility to manage project delivery and provide technical leadership within Sitecore projects.
+• Experience with concepts, Integration with CRM, bootstrap, HTML/CSS.
+• Technically design Sitecore-based solutions, logical and physical architecture of Sitecore capabilities, system integration components, database, server architecture.
+• Good in documentation the overall system architecture, components, features and functionality in sufficient detail for the development team to execute the solution implementation.
+• Should be able to train/mentor team members on Sitecore
+• Should have good communication skills
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 38
+
+
+Minimum of 2 years of experience working with ASP.NET.
+• Minimum of 1 year of experience in developing web content management solutions using Sitecore.
+• Strong experience in creating Sitecore components and services
+• Experience with HTML5, CSS3, Javascript, AJAX and integration using REST services.
+• Experience in testing practices such as TDD and BDD is an added plus.
+• Experience with secure and effective coding practices
+• Experience with object-oriented design and design patterns
+• Excellent estimation abilities in scoping work in a highly complex environment
+• Superior problem solving, organizational, decision-making, written, oral and interpersonal skills. Skills:- MVC Framework, .NET, ASP.NET, Sitecore and Content Management System (CMS)
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 39
+
+
+
+Technical Mastery of Sitecore CMS system
+• At least 1 year experience in Sitecore Headless Architecture and JSS using Sitecore v10.x
+• Strong knowledge on the deployment and technical architecture of the .Net/Sitecore based applications and its associated configurations
+• Strong Knowledge of web technologies (JavaScript, JQuery, HTML 5.0, CSS3.0)
+• Knowledge of standards, policies, best practices and procedures related to the support and operations of Sitecore platform
+• Working experience on WebAPI / Web Services
+• Excellent Communication and Analytic skill
+• Experience/ Exposure of Azure cloud platform
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 40
+
+
+Should have hands on experience in .NET Framework 4.6
+
+Good hands on experience of .NET, C#, MVC 5, Web API, JavaScript and JQuery
+
+Should have good knowledge into SQL Server 2012 or later.
+
+Should have Good understanding in Sitecore Templates, Layouts and Renderings.
+
+Should have strong knowledge in OOPS and Sitecore coding best practices.
+
+Should have a great knowledge into Solr and Lucene Search
+
+Should have a good knowledge into Sitecore versions, Workflows, Publishing, Jobs and Serialization.
+
+Good knowledge into MongoDB, Sitecore and Google Analytics.
+
+Should have a good knowledge into Git, bitbucket repository.
+
+Experience into handling both support and development environments.
+
+Good to have bootstrap UI experience, Node.JS, Gulp build and Deployment process.
+
+Should have the flair to learn and upgrade continuously on technology and processes.
+
+Should have excellent English communication, Analytical Skills and interpersonal skills.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 41
+
+
+
+Hands on Sitecore development with SXA
+• Hands on design and in-depth development experience in Microsoft NET technologies including C#, ASP NET, MVC, Web AP,I Entity Framework and LINQ
+• Sitecore pipelines customization
+• Solr, Azure and Coveo search
+• Sitecore upgrade
+• PowerShell script
+• Experience in developing for Sitecore Experience Platform version 9/10.
+• Sitecore Headless
+• Experience with Sitecore Forms.
+• Knowledge in design and development of multilingual multi-region websites Web development and design experience with HTML5 JavaScript jQuery Bootstrap CSS3 and Razor syntax align with Sitecore development.
+• Develop, configure, and maintain Sitecore solutions using MVC framework, preferably with Helix.
+• Responsible to design the technical solution using best practices in Sitecore web application development regarding security, maintainability, and scalability.
+• Responsible for support, maintenance, and enhancements to new and existing systems running, utilizing existing tools and technology.
+• Solution & Assets Development on Sitecore Content Management System
+• Employ experience with Sitecore XP to design highly scalable solutions leveraging the power of the platform.
+• Experience with version control systems GIT
+• Understand the use and implementation of 3rd party tools and modules like DAM connector, Site Improve plugin etc.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 42
+
+
+Develop and deliver high-quality digital platforms using the Sitecore Experience Platform.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Ensure the performance, quality, and responsiveness of applications.
+Identify and correct bottlenecks and fix bugs.
+Help maintain code quality, organization, and automation.
+Participate in code reviews and provide constructive feedback.
+Stay updated with emerging trends and technologies in web development.
+Mentor junior developers and share knowledge within the team.
+Work closely with clients to understand their requirements and provide technical solutions.
+Contribute to the continuous improvement of development processes and methodologies.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 43
+
+
+either site core 10+ version experience or headless cms experience .
+Certified on Sitecore version 10
+Should know headless CMS
+Should know different topologies XP and XM
+Should be more in to providing solution designing features with coding
+Should know ASP.Net MVC
+Working on React
+Should know JSS layout services
+Should know Powershell
+Should know SCJSS
+Should know SQL
+For 5-8 years exp
+
+Will work if he is not certified
+Should know Powershell
+React NextJS and should be aware about new modules in market attached to Layout Services
+Should know ASP.Net MVC
+Working on React
+Should know JSS layout services
+Should know Powershell
+Should know SCJSS
+Should know SQLOn Frontend part
+5-8 years
+
+Certification not needed
+Aware about ReactJS NextJS layout services
+Should know consumption of API response and its translation
+8-12 years
+
+Should be well aware about testing models , checking the UI
+Should be able to give new ideas on UI
+Sitecore – content hub development
+
+Not certified but should have done atleast 1 project
+Should know GraphQL at any experience level
+Should be well aware of query, api response,schema to be designed,entity and taxonomies
+Should know .net C#
+Azure Functions / webhooks – good to have
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 44
+
+
+Experience of 6+ years and relevant to 5+ years of strong experience in .Net Sitecore development.
+Work Experience in Sitecore latest version
+Good experience with .Net 4.5, HTML, JavaScript, CSS, MVC, Web services, SQL Server
+Good knowledge of Sitecore CMS
+Strong knowledge of Visual Studio, TFS, and at least one of the .NET languages (VB.Net, C#, ASP.NET)
+Hands-on experience in dot net core.
+Relevant certification is Mandatory.
+Deep understanding of the web: protocols, architecture, infrastructure, servers (IIS), proxies, load balancing, high availability and databases, etc.
+Deep understanding of modern patterns and practices: unit testing, inversion of control, repository, MVC continuous integration, etc.
+Experience 5+ years in .NET & 3+ years in Sitecore CMS.
+Education UG: B.Tech/B.E. in Any Specialization, BCA in Computers, B.Sc. in Any
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 45
+
+
+2 5 years of proven and demonstrated experience and delivery within the digital domain
+Demonstrable experience in developing high-fidelity front-end solutions, in a Site Core CMS v8.1 or 9.2
+Demonstrate a high level of competence in object-oriented analysis, design and coding in a .NET server-side environment, specifically utilizing the ASP.NET MVC, Web API and WCF framework
+Produce standards compliant HTML, CSS and JavaScript from supplied artwork and technical specifications
+NET development using C#, HTML 5, React, Angular, CSS 3, jQuery and ASP.NET development including MVC
+Demonstrable ability to build and deliver continuous integration pipelines for bespoke and enterprise (CMS, eCommerce & Digital Enabler platforms)
+RESTful Web services including creating
+Demonstrated ability to work and deliver in agile delivery environment
+Ability to work effectively during periods of high demand and stress dictated by the position
+Highly developed estimation and delivery skills
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 46
+
+
+
+Experience of minimum 3+ years in Sitecore systems implementation and support
+ 
+Strong hands-on development experience with a Sitecore WCMS (Sitecore 8/9 preferred)
+Sitecore 8+/9+ Certification is a plus
+Sitecore 8 to 9 migration experience is must
+Sitecore SXA, Cortex, JSS, Headless and forms modules hands-on experience preferred
+Experience with Glass Mapper, Castle Windsor preferred
+Experience with use of Sitecore xDB to create personalized user experience - personalization
+ 
+Implement Sitecore best practices as and when required
+Must have good knowledge and experience with SOLR Search and MongoDB; experience with either Unicorn or TDS is a plus
+Knowledge of Azure deployment is a big bonus
+Must have good knowledge and experience with SOLR Search and MongoDB
+Should have good working knowledge of CSS/HTML and JavaScript
+libraries.
+ 
+Possess Excellent communication interpersonal skills
+He/she would be responsible for training mentoring juniors and setting up a strong team
+Handover knowledge other teams on the project so that they can do the support on a daily basis.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 47
+
+
+
+Bachelors degree in Computer Science, Information Systems, or equivalent experience.
+3-5 years of development experience with at least 2 years in Sitecore, including Helix, Habitat, and Sitecore commerce.
+3+ years of software development experience with HTML, CSS, JavaScript, .Net, Java, C#, JQuery, or similar technologies.
+Experience with Sitecore Headless CMS, custom API, and Sitecore JSS framework.
+Knowledge of React WebApps, SXA, Sitecore commerce, Coveo, SOLR, and Sitecore principles.
+Familiarity with Azure deployments, CI/CD environments, GitHub, and Azure DevOps.
+Strong SQL knowledge and experience integrating REST APIs and SOAP.
+Experience working in Agile Scrum teams.
+Excellent interpersonal, analytical, and problem-solving skills.
+Understanding of SDLC, development, and testing methodologies.
+Ability to work effectively with others and adapt to changing conditions.
+Nice to Have:
+
+Experience with Jira, Confluence, Azure, and AWS.
+Experience with Sitecore Managed Cloud environment (PaaS).
+Sitecore Certifications are a plus.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 48
+
+
+
+Strong understanding of CMS technologies and infrastructure as well as experience designing and deploying Sitecore application
+Experience in system design, implementation, scalability and interoperability of enterprise systems and web infrastructure.
+Experience of minimum 3+ years in Sitecore systems implementation and support
+Strong hands-on development experience with a Sitecore WCMS (Sitecore 8/9 preferred)
+Sitecore 8+/9+ Certification is a plus
+Sitecore 8 to 9 migration experience is must
+Sitecore SXA, Cortex, JSS, Headless and forms modules hands-on experience preferred
+Experience with Glass Mapper, Castle Windsor preferred
+Experience with use of Sitecore xDB to create personalized user experience - personalization
+Implement Sitecore best practices as and when required
+Must have good knowledge and experience with SOLR Search and MongoDB; experience with either Unicorn or TDS is a plus
+Knowledge of Azure deployment is a big bonus
+Must have good knowledge and experience with SOLR Search and MongoDB
+Should have good working knowledge of CSS/HTML and JavaScript libraries.
+Possess Excellent communication interpersonal skills
+He/she would be responsible for training mentoring juniors and setting up a strong team
+Handover knowledge other teams on the project so that they can do the support on a daily basis.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 49
+
+
+Designing and developing innovative solutions using the Sitecore CMS
+Collaborating with stakeholders to understand project goals and deliverables
+Customizing and integrating third-party applications within the Sitecore platform
+Troubleshooting and resolving Sitecore CMS-related issues
+Optimizing website performance and ensuring high availability, scalability, and security
+Staying up-to-date with the latest trends and best practices in Sitecore development
+
+
+Bachelors degree in Computer Science, Software Engineering, or a related field
+Minimum of 5 years of experience in Sitecore development
+Strong knowledge of Sitecore XP, Sitecore Commerce, and Sitecore Experience Forms
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 50
+
+
+Hands on design and in depth development experience in Microsoft NET technologies including C ASP NET MVC Web API Entity Framework and LINQ
+Experience on Sitecore 10 Certification development and working experience on Sitecore 9 Azure PaaS ReactJS Solid programming
+knowledge of MS SQL Server and MongoDB
+Experience with version control systems GIT
+Experience creating and consuming web services including REST JSON
+Familiarity with integration to ERP CRM DAM and other backend systems
+Familiarity with and ability to utilize Sitecore DLLs within an MVC project to manage data within the Sitecore CMS and multiple back end systems
+Ability to design and implement complex workflows within Sitecore
+Knowledge in design and development of multi lingual multi region websites Web development and design experience with HTML5 JavaScript jQuery Bootstrap ReactJS CSS3 and Razor syntax align with Sitecore development
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 51
+
+
+
+Develop and implement Sitecore solutions using version 10 and .NET MVC.
+Collaborate with cross-functional teams to gather requirements and translate them into technical specifications.
+Customize Sitecore components, templates, and layouts to meet business needs.
+Optimize Sitecore applications for performance and scalability.
+Maintain and troubleshoot existing Sitecore applications.
+Stay updated on the latest Sitecore features and best practices.
+Assist in the deployment and configuration of Sitecore environments.
+Requirements:
+
+Proven experience with Sitecore 10, including its architecture and features.
+Strong proficiency in .NET MVC framework.
+Familiarity with Sitecore Experience Platform, Sitecore Experience Commerce, and related modules.
+Experience with front-end technologies (HTML, CSS, JavaScript) and frameworks (e.g., jQuery, Angular).
+Understanding of SQL Server and database design principles.
+Knowledge of version control systems (e.g., Git).
+Excellent problem-solving skills and attention to detail.
+Strong communication and teamwork abilities.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 52
+
+
+You will be working with one of our client in the UK
+The client is looking for talented and experienced Senior Sitecore developers to join our growing technical team
+This is a chance to work in a fantastic fast paced environment on a broad range of award-winning projects for internationally recognised clients
+You will develop, test and deliver high quality, functionally sound digital solutions
+You will develop clean, structured and testable code; working with other members of the technical team to ensure all development processes are followed
+You will have CMS experience in Sitecore and will recognise the benefit of unit and functional testing and good system architecture and design in order to deliver quality for our clients
+Naturally you ll be passionate about the industry and have the appetite to stay abreast of current technologies and industry practice
+You will be hardworking, talented and have a thirst for programming and solving problems
+You may be required to travel to the UK once in a while for onsite implementation
+Core skills / experience
+2 3 years commercial experience
+Proficient C# ASP.NET - MVC, WebForms, LINQ, Web Services
+Proficient SQL Server 2008 and above
+Advanced level of programming ability, showing a fundamental understanding rather than language syntax alone
+Patterns, Dependency Injection, Test Driven Development, Continuous Integration -strong awareness and use
+Strong understanding of the HTTP stack and IIS administration
+Version control - SVN or GIT
+Good security knowledge and understanding
+Building effective CMS solutions for both user and administrator
+Nice to have
+Mobile and cross platform experience - either mobile web or app development HTML 4/5 and CSS
+JavaScript - OO and a fundamental understanding of the JavaScript language
+Server administration - either MS tech or Linux and the LAMP stack
+Any other relevant web technologies
+We d like you to be
+Self-motivated and able to work within a dynamic environment
+Good under pressure and can multi task without reduction in work quality and concentration
+A great communicator, both verbal and written
+Experience working in a similar agency environment, although not essential
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 53
+
+
+A Sitecore developer is a professional who specializes in developing and customizing websites and web applications using the Sitecore Experience Platform
+Sitecore is a leading content management system (CMS) and digital experience platform that enables organizations to create personalized and engaging digital experiences
+As a Sitecore developer, your responsibilities may include:Sitecore Development: Developing and customizing websites, web applications, and digital experiences using Sitecore
+This involves working with Sitecore's architecture, components, and modules to implement features, functionality, and integrations
+Sitecore CMS Implementation: Installing, configuring, and deploying the Sitecore CMS on development, staging, and production environments
+This includes setting up databases, configuring security, and managing content workflows
+NET Development: Sitecore is built on the Microsoft
+NET framework, so a strong understanding of
+NET development is essential
+You will develop and extend Sitecore solutions using C# programming language, ASP
+NET MVC, and other related technologies
+Sitecore Templates and Layouts: Creating and configuring Sitecore templates, layouts, renderings, and components to enable content authors to manage and customize the website's content and appearance
+Sitecore Personalization and Personalized Marketing: Implementing personalization features in Sitecore to deliver personalized content, recommendations, and marketing campaigns based on user profiles, behavior, and segmentation
+Sitecore Analytics and Reporting: Configuring and utilizing Sitecore's analytics and reporting capabilities to gather insights and track user behavior, engagement, and conversions
+This involves setting up goals, funnels, and tracking events to measure and optimize the performance of digital experiences
+Integration and API Development: Integrating Sitecore with external systems, such as CRM systems, marketing automation platforms, e-commerce platforms, or third-party APIs
+This includes developing custom APIs, connectors, and data integrations to ensure seamless data exchange and functionality across systems
+Performance Optimization and Troubleshooting: Optimizing the performance and scalability of Sitecore solutions by identifying and addressing bottlenecks, caching strategies, and code optimizations
+You will also troubleshoot and resolve issues related to Sitecore configurations, deployments, and customizations
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 54
+
+
+Skills/Experience Required
+
+3-5 years of development experience and extensive C# knowledge
+Knowledge of .NET Core framework and experience with Sitecore Commerce will be a plus
+Experience in TDD and BDD
+Experience with SOLID Design Principles
+Strong Sitecore knowledge with experience in integration with external systems
+Knowledge of setting up CI/CD
+Usuals like - git, Azure DevOps, and Dockers to work with the latest in the Sitecore world.
+Your Responsibilities
+
+Develop enterprise-grade solutions in Sitecore composable stack
+Work with Solution Architects to design solutions in line with our motto of getting it right
+As an expert in Sitecore, you will be the mentor to the junior developers in the team
+It is a client-facing role and good communication skills are a must
+Why work with us?
+
+Excellent salary
+Work from home, always or maybe travel to client locations across the globe
+Flexible working - work according to your availability during the core office hours
+Bonus, pension, private healthcare, meal vouchers, life insurance, and wellness sessions
+Learn, grow, and get certified with access to learning resources
+Option to work out of our global office for a couple of months a year.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 55
+
+
+At least 5+ years of experience in Sitecore & .NET
+Good team player with achieving goals with the team in mind
+Experience in working in Sitecore 8.2 and above for multi-lingual and multisite implementations with Helix and SXA
+Strong knowledge of C#
+Experience in integrating applications using web services and REST APIs
+Good experience in building Templates, Renderings, Layouts, Page Designs, Partial Page Designs, Shared / Baseline site concepts, Sitecore Caching
+Experience in developing and exposing APIs from Sitecore using REST standards.
+Extending configurations in Sitecore by extending the built-in components such as Site Settings, Jobs and Pipelines, Sitecore Events, Custom Processors etc
+Experience using Glass, Synthesis, or another ORM Mapper/Wrapper for Sitecore
+Excellent knowledge and experience in building component by following SXA standards and Helix Architecture
+Experience in SaaS solutions such as IAM, CDN (Content Delivery Network), Backend Services, etc.
+Experience in Hosting Sitecore in Azure with Azure Search or Solr
+Good understanding on the Web Development and troubleshooting issues in web browsers
+Knowledge of Redis Cache and implementing custom caching within the website.
+Strong analytical and problem-solving skills
+Must have good communication skills
+Must have ability to define components, troubleshoot the issues, review the implementation and provide recommendations to address the concerns within the team.
+Experience with managing team using Gitlow branching pattern
+Understanding the Azure DevOps process
+Experience in working in a continuous integration and deployment environment (Microsoft Azure, Continuous Deployment/Release, Unicorn)
+
+Nice to Have:
+
+Certification on Sitecore 9.x or above
+Knowledge of any of the JavaScript frameworks.
+Experience in Azure Functions, Cosmos database and integration
+Knowledge on OneTrust implementations or GDPR and CCPA acts
+Knowledge on any other CMS
+Good understanding on Headless CMS and Hybrid implementations
+Experience on XSRS, XSS, OWASP, WCAG, GDPR and CCPA
