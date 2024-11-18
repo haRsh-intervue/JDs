@@ -757,34 +757,7 @@ Highly developed estimation and delivery skills
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-JOB DESCRIPTION 46
 
-
-
-Experience of minimum 3+ years in Sitecore systems implementation and support
- 
-Strong hands-on development experience with a Sitecore WCMS (Sitecore 8/9 preferred)
-Sitecore 8+/9+ Certification is a plus
-Sitecore 8 to 9 migration experience is must
-Sitecore SXA, Cortex, JSS, Headless and forms modules hands-on experience preferred
-Experience with Glass Mapper, Castle Windsor preferred
-Experience with use of Sitecore xDB to create personalized user experience - personalization
- 
-Implement Sitecore best practices as and when required
-Must have good knowledge and experience with SOLR Search and MongoDB; experience with either Unicorn or TDS is a plus
-Knowledge of Azure deployment is a big bonus
-Must have good knowledge and experience with SOLR Search and MongoDB
-Should have good working knowledge of CSS/HTML and JavaScript
-libraries.
- 
-Possess Excellent communication interpersonal skills
-He/she would be responsible for training mentoring juniors and setting up a strong team
-Handover knowledge other teams on the project so that they can do the support on a daily basis.
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JOB DESCRIPTION 47
 
