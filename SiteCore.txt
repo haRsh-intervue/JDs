@@ -359,7 +359,7 @@ Preferred skills
 5+ years of experience developing modern enterprise-level applications using .NET technologies specifically C#, ASP.NET MVC, and .NET Framework 4.6 & above.
 3+ years of dedicated hands-on experience using Sitecore XP. Must have in-depth knowledge of Content Management with strong technical hands-on knowledge of Sitecore including best practices and features.
 Strong development skills with Sitecore Helix, SXA, Forms, Unicorn, TDS, and ORMs.
-Hands-on Knowledge of Sitecore JSS, Item Serialization, Sitecore CLI, connect, and Docker containers is a plus.
+Hands-on Knowledge of Sitecore JSS, Item Serialization, connect, and Docker containers is a plus.
 Must have a good understanding of Sitecore Pipelines, deployment topologies, Sitecore’s Application, and Storage Roles.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
