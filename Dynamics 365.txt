@@ -1,0 +1,1282 @@
+JOB DECRIPTION 1
+
+
+Work cross-functionally within IT and organizational/external partners to implement and maintain collaboration services to meet enterprise objectives.
+ L3 escalations / Incident management, Major Incident participation and resolution, including root cause analysis and problem report, within defined Service Level Agreement durations.
+ Monitor health and performance of M365 services and apps. Work with Microsoft and other vendors to track outages to vendor SLAs and to facilitate timely service desk and user communications.
+ Create and execute monitoring, reporting and automation tools, including Powershell and Graph scripts where appropriate, to proactively identify issues and implement improvements to ensure optimal performance and availability. Manage lifecycle of sites, teams, mailboxes etc.
+ Implement new features and updates to M365 services and apps. Ensure team, department and organizational policies and procedures are adhered to including technical change management.
+ Conduct security assessments and implement identified measures to protect users and data. Ensure that Workforce Productivity tools adhere to security standards and compliance regulations.
+ Work with Information Security team as needed, to prioritize security.
+ Build technical documentations including M365 configuration, support/troubleshooting procedures, best practices, security guidelines.
+ Build user product documentation and training content for efficient and appropriate use of productivity tools.
+ Provide additional support and guidance to users as needed. This includes explaining products, features, issues and ideas in a clear and concise fashion to non-technical users.
+ Stay current with the latest M365 roadmap, updates and best practices. This includes participating in relevant professional development activities. Mentorship and knowledgesharing with other team members as may be needed.
+ Work in rotated shifts, for the team to provide for 24x7 support.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 2
+
+
+7+ years of experience in IT with a focus on Microsoft technologies.
+5+ years of hands-on experience with Dynamics 365 CRM.
+Minimum 1 year of experience working on PowerApps.
+Experience in leading large-scale CRM projects.
+Bachelor’s degree in computer science, Information Technology, or related field.
+Relevant Microsoft certifications are a plus.
+Strong understanding of Dynamics 365 CRM architecture and integration capabilities.
+Experience with Azure services and cloud-based solutions.
+Experience with Dynamics 365 customizations, integrations, and data management
+Experience with other Microsoft technologies such as Azure, PowerApps, and Power BI
+Proficiency in .NET, C#, JavaScript, and other relevant technologies.
+Knowledge of SQL Server and database management.
+Deep understanding of Dynamics 365 CRM and Microsoft Power Platform.
+Proven experience as a Solution Architect in Dynamics 365 CRM implementations.
+Strong analytical and problem-solving skills.
+Excellent communication and presentation abilities.
+Ability to work in a fast-paced, dynamic environment.
+
+
+Soft Skills:
+
+Excellent communication and interpersonal skills.
+Strong problem-solving and analytical abilities.
+Ability to lead and work collaboratively with cross-functional teams.
+Leadership and mentoring capabilities.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 3
+
+
+Strong functional knowledge in projects, supply chain or resource management areas.
+Solution Design: Lead the design of Dynamics 365 solutions, ensuring they meet business requirements and align with best practices.
+Implementation: Oversee the implementation process, working closely with track lead, SME’s, developers, consultants, and other team members.
+Integration: Integrate Dynamics 365 with other systems and applications within the organization.
+Data Migration: Assist with data migration and plan cutover to ensure seamless transition from legacy systems.
+User Training: Develop and deliver training programs for end-users to ensure successful adoption of the new system.
+Stakeholder Management: Collaborate with business stakeholders to gather requirements, provide updates, and ensure satisfaction with the solution.
+Documentation: Create and maintain comprehensive documentation for the solution architecture, design, and implementation processes.
+
+
+Qualifications:
+
+Experience: Minimum of 12 years of experience in designing and implementing Microsoft Dynamics 365 solutions.
+Education: Bachelor’s degree in computer science, Information Technology, or a related field.
+Certifications: Relevant Microsoft certifications (e.g., Dynamics 365, Azure) are highly desirable.
+Technical Skills: Proficiency in Dynamics 365, Project Operations, Power Platform, Azure, and related technologies.
+Analytical Skills: Strong analytical and problem-solving skills.
+Communication: Excellent communication and interpersonal skills.
+Project Management: Experience with project management methodologies and tools.
+
+
+Preferred Qualifications:
+
+Experience with Dynamics 365 Finance and Operations, Customer Engagement (Project operations implementation experience will be an added advantage).
+Familiarity with Agile and DevOps practices.
+Experience in a consulting environment.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 4
+
+
+Development and optimizing in D365FO
+Technical analysis and detailed specifications
+Strong communication skills, motivation, and fun
+Working in (Scrum) project teams
+We are prepared to help you learn D365FO step-by-step. Every day you will have support from our team members if there are questions or doubts. 
+You will get bigger tasks over time. 
+You will learn to develop high quality code in D365FO. 
+You will have access to rich online documentation. 
+
+We are Searching for a Profile who has:
+
+X++ object-related programming is preferred but certainly not required (X++ is similar to C#)
+SQL statements
+Unit Testing
+Exposure to Power Platform and Azure services
+Experience with ERP systems an advantage
+Dynamics 365 certifications are preferred
+Language Skills: Proficiency in English (written and spoken; B2 level at minimum). 
+Location: Residing in Mangalore, India, or open to relocation. 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 5
+
+
+Skills:
+
+In-depth knowledge of Dynamics 365 CE modules like Sales, Marketing, and Customer Service.
+Strong expertise in customer journey mapping and process automation using Dynamics 365.
+Familiarity with integrating Dynamics 365 with marketing platforms such as MailChimp or HubSpot.
+Responsibilities:
+
+Work closely with sales and marketing teams to customize Dynamics 365 CE for enhanced customer experiences.
+Configure lead scoring models, dashboards, and customer journey maps.
+Monitor and optimize the performance of customer engagement campaigns.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 6
+
+
+Strong analytical skills to address complex business scenarios.
+Experience on Microsoft Dynamics AX/365 Finance and Operations, X++ ,
+.NET, C#, SOAP, SQL, SQL Server Components, and Rest APIs will be
+Knowledge on RDBMS, Azure, Power Automate, and SSIS
+Certifications
+Programming in D365/X++
+Developing ASP.NET
+Azure
+Power Automate (RPA Developer)
+Java Script
+MVC (Modell View Controller)
+SSAS, SSIS, and SSRS
+Adherence to Software Development Lifecycle practices.
+Strong knowledge and expertise in the.NET Framework,.NET Core Framework.
+Knowledge of Azure or any cloud platform technologies.
+Excellent interpersonal skills for effective communication of complex issues across multiple offices and teams.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 7
+
+
+Active communication with customers, developers and other service delivery teams in order to perform regular operations tasks and solve application issues
+Responsible for the underlying architecture of the software solution
+Interpret and create, as necessary, functional / technical specifications
+Involve in technical solution description and documentation
+Demonstrate knowledge in integrations and testing
+Having ability to analyze and recommend solutions to any technical difficulty in a timely manner
+Knowledge of MS Sure Step implementation methodology
+Certification in D365 X++ programming will be an advantage
+Follows and updates the design specifications as needed
+Working closely with business analysts and architects to design highly effective and efficient solutions to business requests, providing a superior user experience
+Developing integrations and customizations in Dynamics AX
+Dynamics AX/D365 Architecture
+SSIS
+Develop business logic by using X++.
+Create and modify finance and operations app reports and workspaces.
+Customize user interfaces.
+Provide endpoints and APIs to support Microsoft Power Platform apps and external systems
+AIF, ASP.NET, C#, Microsoft D365, Dynamics AX2009, Enterprise Portal, MorphX, SQL
+Development of custom reports using MS D365, SQL Server Reporting Services (SSRS), and other reporting tools.
+Architecting, configuring and managing Microsoft Azure Cloud services, and other Microsoft Office services supporting the Dynamics 365 ecosystem, including, but not limited to, PowerApps, Flow, SharePoint Online, and file transfer platforms
+Agile-based or agile/waterfall hybrid development environments
+Microsoft Azure DevOps or other Continuous Integration/Continuous Development (CI/CD) development/release platform
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 8
+
+
+Experience with Dynamics 365 on Apps Technical modules . 
+ Excellent working knowledge of Solution and Integration Design 
+ CE Portals with Power apps Canvas Apps 
+ Deep knowledge of Microsoft Dynamics 365 CE solutions integrations, power Portal, Migration 
+ Participate in technical analysis and create specification document. 
+ Effectively articulate not only technical and design/implementation concepts but also the potential solutions. 
+ Experience of developing creative and client-pleasing solutions to complex issues 
+ Ability and experience in preparation of proposals, responses, and contracts 
+ Should be able to work independently and should have good communication and client interaction skill. 
+ Candidate should be able to work independently work, test, document and deliver. 
+Proficient in MSCRM Dynamics with in-depth knowledge on Plugins, Workflows, JavaScripts, CRM Portals, Web APIs Azure Knowledge Good to have Power Apps Skill set 
+ Proficient on the latest OOB features available in Dynamics CRM 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 9
+
+
+Identify and address requirements beyond native functionality, focusing on integration, automation, data migration, and development.
+Utilize a variety of tools and programming skills (C#, Java/TypeScript, SQL, PowerFX, etc.) to design, build, test, and deploy high-quality solutions.
+Stay updated with the latest in D365, Power Platform, and Azure technologies.
+Mentor and coach team members, ensuring continuous improvement.
+Collaborate with Solution & Technical Architects, Project Managers, and stakeholders to deliver measurable ROI.
+Expert knowledge of the Dynamics 365 and the Microsoft Power Platform, including all D365 CE 1st Party Applications, Dataverse, Power Apps (ModelDriven and Canvas), PCF Controls and Power Automate, Copilot Studio, Power Pages, Connectors, AI Builder.
+Broad programming skills in Visual Studio, C#, JavaScript/TypeScript, Power Query, PowerFX (ideally some exposure to Liquid too).
+Experience with Azure services and DevOps practices.
+Ability to produce clear technical documentation and identify customer requirements.
+Proficiency in Agile and Waterfall methodologies.
+Excellent communication skills to guide and nurture team members and stakeholders.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 10
+
+
+Administer and configure Dynamics 365 CRM systems, including user roles, permissions, and security settings.
+Monitor system performance and resolve technical issues promptly.
+Manage data integrity, backups, and regular maintenance tasks.
+Implement workflows, business rules, and process automation.
+Collaborate with business teams to gather requirements and suggest system improvements.
+Provide training and technical support to end-users.
+Create custom views, dashboards, and reports for business insights.
+Integrate Dynamics 365 with other applications using APIs or middleware tools.
+Document configurations, processes, and troubleshooting steps.
+Preferred Skills:
+
+Proficiency in Power Platform tools like Power Automate and Power BI.
+Experience with data migration tools such as KingswaySoft or SSIS.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 11
+
+
+Master’s or Bachelor’s degree in Computer Science, Systems Engineering, Computer Engineering or related field
+5+ years of full-time practical work experience in Dynamics AX or Dynamics 365 Enterprise (X++ development experience)
+Experience in .NET development (C# preference), Visual Studio, SQL
+Knowledge of Object-Oriented Programming languages
+ERP experience
+Experience with systems integration development.
+Experience with Source Code Control (Azure DevOps)
+Ability to apply system design and development methodologies.
+Good oral and communication skills.
+A team player with a sense for initiative.
+Ability to learn new business processes or applications quickly.
+Goal-oriented with an eye for quality.
+Demonstrates leadership skills.
+Fluent in English (Excellent English writing and speaking skills)
+Design and develop in Microsoft Dynamics 365 Enterprise, including aspects of the core, advanced solutions, and industry specific solutions.
+Ability to work closely with functional consultants to translate user requirements into functional specifications and support the developer in functional understanding and scoping.
+Lead the communication efforts with the US project team consultants regarding functional aspects.
+Ability to creatively design a solution to meet the client's needs.
+Create estimates for assigned developments.
+Create technical design documents.
+Perform solution development using X++
+Debugging issues and providing solutions.
+Perform developer testing and quality assurance (QA)
+Perform peer code reviews ensuring best practices are being met.
+Provide support of your deliverables.
+Assist and guide other developers.
+Contribute to shared knowledge repositories for code best practices, tips and tricks.
+Report daily progress on development and issue resolution.
+Follow the software development lifecycle process, including timely updates to our internal systems.
+When assigned as a Project Lead, coordinate resources and assignments within your assigned projects.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 12
+
+
+Graduate Degree or Accounting course (CA). Emphasis in Accounting is preferred
+Minimum 14+ years of overall experience with at least 7-8 years with Dynamics 365 F&O
+A deep functional knowledge of Microsoft Dynamics D365 solutions & integrations
+Relevant Microsoft certifications
+Proven experience leading requirement gathering and discovery with users and stakeholders
+Active Participation in all phases of the project and own the overall solution
+Demonstrated knowledge and experience in ERP implementation principles, practices, and methodologies
+Manage entire configuration setups in D365 Finance and conversant with General Ledger, Accounts Payable, Accounts Receivable, Project Management, Fixed Assets, Credit and Collections, Budget
+Microsoft CE and other external Integration Tools experience would be an advantage as well.
+Excellent business communication skills with effective presentation and demonstration skills.
+Be a mentor and guide to junior team members and coordinate with them to deliver against commitments.
+Awareness and high-level understanding of current business applications and technologies and lead the team by giving them required technical and functional knowledge
+Ability to communicate strategic business approach at an executive level and be a trusted voice at the decision-making table
+Have a customer centric and consultative approach
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 13
+
+
+Demonstrated 7+ years of experience as a D365 CE Developer
+Strong proficiency in C#, JavaScript, HTML, and web services development
+Familiar with D365 CE customization and configuration using Power Apps, Power Automate, and Power BI
+Knowledge of D365 CE SDK and development tools such as Visual Studio and Azure DevOps
+Experience with integration tools and methods, RESTful APIs, and data migration
+Understanding of software development best practices, including version control and code review processes
+Graduate degree in Computer Science, Information Technology, or a related field
+Proven experience as a D365 CE Developer or similar role with a focus on customizing and extending the D365 CE platform
+Strong problem-solving and analytical skills with the ability to troubleshoot and resolve technical issues
+Microsoft certifications in Dynamics 365 Customer Engagement (e.g., Microsoft Certified: Power Platform Developer Associate) are highly desirable
+Ability to work independently and as part of a global team
+Possess strong relationship-building expertise with a wide and varied audience, internally and externally
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 14
+
+
+Proven experience as a Technical Architect or similar with a focus on D365 CE implementations
+Demonstrated 10-15 years of experience in D365 CRM/CE
+Strong understanding of business processes in Sales, Marketing, Customer Service, Field Service, and Project Operations
+Proficient in customizing and configuring D365 CE using PowerApps, Power Automate, and Power BI
+Expert level in data migration strategy, data modelling, and data integration
+Well-versed on previous versions of Dynamics CRM (2015/2016)
+Familiar with D365 CE SDK, development tools, and Azure services
+Vast experience in presales and configuring demos
+Proven experience with integration tools and methods to connect D365 CE with other systems
+Excellent problem-solving and analytical skills with the ability to translate business requirements into functional solutions
+Exceptional leadership skills, interpersonal skills, and communication skills with the ability to work collaboratively and effectively with cross-functional teams and stakeholders
+Microsoft certifications in Dynamics 365 Customer Engagement (e.g., Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert) are highly desirable
+MBA in Sales, Marketing, Operations or Post-Graduate Degree
+Ability to work independently and as part of a global team
+Possess strong relationship-building expertise with a wide and varied audience, internally and externally
+Strong attention to detail and a keen desire to deliver the highest quality solutions to customers
+Excellent business communication skills with effective presentation and demonstration skills.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 15
+
+
+Bachelor’s degree in computer science or related field
+5 - 10 years of experience developing customizations, integrations, and extensions for Microsoft Dynamics 365 F&O
+Proficient in X++, C#, .NET, SQL Server, and other related technologies. Strong knowledge of the D365 data schema and SQL scripting skills a plus.
+Experience with Azure Data Lake and Azure Synapse Analytics
+Strong analytical and problem-solving skills, with the ability to translate business requirements into technical solutions.
+Experience with Dynamics 365 F&O development tools, including Visual Studio, LCS, and Azure DevOps.
+Strong understanding of Dynamics 365 F&O architecture, data models, and security models as well a general data base design
+Excellent communication and interpersonal skills, with the ability to work collaboratively with technical and non-technical stakeholders.
+Ability to work independently and manage multiple tasks simultaneously.
+Experience with agile software development methodologies is a plus.
+Experience with Azure Data Factory and Azure Functions
+Knowledge on PowerBI and Power platform is a plus.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 16
+
+
+
+D365 Finance & Operations – Developer / Integration / Data Management.
+D365 F&O Technical Consultant having worked upon MS Dynamics D365 F&O, AX product extensively.
+Worked on different MS Dynamics D365 F&O / AX versions with experience in implementation, upgrade or migration and support projects.
+General understanding of the functionality in D365 F&O is needed.
+Well aware of the complete Software Development Life Cycle and Sure Step Methodology.
+Well able to understand the problem statement, provide and articulate best suitable solution.
+Well aware of development of customisations in MS Dynamics 365 F&O with an ability of estimation and documentation.
+Knowledge and experience of integration development with peripheral Azure technologies or third-party application.
+Maintain adherence to architectural standards / principles, global product specific guidelines, usability design standards, etc.
+Investigates problems to establish real or hidden causes.
+SLA based ticket/incident resolution in Level 2 and Level 3 of application support.
+Sound knowledge in the following areas of D365 – Finance and Operations: o Core X++ development o UI Development and Customizations o SSRS report development and deployment o Data Management o Power BI development and deployment using Power BI Desktop o Integration Methodologies o Azure Functions o Azure LogicApps o Power Automate, PowerApps o Extensions and Event handling o SQL and code performance tuning o Life Cycle Services (LCS) o Azure DevOps o Deployment Strategies, Code Merging.
+Excellent communication skill both written / verbal.
+Must have ability to work and interact with international customers independently.
+Must have good analytical and logical thinking.
+Actively work with all involved to mitigate risks.
+Active involvement in Master Data management, cut-over and Go live activities.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 17
+
+
+
+Skills:
+
+Proficiency in C#, .NET, and JavaScript for building custom solutions.
+Hands-on experience with Power Apps, Power Automate, and Power BI for creating low-code/no-code solutions.
+In-depth knowledge of Dynamics 365 SDK, workflows, business rules, and plug-in development.
+Strong understanding of REST APIs, OData, and integration frameworks.
+Familiarity with cloud environments, particularly Microsoft Azure, for deploying and managing applications.
+Responsibilities:
+
+Customize and extend Dynamics 365 applications to align with specific business needs.
+Design and implement workflows, plug-ins, and custom business logic using Dynamics 365 SDK.
+Build integrations with third-party applications and tools using APIs and middleware solutions.
+Optimize system performance and troubleshoot issues in existing applications.
+Collaborate with functional teams and business analysts to gather and analyze requirements.
+Develop and maintain documentation, including technical specifications and user guides.
+Preferred Qualifications:
+
+Microsoft Certified: Power Platform Developer Associate or equivalent certification.
+Experience working with Agile development methodologies.
+Strong problem-solving and analytical skills with the ability to resolve technical challenges.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 18
+
+
+
+Deep expertise in configuring Dynamics 365 modules such as Sales, Customer Service, or Finance and Operations.
+Strong communication skills to gather, document, and translate business requirements into technical solutions.
+Knowledge of business process modeling and workflows within Dynamics 365.
+Experience with tools like Power BI for building analytical dashboards and reports.
+Familiarity with data migration strategies and tools such as KingswaySoft or Scribe.
+Work closely with stakeholders to design and implement tailored Dynamics 365 solutions that address business challenges.
+Conduct workshops and training sessions for end-users and stakeholders.
+Create detailed functional design documents and work alongside development teams during implementation.
+Perform gap analyses to identify discrepancies between business needs and out-of-the-box Dynamics 365 functionalities.
+Configure workflows, forms, dashboards, and entities to meet specific requirements.
+Provide ongoing post-implementation support and enhancements.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 19
+
+
+
+
+Lead the design and architecture of complex Dynamics 365 implementations across various modules.
+Develop integration solutions with third-party systems and tools.
+Provide guidance to development teams on best practices and coding standards.
+Perform performance tuning and optimization for large-scale applications.
+Oversee project timelines, risks, and resources to ensure successful delivery.
+Strong expertise in Dynamics 365 architecture, customization, and integration patterns.
+Proficiency in Azure Services such as Logic Apps, Azure Functions, and Azure Service Bus.
+Hands-on experience with integration tools and methods, including REST APIs, SOAP, and middleware.
+Solid understanding of data modeling, ETL processes, and database technologies like SQL Server.
+Certifications such as Microsoft Certified: Dynamics 365 Solution Architect Expert.
+Prior experience with global implementations and multi-country rollouts.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 20
+
+
+
+Develop and maintain strong relationships with clients to understand their business goals.
+Provide guidance on best practices for using Dynamics 365 to achieve business objectives.
+Conduct regular check-ins with clients to assess system adoption and satisfaction.
+Identify opportunities to optimize or expand Dynamics 365 implementations.
+Collaborate with technical teams to resolve client issues and deliver solutions.
+Deliver training and onboarding sessions to client teams.
+Provide detailed reports on system usage, adoption metrics, and ROI.
+Stay informed about Dynamics 365 updates and share relevant insights with clients.
+Advocate for clients’ needs within the organization to prioritize feature requests.
+Strong communication and interpersonal skills.
+Familiarity with customer engagement metrics and Dynamics 365 usage analytics.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 21
+
+
+Bachelor's Degree in Computer Science, Engineering, or Information Technology 
+Minimum 10 years development experience, preferably on the Microsoft .net stack, java script and preferably in the business applications (Other CRM\ERP’s are fine)
+Minimum five years developing Microsoft Dynamics CRM, preferably with the latter years on the cloud platform
+Customization and form scripting
+Administration/security role configuration
+Plugin and workflow
+Business Process Flow
+Sitemap and ribbon
+Power apps and flows
+Azure Based Integrations (Azure Functions and Azure Logic Apps)
+Emphasis on Marketing and Sales app
+Dynamics CRM\Dynamics 365 certifications such as MB2-716 or other similar titles are consid-ered a plus
+Open to learning additional development platforms including Mulesoft, Outsystems, and others as needed.
+Fluency in English mandatory, with any other languages being considered as an asset (Especial-ly French or Portuguese)
+Willingness to travel internationally
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 22
+
+
+
+
+7+ years of overall industry experience. 
+5+ combined years’ education, training, or equivalent experience as Microsoft Dynamics System Administrator. 
+5+ years’ education, training, or equivalent experience developing extensions and/or customizations to the D365 Finance & Operations platform. 
+Proficiency in Microsoft Dynamics 365, Finance and Operations, systems administration and configuration including the following: 
+Technical functional knowledge in one or more of the following areas: General Ledger, Accounts Payable, Purchasing, Fixed Assets or Inventory and proficient in concepts such as chart of accounts, financial dimensions, operating units, organizational hierarchies, budgeting/forecasting, etc. 
+Proficiency in Visual Studio, X++ or C# Programming Language 
+Demonstrated ability working in a collaborative team environment. 
+Ability to mentor team members and transfer knowledge to others. 
+Strong communication, analytical, and work management skills 
+Exceptional attention to detail and high accuracy. 
+Excellent problem-solving and critical-thinking abilities. 
+Ability to meet deadlines and independently manage multiple projects efficiently. 
+Strong team player who is a self-starter and highly motivated, with the ability to take initiative. 
+Ability to adapt to a fast-paced, ever-changing environment. 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 23
+
+
+
+Bachelor's degree in computer science, software engineering, or a related technical field.
+3-4 years of experience in Microsoft Dynamics 365 F&O implementation and support.
+Proven expertise in functional design, system integration, and configuration of Dynamics F&O 365 application especially in areas like Accounts Payable, Consolidations, Budgeting, Human Resources and Projects.
+Strong understanding of business processes and ability to translate them into technical requirements.
+Hands-on experience with Dynamics 365 F&O development tools and technologies.
+Excellent problem-solving, analytical, and troubleshooting skills.
+Ability to work independently and as part of a team.
+Strong communication and interpersonal skills.
+Any MS Dynamics 365 certification(s) is a plus.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 24
+
+
+
+Solution Design and Development: Design, develop, and implement customizations and configurations for Dynamics 365 Finance and Operations to meet specific business requirements. 
+Customization and Configuration: Customize Dynamics 365 F&O modules, including finance, supply chain management, and retail. Configure workflows, forms, reports, and dashboards to optimize business processes. 
+Integration: Develop and manage integrations between Dynamics 365 F&O and other systems using Data Entities, Power Automate, Azure Logic Apps, and custom APIs. 
+Development: Utilize X++ for custom development, including creating and modifying forms, reports, and data entities. Develop and deploy custom business logic and functionalities. 
+Testing and Quality Assurance: Conduct unit testing, integration testing, and user acceptance testing to ensure the accuracy and performance of custom solutions and configurations. 
+Documentation: Create and maintain comprehensive technical documentation for customizations, configurations, and integrations. 
+Support and Troubleshooting: Provide technical support for Dynamics 365 F&O, troubleshoot issues, and resolve system-related problems. Collaborate with support teams to address user reported issues. 
+Collaboration: Work closely with business analysts, project managers, and end-users to gather requirements, provide technical insights, and ensure the successful implementation of solutions. 
+Training: Assist in the training of end-users and support staff and develop user guides and training materials as needed. 
+All other duties, as assigned.
+
+Proficiency in X++ programming language and development within Dynamics 365 F&O. 
+Strong knowledge of Dynamics 365 Finance and Operations modules, including finance, supply chain management, and project management. 
+Experience with Power BI for reporting and data visualization.
+Familiarity with Data Entities, Power Automate, Azure Logic Apps, and integration patterns. 
+Knowledge of SQL and data management best practices. 
+Strong written and verbal communication skills. 
+Ability to work effectively with cross-functional teams.
+Eagerness to learn new technologies and architectural patterns. 
+Effective problem-solving skills
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 25
+
+
+
+In-depth knowledge and experience with the Project Management and Accounting module of Microsoft Dynamics 365 (D365).
+Experience with integration between D365 PMA and Finance, Supply Chain, and other core modules.
+Strong proficiency in project tracking, cost management, and billing features of D365.
+Familiarity with D365 reporting tools, including Power BI, SSRS, or similar.
+Minimum of 3-5 years working with the D365 PMA module
+Experience in project accounting, financial management, and reporting.
+Understanding of project management methodologies (Agile, Waterfall) and how they apply to D365.
+Bachelor’s degree in Accounting, Business, Information Systems, or related field.
+Relevant Microsoft certifications such as Microsoft Certified: Dynamics 365 Project Operations Functional Consultant or similar preferred.
+Project management certification (PMP, Prince2) is a plus.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 26
+
+
+
+Proficient with developing, deploying, customizing and integrating Microsoft Dynamics 365
+
+CRM Online
+
+ Proficiency in customizing and creating CRM entities.
+
+ Proficiency in creating FLOWs, Workflows and processes.
+
+ Proficiency with Microsoft .NET to develop Plugins using C# and in JavaScript development.
+
+ Experience in Azure functions, Routing engine and webhooks.
+
+ Building WebApps, WebApi, Webjobs
+
+ Good experience working on Power Apps and Power Automate.
+
+ Sound expertise in GIT and Jira
+
+ Good to have knowledge on SSRS/SSIS & Power BI reports.
+
+ Good to have knowledge in SQL Server and Reporting Services.
+
+ experience in MS Dynamics CRM
+
+ Strong analytical skills with excellent problem-solving abilities.
+
+ Bachelor’s degree or similar in a technically related field
+
+ Excellent oral & written communication skills and a teamwork-centric work.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 27
+
+
+Develop and maintain product code in Microsoft Dynamics 365 Business Central using AL and Visual Studio.
+Collaborate with product owners and architects to ensure scalable and high-quality design and development.
+Participate in Agile development processes, including sprints and continuous integration using GitHub and Jira.
+Focus on delivering solutions specific to Business Central ERP, ensuring alignment with business needs.
+
+
+Required Qualifications and Experience:
+
+
+
+Minimum of 3 years of experience in Microsoft Dynamics 365 Business Central development.
+Proficiency in AL programming is a required.
+Experience using Visual Studio IDE.
+Experience with GitHub for version control and Jira for project management.
+Familiarity with Azure development and services (preferred).
+Experience working in Agile development environments.
+Excellent communication skills and a detail-oriented analytical approach.
+Knowledge of C#, .NET.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 28
+
+
+Develop and maintain product code in Microsoft Dynamics 365 Business Central using AL and Visual Studio.
+Collaborate with product owners and architects to ensure scalable and high-quality design and development.
+Participate in Agile development processes, including sprints and continuous integration using GitHub and Jira.
+Focus on delivering solutions specific to Business Central ERP, ensuring alignment with business needs.
+
+
+Required Qualifications and Experience:
+
+
+
+Minimum of 3 years of experience in Microsoft Dynamics 365 Business Central development.
+Proficiency in AL programming is a required.
+Experience using Visual Studio IDE.
+Experience with GitHub for version control and Jira for project management.
+Familiarity with Azure development and services (preferred).
+Experience working in Agile development environments.
+Excellent communication skills and a detail-oriented analytical approach.
+Knowledge of C#, .NET.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 29
+
+
+Design and implement complex CRM solutions using Microsoft Dynamics 365 and Power Platform.
+Meticulously understanding the requirements with respect the solutions offered by CRM’s OOB components and those that need extensions like code.
+Estimating for the efforts around multiple approaches and narrating & quantifying the pros & cons with respect to such implementations.
+Developing and customizing various CRM components such as entities, forms, workflows, plugins, reports, dashboards
+Implement integrations with external systems.
+Be involved in development using CRM SDK, C#, ASP.NET, SQL Database, ADO.NET
+Writing clean and efficient code using programming languages such as C# and JavaScript while adhering to coding standards and best practices.
+Debugging and troubleshooting issues in the CRM system and providing timely resolution to ensure high system availability and performance.
+Collaborating with project managers, business analysts, testing teams, and other stakeholders to ensure successful project delivery on time and within budget.
+Calculating and raising such concerns in timely manner which might intervene the timely delivery of the deliverable.
+Providing technical guidance and mentorship to junior developers and team members to enhance their skills and knowledge in CRM development.
+
+
+What We Are Looking For
+
+5+ years of relevant working experience
+Bachelor’s Degree
+Capability of deciding to utilize out-of-the-box solutions or extended customizations.
+Be able to timely communicate status and concern down and up the responsibility hierarchy so as to ensure smoother delivery of the requirement.
+Be able to build D365 CE entities, forms, workflows, dashboards and reports
+Be able to develop plug-ins using C# and to code UI logic in JavaScript
+Be able to build and release solutions
+Be able to write technical documentation in clear and understandable way
+Banking experience is preferable
+Optionally develop PowerApp and PowerBI reports
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 30
+
+
+
+Configure, Develop, and Support Dynamics 365 ERP solutions in line with best practices.
+Develop Custom Solutions based on business requirements and ensure their successful implementation.
+Troubleshoot Existing Functionality: Identify and resolve issues to enhance the system's efficiency.
+Software Development Lifecycle: Design, code, test, and deploy new features following established development processes.
+Support junior developers and help elevate the team’s technical proficiency in D365 development.
+Actively participate in Agile ceremonies and contribute to the team’s iterative progress.
+Contribute to technical documentation and training materials for system processes and updates.
+Ensure Security Compliance: Develop solutions that align with the company's security standards.
+ 
+
+Requirements for the role 
+
+----------------------------
+
+Proven experience in developing Dynamics 365 (preference Finance and Operations (D365 F&O)).
+Strong proficiency in Visual Studio and X++ for D365 development.
+Experience with CI/CD Pipelines: Solid understanding of source control and continuous integration/delivery processes.
+Clear documentation skills for both current and newly added processes.
+Collaboration skills: Ability to work effectively with internal stakeholders to deliver timely and efficient solutions.
+
+
+Good to have
+
+---------------
+
+Experience with SQL
+.NET Framework knowledge 
+Understanding of Manufacturing Processes to develop business-specific solutions.
+Experience with D365 CRM Development for broader platform expertise.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 31
+
+
+Good knowledge of Dynamics CRM Sales, Service Module
+Good Communication skills
+Knows how to do requirement gathering and documentation
+Knowledge of Plugins, JavaScript, Workflows, Web Apis, C# console, .Net exposure, etc
+Hands on experience in customization and configuration
+Knowledge of the power platform will be a plus
+
+Personality Skills
+
+Non-Distracted, Focused and Disciplined
+Analytical, Problem-solving, and Calculative aptitude
+Humility to Learn, share & keep improving
+Professional, Organized & a Team Player
+Understands the importance of excellent and proactive communication in all formats
+
+Perks & Benefits
+
+Youll get to work in one of the hottest and fastest-growing tech in the world right now
+Competitive salary
+Flexible work hours
+Encouragement to be innovative and challenge the status quo
+Exposure to industry-leading training and development
+Positive culture and limitless growth
+Performance based recognition and rewards
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 32
+
+
+Excellent business communication
+ Ability to learn new systems and do adequate impact analysis
+ Ability to work in a team environment and add to his team knowledge base and AX experience
+ Strong time management skill and multitasking abilities
+ Design and develop Microsoft Dynamics AX based product.
+ Customize and extend Microsoft Dynamics AX using Morph X& X++
+ Write detailed design and technical specifications. Provide task details and estimates to Project lead to build project schedules.
+ Demonstrated track record of successful Dynamics AX technical roles
+ Providing technical support to our customers during implementations
+ Creating and reviewing technical specification documentation
+ Design, develop, review and test customized code
+ Deploy tested and quality-approved code into live customer environments
+ Design and develop interfaces from/to Dynamics AX
+ Mentor junior developers
+ Manage project development teams
+ Act as development lead and ensure quality
+ Stay current on Dynamics AX and related technologies
+ Active participation in facilitated discussions with the client and project teams
+ Understanding and communicating client’s needs, project team’s goals, and building custom solutions for clients
+ Management of functional specifications to technical solutions, unit and system test scripts, and deployment plans
+ Development of project estimates
+ Facilitation of technical sessions and status meetings with clients, including the ability to drive a client to decisions
+ Project risk resolution and timeline management
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 33
+
+
+
+ Microsoft Dynamics 365 Knowledge : Deep understanding of Dynamics 365 applications (Finance and Operations, Sales, Customer Service, Marketing, Field Service, etc.), how they interact, and how to customize them.
+ Power Platform : Experience with Power Apps, Power Automate, and Power BI to extend D365 functionalities.
+ Cloud Services : Expertise in Microsoft Azure services, as D365 operates on Azure infrastructure.
+ Data Integration : Understanding of integration patterns, tools, and techniques to connect D365 with other systems (via APIs, Data Entities, or Azure Logic Apps).
+ Customization & Configuration : Experience with configuring Dynamics 365 modules, workflows, entities, and other system components.
+ Programming : Knowledge of languages like C#, JavaScript, and X++ (for Finance and Operations) for custom development.
+ Reporting & Analytics : Experience with reporting tools like SSRS (SQL Server Reporting Services) and Power BI for building reports and dashboards.
+ ERP/CRM Architecture : Understanding of Dynamics 365 ERP (Enterprise Resource Planning) and CRM (Customer Relationship Management) modules and their implementation.
+ Experience in atleast two end to end MS Dynamics F & O implementation cycles, especially within Supply Chain and logistics firm.
+
+Business Skills
+
+ Business Process Understanding : Familiarity with business processes related to sales, finance, operations, customer service, supply chain, and marketing.
+ Requirements Gathering : Ability to engage stakeholders, elicit and analyze business requirements, and translate them into technical solutions.
+ Industry Expertise : Experience in specific industries (manufacturing, retail, financial services, etc.) to apply D365 solutions effectively.
+ Solution Design : Expertise in designing end-to-end solutions that align with business needs and leverage Dynamics 365 capabilities.
+ Change Management : Understanding the impact of D365 implementations on organizations and facilitating smooth transitions.
+
+Soft Skills
+
+ Excellent communication and interpersonal skills, both written and verbal.
+ Strong analytical and problem-solving abilities.
+ Ability to work independently and as part of a team.
+ Client-focused approach with a commitment to delivering high-quality results.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 34
+
+
+Development and optimizing in D365FO
+Technical analysis and detailed specifications
+Strong communication skills, motivation, and fun
+Working in (Scrum) project teams
+We are prepared to help you learn D365FO step-by-step. Every day you will have support from our team members if there are questions or doubts. 
+You will get bigger tasks over time. 
+You will learn to develop high quality code in D365FO. 
+You will have access to rich online documentation. 
+
+We are Searching for a Profile who has:
+
+X++ object-related programming is preferred but certainly not required (X++ is similar to C#)
+SQL statements
+Unit Testing
+Exposure to Power Platform and Azure services
+Experience with ERP systems an advantage
+Dynamics 365 certifications are preferred
+Language Skills: Proficiency in English (written and spoken; B2 level at minimum). 
+Location: Residing in Mangalore, India, or open to relocation. 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 35
+
+
+Must Have Experience Of The Following
+
+Power Platform including Power Apps (Canvas, Model Driven), Power Automate, Dataverse and Power Pages
+Dynamics 365 Customer Service, Dynamics 365 Web API
+Exposure to .NET, C#, JavaScript
+Experience with source control management systems and continuous integration/deployment
+
+Should Have Experience Of The Following
+
+Dynamics 365 for Sales
+Broader Power Platform including Power BI, AI Builder
+Portal skills including HTML, CSS and liquid templates.
+Wider Azure stack, such as LogicApps, Azure Service Bus, Azure Functions and WebJobs, Entra ID.
+Scrum project delivery methodology
+Relevant certifications evidencing your Dynamics functional and technical expertise.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 36
+
+
+
+1 year s relevant working experience including expertise in enterprise CRM implementations as well as application deployment and/or distributed system implementation.
+Proficient with developing, deploying, customizing and integrating Microsoft Dynamics CRM
+Experience working in D365 CRM. This should include Plugins, Workflows, Business Process flows, Business Rules, Actions and Custom Workflow assemblies
+Experience with D365 v8.2 and v9 will be an added advantage
+Hands-on experience with multi-phase, global, enterprise-wide CRM implementation with focus on presales/business development as well as engagement delivery
+Technical background working with Microsoft .NET technologies, including: Visual Studio.NET, ADO.NET, C#, SQL Server, XML, Java Script, jQuery, HTML5 and Web Services are a big plus
+Knowledge of Azure Apps and Azure in general will be a plus
+Must have full life cycle production experience on .Net and have participated in complete SDLC for applications based on Microsoft .NET technologies
+Working knowledge of database design and commercial tools for database integration with .NET framework.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 37
+
+
+Design, build, and configure applications using Microsoft Dynamics 365 ERP Technical and Microsoft Dynamics AX Technical to meet business process and application requirements.
+- Collaborate with cross-functional teams to ensure that applications are developed and maintained to meet the needs of our clients.
+- Develop and maintain technical documentation for applications, including design documents, user manuals, and technical specifications.
+- Provide technical support for applications, including troubleshooting and issue resolution.
+
+Professional & Technical Skills:
+- Must To Have Skills: Proficiency in Microsoft Dynamics 365 ERP Technical.
+- Must To Have Skills: Experience in designing, building, and configuring applications using Microsoft Dynamics 365 ERP Technical.
+- Good To Have Skills: Experience in Microsoft Dynamics AX Technical.
+- Strong understanding of software development principles and methodologies.
+- Experience with software development tools and technologies, including Visual Studio, SQL Server, and Azure DevOps.
+- Experience with Agile software development methodologies.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 38
+
+
+
+7+ years of overall industry experience.
+5+ combined years education, training, or equivalent experience as Microsoft Dynamics System Administrator.
+5+ years education, training, or equivalent experience developing extensions and/or customizations to the D365 Finance & Operations platform.
+Proficiency in Microsoft Dynamics 365, Finance and Operations, systems administration and configuration including the following:
+Technical functional knowledge in one or more of the following areas: General Ledger, Accounts Payable, Purchasing, Fixed Assets or Inventory and proficient in concepts such as chart of accounts, financial dimensions, operating units, organizational hierarchies, budgeting/forecasting, etc.
+Proficiency in Visual Studio, X++ or C# Programming Language
+Demonstrated ability working in a collaborative team environment.
+Ability to mentor team members and transfer knowledge to others.
+Strong communication, analytical, and work management skills
+Exceptional attention to detail and high accuracy.
+Excellent problem-solving and critical-thinking abilities.
+Ability to meet deadlines and independently manage multiple projects efficiently.
+Strong team player who is a self-starter and highly motivated, with the ability to take initiative.
+Ability to adapt to a fast-paced, ever-changing environment.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 39
+
+
+
+7+ years of overall industry experience.
+5+ combined years education, training, or equivalent experience as Microsoft Dynamics System Administrator.
+5+ years education, training, or equivalent experience developing extensions and/or customizations to the D365 Finance & Operations platform.
+Proficiency in Microsoft Dynamics 365, Finance and Operations, systems administration and configuration including the following:
+Technical functional knowledge in one or more of the following areas: General Ledger, Accounts Payable, Purchasing, Fixed Assets or Inventory and proficient in concepts such as chart of accounts, financial dimensions, operating units, organizational hierarchies, budgeting/forecasting, etc.
+Proficiency in Visual Studio, X++ or C# Programming Language
+Demonstrated ability working in a collaborative team environment.
+Ability to mentor team members and transfer knowledge to others.
+Strong communication, analytical, and work management skills
+Exceptional attention to detail and high accuracy.
+Excellent problem-solving and critical-thinking abilities.
+Ability to meet deadlines and independently manage multiple projects efficiently.
+Strong team player who is a self-starter and highly motivated, with the ability to take initiative.
+Ability to adapt to a fast-paced, ever-changing environment.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 40
+
+
+
+Develop and customize Dynamics 365 F&O solutions using X++.
+Integrate Dynamics 365 F&O with other systems via APIs and data entities.
+Configure modules to align with business processes.
+Perform testing, debugging, and provide technical support.
+Collaborate with stakeholders to gather requirements and deliver solutions.
+Requirements
+Minimum 2 years of experience in developing and customizing Microsoft Dynamics 365 for Finance and Operations (F&O).
+Can collaborate with stakeholders to define requirements, estimate deliverables, and set expectations for development tasks.
+Bachelor s degree in computer science or related field.
+Proven experience with Dynamics 365 F&O and X++ development.
+Strong understanding of ERP systems and integration technologies.
+Excellent problem-solving and communication skills.
+Microsoft Dynamics 365 certification is a plus.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 41
+
+
+Strong Microsoft Dynamics CRM product experience, ideally with CRM 2016 or 365.
+Have been involved in the delivery of at least five Microsoft Dynamics CRM projects.
+2+ Years of custom development experience in Microsoft Dynamics CRM/365.
+2+ Years of experience in .NET, C#, ASP.NET & JavaScript programming.
+Proven experience in consulting on software products, business analysis & requirements gathering.
+Proficiency in developing plug-in & workflow assemblies.
+Experienced in developing .NET web services & web API applications.
+Understanding of SQL Server 2016. Able to customize CRM forms, views, workflows, business rules, charts, & dashboards.
+Knowledge of CRM usage in Browsers, Outlook, Tablet & Mobile Applications.
+Knowledge of Power Automate and Azure is a plus but not mandatory.
+Hands on experience with Team Foundation Server.
+Responsibilities and Duties :
+
+Implementing & extending Dynamics CRM software & inspiring its use within the business environment, advising on best practices to ensure its features are utilized to their fullest.
+Required Experience, Skills, and Qualifications :
+
+Tech Skills: Microsoft Dynamics CRM/365, C#, ASP.NET
+Qualifications: B.E. Computer/IT, BCA or MCA
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 42
+
+
+
+Bachelor s degree in business administration, Computer Science, or a related field.
+5+ years of experience as a business analyst, with a focus on implementing Microsoft Dynamics 365 or similar CRM/ERP solutions.
+Strong knowledge of Microsoft Dynamics 365 modules, including Sales, Customer Service, Field Service, Marketing, Finance and Operations, and Power Platform.
+Experience in requirements gathering, process analysis, and system design.
+Proficiency in system configuration, customization, and data management within Microsoft Dynamics 365.
+Familiarity with Agile or iterative project management methodologies.
+Excellent analytical and problem-solving skills, with the ability to translate business requirements into actionable solutions.
+Strong communication and interpersonal skills, with the ability to collaborate effectively with stakeholders, end-users, and technical teams.
+Ability to manage multiple priorities and work independently in a fast-paced environment.
+Microsoft certifications in Dynamics 365 or Business Analysis (e.g., MB-900, MB-910, CBAP) are highly desirable.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 43
+
+
+Microsoft Dynamics 365 Configuration: Configure and customize Microsoft Dynamics 365 to meet specific business needs, including the creation of entities, forms, workflows, and dashboards.
+System Integration: Integrate Microsoft Dynamics 365 with other business systems and applications, ensuring seamless data flow and a unified customer view.
+User Training and Support: Provide training to end-users and support for Microsoft Dynamics 365 functionality to ensure effective system utilization.
+Customization and Development: Develop custom plugins, workflows, and custom code (JavaScript, .NET) to extend and enhance SCMfunctionality.
+Data Management: Manage data within the SCM system, including data imports, exports, and data quality assurance.
+Reports and Analytics: Design and generate reports and analytics using SCM data, creating dashboards and visualizations.
+Security and Access Control: Administer security roles, profiles, and access controls to protect sensitive customer data.
+Troubleshooting and Issue Resolution: Diagnose and resolve technical issues and discrepancies within Microsoft Dynamics 365.
+Documentation: Create and maintain documentation related to system configuration, customizations, and processes."
+
+
+
+Qualifications we seek in you
+Minimum Qualifications / Skills
+Proficient in MSCRM Dynamics with in-depth knowledge on Plugins, Workflows, JavaScripts, CRM Portals, Web APIs Azure Knowledge Good to have Power Apps Skill set
+Proficient on the latest OOB features available in Dynamics CRM
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 44
+
+
+Proven experience in any Dynamics 365 sales, Customer Service or Field Service.
+Proven experience with Microsoft Dataverse, Workflows, Security Roles, Dashboards, Charts etc.
+Proven experience with javascript, FetchXML, XrmToolBox, Command bar,
+Ribbon Workbench and plugin registration tool.
+Proven experience with Solution management, configuration, cutomization and deployment.
+Experience in creating Model Driven apps and Automate Workflows.
+Experience in security concepts and how to implement RBAC.
+Experience with Integration Tools like
+REST APIs, Azure Logic Apps and Azure Service Bus.
+Good Analytical, Reasoning and Debugging Skill
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 45
+
+
+
+2+ years of Dynamics 365 CRM Developer (on-premise and/or online)
+.NET Plug-in, Custom Workflow, Views and forms
+Experience in configuring, customizing, and extending Dynamics 365 CRM using CRM SDK
+C# to develop web applications using .NET Core MVC and SQL Server
+Experience with HTML, CSS, JavaScript required
+Experience in Integration with third party applications.
+Experience working with AWS Serverless code is desirable
+Excellent verbal communication skills required
+Ability to work independently
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 46
+
+
+6+ years of IT experience with at-least 4 years of experience in Microsoft Dynamics 365.
+Must have experience in CRM Sales Module and Integrating Dynamics with 3rd party systems.
+Knowledge on Microsoft SQL Server, SSIS, Azure Functions, Azure Dev Ops, DotNet Application development is preferred.
+Good to have skills - Power BI, Canvas Apps, PCF Control development, Azure App insights.
+Experience with data structures, algorithms, object-oriented design, design patterns, and performance/scale considerations
+Analytical and design skills.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DECRIPTION 47
+
+
+3+ years of technical experience with C#, .NET, SQL, XML, ASP.NET, JavaScript, AngularJS, SSIS, SSRS
+Hands-on experience writing CRM Plugins, Custom Workflows, Integration, Client-side custom code
+Experience extending MS Dynamics CRM using PowerApps, Microsoft Flow, and Logic Apps
+Build FetchXML and use it in CRM Portal web content.
+Experience with CRM API, REST, and SOAP endpoints.
+Experience in building applications using Web Templates including Liquid Templates, JQuery, AJAX, JavaScript, HTML5 and .NET
+Knowledge of integration of Sharepoint and Azure
+The ability to learn and apply new technologies when appropriate.
+Experience of working on full life cycle implementations across multiple versions of Dynamics CRM/365.
+Building and configuring CRM forms, views, dashboards, and workflows including plugins, scripting, and form creation.
+MS Dynamics certification is a additional advantage
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 48
+
+
+
+Leading or participating in design and architecture sessions with key business users, gathering and documenting business processes and requirements for the system
+Architecting the CRM system, related customizations, and reports to model the business organizational process.
+Advising business users on best practices for CRM, development, or integration processes.
+Building and configuring CRM forms, views, dashboards, and workflows.
+Working with internal support members to resolve technical issues with servers, ETL packages, SQL, SSRS, and other related technologies to the internal CRM system.
+Experience in customizations, JavaScript, C#, .NET, HTML, SQL Server, SSRS including plugins, scripting, and form creation.
+Comfortable using Visual Studio, TFS/VSTS, source control, CRM SDK.
+Maintain, manage, develop and design Microsoft Dynamics 365 application.
+Promote configuration of Dynamics 365 versus Custom code.
+Assist with unit testing, integration testing, and user acceptance testing before production deployment.
+Ability to organize information, manage tasks and projects to support business needs
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 49
+
+
+Work with clients to understand requirements and architect solutions.
+Strong knowledge of ASP.NET, Javascript, CRM 365 SDK.
+Ability to generate Technical Specifications based on functional specifications.
+Strong understanding of Microsoft Dynamics CRM Integration architecture.
+Enhance/ Customize Dynamics CRM for based on customer requirements.
+Develop Modern Web Applications integrated with the CRM Platform using ASP.NET, AngularJS, Web API.
+Customize OOB CRM Reports and develop custom SSRS reports as defined by the requirement.
+Ensure that there are complete unit tests for every component or task.
+Ensure that code is testable and is tested.
+Execute unit testing for the new functionality developed.
+Qualifications
+
+Individual should have client facing experience.
+Strong Microsoft Dynamics CRM functional knowledge.
+Strong Microsoft Dynamics CRM technical knowledge with SSRS.
+Strong OOP Skills and a very good understanding of the .NET framework, Web Applications, Web Servers, CSS
+Must have Strong ASP.NET MVC/Web API development experience.
+Must have Strong jQuery/AngularJS/Knockout JS development experience.
+Must have been a part of at least 2 CRM end to end Implementation.
+At least 3 years of development experience in MSCRM.
+Knowledge on SSIS and Power Platform would be advantageous.
+Microsoft Dynamics CRM Customizations certification is a plus.
+Good communication skills.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DECRIPTION 50
+
+
+Minimum 4 years Experience with customizing of Microsoft Dynamics 365 Sales, Customer Service or Field Service (also called Customer Engagement)
+Minimum 4 year s Experience of development with Microsoft Dynamics 365 (Plugin development, Frontend development, Solution Design, CI/CD)
+Development skills in object-oriented-language C#
+Web development with JavaScript
+Understanding of data models and structure
+Good English language skills
+Good communication skills
+Experience with Azure DevOps
+Typescript skills\
+Microsoft Certification PL-200, PL-400, PL-600, MB-210, MB-230 or MB-240 - not a must
+Notice period - Immediate -30 days
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
