@@ -999,20 +999,19 @@ JOB DECRIPTION 38
 
 
 
-7+ years of overall industry experience.
-5+ combined years education, training, or equivalent experience as Microsoft Dynamics System Administrator.
-5+ years education, training, or equivalent experience developing extensions and/or customizations to the D365 Finance & Operations platform.
-Proficiency in Microsoft Dynamics 365, Finance and Operations, systems administration and configuration including the following:
-Technical functional knowledge in one or more of the following areas: General Ledger, Accounts Payable, Purchasing, Fixed Assets or Inventory and proficient in concepts such as chart of accounts, financial dimensions, operating units, organizational hierarchies, budgeting/forecasting, etc.
-Proficiency in Visual Studio, X++ or C# Programming Language
-Demonstrated ability working in a collaborative team environment.
-Ability to mentor team members and transfer knowledge to others.
-Strong communication, analytical, and work management skills
-Exceptional attention to detail and high accuracy.
-Excellent problem-solving and critical-thinking abilities.
-Ability to meet deadlines and independently manage multiple projects efficiently.
-Strong team player who is a self-starter and highly motivated, with the ability to take initiative.
-Ability to adapt to a fast-paced, ever-changing environment.
+Minimum 5 years of Dynamics 365 - Applications Support
+Minimum 5 years of experience in Microsoft Dynamics 365 F&O Supply Chain
+Exposure and experience with D365FO/ Dynamics AX Supply Chain Modules
+Knowledge on EDI system would be as asset such as True Commerce
+Good understanding of applicable EDI data interchange formats
+A post-secondary education in Computer Science, Information Technology, Supply
+Chain, Logistics, Business Operations, a related field, or an equivalent combination of
+
+education, training and experience preferred
+
+Experience with compliance and governance frameworks (SOX preferred)
+Industry certifications preferred such as: Microsoft Certified: Dynamics 365 Supply
+Chain Management, Manufacturing Functional Consultant Associate (MB-300, MB-320,
 
 
 
@@ -1024,20 +1023,89 @@ JOB DECRIPTION 39
 
 
 
-7+ years of overall industry experience.
-5+ combined years education, training, or equivalent experience as Microsoft Dynamics System Administrator.
-5+ years education, training, or equivalent experience developing extensions and/or customizations to the D365 Finance & Operations platform.
-Proficiency in Microsoft Dynamics 365, Finance and Operations, systems administration and configuration including the following:
-Technical functional knowledge in one or more of the following areas: General Ledger, Accounts Payable, Purchasing, Fixed Assets or Inventory and proficient in concepts such as chart of accounts, financial dimensions, operating units, organizational hierarchies, budgeting/forecasting, etc.
-Proficiency in Visual Studio, X++ or C# Programming Language
-Demonstrated ability working in a collaborative team environment.
-Ability to mentor team members and transfer knowledge to others.
-Strong communication, analytical, and work management skills
-Exceptional attention to detail and high accuracy.
-Excellent problem-solving and critical-thinking abilities.
-Ability to meet deadlines and independently manage multiple projects efficiently.
-Strong team player who is a self-starter and highly motivated, with the ability to take initiative.
-Ability to adapt to a fast-paced, ever-changing environment.
+5+ years experience with Microsoft Dynamics 365 products
+
+● Ability to communicate complex concepts effectively Product Information Management
+
+● Technical knowledge is demonstrably underpinned with a foundational knowledge of
+
+supply chain management and Product Information
+
+● Proven track record of developing, deploying, and maintaining Supply Chain
+
+Management modules
+
+● Set up a product catalog, pricing of products
+
+● Generate Dynamics 365 Sales product usage insights using Power BI embedded
+
+dashboards, well defined KPI & Metric charts.
+
+● Product bundling, Inventory Journals, create and maintain multiple price lists
+
+● Strong Engineering change management and
+
+● Dynamics 365 Commerce : Configure, manage pricing engine, attributes and attribute
+
+groups
+
+● Synchronization of product catalogs & pricing data into Configure Price Quote (CPQ)
+
+Product data synchronization
+
+● Bring data together and Increase productivity
+
+● Commerce Data Exchange : Realtime and Async Services
+
+● Experience with integrations between : Dynamics 365 F&O, Zuora Revenue (formerly
+
+RevPro), Data management framework, DQ Global, Xactly and Power BI.
+
+● Prioritize a Minimum Viable Product (MVP) approach to accelerate the delivery of new
+
+features, ensuring faster time to market and iterative improvements based on user
+
+feedback.
+
+● Automate high-usage functionalities to enhance efficiency and streamline workflows.
+
+Product Governance Model
+
+● Implement best Data governance model policies and procedures
+
+● Restrict the propagation of select attributes to other systems for optimized data flow and
+
+better control over information sharing.
+
+Required Skills & Qualifications
+
+Technical Skills:
+
+● Minimum of 4 years’ experience with full life-cycle implementation of D365FO/ Dynamics
+
+AX SCM experience
+
+● Dynamics 365 Supply Chain Management and Commerce
+
+● Solid experience in designing and writing technical specification documents
+
+● Experience with (D365FO) interfaces and Integrations
+
+● Delivery of D365 end-to-end implementation projects including design, configuration,
+
+testing, training, cutover, post go-live support & reporting
+
+Education & Experience:
+
+● Bachelor’s degree in Computer Science, Information Technology, or related field
+
+(Master’s preferred).
+
+● 8+ years of experience in IT architecture, with at least 5 years as an Enterprise Architect
+
+in an e-commerce or supply chain domain.
+
+● Proven experience with large-scale systems integration and cloud infrastructure design.
 
 
 
