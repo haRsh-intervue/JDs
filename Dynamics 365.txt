@@ -1348,3 +1348,81 @@ Notice period - Immediate -30 days
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 51
+
+Mandatory skill: The resource has good exposure in Supply chain management and Production control and Advance warehouse management modules.
+
+D365 Finance & SCM, D365 Supply Chain Management modules - Procurement, Inventory, Warehouse Management, Logistic
+
+Key Responsibilities - SCM functional consultant
+
+· The D365 SCM Consultant will be focused on leading and/or architecting solutions for D365 Finance & SCM opportunities, driving and implementing the project solution scope with customers, assisting project management to deliver the solution, and providing the application functionality leadership and direction for customer team members tasked with implementing the solution.
+
+· The successful candidate will demonstrate an overall knowledge of D365 Finance and Operations platform & a deep knowledge and experience in SCM and possess a proven track record of successfully delivering complex, full lifecycle ERP implementations.
+
+Skills And Attributes For Success
+
+1. Deep understanding of the D365 Supply Chain Management modules - Procurement, Inventory, Warehouse Management, Logistics and others.
+
+2. Possess skills to architect solutions that deliver results for our clients
+Interface with customer project stakeholders, to elicit business and functional requirements.
+
+3. Function as a subject matter expert for application design, feature optimization, availability, scalability, user experience, visualization and data integrity.
+
+4. Develop business requirements, specification designs including definition of functional requirements and business scenarios.
+
+5. Drive the effective transition of requirements to delivery and development consultants, ensuring a clear and complete understanding of the requirements for a successful delivery to end customer.
+
+6. Participate and/ or lead quality management reviews including designs, prototypes, and other stages of project to ensure requirements are fulfilled.
+
+7. Participate in and/ or lead functional testing, issue recording, driving issue resolution towards the delivery of the solution to the client.
+Production module (Added advantage).
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 52
+
+
+
+Mandatory Skill - D365 Business Central, GitHub, Cloud Migration, Integration using SDKs, Data migration and integration mappings, Should know Navision and Business Central
+
+ 
+
+Role - MS Dynamics 365 Business Central Application Developer
+
+Experience - 5+ yrs
+
+5+ years of work experience with GitHub
+5+ years of work experience with Cloud Migration
+Industry – IT Industry
+
+ 
+
+Responsibilities:
+
+ 
+
+• D365 Business Central Implementation.
+
+• Experience in Cloud Migration.
+
+• Integration using SDKs.
+
+• Technical design, development, and testing of core Dynamics 365 Business Central Solutions.
+
+• Customizing business logic using AL extensions.
+
+• Data migration and integration mappings.
+
+• Knowledge of different Business Central modules – financial management, CRM, project
+
+management, supply chain management, etc.
+
+• Should know Navision and Business Central and the processes around it to do a migration from
+
+Navision to Business Central.
+
+• Sound knowledge of GitHub, branch management, and Release
