@@ -1,0 +1,1272 @@
+JOB DESCRIPTION 1
+
+Candidate should have at least 12 - 14 years’ experience. He / She should be Instrumentation or Electronics Engineering background.
+ Candidate is required to have Strong Domain Knowledge on Functional Safety in Process Industry and its applications. He should have a strong understanding of IEC61508 and IEC61511. NFPA Standards.
+ He/She should have knowledge on ESD, F&G, BMS Systems & High Integrity Pressure Protection Systems (HIPPS). He/She should preferably be TuV Certified for Functional Safety Engineer.
+ The Candidate should have knowledge on the overall Engineering lifecycle of a Safety System. He /She should have a fair knowledge on HAZOP Analysis, Risk Assessment/Reduction, Functional Safety Assessment and/or Functional Safety Audit. 5. Having Knowledge on Cyber Security and ISA Secure Standards is preferable
+ The Candidate should have experience in Project Engineering, Commissioning and Maintenance of Safety Instrumented Systems such as Honeywell Safety Manager & SM SC, Honeywell FSC, HIMA, Triconex, Yokogawa Prosafe-RS, ABB Safety Systems. He/She should have had experience in FAT/SAT of Safety Systems.
+ Candidate should have experience working in DCS and ESD systems. He should have hands on working experience in configuring the PLC, Safety, DCS systems in either commissioning or test environments. 8. He should understand the process safety and control requirements.
+ He/ She should have working knowledge on PLC ladder programming/FBD and other languages described in IEC61131-3 standard.
+ He/ she should have sound knowledge of different communication protocols for third party interfaces and for field device integration.
+ Candidate should also have experience working in Process Industrial Control preferably Honeywell Experion DCS, Honeywell TDC and SCADA solutions
+ Exposure to Test and Requirement Management Tools such as JIRA, Quality Center, Jama, ReqPro would be an advantage
+ Should have very good Logical reasoning and Analytical skills
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 2
+
+Good understanding in avionics concepts, domain, and processes with an expertise in the field of Verification and Validation of avionics embedded software.
+ Good hands on experience on C, C++ programming and good understanding of analyzing assembly language code.
+ Good knowledge on Python programming
+ Good knowledge on structural coverage tools like Vector, LDRA and TRACE 32 etc.
+ Good understanding of Realtime operating system and real time embedded systems
+ Proficient with deep knowledge and understanding of DO 178 B / C
+ Passion to explore opportunities and solutions in test methodologies and test design automation
+ Knowledge in Communication Navigation surveillance products, Experience in Change Impact Analysis, Tool Qual and TRR, RFS, SOI#3 Audits will be considered as plus
+ Knowledge on Radar technologies, RF signal processing, image processing.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 3
+
+
+
+4-year degree or equivalent experience in Computer Engineering, Electrical Engineering, Computer Science or a related engineering discipline
+Must have advanced skill in developing original designs with Linux C/C++ in embedded environments including bare-metal, multi-threaded RTOS, and embedded operating systems
+Thorough knowledge of Linux device drivers, Linux Kernel Programming & debugging, Linux Kernel Internals design and development
+Knowledge of Yocto / Buildroot or any other build system
+Experience with Board support package, Device driver, and boot loader development/porting
+Advanced understanding and experience in software development tools and methodologies used in the context of embedded systems. Familiarity with source control via established systems such as GIT, like oscilloscope, protocol analyzer, emulator, signal generator, JTAG programmer, GIT, SVN, JIRA
+Communication Protocols such as SPI, UART, CAN, I2C, WIFI, and Bluetooth
+Advanced understanding of embedded software design and architectural concepts as well as the integration between firmware and hardware (RTOS application development)
+Specific experience with common microcontroller and embedded processing platforms such as ARM
+Strong understanding of software development tools and methodologies used in embedded systems. Familiarity with source control via established systems such as Git
+Demonstrated skill in independently using electronics lab equipment to develop/troubleshoot low-level drivers and hardware integration for interfaces such as I2C, SPI, UART, USB, etc.
+Clear understanding of higher-level languages, object-oriented methodologies, user-interface implementation, and PC application programming. Experience with Qt framework is a plus
+Strong understanding of software test and QA tools and methodologies
+Understanding of hardware schematic, and datasheet of hardware components to derive firmware/software-specific solution
+Experience working with a different embedded platform like microcontrollers, processors, and DSPs based on Qualcomm, TI, NXP, NVIDIA, and Intel processors
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 4
+
+
+Bachelor's or Master's degree in Electronics, Electrical Engineering, Computer Engineering, or related field.
+Proven experience in embedded systems development, with a focus on firmware programming using C/C++.
+Strong proficiency in BLE communication protocols and experience with Nordic Semiconductor's nRF52 series (e.g., nrf52840).
+Familiarity with GoodDisplay e-ink paper devices and experience in integrating display drivers into embedded systems.
+Arduino Chip development
+Solid understanding of software development methodologies, debugging techniques, and version control systems (e.g., Git).
+Ability to work effectively in a collaborative team environment, communicate technical concepts clearly, and meet project deadlines.
+Experience with Agile development methodologies and tools GitLab, (e.g., Jira) is a plus.
+Excellent problem-solving skills and a passion for tackling complex technical challenges in embedded systems design.
+Benefits:
+
+Competitive salary and benefits package
+Opportunity to work on innovative projects with cutting-edge technologies
+Flexible work arrangements (remote work option available)
+Professional development and growth opportunities in a dynamic and supportive work environment
+Collaborative culture with a diverse and talented team of engineers and professionals
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 5
+
+
+3+ years of experience in embedded hardware design. 
+Extensive experience in high-speed design, with a strong portfolio of successful projects containing DDR3, DDR4, High-speed LVDS, SERDES, JESDs, Ethernet, USB. 
+In-depth knowledge of EMI/EMC principles and practices. 
+Knowledge of PCB manufacturing processes and constraints. 
+Familiarity with simulation tools for signal and power integrity analysis. 
+Experience with compliance testing and certification processes. 
+Knowledge of space-grade components and standards (e.g., radiation-hardened components, MIL-STD-883). 
+ 
+
+Knowledge and Skills: 
+
+Analog-to-Digital Converters (ADC) and Digital-to-Analog Converters (DAC). 
+High-speed interfaces such as SERDES and JESD. 
+Point of Load (POL) and Low Dropout (LDO) regulator design. 
+FPGA-based circuit design. 
+Double Data Rate (DDR) memory design. 
+Familiarity with signal integrity and power integrity analysis. 
+Understanding of thermal management in embedded systems. 
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 6
+
+
+
+Proficiency in programming languages: C/C++, Assembly, design patterns.
+ Knowledge on various protocols like I2C, SPI protocols
+ Work experience using various debugging tools like JTAG based debugger, ICE, GHS probes.
+ Demonstrated implementation of complex embedded product development and good debugging and problem-solving skills.
+ Working knowledge on using CRO, Oscilloscope, Function generators.
+ Working knowledge on 16-bit, 32-bit based micro controller.
+ Experience in working on Motorola 68K, Freescale processors, Zync platform is added advantage.
+ Basic understanding to use hardware schematics.
+ Good understanding and analysis of end-to-end system
+ Knowledge of Agile/Scrum software development lifecycle
+ Experience in cybersecurity is an advantage
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 7
+
+
+
+Bachelor's or Master's degree in Electrical/ Electronics Engineering, Computer Science
+
+• Minimum 10+ years of experience in test automation frameworks including development and testing of embedded systems, preferably in the power electronics industry.
+
+• Experience in Hardware In Loop (HIL).
+
+• Experience in test automation tools and lab equipment’s.
+
+• Proficiency in programming languages such as Embedded C, Python.
+
+• Strong working knowledge of microcontrollers, RTOS and peripherals.
+
+• Experience in JIRA and Confluence
+
+• Experience in Git and GitHub
+
+• Experience in agile and scrum
+
+• Working knowledge with power electronics is an added advantage.
+
+• Strong problem-solving skills and attention to detail.
+
+• Excellent communication skills and ability to work in a team environment.
+
+• Ability to work in a fast-paced environment and meet tight deadlines.
+
+• Proven ability to work independently and take ownership of assigned tasks.
+
+• Experience in SDLC for product development
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 8
+
+
+
+Micro controller based development (ARM Cortex based) C language, Data structures (stacks, queues, structures)
+RTOS
+Communication protocols (CAN, SPI, I2C, UART)
+ARM/Cortex architecture understanding
+Micro controller Peripherals (Timer, ADC, SCI, DAC) [HW and SW drivers]
+Motor control (BLDC, Stepper, Servo)
+Scripting language (CAPL for Vector)
+Scripting language (Python)
+Integrated development environment (Keil uVision)
+SW design tools (Enterprise Architect/Visio-Activity diagrams, Sequence diagrams, Flow charts)
+Debugging tools (JTAG)
+UML Concepts to design and architecture
+SW versioning and control (TFS)
+Able to read Schematics
+
+
+Preferred Skills:
+
+Experience: 6 to 10 years
+Preferred domain: Automotive
+Good to have: Simulation techniques and tool (LabVIEW, MATLAB)
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 9
+
+
+
+
+Bachelor’s degree (IT, Automation or related)
+
+·Three years of job experience in software development
+
+·Knowledge in the topic of cyber security, threat analysis and code review
+
+·Ability to solve problems independently and openness to dive into new topics
+
+·Systematic way of working
+
+·Excellent written and spoken English (min. B2 level)
+
+·Practical experience with Embedded systems
+
+·Version control tools (GIT, SVN)
+
+·Python, C programming
+
+·Test automation
+
+·Knowledge about
+
+·Embedded devices architectures (ports, memories, registers) e.g. for ARM Cortex Microcontroller
+
+·Systems Engineering and Requirements Management
+
+·Review of specifications, architectures and code
+
+·UML or SysML
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 10
+
+
+Solid experience in firmware development or embedded software development in a multicore environment or hardware.
+ Ability to see system level “big picture” to understand that the integrated firmware/system software aligns to architectural goals of product.
+ Solid experience in programming in 'C/C++', UEFI
+ Moderate experience with Python for scripting
+ Experience with SoC bring-up, with Security primitives, bootloaders, platform initialization, board support package development, peripherals such as PCIe, I2C, SPI, USB, UART , OS primitives, memory management, scheduling, interrupts and multi-threading
+ Have good experience of system level debugging (including customer issues) with good understanding of managing and triaging production level issues.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 11
+
+
+Bachelor’s or Master’s degree in Electronics Engineering or related field.
+Minimum of 9 years of experience in embedded electronics design.
+Proficiency in Altium Designer and other relevant design software.
+Strong understanding of hardware design principles and best practices.
+Excellent problem-solving skills and attention to detail.
+Effective communication and teamwork abilities.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 12
+
+
+
+Debugging low-level hardware and have worked with communication protocols like CAN, I2C, MODBUS, WiFi, IP/UDP.
+Interface sensors (Temperature IR, Load Cell, Time-Of-Flight, Camera) and actuators (Brushed DC Geared, Valves, Brushless DC)
+Writing scalable firmware from development to testing to production
+
+Experience in C/C++ with a deep understanding of Object Oriented Programming.
+You are comfortable hacking kernel and debugging device drivers.
+You have strong experience in Embedded Linux architectures.
+You have experience working on firmware application development, debugging and testing, preferably also with updating firmware through boot-loaders
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 13
+
+
+
+AUTOSAR and ISO26262 based microcontroller Complex Device Driver Development and Validation using various peripherals [IO drivers like ADC, SPI, UART, Timers, PORT] of company’s Automotive Microcontrollers based on TriCore architecture (AURIX™) or equivalent.
+Broad responsibilities
+Evaluate change requests to products, conduct analysis and perform the Architecture, Design, Implementation and unit test updates.
+Perform Static checks (Cyclomatic complexity, MISRA evaluation, Polyspace warnings analysis) and Unit Tests.
+Help CoC Head with work breakdown structure and estimates
+Support the Senior Engineers by working in PoCs. 
+Requirements:
+
+Embedded system Software Development/validation in C, assembly languages & SDLC
+Good knowledge on Software Unit Test
+Good knowledge of Microcontroller Architecture (16/32bit), real-time systems
+Experience in standards such as AUTOSAR, IEC61508, ISO26262 is desirable
+Acquaintance with development tool-chains like compiler, static checkers and Unit Test tool
+Knowledge about debuggers such as PLS, Lauterbach etc.
+Good team player in a multi-site work environment
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 14
+
+
+
+Experience - 3 to 8 yrs of relevant experience in Android BSP, Linux BSP, Linux Internals, Linux Device Driver Development
+
+
+
+Job Responsibilities:-
+
+• Providing solution to existing and new clients.
+
+• Providing Technical Solution for RFQ
+
+• Hands on experience with Embedded implementations covering C programming Linux, Boot Loader, Device Driver and so on, Platform migration
+
+.Experience of having undergone 1 product through entire development life cycle
+
+• Should have excellent communication skill.
+
+
+
+Required skills set:
+
+• Strong fundamentals & problem solving skill.
+
+• Strong Experience in C / C++ & Linux/Android.
+
+• Exposure working on Qualcomm Snapdragon Chipsets – specifically on Camera, Display, Multimedia, Connectivity (Wi-Fi, Bluetooth).
+
+• Experience in embedded software development & understanding of Product Development Life Cycle.
+
+• Experience in preparing Technical Proposal & effort estimation.
+
+• Experience in BSP, Linux Internals, Linux Device Driver Development, Protocol level knowledge of Interfaces.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 16
+
+
+Minimum 5-7 years' experience in Engineering of Flow products & Systems 
+ Experience with various Flow domain applications 
+ Detailed hands-on experience Flow Comp programming, Design, Application programming. 
+ Flow Domain Knowledge, Familiar with AGA Standards, API Standards, Liquid & Gas measurements. 
+ Flow Computer Configuration, Coding, Validation and Testing. 
+ Good hands-on Modbus communication and other communication topologies like DNP3. 
+ Exposure to Radio and Wireless communication between Flow Computer, RTU’s and Host Systems like SCADA 
+ Experience on all Emerson Flow Computers and RTU’s like S600+, FB 107, ROC, CW RTU’s and Presets like DL6000 and DL8000 
+ Field Instrumentation knowledge for Flow meters, pressure & temperature transmitters, control valves etc. 
+ Familiarity of P&ID, Instrument index, utility & power distribution schemes, power consumption document, loop diagrams, 
+ Evaluation of Control Panel drawings, cable block diagrams, wiring diagrams, cable schedules, SLDs, system architecture drawings, Loop diagams, Instrument hook up diagram, FAT/SAT procedures, O&M manual and as-built documentation etc. 
+ Preparation of Project Cycle Documents like Functional Design Documents, Control Narratives, Test Procedures etc. 
+ FAT and SAT experience of S600+ Flow Computer, CW RTU and Presets Controllers. 
+ Customer/vendor/Factory Liaison to fulfill documentation and inspection requirements. 
+ Coordinate Tests/Inspections of all bought out/fabricated items 
+ Computer skills in Windows, Outlook, MS Word, Adobe Acrobat and Excel. 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 17
+
+
+
+Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+ Experience in embedded development in C/C++
+ Implement the right metrics, debug tools and integrate with backend solutions to continuously measure and improve on our solutions
+ Development experience on Linux and RTOS platforms
+ Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+ Work with cross functional teams to implement technical solutions for desired features and address customer issues.
+ Implement power management features
+ Work with teams to improve and tailor existing drivers, stack, memory footprint and application code to our needs
+ Work with the hardware team to ensure correct exercising of hardware and software architecture.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 18
+
+
+
+Professional Skills:
+
+Education: Bachelor’s or Master’s degree in Electronics, Computer Engineering, or a related field.
+Experience: 1-3 years in embedded systems design and development.
+Skills: Proficiency in C/C++ and embedded software development tools.
+IoT: Knowledge of IoT frameworks, edge devices, and cloud platforms.
+Prototyping: Familiarity with 3D printing, laser cutting, and CAD software.
+Innovation: Understanding of AR/VR and AI technologies (preferred).
+Problem-Solving: Strong analytical skills in a fast-paced, experimental environment.
+
+
+Technical Skills Required:
+
+Creativity & Innovation
+IoT (Internet of Things)
+Virtual Reality (VR)
+Embedded Systems
+Augmented Reality (AR)
+Mixed Reality (MR)
+Artificial Intelligence (AI)
+Machine Learning (ML)
+Technology Integration
+Awareness of Emerging Technology Trends
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 19
+
+
+
+Strong experience with Linux kernel development, including writing device drivers and modifying kernel modules.
+
+• Hands-on experience with embedded Linux distributions (e.g., Yocto, OpenEmbedded, or Buildroot).
+
+• Strong understanding of system-level programming, low-level hardware communication (I2C, SPI, UART, etc.), and debugging embedded systems.
+
+• Familiarity with real-time operating systems (RTOS) and multi-threading concepts.
+
+• Experience with development tools such as GCC, Makefiles, GDB, and debugging hardware tools (e.g., JTAG, oscilloscopes).
+
+• Knowledge of embedded system hardware architecture (ARM, MIPS, etc.) and interfacing with sensors, actuators, and peripherals.
+
+• Proficiency in C and C++ programming languages.
+
+• Strong understanding of embedded systems and real-time operating systems.
+
+• Experience with microcontroller/microprocessor-based systems.
+
+• Solid understanding of Linux-based embedded systems.
+
+• Proficient in data structures and algorithms.
+
+• Problem-Solving: Strong analytical and problem-solving skills with the ability to troubleshoot and resolve firmware-related issues.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 20
+
+
+
+Expertise with Assembly and C programming and troubleshooting
+Expertise with 8/16/32 bit microcontrollers including ARM Cortex-M/ARM Cortex-A
+Experience in analog and digital electronic schematics, circuit boards, component datasheets.
+Hands on experience with various wired protocols like UART, I2C, SPI.
+Good verbal and written communication skills
+Familiarity with wireless protocols like Wi-Fi, Bluetooth, ZigBee, TCP/IP is preferred.
+Hands on experience with RTOS based embedded software systems like uCOS III, FreeRTOS, Embedded Linux, WinCE is preferred.
+Experience of higher-level languages like JAVA or scripting languages like Python will be an added advantage.
+Experience with IoT applications would be an added advantage.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 21
+
+
+Experience: The candidate should have proven working experience in software engineering.
+Education: The candidate should have a university degree in Computer Science or Engineering.
+Hands-on Experience: The candidate should have hands-on development and troubleshooting experience with embedded targets.
+Programming Skills: The candidate should have strong programming skills in C, C++ / C#.
+Familiarity with Fieldbus Protocols: The candidate should be familiar with Fieldbus protocols and communication standards such as Profinet, Profibus, EtherCAT, Ethernet IP, OPC-UA, or TCP-IP communication.
+Ability to Read Schematics: The candidate should be able to read schematics and data sheets for components.
+Documentation and Writing Skills: The candidate should have excellent documentation and writing skills.
+Communication Skills: The candidate should have very good communication skills and experience in working with global R&D teams and related areas such as hardware and software development, system testing, and type testing.
+Experience with System-on-Chip Solutions: Experience with system-on-chip solutions such as Renesas, Hilscher netX is an advantage.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 22
+
+
+Bachelor's or Master's degree in Electronics Engineering, Electrical Engineering, or a related field.
+• 3+ years of experience in embedded systems design or hardware development.
+• Strong knowledge of embedded software development in C/C++ and familiarity with RTOS.
+• Experience with microcontrollers such as ARM Cortex, AVR, PIC, etc.
+• Proficient in schematic design and PCB layout using tools like Altium, Eagle, or KiCAD.
+• Familiarity with communication protocols (I2C, SPI, UART, CAN, etc.).
+• Strong understanding of analog and digital circuit design.
+• Hands-on experience with debugging tools like oscilloscopes, logic analyzers, and JTAG debuggers, AC/DC power supply and Power Analyser.
+• Knowledge of hardware-software integration and system-level design.
+• Strong problem-solving skills and attention to detail.
+• Good communication and teamwork abilities.
+• Working with different Sensors
+• Integration with Software and other hardware
+
+Preferred Qualifications
+• Experience with IoT systems and wireless communication protocols (Bluetooth, ZigBee, LoRa, etc.).
+• Knowledge of power electronics and sensor integration.
+• Familiarity with Agile or Scrum methodologies.
+• Experience with version control systems (Git, SVN).
+• Familiarity with simulation tools like MATLAB, LTSpice, or Simulink.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 23
+
+Design and implement embedded software solutions for [specific product/project] according to technical specifications and requirements.
+• Develop device drivers, firmware, and middleware components to interface with hardware peripherals and external devices.
+• Collaborate with hardware engineers to integrate software with hardware designs and ensure seamless operation.
+• Conduct unit testing, integration testing, and system-level testing to verify software functionality, performance, and reliability.
+• Optimize code to improve performance, memory utilization, and power efficiency. Debug and resolve software issues through root cause analysis and troubleshooting.
+• Document software designs, specifications, and test procedures to facilitate future maintenance and support.
+• Stay updated on emerging technologies and industry trends in embedded systems development.
+• Experience of documentation using Microsoft Word, Excel, Power Point Qualifications: Bachelor's degree in Electrical Engineering, Computer Science, or related field. Proficiency in C/C++ programming languages.
+• Experience with real-time operating systems (RTOS) such as FreeRTOS, uC/OS-II, or ThreadX. Familiarity with microcontroller/microprocessor architectures such as ARM Cortex-M, AVR, PIC, etc.
+• Familiarity with microcontroller/microprocessor architectures such as ARM Cortex-M, AVR, PIC, etc. Experience with embedded development tools such as IDEs, compilers, debuggers, and version control systems. Bachelors or Master's degree in Electrical Engineering, Computer Science, or related field.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 24
+
+
+
+Extensive hands-on experience with espressif controllers like Esp32, NodeMcu, Arduino Uno.
+• Knowledge of Embedded C, C++, Python.
+• Familiarity with PCB Designing software like EAGLE, Proteus (simulation and PCB designing), or Altium, also having an excellent practice of PTH and SMD PCB designing and assembling.
+• Hands-on experience on Raspberry pi for embedded system development.
+• Excellent understanding of micro-controllers, microprocessors, sensors, and actuators.
+• Understanding of rules of interfacing and hardware subsystems (UART, I2C, CAN, FTP, UDP, HTTP, and LoRa WAN)
+• Professional skills with excellent knowledge of embedded system development, RTOS concept, device drivers, and hardware/software integration, firmware development.
+• object-oriented programming (python must).
+• LoRa WAN
+
+GOOD TO HAVE / ADDITIONAL SKILLS
+
+Candidates with additional skills will be preferred but not required.
+• Master's Degree
+• Knowledge of MATLAB (Simulink toolbox and coding) is a plus but not required, you will be trained as required
+• AWS (s3 bucket)/ Google Firebase, Thing speak, Adafruite.io.
+• Knowledge of computer vision-based applications
+• Better to know about Flask or Tkinter GUI.
+• Version Control through GIT.
+
+Responsibilities
+
+• You'd be responsible for developing firmware for embedded processors.
+
+• You'd will be required to be involved in technical projects as a part of a dynamic team.
+
+• You will collaborate with other technical departments throughout the company for the development of different projects.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 25
+
+
+
+Bachelor's degree in Electrical/Electronics Engineering or related field
+• Strong knowledge of embedded systems and microcontrollers
+• Experience with circuit design, schematic capture, and PCB layout tools
+• Familiarity with hardware testing and validation processes
+• Proficiency in programming languages such as C/C++
+• Knowledge of communication protocols and interfaces (e.g., SPI, I2C, UART)
+• Understanding of power management and signal integrity principles
+• Ability to read and interpret technical specifications and datasheets
+• Analytical thinking and problem-solving skills
+• Excellent communication and teamwork abilities
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 26
+
+
+
+Minimum of a bachelor's degree in computer science or engineering
+• Professional experience in embedded systems
+• Significant programming experience in C or C++
+• Experience in trouble-shooting embedded systems and microcontroller peripherals
+• Experience in working in real-time operating systems
+• Experience in interfaces, IP protocols, and hardware subsystems
+• Proficiency in working with common embedded systems communication protocols
+• Strong interpersonal and writing skills
+• Ability to work as part of a team
+• Exceptional analytical and problem-solving skills
+• Self-motivated and passionate about your work and embedded systems
+• Always eager to learn and improve
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 27
+
+
+
+Port and optimize object detection and other AI algorithms for embedded systems, specifically NVIDIA GPU platforms like Jetson Xavier NX, Jetson AGX Orin, and others.
+• Ensure efficient integration and maximization of hardware capabilities for AI applications.
+• Prepare the Embedded environment to run the ML models on NVIDIA Jetson Xavier or Orin or similar boards.
+• Run the optimized AI models (quantized or pruned) on the embedded hardware and Generate Profile figure and benchmarking.
+• Ensure seamless integration of ported algorithms with specific NVIDIA platforms, addressing any compatibility issues and adapting code as necessary.
+• Document porting processes and create detailed reports on algorithm performance on different NVIDIA platforms.
+• Develop and integrate different Sensor Drivers like Camera, Lidars.
+
+Work Experience
+
+Required Skills:
+• Strong experience with embedded systems and NVIDIA GPU platforms such as Jetson series or DRIVE AGX platforms.
+• Proven track record of successfully porting and optimizing machine learning algorithms for embedded devices.
+• Proficiency in programming languages and tools such as C/C++, Python, CUDA, and relevant machine learning frameworks like TensorFlow, PyTorch or NVIDIA’s CUDA Toolkit for deep learning.
+• In-depth understanding of object detection algorithms and their implementation challenges on embedded platforms.
+• Experience with RTOS like QNX or RTLinux, Free RTOS, or NVIDIA’s own RTOS.
+• Experience in integrating various sensors commonly used AI enabled embedded systems, such as Cameras, LiDAR, or Radar.
+
+Desired Skills:
+• Previous experience in a similar role within the tech industry, particularly in areas related to Autonomous Vehicles, Robotics, or IoT.
+• Knowledge of computer vision algorithms and libraries (eg, Open CV), particularly how they can be implemented and optimized on NVIDIA Platforms.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 29
+
+
+
+Highly proficient in SoC Architecture. Good prior experience (as a performance architect) in chipset peripherals & subsystems i.e. Audio, Video, Storage, Power, Cache, memory, Camera, CPU, DPU, VPU & Thermal etc.
+
+2. Extensive Experience in Linux device driver, C/C++, multithreading, I2C, I3C, SPI etc.
+
+3. 5 yrs working experience for creating subsystem specific test scripts for SoC
+
+4. Drive Hardware Validation and Performance analysis on silicon using various System and Cores (i.e. CPU, GPU, Memory) benchmarks like Dhrystone, Antutu, GeekBench, GfxBench, SpectInt, Resnet etc.
+
+5. Analyzing Performance KPIs of SoC subsystems like CPU, GPU, Memory, Camera, Display, Video and correlate performance with projection
+
+6. Analyze and optimize the System performance parameters of SoC infrastructure like NoCs, DDR, etc.
+
+7. Systems/HW background with a good understanding of microprocessor and common SoC hardware blocks (Interconnects, Display, Graphics, etc.)·
+
+8. Good to have knowledge of Android Framework, NDK & application development
+
+9. Good knowledge of python
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JOB DESCRIPTION 31
+
+
+
+Strong programming skills in following languages
+• C (good proficiency), Python (good proficiency), Perl , any other scripting language
+• Good knowledge and experience of working on Microcontrollers and developing embedded FW for Microcontroller based devices.
+• Should have experience of developing low level drivers and should have strong debugging skills.
+• Good knowledge of interrupt handlers, protocols like I2C , MIPI standard and HW blocks like Timers , GPIO's.
+• Repository knowledge - svn ,Git etc
+• Knowledge of Unix environment , SimVision for debug purpose, would additionally help and will be preferred.
+• Experience on ISO26262 ,ASpice processes or Cybersecurity basics would be an added advantage.
+• Knowledge in CMOS image sensors and in image data processing would also be advantageous.
+
+Soft Skills Required
+• Work independently with the least mentoring and able to handle complex and multiple tasks at the same time.
+• Engage and collaborate with cross-functional teams.
+• Good level of autonomy, methodology and rigorous
+• Ability to work in a multi-cultural environment.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 32
+
+
+
+Familiarity with various architectures of Microcontrollers (especially MSP430 and AVR)
+• Expertise in C, C++
+• Familiar with at least one high level language, specially for scripting (preferably Python)
+• Strong experience of working in the Linux/Unix environment
+• Digital Electronics fundamentals
+• Knowledge of Software version controlling (git) and Software Development process is a strong plus.
+• Writing driver level software.
+• Comfort in using debugging tools such as GDB & JTAG
+• Familiarity with various communication protocols (SPI, I2C, UART, CAN etc)
+• General familiarity with data structures and algorithms.
+• Mathematical modeling of software programs (using Finite State Machines)
+• Good analytical skills
+• Team Spirit: Ability to work as a team player and coordinate with other departments
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 33
+
+
+Proficiency in programming languages such as C/C++, Python, or assembly.
+• Experience with real-time operating systems (RTOS) and embedded Linux.
+• Knowledge of hardware interfaces such as I2C, SPI, UART, and GPIO.
+• Familiarity with robotic systems, sensors, actuators, and communication protocols (CAN, Ethernet, etc.).
+• Experience with debugging tools and techniques, including oscilloscopes, logic analyzers, and JTAG.
+• Understanding of safety and reliability standards in robotics.
+
+Soft Skills
+• Strong problem-solving skills and attention to detail.
+• Ability to work effectively in a team environment and communicate technical concepts clearly.
+• Proactive attitude with a passion for innovation and continuous learning.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 34
+
+
+Experienced in edge processing for connected building / industrial / consumer / appliances / automotive ECU
+• Have good understanding about IoT platforms and architecture
+• Deep experience in operating system ex: Linux, freeRTOS / Kernel development / device drivers / sensor drivers
+• Have experience in various low level communication protocols, memory devices, messaging frameworks etc.,
+• Have deep understanding on design principals, design patterns, container preparations
+• Have developed hardware, OS abstraction layers, sensor handlers, services to manage various bsp, os standards
+• Have experience with Python edge packages
+• Have good understanding about IoT, database for edge computing
+• Good understanding on connectivity application protocols and connectivity SDK for Wi-fi and BT/BLE
+• Experience in arm Architecture, Peripheral devices and hardware board configurations
+• Able to setup debuggers, configure build environments, compilers and optimise coding performance
+
+Skills / Tools
+• Expert at object-oriented programming
+• Modular programming
+• C / C++ / JavaScript / Python
+• Eclipse framework
+• Target deployment techniques
+• IoT framework
+• Test framework
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 35
+
+
+
+Bachelor’s degree in Computer Science, Electronics Engineering, Electrical Engineering, or a related field.
+
+· 4+ years of experience in embedded software development.
+
+· Proficiency in C/C++ programming and experience with assembly language.
+
+· Experience with real-time operating systems (RTOS) such as FreeRTOS, ThreadX, or similar.
+
+· Strong knowledge of microcontrollers (e.g., ARM Cortex, PIC, AVR) and microprocessors.
+
+· Experience with version control systems (e.g., Git, SVN) and development tools (e.g., IDEs, debuggers, compilers).
+
+· Familiarity with software development methodologies, including Agile and Waterfall.
+
+· Solid understanding of hardware interfaces and protocols (e.g., I2C, SPI, UART, CAN, Ethernet, USB).
+
+· Ability to read schematics and datasheets and understand hardware documentation.
+
+· Strong analytical, problem-solving, and debugging skills.
+
+· Excellent communication skills and ability to work effectively in a team environment.
+
+Preferred Skills:
+
+· Experience with embedded Linux development and BSP (Board Support Package) customization.
+
+· Knowledge of cybersecurity practices in embedded systems.
+
+· Familiarity with scripting languages (e.g., Python) for automation and testing.
+
+· Experience in machine learning or AI on embedded platforms.
+
+· Understanding of power management and optimization techniques for low-power systems
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 36
+
+
+
+
+Bachelors or Masters in Electronics/Communications Engineering
+• 12+ years of experience in WLAN RF Front-end design, tuning and debug.
+• Experience in complete product life cycle for the Wi-fi products from design to customer support.
+• WiFi System level understanding and architecture is a must.
+• Strong RF board design and debug experience.
+• Experience in using EDA tools like ADS, HFSS , AWR
+• Must be hands on.
+• Experience in using the circuit design tools(Cadence/Mentor) and Layout tools.
+• Experience with EMI/EMC testing
+• Experience with lab equipment’s including Spectrum analyzer, Network analyzer, Signal generator, etc…
+• Candidates must possess good oral and written communication skills.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 37
+
+
+
+Highly proficient in SoC Architecture. Good prior experience (as a performance architect) in chipset peripherals & subsystems i.e. Audio, Video, Storage, Power, Cache, memory, Camera, CPU, DPU, VPU & Thermal etc.
+
+2. Extensive Experience in Linux device driver, C/C++, multithreading, I2C, I3C, SPI etc.
+
+3. 5 yrs working experience for creating subsystem specific test scripts for SoC
+
+4. Drive Hardware Validation and Performance analysis on silicon using various System and Cores (i.e. CPU, GPU, Memory) benchmarks like Dhrystone, Antutu, GeekBench, GfxBench, SpectInt, Resnet etc.
+
+5. Analyzing Performance KPIs of SoC subsystems like CPU, GPU, Memory, Camera, Display, Video and correlate performance with projection
+
+6. Analyze and optimize the System performance parameters of SoC infrastructure like NoCs, DDR, etc.
+
+7. Systems/HW background with a good understanding of microprocessor and common SoC hardware blocks (Interconnects, Display, Graphics, etc.)·
+
+8. Good to have knowledge of Android Framework, NDK & application development
+
+9. Good knowledge of python
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 38
+
+
+Architect, Design and Develop SW in the respective areas according to the Product Roadmap and in collaboration with the SW Architects, Chip Designers and other cross-functional teams
+• Own the quality of the software (ensure the quality of delivered software)
+• Design, Write, Unit-test and document Embedded Software.
+• Schedule own tasks participate in SW planning and report progress to project leader
+• Provide feedback to the Architect and Chip teams to help improve product features and SW developer experience in next generation chips
+• Bachelor level with approx. 6 years deep working experience in Protocol Development in an Embedded SW environment, or Academic level with 4 years’ experience.
+• Expertise in one or more Wireless IoT protocols with hands-on experience in implementation of these protocols and low-level drivers interacting with radio hardware
+• Fully competent in all aspects of software engineering, concerning coding and testing.
+• Ability to prioritize work, set goals and meet deadlines for self and others.
+• Good written and verbal communication skills.
+• Very good knowledge of embedded SW development and Processor Architecture
+• Very good experience in C programming and experience in design/development of software in deeply embedded platforms
+• Working experience with Software development methodologies (Agile, SW testing etc.) and SCM (Git, SVN etc.)
+• Working experience with 32-bit RISC processor architectures such as ARM Cortex-M
+• Expert in 802.15.4 and Zigbee and/or Thread with deep knowledge of implementation of these protocols (Network, MAC and PHY layers) AND/OR Expert in Bluetooth Classic and/or Bluetooth Low Energy with deep knowledge of implementation of these protocols (Link Controller and Host)
+• Hands-on working experience of interaction of these protocols with radio hardware and User-Application APIs
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 39
+
+
+Key Responsibilities:
+1. Develop and optimize telephony-related software using C++ or Core Java.
+2. Work on Android Telephony, RIL, or Modem modules.
+3. Implement object-oriented design principles in software development.
+4. Debug and troubleshoot telephony and modem-related issues.
+5. Collaborate with cross-functional teams to integrate software solutions.
+
+
+Requirements:
+1. 3-5 years of experience in C++ or Core Java programming.
+2. 2-3 years of experience in Android Telephony, RIL, or Modem.
+3. Strong understanding of Object-Oriented Design and implementation.
+4. Good experience in Linux/Embedded environments.
+5. Strong analytical and debugging skills.
+6. Experience in telecommunication systems is a plus.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 40
+
+
+Designing and implementing software for embedded devices and systems.
+Designing, developing, coding, testing and debugging system software.
+Analyzing and enhancing efficiency, stability and scalability of system resources.
+Interface with hardware design and development.
+Prepare high-quality technical documentation.
+Travel
+
+As and when required, across the country for project monitoring and execution as well as for coordination with geographically distributed teams
+Eligibility
+Bachelor s or a Master s degree in Engineering in Computer Science or IT or Electronics and communications.
+3+ years of experience in relevant field.
+Good understanding of protocols such as UART, I2c, CAN.
+Familiarity with open-source projects like pixhawk, ardupilot, MAVLINK.
+Prior experience on prototyping boards like Raspberry pi/STM32/esp32 etc.
+Desirable
+Hands-on expertise in relevant field.
+Previous work experience in UAV/Aeronautics or Automotive or consumer electronics sector.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 41
+
+
+Requirements
+
+Strong in C/ C++ programming, Strong object- oriented design, knowledge of
+
+good programming practices.
+
+Experience in designing Firmware for Micro- controller based Systems.
+
+Knowledge of SPI, I2C, MODBUS communication protocols, Device Drivers
+
+ADC.
+
+Zigbee, GSM, GPRS, USB, Ethernet, boot loader preferred
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 42
+
+
+3 years’ experience Microcontroller based embedded SW development experience in C with automotive experience is desired. C language, Linux/ RTOS is added advantage.
+Experience/Understanding of SW development process life cycles or Agile framework is preferable.
+
+
+Knowledge of SW developments tools like compiler, debugger, CAN tools, Oscilloscope.
+Knowledge in network protocols like CAN, Ethernet, I2C, SPI and UART is preferable.
+
+Desired Skills:
+Behaviors -
+Detail Oriented: Capable of carrying out a given task with all details necessary to get the task done well.
+Dedicated: Devoted to a task or purpose with loyalty or integrity
+
+Motivations:
+Flexibility: Inspired to perform well when granted the ability to set your own schedule and goals
+Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 43
+
+
+o develop embedded software in C/C /embedded automotive domain.
+3 years’ experience Microcontroller based embedded SW development experience in C with automotive experience is desired. C language, Linux/ RTOS is added advantage.
+Experience/Understanding of SW development process life cycles or Agile framework is preferable.
+Knowledge of SW developments tools like compiler, debugger, CAN tools, Oscilloscope.
+Knowledge in network protocols like CAN, Ethernet, I2C, SPI and UART is preferable.
+
+Desired Skills:
+1) Behaviors -
+Detail Oriented: Capable of carrying out a given task with all details necessary to get the task done well.
+Dedicated: Devoted to a task or purpose with loyalty or integrity
+
+2) Motivations:
+Flexibility: Inspired to perform well when granted the ability to set your own schedule and goals
+Ability to Make an Impact: Inspired to perform well by the ability to contribute to the success of a project or the organization.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 44
+
+
+
+ESP32 IDF Experience: Minimum 1-3 years of hands-on experience in developing firmware and
+applications using the ESP32 IDF (Internet of Things Development Framework) for ESP32
+microcontrollers.
+Embedded C Programming: Strong proficiency in Embedded C programming language, with a deep understanding of memory management, pointer arithmetic, and optimization techniques for resource-constrained environments.
+Real-Time Operating Systems (RTOS): Extensive knowledge and experience with Real-Time
+Operating Systems (RTOS) used in ESP32 IDF, such as FreeRTOS. Proficiency in task scheduling,
+inter-task communication, and real-time scheduling algorithms.
+Task Scheduling and Timing Analysis: Expertise in designing and implementing task scheduling
+mechanisms, handling timing-critical operations, interrupt handling, and performing timing analysis to ensure deterministic behaviour.
+Debugging and Optimization: Experience with various debugging techniques, tools (e.g. JTAG
+debuggers), and profiling tools for code optimization, performance tuning, and memory footprint
+reduction.
+Architecture Understanding: Solid understanding of embedded software architecture design
+principles, patterns, and best practices for developing scalable, maintainable, and efficient firmware solutions.
+Communication Protocols: Familiarity with various communication protocols used in IoT applications, such as Wi-Fi, Bluetooth, LoRa, I2C, SPI, UART, and their respective drivers and interfaces in ESP32 IDF.
+Firmware Testing: Experience in developing and executing comprehensive firmware test strategies, including unit testing, integration testing, and system-level testing.
+Collaborative Skills: Ability to work effectively in cross-functional teams, collaborate with hardware engineers, product managers, and other stakeholders, and communicate technical concepts clearly.
+Documentation and Version Control: Strong documentation skills for writing technical specifications, code comments, and user guides. Experience with version control systems like Git is a must.
+Security Awareness: Understanding of security best practices for embedded systems, including secure coding practices, secure boot, and over-the-air (OTA) update mechanisms.
+
+
+Key Skills:
+Embedded C, Expressif IDF, IOT, RTOS, ESP32, OTA
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 45
+
+
+Bachelor s degree in Computer Engineering/Science or other relevant technical experience is required.
+8 + years of experience in embedded and system-level software testing
+Experience in Software Verification and Validation methodologies with expertise in writing testcases, test plans and test reports
+Proficiency in Python or other scripting languages
+Experience in RTOS/Linux is a preferred.
+Experience with software development tools, such as IDEs, debuggers, and version control systems
+Experience with communication protocols, network protocols and tools such as Wireshark
+Experience with automated testing frameworks, such as Robot Framework, Cucumber, or Selenium
+Experience with oscilloscopes, analyzers and electronics is preferred.
+Knowledge of defect management tools such as JIRA or Bugzilla is required.
+Prior work in a regulated environment like medical device industry is preferred.
+Familiarity to Agile methodology is preferred.
+Has good verbal and written communication skills.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 46
+
+
+
+Technical Skills:
+Strong proficiency in C/C++ programming.
+Experience with real-time operating systems (RTOS) like FreeRTOS, Zephyr, or Linux kernel.
+Knowledge of software development methodologies (Agile, Scrum, etc.).
+Familiarity with tools like Git, JIRA, and Jenkins.
+Experience with debugging and testing tools.
+Soft Skills:
+Strong problem-solving and analytical skills.
+Good communication and interpersonal skills.
+Ability to work independently and as part of a team.
+Passion for technology and a drive to learn new things.
+If you are a talented and motivated individual with a passion for embedded systems, we encourage you to apply.
+Airoha, Scrum, Linux, Agile, C++, C Programming, Audio/ Video Pipeline Integration, Qualcomm Tools, Led Managers, Rtos
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 47
+
+
+
+
+Software Development:
+Design, develop, and test embedded software modules, including device drivers, firmware, and middleware.
+Implement features and bug fixes according to product requirements.
+Optimize code for performance, power consumption, and memory usage.
+Platform Expertise:
+Experience with low-level embedded audio platforms, preferably Qualcomm (QC) and Airoha.
+Knowledge of firmware update managers, LED managers, and DSP integration.
+Proficiency in audio/video pipeline integration and optimization.
+Problem-Solving:
+Identify and resolve complex technical issues.
+Analyze system requirements and translate them into effective software solutions.
+Collaboration:
+Work closely with hardware engineers, system architects, and other team members.
+Contribute to design reviews and code reviews.
+Testing and Debugging :
+Develop and execute unit tests and integration tests.
+Debug and troubleshoot software issues using debugging tools and techniques.
+Qualifications:
+ 
+Education: B.Tech/M.Tech in Computer Science, Electronics Engineering, or a related field.
+Experience: 3 - 11 years of experience in embedded software development.
+ 
+Technical Skills:
+Strong proficiency in C/C++ programming.
+Experience with real-time operating systems (RTOS) like FreeRTOS, Zephyr, or Linux kernel.
+Knowledge of software development methodologies (Agile, Scrum, etc.).
+Familiarity with tools like Git, JIRA, and Jenkins.
+Experience with debugging and testing tools.
+Soft Skills:
+Strong problem-solving and analytical skills.
+Good communication and interpersonal skills.
+Ability to work independently and as part of a team.
+Passion for technology and a drive to learn new things.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 48
+
+
+
+A bachelor s degree in electronics, computer engineering, or similar.
+A minimum of two years experience as an embedded developer.
+Proficiency in C programming language.
+Strong knowledge of hardware architecture of 8, 16- and 32-bit microcontrollers based on AVR, ARM.
+Familiarity with hardware protocols including USB, UART, I2C, and SPI.
+Experience with OS platforms such as Linux and RTOS.
+Excellent diagnostic skills.
+Strong analytical and problem-solving abilities.
+The ability to keep abreast with the latest advancements in technology and techniques.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 49
+
+
+Systems engineer with hands-on experience and the willingness to go the extra mile
+Helps the Lead Engineer in the Design/Development of complex solutions for IoT and Edge Computing systems
+
+Reports to Senior Technical Specialist
+
+Familiar with SW design methodologies and Agile practices
+
+Experienced Embedded Systems Engineer having hands on experience integrating multiple HW sensors on SoC/SoM/MCU/MPU based HW systems
+
+Sound knowledge on Microprocessor and Micro controller architecture
+
+Excellent Design and implementation skills using C, C++, Python in embedded systems domain
+
+Familiarity with interfacing Embedded Devices with Cloud APIs for building IoT solutions
+
+Self driven technical experts having a positive attitude to work and curiosity to explore new technologies
+
+Excellent troubleshooting and problem solving skills for HW/SW systems
+
+Desired Candidate Profile
+
+
+The engineer should have worked with ST-Micro, Renesas or TI chips to develop products.
+Deep understanding of OS concepts and fundamentals of electronics.
+Ability to learn new IDE and adapt to different softwares and programming languages.
+By working with us, you will have an experience that will help you advance in your career into any field of choice.
+Worked in Ubuntu or any Linux distribution for software development
+Worked on atleast one single board linux systems like Raspberry Pi, iMX or any other equivalent boards.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 50
+
+
+Bachelor/Master s degree in computer science/Electronics and Communication/Electrical Engineering.
+7+ years of real time Embedded software development experience with Intel x86/ ARM /Zynq ultra-scale+ architectures-based microprocessors/controllers.
+Strong expertise and experience in C/C++ Programming languages.
+Low-level device drivers and application firmware development in VxWorks or Linux.
+Experience with embedded systems board bring up and good understanding of various boot loaders(MLO,UBOOT, GRUB).
+Realtime experience in Embedded firmware development using multi-threaded environment preferably Windriver VxWorks or any commercially available RTOS.
+Experience in debugging multi-threaded system using various debugging tools provided by RTOS vendor.
+Good understanding of TCP/IP, UDP and Serial based industrial communication protocols like EtherCat, Profinet, EGD, Modbus TCP, DNP3, IEC104..etc.
+Experience in integrating industrial communication protocol stack into application firmware.
+Ability to read hardware schematics and use of debugging instruments like oscilloscope, logic analyzers.
+Experience with various in circuit emulators, debuggers for debugging the system.
+Experience with Agile development process.
+Good understanding of Continuous Integration systems used in software development.
+Strong analytical and problem-solving skills.
+Strong written and oral communication skills.
+The individual must be well organized, methodical, and diligent. A self-starter who is capable of identifying problems, taking initiative to propose solutions, and optimally implementing plans
+Preferred Qualifications that Set You Apart:
+
+Experience with Programmable Logic Controllers.
+Having firmware development experience with Xilinxs Ultrascale FPGAs is an added advantage.
+Experience in scripting languages like Python
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
