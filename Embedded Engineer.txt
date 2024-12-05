@@ -882,35 +882,6 @@ Bachelors or Masters in Electronics/Communications Engineering
 
 
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-JOB DESCRIPTION 37
-
-
-
-Highly proficient in SoC Architecture. Good prior experience (as a performance architect) in chipset peripherals & subsystems i.e. Audio, Video, Storage, Power, Cache, memory, Camera, CPU, DPU, VPU & Thermal etc.
-
-2. Extensive Experience in Linux device driver, C/C++, multithreading, I2C, I3C, SPI etc.
-
-3. 5 yrs working experience for creating subsystem specific test scripts for SoC
-
-4. Drive Hardware Validation and Performance analysis on silicon using various System and Cores (i.e. CPU, GPU, Memory) benchmarks like Dhrystone, Antutu, GeekBench, GfxBench, SpectInt, Resnet etc.
-
-5. Analyzing Performance KPIs of SoC subsystems like CPU, GPU, Memory, Camera, Display, Video and correlate performance with projection
-
-6. Analyze and optimize the System performance parameters of SoC infrastructure like NoCs, DDR, etc.
-
-7. Systems/HW background with a good understanding of microprocessor and common SoC hardware blocks (Interconnects, Display, Graphics, etc.)·
-
-8. Good to have knowledge of Android Framework, NDK & application development
-
-9. Good knowledge of python
-
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JOB DESCRIPTION 38
