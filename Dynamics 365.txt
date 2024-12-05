@@ -1426,3 +1426,54 @@ management, supply chain management, etc.
 Navision to Business Central.
 
 • Sound knowledge of GitHub, branch management, and Release
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 53
+
+We are seeking a skilled Dynamics 365 Finance & Operations (D365 F&O) Supply Chain Management (SCM) Solution Architect. Primarily the role would cater to lead the design and implementation of finance modules and lead the pre sales efforts in D365 practice from the front. This role gives the opportunity to participate in Customer Delivery along with creating a significant impact on the Growth front for the Business Unit.
+Key Responsibilities
+Proven experience in Delivery: Front ending conversations in Business Blueprinting phase. Solutioning/Architecting Rollouts or Green Field Implementations.
+Should be able to lead the design and implementation of Dynamics 365 Finance & Operations (D365 F&O) solutions, with a focus on functional and technical integration.
+Should be able to effectively and independently engage with business stakeholders to gather requirements and develop effective SCM solutions, including procurement, inventory, manufacturing, and logistics.
+Should have experience in creating functional design documents to optimize end-to-end supply chain processes.
+Should have experience in implementing best practices for inventory management, production scheduling, and procurement.
+Should be able to coordinate with technical teams for system customizations, data migration, and integration.
+Experience with rescue projects is desirable (where the current implementation partner is struggling with the implementation/roll-out and the customer is looking for external intervention to protect the investment and deliver the needful to the business.
+Exposure to Microsoft Navision and Business Central, to support customer conversations.
+Basic Finance setup on the posting side.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 54
+
+
+Job Requirement
+Qualifications and Skillsets
+Experience Range: 10-14 years in ERP systems, primarily in D365 F&O/SCM with a focus on SCM.
+Functional expertise with technical understanding preferred; purely functional profiles considered.
+Proven pre-sales experience: RFP responses, lead conversion, customer engagements.
+Strong problem-solving skills and the ability to lead cross-functional teams.
+Excellent communication and stakeholder management skills.
+Preferred Certifications
+Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate
+Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate
+Certified Business Process, Sales, and Marketing Professional (CBPSMP) (Optional)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 55
+
+Must have at least 4+ years of experience working with Dynamics AX ERP in AX7/AX2012/AX2009.
+Candidate should have at least 1 year of experience working with Dynamics 365.
+Should have worked on at least 2 end to end AX implementations.
+Should have expertise in X++, AIF, SSRS reports and sound knowledge in enterprise portal.
+Sound knowledge in DIXF framework to handle migrations.
+Should have the capability to collaborate with functional teams and resolve issues.
+Good confidence to face the customer and understand the issues
+Good communication skills.
+Should be a MS certified developer in AX2012
