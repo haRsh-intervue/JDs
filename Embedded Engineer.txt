@@ -1,16 +1,23 @@
 JOB DESCRIPTION 1
 
-Candidate should have at least 12 - 14 years’ experience. He / She should be Instrumentation or Electronics Engineering background.
- Candidate is required to have Strong Domain Knowledge on Functional Safety in Process Industry and its applications. He should have a strong understanding of IEC61508 and IEC61511. NFPA Standards.
- He/She should have knowledge on ESD, F&G, BMS Systems & High Integrity Pressure Protection Systems (HIPPS). He/She should preferably be TuV Certified for Functional Safety Engineer.
- The Candidate should have knowledge on the overall Engineering lifecycle of a Safety System. He /She should have a fair knowledge on HAZOP Analysis, Risk Assessment/Reduction, Functional Safety Assessment and/or Functional Safety Audit. 5. Having Knowledge on Cyber Security and ISA Secure Standards is preferable
- The Candidate should have experience in Project Engineering, Commissioning and Maintenance of Safety Instrumented Systems such as Honeywell Safety Manager & SM SC, Honeywell FSC, HIMA, Triconex, Yokogawa Prosafe-RS, ABB Safety Systems. He/She should have had experience in FAT/SAT of Safety Systems.
- Candidate should have experience working in DCS and ESD systems. He should have hands on working experience in configuring the PLC, Safety, DCS systems in either commissioning or test environments. 8. He should understand the process safety and control requirements.
- He/ She should have working knowledge on PLC ladder programming/FBD and other languages described in IEC61131-3 standard.
- He/ she should have sound knowledge of different communication protocols for third party interfaces and for field device integration.
- Candidate should also have experience working in Process Industrial Control preferably Honeywell Experion DCS, Honeywell TDC and SCADA solutions
- Exposure to Test and Requirement Management Tools such as JIRA, Quality Center, Jama, ReqPro would be an advantage
- Should have very good Logical reasoning and Analytical skills
+Bachelor’s degree in Electronics or Computer Science Engineering.
+2-4 years of industry experience in embedded software testing and development within the aerospace domain.
+Strong knowledge of DO-178B/C guidelines.
+Experience in developing and executing requirement-based test cases, board bring-up activities, and integration testing.
+Hands-on experience with black box and white box testing.
+Proficiency in using test equipment (e.g., Oscilloscopes, Digital Multimeters, Logic Analyzers) and interpreting data from these tools.
+Experience with high-level software testing and debugging methods.
+Familiarity with tools like DOORS (for requirements management), Mantis (for issue tracking), and PVCS (for configuration management).
+Excellent written and oral communication skills.
+Preferred Skills:
+
+Knowledge of development tools like IAR and CCS.
+Experience with structural coverage using RTRT is an advantage.
+Strong C programming skills.
+Hands-on experience with ARM, Microchip, STMicroelectronics, or TI processors.
+Experience with device driver development for peripherals (e.g., I2C, SPI, UART, ADC, DAC).
+Experience with at least one full-cycle aerospace engineering project.
+Familiarity with working in a lean environment.
 
 
 
