@@ -379,30 +379,9 @@ Required skills set:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-JOB DESCRIPTION 16
-
-
-Minimum 5-7 years' experience in Engineering of Flow products & Systems 
- Experience with various Flow domain applications 
- Detailed hands-on experience Flow Comp programming, Design, Application programming. 
- Flow Domain Knowledge, Familiar with AGA Standards, API Standards, Liquid & Gas measurements. 
- Flow Computer Configuration, Coding, Validation and Testing. 
- Good hands-on Modbus communication and other communication topologies like DNP3. 
- Exposure to Radio and Wireless communication between Flow Computer, RTU’s and Host Systems like SCADA 
- Experience on all Emerson Flow Computers and RTU’s like S600+, FB 107, ROC, CW RTU’s and Presets like DL6000 and DL8000 
- Field Instrumentation knowledge for Flow meters, pressure & temperature transmitters, control valves etc. 
- Familiarity of P&ID, Instrument index, utility & power distribution schemes, power consumption document, loop diagrams, 
- Evaluation of Control Panel drawings, cable block diagrams, wiring diagrams, cable schedules, SLDs, system architecture drawings, Loop diagams, Instrument hook up diagram, FAT/SAT procedures, O&M manual and as-built documentation etc. 
- Preparation of Project Cycle Documents like Functional Design Documents, Control Narratives, Test Procedures etc. 
- FAT and SAT experience of S600+ Flow Computer, CW RTU and Presets Controllers. 
- Customer/vendor/Factory Liaison to fulfill documentation and inspection requirements. 
- Coordinate Tests/Inspections of all bought out/fabricated items 
- Computer skills in Windows, Outlook, MS Word, Adobe Acrobat and Excel. 
 
 
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 JOB DESCRIPTION 17
 
