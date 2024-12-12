@@ -1231,7 +1231,15 @@ Experience in scripting languages like Python
 JOB DESCRIPTION 51
 
 
-Exp-4-6 Years C++, QT, QML-701-Senior Software Engineer onsibilities: Platform development - Qt QML basic components, Clinical components and workflows, Logical screens for Linux based Embedded software Hands on Linux based embedded software development; able to own, create and deliver platform components, application development and also analyze and resolve technical issues. Provide technical support and guidance to embedded software team members during the development process. Conduct technical design reviews of software to ensure the reliability and performance. Able to measure performance of developed components and take corrective actions, ensure high performing Ul components delivery. Interacting with global teams to promote consistency and maximize synergies across common software platforms Ensuring SDLC process compliance during requirements gathering, architecture design, implementation and verification. Working effectively in an Agile scrum team and continuously improving the team's performance.
+Exp-4-6 Years C++, QT, QML-701-Senior Software Engineer
+Ronsibilities:
+Platform development - Qt QML basic components, Clinical components and workflows, Logical screens for Linux based Embedded software
+Hands on Linux based embedded software development; able to own, create and deliver platform components, application development and also analyze and resolve technical issues.
+Provide technical support and guidance to embedded software team members during the development process.
+Conduct technical design reviews of software to ensure the reliability and performance.
+Able to measure performance of developed components and take corrective actions, ensure high performing Ul components delivery.
+Interacting with global teams to promote consistency and maximize synergies across common software platforms Ensuring SDLC process compliance during requirements gathering, architecture design, implementation and verification.
+Working effectively in an Agile scrum team and continuously improving the team's performance.
 
 Qualifications/Requirements:
 Bachelor's Degree / Masters in a relevant Engineering discipline (Electronics or Computer science preferred)
