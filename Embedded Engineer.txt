@@ -1227,3 +1227,109 @@ Experience in scripting languages like Python
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 51
+
+
+Exp-4-6 Years C++, QT, QML-701-Senior Software Engineer onsibilities: Platform development - Qt QML basic components, Clinical components and workflows, Logical screens for Linux based Embedded software Hands on Linux based embedded software development; able to own, create and deliver platform components, application development and also analyze and resolve technical issues. Provide technical support and guidance to embedded software team members during the development process. Conduct technical design reviews of software to ensure the reliability and performance. Able to measure performance of developed components and take corrective actions, ensure high performing Ul components delivery. Interacting with global teams to promote consistency and maximize synergies across common software platforms Ensuring SDLC process compliance during requirements gathering, architecture design, implementation and verification. Working effectively in an Agile scrum team and continuously improving the team's performance.
+
+Qualifications/Requirements:
+Bachelor's Degree / Masters in a relevant Engineering discipline (Electronics or Computer science preferred)
+Strong C++ skills, design pattern experience, Qt and QML programming skills,
+3-6 years of QML experience is preferred.
+5 Years of application development experience on embedded (Linux, QNX) using QUQML.
+Debugging Expertise: Experience in QML profiling, application level debugging, JTAG debugging and dump analysis tools.
+Scripting Expertise: Experience in Shell / Perl/python scripting Expertise in using Source control tools Experience in Build automation and continuous integration Strong interpersonal skills ↓
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Expert level understanding and knowledge with extensive hands-on work experience. 1. Embedded concepts at SW as well HW levels. 2. Strong execution skills regarding defensive/offensive cyber security measures within embedded products and interface to point-to-point and cloud solutions 3. Hands on experience on cybersecurity elements as cryptography, signing, Secure memory, audit logging, user management and so on... 4. Architecture, high/low level design and coding in Embedded C. (mush have) 5. Structured, modularized development and testing at all levels for different embedded software components like - a. RTOS knowledge (eCos, Threadx, Yocto Linux), memory, etc. b. Knowledge on communication drivers and protocols e.g. RS232, RS485, I2C, SPI etc. c. MCU architectures. Preferably - Renesas (Rx, V850, RL78). 6. User level understanding and knowledge with hands on work experience. a. Knowledge of product security standards and regulations IEC 62443, ETSI 303 645 etc... b. Understanding of framework elements such as OWASP, NIST CSF, CSA CCM, IoT SF Security c. Knowledge on relevant tools, e.g., MS Threat Modeling, statistical code analysis, security test, code scan d. SW testing tools at unit level. Preferably - CPPUnit/Google test. e. Any continuous integration tool. Preferably - Jenkins. f. Any version control tool. Preferably - GIT g. Knowledge of scripting languages like Python
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Expert level understanding and knowledge with extensive hands-on work experience.
+
+ 1. Embedded concepts at SW as well HW levels.
+ 2. Strong execution skills regarding defensive/offensive cyber security measures within embedded products and interface to point-to-point and cloud solutions
+ 3. Hands on experience on cybersecurity elements as cryptography, signing, Secure memory, audit logging, user management and so on... 
+4. Architecture, high/low level design and coding in Embedded C. (mush have) 
+5. Structured, modularized development and testing at all levels for different embedded software components like -
+ a. RTOS knowledge (eCos, Threadx, Yocto Linux), memory, etc.
+ b. Knowledge on communication drivers and protocols e.g. RS232, RS485, I2C, SPI etc.
+ c. MCU architectures. Preferably - Renesas (Rx, V850, RL78). 
+
+6. User level understanding and knowledge with hands on work experience.
+ a. Knowledge of product security standards and regulations IEC 62443, ETSI 303 645 etc... b. Understanding of framework elements such as OWASP, NIST CSF, CSA CCM, IoT SF Security
+ c. Knowledge on relevant tools, e.g., MS Threat Modeling, statistical code analysis, security test, code scan 
+d. SW testing tools at unit level. Preferably - CPPUnit/Google test.
+ e. Any continuous integration tool. Preferably - Jenkins. 
+f. Any version control tool. Preferably - GIT g. Knowledge of scripting languages like Python
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Qualifications Major
+computer engineering-related departments
+Hiring position
+Assistant Engineer~Engineer
+Responsibilities
+- Product Verification Testing
+- Verification program operation/development
+Required information (eligibility)
+-Development experience in a Linux environment (applications, shell scripts)
+-Capable of developing embedded Linux-based applications
+-Embedded system development and mass production experience
+-Person capable of developing Python/Windows programs
+-2-4 years of experience
+Preferences
+Experienced in HPC ASIC Accelerator Chip
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Skills Embedded
+ C/C++ MQX RTOS is ideal match, but any RTOS is feasible experience.
+ NXP Power PC and Cold fire processor are used.
+
+ What are TOP Skills?
+ • Expert in C, C++ programming. 
+• Working knowledge of IP networking: Switching, Routing, and network standards from layer 1 on up through transport and application layers.
+RTOS experience - Free RTOS, VxWorks, QNX, MQX or any other RTOS.
+Good understanding of Linux (or any) OS internals and device drivers. 
+• Experienced in Network Protocol development - RSTP, IGMP, IEEE802.1X, SNMP, NTP ...etc. Passionate about debugging and problem-solving. 
+• Working knowledge in Software engineering practices, Software Development tools, Agile/Scrum based software development model. 
+• Strong written and verbal communication skills, interpersonal skills.
+
+ Qualification/ Experience required.
+
+ BTech/BE or MTech/ME in ECE/Computers, MCA, or equivalent degree.
+ 6-8 years of experience in Embedded/Network product development in C/C++.
+ Embedded Systems certification/training is appreciated.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+T Embedded Engineer
+ 4-8 years industry experience in embedded systems, IoT, and connected product efforts Experience in system design and building lot systems in resource and power constrained environments
+ Proficient in C language on embedded platforms and familiarity with hardware design of embedded system is a plus
+ Development on Linux Platform/RTOS with an emphasis on embedded device driver development, multi-threading, and firmware debugging
+ Experience with mesh network or sensor network and communication
+ Good understanding of multiple loT platform components is essential
+ Solid working knowledge using lot hardware platforms, communication boards, and gateways Hands-on in internet protocols and software development using protocols including LoRA, Wi-Fi, BLE, ZigBee, NB-IoT, M2M, 6LoWPAN, Ethernet etc.
+ Expert hands-on proficiency in developing applications using one or more technology stacks Strong hands-on understanding of scalability, security, high availability, and operational requirements
+ Sound and proven decision-making skills to influence the technology choice and implementation methodologies
+ Hands-on in object-oriented programming principles, design patterns, and software architecture
+ Good with rapid problem solving, a strong technical background, and passion for continuous improvement
+ Must have had hands on experience with Connected smart products having Product and Application software, data and Cloud
+ Must have intimate knowledge of tools and processes used for Product(firmware) and/or Application software and/or Device hardware and/or Cloud
+ Must be intimately familiar with Agile and Scrum, in the creation of dashboards for Sprints. An expectation would be to implement Scrum within the organization
+ Must have strong familiarity with SMAC(social media, mobile, analytics and cloud) trends and application to saleable product categories
+ Must have worked closely with Mechanical/Electrical/Electronics engineering teams in the development of smart/connected products Bachelor's in Computer/Electronics Engineering. Masters preferred.
