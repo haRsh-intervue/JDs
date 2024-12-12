@@ -1290,8 +1290,7 @@ Required information (eligibility)
 -Embedded system development and mass production experience
 -Person capable of developing Python/Windows programs
 -2-4 years of experience
-Preferences
-Experienced in HPC ASIC Accelerator Chip
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
