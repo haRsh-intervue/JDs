@@ -1,0 +1,1008 @@
+JOB DESCRIPTION 1
+
+Bachelors or Masters degree in Computer Science, Information Technology, or related field.
+• Significant experience in software development, with a strong focus on Microsoft technologies, especially SharePoint and SQL Server.
+• Proven managerial experience, with the ability to lead and motivate a team of technical professionals.
+• Extensive experience working with enterprise-level applications and managing projects for international clients, particularly in the UK and US.
+• Excellent command of the English language, capable of communicating effectively with both technical and non-technical stakeholders.
+• Demonstrated ability to define and implement efficient work processes and system process steps.
+• Strong analytical, problem-solving, and decision-making skills.
+• Experience with Agile and Scrum methodologies, capable of adapting to rapidly changing project requirements and deadlines.
+• Commitment to ongoing professional development and staying current with the latest industry trends and technologies.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 2
+
+
+6 to 10 years of experience in Business Analysis with a focus on Data Analytics
+• Strong proficiency in SQL and technical skills in analyzing datasets
+• Expertise in Requirement gathering, analysis, and documentation
+• Knowledge of US healthcare domain including EHR/EMR, HIPPA, HL7, FHIR, and more
+• Understanding of SDLC, Agile scrum model, and technical database knowledge
+• Experience with BI intelligence tools such as Tableau, Spotfire, etc
+• Excellent triage, troubleshooting, and problem-solving skills
+• Strong documentation, presentation, communication, and interpersonal skills
+• B2+ English level proficiency
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 3
+
+
+
+Possess a strong background in R Statistical Package with proven experience in data analysis.
+• Demonstrate proficiency in Python3 including the development of data models and algorithms.
+• Exhibit expertise in Python Seaborn for creating insightful data visualizations.
+• Hold extensive domain knowledge in cheminformatics and bioinformatics.
+• Showcase excellent problem-solving skills and attention to detail.
+• Display strong communication skills to effectively present findings to non-technical stakeholders.
+• Have a track record of working in a hybrid work model and managing day shift schedules.
+• Show commitment to continuous learning and staying updated with industry advancements.
+• Demonstrate the ability to work collaboratively in a team-oriented environment.
+• Exhibit strong organizational skills and the ability to manage multiple projects simultaneously.
+• Possess a proactive mindset and the ability to drive initiatives independently.
+• Ensure adherence to data privacy and security best practices.
+• Hold a relevant degree in a scientific or technical discipline.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 4
+
+
+We are looking for a full-time professional to work as a Business Analyst with 0 to 2 years of work experience - reporting directly to the Company Management
+Responsibilities include to document business processes and prepare requirements for automation for technical team, forecasting and managing supply & demand of resort rooms to grow business
+Support customer management and marketing teams, support future growth locations & business development, collect price, and demand data, set up experiments and evaluate the feasibility, prepare weekly/monthly reports of revenue, customer feedback, booking patterns and inventory
+Support the start-up's business growth journey
+Collaborate with customer care, marketing and pricing team to maximize revenue and minimize inventory waste
+Prepare weekly/monthly reports of revenue and inventory levels
+Skills Required include Advanced Excel knowledge such as VBA Macros, Pivot Tables, Table formulas, Basic python programming experience, Excellent written and verbal communication skills
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 5
+
+
+ob description
+
+Analyse the structure of a business, how it uses technology and what its goals are
+Identify problems within a business, including through using data modelling techniques
+Communicate with senior people in organisations to find out what they hope to achieve
+Formulate ways for businesses to improve, based on previous research
+Persuade internal and external stakeholders of the benefits of new technology or strategies
+Oversee the implementation of new technology and systems
+Run workshops and training sessions
+Skills:
+
+Commercial awareness
+Communication and interpersonal skills
+Time management and organisational skills
+Problem-solving skills
+Analytical skills
+Leadership and management skills
+An interest in, and understanding of, project management techniques and computing systems
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 6
+
+
+
+Bachelor’s degree in Business Administration, Information Technology, Data Science, or a related field.
+
+– Minimum of 2 years of experience as a Business Analyst or in a similar role.
+
+– Proficiency in Power BI, including data modeling, DAX, and creating complex reports and dashboards.
+
+– Strong experience with PowerApps, including app development, customization, and integration.
+
+– Advanced skills in SQL and data manipulation.
+
+– Excellent analytical and problem-solving abilities.
+
+– Strong communication and interpersonal skills.
+
+– Ability to work independently and as part of a team in a fast-paced environment.
+
+– Project management experience is a plus.
+
+Preferred Qualifications:
+
+– Master’s degree in a related field.
+
+– Experience with other Microsoft Power Platform tools, such as Power Automate.
+
+– Knowledge of additional data visualization tools and programming languages (e.g., Python, R).
+
+What We Offer:
+
+– Competitive salary and benefits package.
+
+– Opportunities for professional development and growth.
+
+– A collaborative and supportive work environment.
+
+– Flexible work arrangements.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 7
+
+
+Bachelors Degree in Computer Science, or Business, or any other related technical field.
+Sound knowledge of Accounting/ Finance or Technology subject areas and Agile, Waterfall, or SCRUM concepts.
+Basic understanding of program/project governance across a broad range of Project Management tools.
+Preferable to have Project management certification (PMP, CAPM, Prince2, etc).
+Inspire to lead, problem-solve, and deliver results.
+Willingness to learn, be proactive, and ability to work both independently and as part of a team.
+Strong communication, presentation, and stakeholder management skills.
+Knowledge of Microsoft Office.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 8
+
+
+Perform security assessments and code reviews to identify vulnerabilities in applications.
+Develop and implement security standards, procedures, and guidelines for application development.
+Collaborate with development teams to integrate security tools and best practices into the software development lifecycle (SDLC).
+Conduct regular security testing, including penetration testing, to proactively identify and address security weaknesses.
+Investigate security incidents, analyze root causes, and recommend corrective actions.
+Stay updated with the latest security threats, vulnerabilities, and industry best practices to continuously improve security measures.
+Provide technical guidance and mentorship to development teams on secure coding practices and security-related matters.
+Participate in the design and architecture review processes to ensure security considerations are integrated from the initial stages of development.
+Work closely with cross-functional teams to prioritize and remediate identified security issues.
+Contribute to the development and maintenance of security policies, standards, and documentation.
+Desired Candidate Profile:
+Bachelor s degree in Computer Science, Information Security, or related field.
+In-depth knowledge of application security concepts, including OWASP Top 10, secure coding practices, and common attack vectors.
+Experience with security testing tools such as Burp Suite, OWASP ZAP, or similar tools.
+Strong understanding of software development principles and programming languages (e.g., Java, Python, JavaScript).
+Hands-on experience with threat modeling, risk assessment, and security architecture reviews.
+Certifications such as Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), or related certifications are a plus.
+Excellent analytical and problem-solving skills.
+Strong communication and collaboration abilities to work effectively across teams.
+Ability to thrive in a fast-paced, dynamic environment and manage multiple priorities effectively.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 9
+
+Job Requirements:
+
+Assess and improve supply chain processes using tools like SAP SCM or Oracle SCM Cloud.
+Conduct root-cause analysis to address bottlenecks in production and distribution.
+Optimize inventory levels and demand planning through predictive analytics.
+Implement vendor management systems to streamline procurement.
+Skills Needed:
+
+Proficiency in Tableau or Power BI for visualizing supply chain metrics.
+Understanding of Lean Six Sigma principles for process optimization.
+Familiarity with logistics tools like Blue Yonder or Manhattan Associates.
+Advanced skills in Python or R for supply chain data analysis.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 10
+
+
+Analyze consumer needs, current market trends, Drive the product and business -planning process across
+Excellent understanding of SQL & Python
+Logical and Structured thinking, Business acumen and strong problem-solving skills.
+The recruit will be working out of Bangalore office with key business stakeholders around
+planning buying and finance to ensure right product at right place in right price.
+Develop a predictive model or rule-based algorithm to correctly analyze the demand
+of the product, corresponding price, and optimal discount to achieve business goal.
+Responsible to come up with methodologies or ideas to solve a business problem and can
+define the success criteria.
+Manage end to end project delivery and ensure quality, timeliness, and accuracy of the
+output.
+Keep abreast of industry trends and emerging methodologies to continuously improve skill
+set around merchandising analytics.
+Design and create the presentation that will be presented to C-level members of the
+business.
+Responsible to get involve in various mentorship initiatives to improve the skill set of the
+junior team members.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 11
+
+
+
+Total 8+ years of experience with minimum 4-5 yrs. of relevant experience
+Strong analytical skills coupled with capabilities to understand Murex interface and workflow module.
+Working experience in all type of trading interface (File based/Fix/TOF etc)
+Should be able to develop the new Murex interface of any of the above type.
+Should have good understanding of development of Murex Market data interfaces.
+Should be able to manage development of Back-office workflows (Contract/ Exchange/ Deliverable/ Event etc)
+Should be able to write any type of data dictionary formulae like XMLF/XSLTREE/XSL/JAVA/XMLFBM etc
+Good to have knowledge of writing shell script.
+Broad experience of middle and back-office functions of financial organizations
+Excellent skills in analysing data, gathering requirements, and working with clients and technical teams to translate requirements into solutions.
+Proficient in the use of PL/SQL /XML language and ability to read/write complex queries or data dictionary formulae.
+Strong project management skills with a process orientation and ability to leverage Agile concepts
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 12
+
+
+Business analysts/risk analysts preferably from financial services, large banks/MNCs.
+Strong background in business analysis (consumer/business strategy, financial
+products, pricing, etc.)
+Demonstrated problem solving abilities and first principles based thinking
+Ability to identify key drivers of business and create KPIs for the same
+Ability to structure and analyze A/B tests and to think deeply and critically to ask the right questions
+Power user of Excel, knowledge of SQL,
+Hands on experience in R or Python, added advantage
+Ability to work both independently and with direction to meet established deadlines
+and objectives
+
+
+Responsibilities :
+
+Performing analysis to drive change within the business
+Quantifying and proposing risk/reward trade-offs of recommendations
+Contributing to strategic and associated performance analysis that achieve business
+objects and results
+Applying knowledge of business and balanced judgment in interpretation of data
+
+Providing analytical and data support in the design and review of strategy tests and
+current operations
+Contributing to complex analytics projects which require technical knowledge
+Performing ad hoc analysis and quickly provide results and recommendations
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 13
+
+
+Lead the analysis of an organization's processes and systems, assessing the business model and its integration with technology.
+Assess current state, identify customer requirements, and define the future state and/or business solution.
+Research, gather and synthesize information to identify gaps and opportunities for improvement.
+Collaborate with cross-functional teams to design and implement solutions that meet customer requirements and business objectives.
+Communicate technical findings effectively to stakeholders, utilizing data visualization tools for clarity.
+Professional & Technical Skills:
+Must To Have Skills:Expertise in Microsoft Dynamics CRM Functional.
+Good To Have Skills:CRM Application Functional Integration.
+Strong understanding of business processes and systems.
+Experience in designing and implementing solutions that meet customer requirements and business objectives.
+Solid grasp of data visualization tools for clarity.
+Additional Information:
+The candidate should have a minimum of 3 years of experience in Microsoft Dynamics CRM Functional.
+The ideal candidate will possess a strong educational background in business, technology, or a related field, along with a proven track record of delivering impactful solutions.
+This position is based at our Hyderabad office.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 14
+
+
+
+Bachelor's degree in finance, computer science, or a related field. Advanced degrees or certifications (e.g., CPA, PMP) are a plus.
+Strong knowledge of financial systems, banking operations, and regulatory requirements, with a focus on controls, risk management, and data integrity.
+Strong understanding of databases, and data structures.
+Proven track record of designing and implementing effective control frameworks and policies in complex, multi-system environments.
+Proficiency in data manipulation tools, database management systems, and scripting languages.
+Excellent analytical and problem-solving skills, with the ability to identify and address control gaps and risks in complex system environments.
+Familiarity with project management methodologies and agile development practices.
+Effective communication and collaboration skills, with the ability to work closely with cross-functional teams.
+Detail-oriented approach, with a focus on data accuracy, consistency, and reconciliation.
+Ability to manage multiple priorities, work under tight deadlines, and adapt to changing project requirements
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 15
+
+
+Bachelor's degree in finance, accounting, computer science, engineering, data science, or a related field
+3+ years of experience in business analysis, preferably in cloud computing or IT infrastructure
+Proficient in excel and financial modeling frameworks (Including Total Cost of Ownership)
+Excellent analytical, communication, and problem-solving skills
+Ability to work independently and collaboratively
+Preferred Technical and Professional Expertise
+Knowledge of analytic and BI tools such as Apptio, IBM Cognos
+Experience with one or more major cloud platforms (AWS, Azure, Google Cloud)
+Familiarity with IT asset management principles
+Knowledge of FinOps practices and tools
+Experience with automation and scripting for resource management
+Experience with cloud management and cost optimization tools
+Solid understanding of cloud computing concepts, pricing models, and licensing structures
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 16
+
+
+
+Minimum 10 Years of Relevant experience as Business Analyst.
+Exposure to Retail Domain is a must.
+Demonstrated experience in business requirements analysis for information technology delivery.
+Experience creating, managing, and using a requirements traceability matrix.
+Excellent written / verbal communication and facilitation skills.
+Strong organizational and time management skills.
+Intermediate skills with MS Office tools.
+Comfort with ambiguity and able to independently drive resolution of issues and challenges.
+Understanding of application development lifecycle concepts.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 17
+
+
+Bachelor s Degree and equivalent industry experience in Information System /Business Analytics or Data Analysis.
+Strong verbal and written communication. Should be able to collaborate with multiple teams in different geographies at different levels in the organization.
+Experience managing accuracy and integrity of data in all analysis, reports and deliverables.
+Proven experience with identifying issues and developing solutions that enhance data and document analysis processes and outcomes.
+Experience working independently and collaboratively in a fast-paced, dynamic environment.
+Expertise in data analysis tools and techniques, including Python, XML, Json and MS office.
+Sound knowledge of US Mortgage industry, mortgage documents and processes will be added advantage.
+3+ years of work experience as a business analyst or Data Analyst.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 18
+
+
+
+
+Bachelor s Degree and equivalent industry experience in Information System /Business Analytics or Data Analysis.
+Strong verbal and written communication. Should be able to collaborate with multiple teams in different geographies at different levels in the organization.
+Experience managing accuracy and integrity of data in all analysis, reports and deliverables.
+Proven experience with identifying issues and developing solutions that enhance data and document analysis processes and outcomes.
+Experience working independently and collaboratively in a fast-paced, dynamic environment.
+Expertise in data analysis tools and techniques, including Python, XML, Json and MS office.
+Sound knowledge of US Mortgage industry, mortgage documents and processes will be added advantage.
+3+ years of work experience as a business analyst or Data Analyst.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 19
+
+
+
+Bachelors degree in Business Administration, Information Systems, or a related field.
+Proven experience as a Business Analyst with expertise in Microsoft Power Automate and Power Platform (Power Apps, Power BI, etc.).
+Strong understanding of process improvement and automation methodologies.
+Proficient in translating business needs into technical solutions.
+Experience with workflow automation, data integration, and application development using the Power Platform.
+Excellent communication and interpersonal skills to collaborate with diverse teams and stakeholders.
+Ability to work independently and manage multiple priorities in a fast-paced environment.
+Analytical mindset with strong problem-solving skills.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 20
+
+
+Bachelors degree in Business Administration, Information Systems, or a related field.
+Proven experience as a Business Analyst with expertise in Microsoft Power Automate and Power Platform (Power Apps, Power BI, etc.).
+Strong understanding of process improvement and automation methodologies.
+Proficient in translating business needs into technical solutions.
+Experience with workflow automation, data integration, and application development using the Power Platform.
+Excellent communication and interpersonal skills to collaborate with diverse teams and stakeholders.
+Ability to work independently and manage multiple priorities in a fast-paced environment.
+Analytical mindset with strong problem-solving skills.
+Preferred Qualifications :
+
+
+Experience in Power BI for data visualization and reporting.
+Knowledge of Microsoft Dynamics 365 or SharePoint integration with Power Platform.
+Certification in Microsoft Power Platform or related technologies.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 21
+
+
+
+ Experienced in analysis implementation of software packages/applications in the Financial Services industry
+2. Experience in Analysis of business requirements to convert them to system specifications
+3. Familiar with Java language, MS-SQL, Oracle database, application server (jboss, tomcat) and Linux OS
+4. Familiar with end to end migration of applications.
+5. Familiarity with Payments Systems and payment processing workflows
+6. Managing, organizing and prioritizing multiple tasks and responsibilities
+7. Experience in Agile methodologies and release management
+8. Good testing skills (Large and complex integrations with multi interface architecture).
+9. Coordinating with vendor and business teams for UAT and issue closure.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 22
+
+
+Your primary responsibilities include:
+Expertise in Deep data and analytics
+Time series analysis and forecasting
+Statistical modelling skills (significance testing, conditional probability)
+Linear Programming/ Optimization Techniques
+Conversational Skills for ChatBots
+Demonstrated proficiency in multiple programming languages with a strong foundation in a statistical platform such as Python, Java, or MATLAB
+
+
+Required Technical and Professional Expertise
+Must have hands on experience on multiple cloud-based solutions like Azure, AWS and IBM Cloud for data storage, database connections and using technical architecture for end to end analytics
+SQL coding experience, Strong Python 3.5 skills.
+Must have Hands on experience on BI tools i.e. PowerBI, Tableau.
+6-9 Years of experience required
+
+
+Preferred Technical and Professional Expertise
+Experience building AI models (ML, NLP, Neural Networks).
+Strong business acumen to solve client problems by understanding, preparing, and analyzing data to predict emerging trends and provide recommendations to optimize business results.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 21
+
+
+
+
+Have 7 - 10 years of experience in Saas/ Subscription business models and designing solutions for the same.
+Possess in-depth knowledge of the Zuora platform or equivalent products.
+Have the ability to write simple and complex SQL queries to pull data for analysis and validation.
+Translate business requirements to technical user stories for the development team.
+Integrate new technologies and optimize business systems to address complex challenges.
+Have a proven track record of documenting, analyzing, and enhancing business workflows to improve efficiency and effectiveness.
+Be open to working within a closed-stack system built on the Zuora Platform, supporting customer subscription and billing journey management for SaaS products.
+Demonstra working knowledge of any RDBMS such as Oracle, MySQL, or MS SQL Server is required. Liquid scripting is an advantage.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 22
+
+
+
+In-depth competency in programming knowledge of Mobile Applications on Android Platform.
+Strong in developing Native and Hybrid mobile applications as per Android Standards.
+Experience in Andriod Studio & Interface Builder, Android OS, JAVA, JDK 1.6, SQLite, XML.
+Experience in Payment Gateway & third party integration like PayPal, experienced in releasing applications in App Store / Play Market.
+Expertise in Monkey Runner, Android SDK 1.6.
+Expert in developing an application on Ginger Bread, Jelly Bean, Ice Cream Sandwich, Froyo, Eclair, Kitkat kind of OS platforms.
+Knowledge of Android SDK including Life-cycle & SQLite database.
+Experience in working on the latest Android OS Platforms available.
+Strong understanding of building Android applications that utilize web-services.
+Expert in Java & hands-on experience into Google Maps.
+Should have sound knowledge & expertise into Android UI, Java Design Patterns, and Encryption/Certificate methods.
+Independently drive the design and development of Android Application Project.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 23
+
+
+Technical Skills: 
+
+Proficiency in data analysis tools (e.g., SQL, Python, R, Excel)
+Knowledge of business intelligence and reporting tools (e.g., Tableau, Power BI)
+Understanding of project management methodologies (e.g., Agile, Waterfall)
+
+
+Soft Skills: 
+
+Strong analytical and problem-solving abilities
+Excellent communication and interpersonal skills
+Ability to work independently and as part of a team
+Business acumen and understanding of industry trends
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 24
+
+
+Ideally 5 years of experience in applying business analysis techniques, preferably in IT Security
+Experience managing Business and Technical Requirements from initiation to final implementation
+Experience with data analysis - proficiency with Excel is a must, experience with dedicated tools is a plus.
+Experience with Business Process analysis (documentation of as-is and to-be processes, process improvement).
+Ability to work independently on assigned tasks and driving them from start to completion.
+Ability to challenge and propose possible improvements (in various areas, e.g. process, reporting)
+Ability to explain complex concepts in a clear and concise manner
+Use to work with stakeholders on different levels of the organization, including managers
+Excellent written and verbal communication skills
+Fluent in English
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 25
+
+
+Analyze customer behavior and sales trends using Google Analytics or Adobe Analytics.
+Collaborate with UX/UI teams to enhance user experience on e-commerce platforms.
+Create and monitor KPIs like cart abandonment rates, conversion rates, and customer lifetime value.
+Coordinate with marketing teams for SEO optimization and targeted campaigns.
+Experience with e-commerce platforms like Shopify, Magento, or WooCommerce.
+Proficiency in A/B testing tools like Optimizely or VWO.
+Strong knowledge of SQL and BigQuery for analyzing website performance data.
+Familiarity with CRM tools like Salesforce or HubSpot for customer segmentation.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 26
+
+Data Analysis and Reporting
+Lead the collection, analysis, and interpretation of ecommerce performance metrics, including sales, conversion rates, traffic, and customer engagement.
+Develop and maintain dashboards and reports to monitor key performance indicators (KPIs).
+Provide actionable insights to improve the customer journey and maximize revenue.
+Team Leadership
+Manage and mentor a team of ecommerce analysts, fostering growth and development.
+Assign tasks, set goals, and ensure timely delivery of analyses and insights.
+Strategic Planning
+Partner with cross-functional teams (Marketing, Product, IT) to align ecommerce analytics with business objectives.
+Identify trends, risks, and opportunities to inform strategic decisions.
+Web Analytics and Optimization
+Oversee the implementation and maintenance of analytics tools such as Google Analytics, Adobe Analytics, or similar platforms.
+Collaborate with UX and digital marketing teams to drive A/B testing and optimize website performance.
+Customer Behavior Analysis
+Analyze customer data to understand purchase patterns, retention rates, and lifetime value.
+Develop segmentation strategies for targeted marketing campaigns.
+Market and Competitor Analysis
+Conduct benchmarking to evaluate ecommerce performance against competitors.
+Provide insights into industry trends and best practices.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 27
+
+
+
+Data Extraction: 
+Write, optimize, and maintain complex SQL queries to extract relevant data from various databases.
+Clean, transform, and ensure data integrity for accurate analysis and reporting.
+Strong understanding of databases such as Snowflake, including data modeling, query optimization, and integrating Salesforce data with Snowflake for advanced analytics and reporting.
+Salesforce Data Management:
+Proficient in administrative tasks, such as managing users, setting up security controls, handling data management, and configuring roles, profiles, and reports.
+Experienced in designing and implementing custom Salesforce objects, fields, picklists, page layouts, workflows, approval processes, validation rules, custom tabs, Visualforce pages, and dashboards to meet specific business requirements.
+Capable of translating functional requirements into detailed technical specifications and delivering high-quality solutions.
+Analyze/Build/Deploy Tools to leverage Best Practices around Salesforce Applications to measure Service Effectiveness.
+Reporting & Dashboards:
+Create and maintain interactive dashboards and reports using Metabase and other visualization tools to communicate key insights to stakeholders.
+Identify trends, patterns, and anomalies in large datasets, providing actionable recommendations.
+SUCCESSFUL CANDIDATES HAVE:
+
+Strong 5+ years of experience in Data Analytics and Business Analysis 
+SQL: Proficient in writing complex queries, optimizing query performance, and handling large datasets.
+Salesforce: Strong understanding of Salesforce CRM data structures and how to extract, clean, and analyze Salesforce data as well as work with related tools like Ringlead.
+Proficiency in data visualization tools (Metabase, Tableau, Power BI) and a solid understanding of relational databases.
+Strong understanding of databases such as Snowflake, including data modeling and query optimization.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 28
+
+
+
+E/B.Tech with 8+ years of relevant expereince. 
+Experience as a teamwork, and communication leader
+BPMN Experience (Flowable or similar tools)
+Good to have -Real world experience on SCRUM
+Analysis of software requirements and definition of software tasks
+Alignment between business needs, UX designs and technical specs 
+Knowledge of Azure DevOps
+Experience on Atlassian Confluence
+Desirable:
+Development skills such as backend and front-end frameworks (Spring, TypeScript, React JS)
+Experience with healthcare software
+Knowledge in FHIR standards
+Professional fluency in English
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 29
+
+
+Must be organized, positive, proactive, results-oriented, with excellent communication and problems solving skills.
+4+ years of data analysis experience.
+Strong proficiency in SQL (Oracle), Essbase and Hyperion or similar EPM tools.
+Proven analytical ability and strong proficiency in Excel and/or Tableau.
+Capability to validate and accurately explain results of analysis.
+Bachelor’s degree in math, economics, computer sciences, quantitative field, or related discipline.
+Passion for innovation and excellence.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+JOB DESCRIPTION 30
+
+
+
+
+
+You will be working with the business teams closely to drive identification of requirements
+
+and create a detailed business analysis, outlining problems, opportunities, and solutions.
+
+● collecting, analyzing, and actioning inputs basis information and trends.
+
+● Support strategic and business planning within department by interpreting, evaluating and
+
+interrelating research data and develop integrated business analyses and projections for
+
+incorporation into strategic decision-making
+
+● Perform daily, weekly, and monthly reviews and analyses of current processes using
+
+operational metrics and reports.
+
+● Critical thinking and problem-solving proficiency.
+
+● Strong Analytical skills with solution orientated approach for any problems faced.
+
+● Ability to translate data into actionable insights.
+
+
+
+Job Requirement - 
+
+● Bachelors degree in IT or Computer Science
+
+● 1-3 years of experience as Business Analyst in eliciting requirements and testing.
+
+● Excellent understanding of SQL(must have) and Python(must have).
+
+● Required Skill - Data Warehouse, Data Modeling, Data Analyst and Visualization, MS-Excel
+
+● Proven analytical abilities.
+
+● Good communication skills, team spirit, enthusiasm, ability to exceed expectations, and
+
+proactive contribution to team/company will be expected of candidates.
+
+● Written and verbal communication skills.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+JOB DESCRIPTION 31
+
+
+
+
+Post-secondary education, bachelor’s degree in Information Systems or Computer Science is preferred
+Industry specific certifications
+Minimum of 1-2 years of experience in a similar role
+Bachelor’s degree in Business Administration, Mathematics, Finance, Statistics, Technology
+Knowledge of Health and Welfare plans 
+Knowledge of automated testing tool (implement and use) and Project and Test Management Tools
+Knowledge of tools, concepts and methodologies of QA
+Facility to handle and manage multiple tasks simultaneously
+Ability to commit to deadlines and deliver on a timely manner
+Capability to take ownership and be accountable for assigned tasks
+Excel working in a fast-paced, deadline-oriented project team environment
+Demonstrate high problem solving and analytical skills
+Excellent oral and written communication skills to share concepts and information to teammates and clients
+Client satisfaction focus along with team-oriented work style
+Enjoy system analysis/implementation/documentation/testing/programming
+Proficient with Microsoft Word, Excel, and Access
+Knowledge of SQL, VB
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 32
+
+
+Job Requirements:
+
+Gather and document technical requirements using tools like JIRA or Confluence.
+Collaborate with software development teams to define system architecture and technical specifications.
+Lead workshops to map business processes using UML diagrams or BPMN.
+Test and validate system functionalities during User Acceptance Testing (UAT) phases.
+Skills Needed:
+
+Expertise in Agile and Scrum methodologies for project management.
+Familiarity with tools like Microsoft Visio for process visualization.
+Knowledge of APIs and integration points for cloud-based applications.
+Proficiency in Postman or similar tools for testing APIs.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 33
+
+
+Analyze patient and operational data to improve healthcare delivery.
+Implement and optimize Electronic Health Record (EHR) systems like Epic or Cerner.
+Ensure adherence to HIPAA regulations during system analysis and implementation.
+Design workflows to improve appointment scheduling and resource allocation.
+Experience with SQL for extracting healthcare data from databases.
+Proficiency in healthcare analytics tools like SAS or R.
+Strong understanding of ICD and CPT coding standards.
+Ability to create dashboards using Power BI or QlikView for clinical insights.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 34
+
+
+5-7 years of experience as a Product Owner/Business Analyst 
+Basic knowledge of any viz tool like Sigma/Tableau
+Working Knowledge of Query Language like SQL/Any other.
+Super Excellent Communication Skills with senior stake holder meetings exposure.
+Hands on experience with requirement gathering and documentation.
+Good understanding of how API’s work
+Proactive in sharing views on the quality of feature under test, back it up with necessary data and metrics, use it to provide (or not provide) UAT sign off.
+Reporting tools & documentation exposure like Devops 
+Review functional design document to provide meaningful and timely inputs.
+Studying & analysing Devops stories and use them as an input for creating testing strategies/plans.
+Collaboratively work with the design and development team members to resolve identified issues/bugs in timely manner.
+Applying the functionality knowledge and understanding to determine the impacted testing areas and produce the relevant regression testing scope.
+“Can-do” attitude and problem-solving mindset Adaptability
+SQL & Visio
+Data Viz - Reporting Metrices
+Strong communication skills to help for negotiating, collaborating, presenting, facilitating, influencing, or stakeholder management
+Sound analytical skills
+Knowledge of SDLC, project management tools and other methodologies like Agile
+Should have good hands on experience with Excel- a must.
+Good control on use of Pivot, V-Lookup, Micros, and other excel tools used for reports
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 35
+
+
+
+
+
+Bachelor’s Degree – IT, Computer Science, Math, MIS or Data Analytics.
+4-6 years experience required creating/developing and delivering/implementing software and technology solutions.
+4-6 years experience required working with core software applications (examples include .NET, SQL, GIT, Subversion, etc.).
+Strong working knowledge of Microsoft Excel, Access and other Office software.
+Strong organization skills.
+Strong communication and interpersonal skills. Excellent ability to accurately communicate complex concepts in ways that resonate with various audiences.
+Strong data analysis skills with the ability to use data from various sources to draw insights that inform strategy and prioritization.
+Strong problem-solving skills and the ability to analyze workflow and processes.
+Ability to exercise judgment about the most productive course of action.
+1 year creating and troubleshooting RPA bots using MS Flows and UI Path.
+Experience in project management and planning.
+Experience in distribution industry software implementation.
+Strong data mining and data analysis.
+Knowledge of IT design, testing and documentation methods.
+Ability to travel up to 25%.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 36
+
+
+
+Bachelor’s degree in computer science, Engineering, or related field
+8+ years of experience in Digital commerce and technology, ideally working with Engineering metrics, Data Management, Performance, Portfolio Management
+Solid understanding of Software engineering Data sets, Data Analysis, and Data Management skills
+Proficiency in SQL, Python, R, or other programming languages used for data analysis.
+Experience in Jira, Git, Azure, Miro, and ETL tools, and experience in SQL, data comparison, and Data analysis.
+Knowledge of statistical techniques and machine learning algorithms is a plus.
+Demonstrate the ability to quickly adapt modern technology and technical concepts.
+Demonstrable experience working closely with multidisciplinary teams, including seasoned engineers, to deliver exceptional products and solutions.
+Exhibit excellent written and verbal communication skills. Convey complex product details thoughtfully to diverse audiences, fostering clarity and understanding.
+.Display a keen eye for detail, strategically applying it where necessary to ensure precision and accuracy in all endeavors.
+Adopt a critical thinking approach, unafraid to pose questions and explore uncertain answers, driving continuous improvement and innovation.
+Demonstrate proactive problem-solving abilities, capable of independently identifying and resolving challenges. Exhibit curiosity, and share solutions and insights collaboratively to benefit the team.
+Experience with data visualization tools such as Tableau, Power BI, or Datascape
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 37
+
+
+
+Bachelor’s or Master’s degree in Business, Computer Science, or a related field.
+Expertise in B2B commerce applications, ideally within Adobe Commerce or similar eCommerce platforms.
+Experience interacting with customers to identify needs and develop solutions.
+Ability to clearly articulate complex ideas to both technical and non-technical stakeholders.
+Eager to stay updated on the latest technology trends, including personalization technologies, cloud platforms, and AI.
+Proven skills in managing the time, quality, and budget of a product roadmap.
+Excellent communication, interpersonal, and analytical skills.
+Passion for creating customer value and delivering impactful products.
+Experience in change management projects is a plus.
+3-5 years of experience in a multinational/corporate environment.
+Fluent in English.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 38
+
+
+Excellent communication skills, with the ability to effectively engage with both technical and non-technical stakeholders, including C-suite executives.
+Proven ability to influence stakeholders on priorities, deliverables, and process improvements.
+Strong experience in documenting problem statements, detailed business requirements, and process mapping documents in standardized formats.
+Experience as a business analyst with Salesforce or similar CRM tools
+Demonstrated ability to identify business process gaps and suggest improvements.
+Experience conducting application unit testing, functional testing, and coordinating user acceptance testing.
+Ability to adapt to changes and manage multiple and competing priorities while maintaining a focus on execution.
+Willingness to learn and grow both technical and functional skill sets.
+Required Education and Experience:
+Bachelor's degree in a relevant field such as Business Administration,
+Computer Science, or Data Analytics.
+5+ years of experience in business analysis or a related field.
+3+ years of experience with Salesforce or similar CRM application
+3+ years of experience with Agile methodology and documenting user stories.
+3+ years of experience in communicating across multiple business lines.
+2+ years of experience in testing business systems capabilities.
+Experience with Jira and Confluence.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 39
+
+
+Identify and interpret data sources, manage large amounts of data, merge data sources together, ensure consistency of data-sets, create visualizations to aid in understanding data.
+Drive the development and analysis of data, Dash boarding and business intelligence programs primarily leveraging Tableau, Power BI and Microsoft SQL Server toolset.
+Should have been worked in Logistics & supply chain domains for min 6+ years
+Understand the business and process flow of logistics & freight data
+Review and report the freight trends and its business impacts
+Co-ordinate with business, operations, and freight teams in bringing up solutions
+Bringing in the supply chain industry benchmark practices into the team
+Should quickly adapt the market changes into the TE business Model
+Analyze all freight processes and recommend improvements to all transportation and warehouse operations and perform audit on all freight bills
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Develop, modify, maintain, and support custom reports (MS SQL, SSIS, Crystal) for both ad-hoc and ongoing needs.
+Interpret data and analyze results.
+Develop and implement data collection systems and other strategies that optimize efficiency and data quality.
+Run regular calls with the local AUT EMEA & GLOG warehouse managers to review & align on freight numbers.
+Support the AUT EMEA transportation team to install dashboards to help the local operations & project teams to work on optimizations and generate savings
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JOB DESCRIPTION 40
+
+
+Overall 8+years and relevant as Business Analyst as 5+ Years
+Requirement gathering
+Creating, analysing, and validating detailed functional and business specifications (BRD / SRS Preparation)
+knowledge of software development life cycles including agile development and testing.
+Create Slide Decks required for explaining Business Solutions & Approach
+Facilitating, creating proposals and other relevant documents, negotiation of requirements.
+Excellent written and verbal communications, organization, analytical, planning and leadership skills.
+Ability to effectively conduct technical discussions directly with Project/Product management, and clients.
+Team Collaboration Skills.
+Fosters a climate conducive to establishing positive working relationships with clients (internal and external
+Strong relationship building and maintaining skills.
+Knowledge transfer, clarifications to Development & Testing teams
+Experience in dealing with multiple projects and cross-functional teams, and ability to coordinate across teams in a large matrix organization environment.
+Management, communication, technical and remote collaboration skill.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
