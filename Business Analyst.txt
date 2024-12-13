@@ -532,28 +532,6 @@ Demonstra working knowledge of any RDBMS such as Oracle, MySQL, or MS SQL Server
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-JOB DESCRIPTION 22
-
-
-
-In-depth competency in programming knowledge of Mobile Applications on Android Platform.
-Strong in developing Native and Hybrid mobile applications as per Android Standards.
-Experience in Andriod Studio & Interface Builder, Android OS, JAVA, JDK 1.6, SQLite, XML.
-Experience in Payment Gateway & third party integration like PayPal, experienced in releasing applications in App Store / Play Market.
-Expertise in Monkey Runner, Android SDK 1.6.
-Expert in developing an application on Ginger Bread, Jelly Bean, Ice Cream Sandwich, Froyo, Eclair, Kitkat kind of OS platforms.
-Knowledge of Android SDK including Life-cycle & SQLite database.
-Experience in working on the latest Android OS Platforms available.
-Strong understanding of building Android applications that utilize web-services.
-Expert in Java & hands-on experience into Google Maps.
-Should have sound knowledge & expertise into Android UI, Java Design Patterns, and Encryption/Certificate methods.
-Independently drive the design and development of Android Application Project.
-
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
