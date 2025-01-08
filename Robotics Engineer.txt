@@ -1,0 +1,692 @@
+1. 
+
+Conduct research and feasibility analysis for project requirements based on sales team inputs
+• Lead customer interactions and translate requirements into software architecture and development plans
+• Oversee and review engineering efforts of mid/junior engineers
+• Develop high-quality software solutions for project deliverables
+Stay current with latest robotics developments (Reinforcement Learning, Simulations, LLMs)
+• Shape development directions aligned with BCR's capabilities and business goals
+• Lead in-house development initiatives for promotion and growth
+• Contribute to open-source packages, marketing, and direct sales activities
+Work experience of 2-5 years
+• Strong programming proficiency in C++ and Python
+• Extensive experience with ROS2 development
+• Deep understanding of core robotics concepts (SLAM, Controls, Planning, Transforms)
+• Experience with simulation tools (Gazebo/Unity/Mujoco)
+• Proficiency with development tools (Docker, Git)
+• Excellent communication and organizational skills
+----------------------------------------------------------------------------------------------------------
+
+2. 
+
+ 1-2 years experience in Software Engineer
+
+- Diploma & Bachelor's in Mechanical Engineer
+
+- Hands-on experience with Node.js, JavaScript, React, Python
+
+- Experience with Machine learning and AI is a plus
+
+- Experience in working with 3D models is a plus
+
+Experience:
+• Node.js: 1 year (Preferred)
+• total work: 1 year (Required)
+• JavaScript: 1 year (Preferred)
+• Python: 1 year (Preferred)
+• React: 1 year (Preferred)
+• AI: 1 year (Preferred)
+----------------------------------------------------------------------------------------------------------
+
+3. 
+
+Educational Qualification: B. Tech/ M. Tech /PhD.
+• Strong Design/Programming competency using C++.
+• Excellent with Linear Algebra, Geometry, Probability and Statistics.
+• Experience in Motion Planning, Behavior Planning and Path Planning.
+• Working Experience in ROS/ROS2 Navigation Stack.
+• Implementation experience /Knowledge of various algorithms like A*, Dijkstra, RRT, DWA, Trajectory Planner, TEB etc.
+• Hands-on Experience in Mobile Robots with 2D/3D LIDAR preferred.
+• Fundamental knowledge of mobile robot dynamics and kinematics.
+
+----------------------------------------------------------------------------------------------------------
+
+4.
+
+
+Required Skills -
+• Robotic experience (Fanuc, Yaskawa, ABB, Panasonic etc.) or working at robot Integrator
+• Have a knowledge of PLC, Integration and robot service.;
+• Complex problem solving
+• System thinking
+• Programing mind-set
+• Practical skill in mechanical and electrical
+Hands-on experience with robotic projects (academic, personal, or professional). 
+
+Exposure to tools like Gazebo, RViz, or other robotics simulators. 
+
+Familiarity with basic robotics concepts (e.g., kinematics, simple path planning). 
+
+Git or other version control systems. 
+
+Knowledge of sensors (e.g., LiDAR, cameras) and hardware interfacing.
+
+----------------------------------------------------------------------------------------------------------
+
+5. 
+
+Proven experience in developing robotic systems using ROS.
+Proficiency in C++ and Python programming languages.
+Familiarity with version control systems like Git.
+Experience with simulation tools such as Gazebo and Rviz.
+Solid understanding of Linux-based system development.
+Familiarity in hardware and software architecture of Robotics system.
+Experience in 3D modeling and printing for prototyping robotic components.
+Demonstrated ability to quickly learn and adapt to new technologies and tools.
+Design and develop advanced ROS-based software solutions for cutting-edge robotic systems.
+Implement sophisticated algorithms for perception, navigation, motion planning, and control.
+Develop and maintain comprehensive ROS packages and libraries.
+Stay abreast of the latest advancements in ROS and robotics technology.
+Design and implement IoT solutions for robotic systems integration.
+Create and optimize 3D robot models and simulate their behavior.
+Strong grasp of robotics principles and kinematics.
+Demonstrated success in developing algorithms for manipulation, mapping, and navigation.
+Experience with IoT platforms and protocols (MQTT, CoAP).
+Practical knowledge of CAD software and 3D printing technologies.
+----------------------------------------------------------------------------------------------------------
+
+6. 
+
+Proven experience in robotics or computer vision projects.
+Proficiency in robotics tools and libraries such as ROS2, RViz, motion planning, sensors, simulations.
+Proficiency in Python and deep learning frameworks such as PyTorch or TensorFlow.
+Collaborate effectively with a dynamic team, bringing strong communication and teamwork skills to the table.
+0 - 4 years of experience
+
+----------------------------------------------------------------------------------------------------------
+
+7. 
+
+Design and develop industrial robotics
+
+2. Understanding Fleet Management System and automation network.
+
+3. Develop and implement Robot control software and server-based software.
+
+4. Robotics System Integration.
+
+5. Create complete documentation for robotic systems.
+
+6. Monitor the use of robotic systems and optimize their functionality
+
+7. Operate and Troubleshoot robotics system.
+
+1. Apply machine learning /Artificial Intelligence - Optional
+
+Requirements and skills
+
+1. ROS
+
+2. JIRA, Bit bucket and Bamboo.
+
+3. SLAM
+
+4. Message Queue – RabbitMQ
+
+5. C/C++/ Python
+
+6. Restful services
+
+7. Linux/win
+
+8. Data and Algorithm –TSP
+
+9. Data base – MongoDB, MySQL
+
+10. TCP/IP- Modbus, Profinet, ECAT
+
+11. Knowledge in simulator like Gazebo, Issac, RoboDK etc.
+
+12. Good to have knowledge in AI/ML
+
+----------------------------------------------------------------------------------------------------------
+
+8. 
+
+Bachelor's degree in Robotics, Computer science, Electrical engineering, or related field.
+ 2+ years of relevant experience
+ Strong communication and interpersonal skills
+ Passion for developing software for world-class robots.
+ Excellent C++ programming and software design skills to support high-performance perception.
+ Experience with Python is a plus.
+ Hands-on experience with SLAM, robot navigation, and behavior planning
+ Hands-on experience with OMPL or similar frameworks
+ Hands-on experience with OpenCV, PCL/Open3D
+ Hands-on experience with real robots and perception sensors such as time-of-flight cameras, 2D/3D LIDAR, and stereo cameras.
+ Experience with different communication protocols such as Modbus, CAN bus, UART, etc.
+ Experience with ROS1 and/or ROS2.
+ Strong sense of curiosity and an eagerness to learn new concepts, technologies, and methodologies.
+
+---------------------------------------------------------------------------------------------------------
+
+9. 
+
+
+Design, prototype, and test robotic systems for industrial applications.
+Collaborate with a cross-functional team to optimize automation workflows.
+Write and maintain clean code for robot control systems using Python and C++.
+Debug and troubleshoot mechanical, electrical, and software issues in robotic systems.
+Assist in integrating hardware components such as motors, sensors, and actuators.
+Perform system performance evaluations and suggest improvements for efficiency.
+Bachelor’s degree in Robotics, Mechatronics, or related field.
+Familiarity with ROS (Robot Operating System).
+Basic knowledge of CAD software for mechanical design.
+Strong analytical and problem-solving skills.
+
+
+----------------------------------------------------------------------------------------------------------
+
+10. 
+
+Responsibilities:
+
+Develop algorithms for navigation, path planning, and obstacle avoidance in autonomous vehicles.
+Integrate sensors such as LIDAR, radar, and cameras into robotic platforms.
+Test and validate vehicle performance in simulation environments and real-world scenarios.
+Collaborate with software and hardware teams to ensure seamless system integration.
+Optimize real-time data processing pipelines for high-speed decision-making.
+Document system requirements, designs, and test results for compliance and scalability.
+Qualifications:
+
+Strong knowledge of SLAM (Simultaneous Localization and Mapping).
+Proficiency in programming languages like Python, C++, and MATLAB.
+Experience with perception algorithms and sensor fusion techniques.
+Understanding of machine learning and AI principles is a plus.
+
+----------------------------------------------------------------------------------------------------------
+
+10. 
+
+
+2+ years of non-internship professional software development experience
+Programming experience with at least one modern language such as Python, Java, C++, or C#, including object-oriented design
+Proven experience in robotics engineering, with a strong portfolio of projects demonstrating system-level understanding and debugging capabilities
+Able to create and debug software systems: building maintainable code with good diagnostics that scales
+Familiar with current robotics techniques and the math of robotics: Kalman filtering, localization, path planning, controls, etc
+Excellent at handling ambiguous or undefined problems
+Strong communication and collaboration skills, capable of working effectively in a multidisciplinary team and communicating technical concepts to non-technical stakeholders
+Demonstrated ability to lead technical projects, including planning, execution, and successful deployment
+
+
+-----------------------------------------------------------------------------------------------------------
+
+11. 
+
+
+You will be responsible for debugging robotic solutions, including robotic arms and other solutions that are built in-house.
+
+•You must know how robotics works and have an understanding of software and hardware.
+
+•You must be familiar with assembling, performing testing QA of the solutions, including final deployment environments, capable testing robots that go from point A to point B, know the mechanics, how the different parts are connected, and how to operate using the software.
+
+•Tasks include the ability to debug the deployed solutions, perform the QA and assist with debugging issues.
+
+•You will work closely with engineers to assemble. You will not write solutions from scratch.
+
+•Must know about operating a robotic arm, know how to debug if there is an issue, i.e., power supply, and complete checks to debug the issue.
+
+•You will work with other Robotics Engineers and debug these systems. They will help to deploy, assemble and test these systems.
+
+•You will run debugging scripts. 
+----------------------------------------------------------------------------------------------------------
+
+12. 
+
+Design, develop, and test robotic systems, including hardware and software components.
+Integrate sensors, actuators, and control systems into functional robotic platforms.
+Build and test prototypes to validate design concepts and improve system performance.
+Write and optimize code for robotic systems using languages such as C++, Python, or ROS (Robot Operating System).
+Work closely with mechanical, electrical, and software engineers to develop integrated solutions.
+Identify and troubleshoot issues in robotic systems, implementing effective solutions.
+Stay up-to-date with the latest advancements in robotics and incorporate new technologies into projects.
+Prepare technical documentation, including design specifications, test plans, and user manuals.
+
+----------------------------------------------------------------------------------------------------------
+
+13. 
+
+Bachelor's or Master's degree in Robotics, Mechanical Engineering, Electrical Engineering, or related field
+Demonstrated experience in robotics system design and development
+Proficiency in programming languages such as C++, Python, or ROS
+Strong analytical and problem-solving skills
+Experience with robotic simulation tools and software
+Excellent communication and teamwork abilities
+Ability to work independently and in a collaborative environment
+
+----------------------------------------------------------------------------------------------------------
+
+14. 
+
+
+reates customized solutions (GUI, Application software, Hardware Interface, etc.) in order to meet customer’s process requirements.
+Modifies existing hardware/software solutions to accommodate variability with perhipheral devices.
+Provides technical direction on assigned project(s) for defined duration.
+Performs in-house, on-site and/or remote support of KUKA products on an as-needed basis relative to product/project requirements.
+Provides effort estimation to Engineering Manager based on defined set of requirements for creation of project quotes, budgets and timing.
+Completes assigned tasks within defined timelines.
+Ensures engineering compliance with all customer and/or other pertaining specifications.
+Ensures company awareness to specifications.
+Writes Application Notes containing product specific problem and solution information.
+Moderate domestic and occasional international travel of varying length required.
+Promotes teamwork and cooperative effort.
+Adheres to Safety requirements and maintains a clean, safe, and unobstructed work area, practices good safety habits, and utilizes appropriate safety equipment.
+Provides customers with the highest quality of products and services.
+Understands and applies appropriate quality improvement processes.
+Adheres to the Quality System and participates in continuous improvement.
+----------------------------------------------------------------------------------------------------------
+
+15. 
+
+Strong and recent background in two of the following robots: Fanuc, ABB, or Kuka.
+Able to do Advanced Programming in the two robots they have the most knowledge. Will consider candidates with strong programming with only one system as well.
+Experience with setup and training on Vision Systems on which ever robot they have the most knowledge is ideal.
+Experience setting up various robot communication protocols (i.e. Device Net, Profibus, ProfiNet, Ethernet IP).
+Create Robotic Simulations of Robotic Stations (if Simulation Engineer)
+Write Robot Software
+Load Robot Programs and configure I/O
+Path Teaching
+Vision Teaching (if required)
+Debug Support with Team
+Installation Start-Up support
+Production Support
+----------------------------------------------------------------------------------------------------------
+
+16. 
+
+
+Design and develop robotic systems for minimally invasive surgeries.
+Collaborate with healthcare professionals to gather user requirements and feedback.
+Integrate haptic feedback and precise motion control for surgical instruments.
+Conduct safety and performance tests adhering to medical industry standards.
+Work on real-time imaging and robot-guided navigation systems.
+Master’s degree in Robotics, Biomedical Engineering, or a related field.
+Knowledge of medical device regulations and compliance standards (e.g., ISO 13485).
+Expertise in motion control and kinematics.
+Experience in developing real-time systems for robotic applications.
+
+---------------------------------------------------------------------------------------------------------
+
+17. 
+
+
+Work closely with the engineering team to design and implement robotics systems with a focus on software
+ Integrate custom and COTS hardware and software components
+ Adapt and integrate proprietary and open source software packages and APIs
+ Provide excellent project documentation
+ Initiative and ability to expand knowledge and skills to meet new development and domain specific challenges
+ Research and recommend innovative approaches to enhance system performance
+ Work well in cross-functional teams as well as independently
+ Interact and communicate with non-technical users
+ Perform other duties as assigned
+
+REQUIREMENTS:
+
+ Bachelor's degree, with a major in Robotic/Software Engineering or related field of study
+ 2+ years of experience in robotic software development
+ Experience with C, C++, ROS, Python, NVIDIA, Robotic Operation System
+--------------------------------------------------------------------------------------------------------
+
+18. 
+
+
+Bachelor's or Master's degree in Robotics, Electrical Engineering, Mechanical Engineering, or a related field.
+5+ years of experience in robotics engineering or a similar role
+Strong programming skills in C++, Python, and experience with ROS, ROS2
+Proficiency with in CAD software, Solidworks
+Experience with sensor integration and circuit board design
+In-depth knowledge of autonomous systems and their control mechanisms
+Excellent problem-solving skills and attention to detail
+
+--------------------------------------------------------------------------------------------------------
+
+19. 
+
+Responsibilities:
+
+Design and implement robotic arms and manipulators for manufacturing automation.
+Program PLCs and robotic controllers to perform repetitive tasks with precision.
+Troubleshoot and maintain robotic equipment to minimize downtime.
+Optimize robotic processes for cycle time reduction and accuracy improvement.
+Analyze production data to improve system efficiency and throughput.
+Qualifications:
+
+Bachelor’s degree in Mechanical, Electrical, or Robotics Engineering.
+Hands-on experience with industrial robot brands (e.g., ABB, FANUC, KUKA).
+Proficiency in robot programming languages like RAPID, KRL, or similar.
+Understanding of manufacturing workflows and processes.
+
+
+-------------------------------------------------------------------------------------------------------
+
+20. 
+
+
+3 -10 years of relevant work experience.
+Background in robotics and computer vision.
+Experience collaborating on software projects using version control, preferably Git.
+Creative thinking, strong problem solving and troubleshooting capabilities.
+Ability to complete projects and learn the required skills with minimal guidance.
+Solid understanding of statistical process control and basic statistical analysis used in production setting.
+Previous experience in individual project management.
+Machine/deep learning background.
+Knowledge of the following languages and frameworks: Python, SQL, OpenCV, ML Platform such as Tensorflow or PyTorch, JS + React for user interface.
+Experience developing web API’s or SDK’s.
+Creative thinking and strong problem solving and troubleshooting capabilities, including experience in the areas of mechanical engineering.
+BS/MS/PhD in robotics or similar.
+Willing to travel up to several times per year.
+
+-------------------------------------------------------------------------------------------------------
+
+21. 
+
+Develop machine automation & autonomy software including perception, mapping, and path planning using geometric based, machine learning and fusion techniques
+Lead design, prototype, test, deploy and productionize automation & autonomy software
+Provide conceptual and strategic solutions to solve problems that are associated with automation & autonomy projects or evaluations
+Coach entry to mid-level engineers in robotics software development
+Complete of all aspects of software development including requirement review, effort estimation, design, reviews, programming, functional testing, and release.
+Design, program, and unit test efficient software that satisfies programming standards, conforms to defined architectural structure, and meets functional requirements.
+Design software interfaces to Integrate custom and COTS components: sensors, controllers etc.
+Develop and participate in programs for effective communication of engineering issues to ensure compliance with global standards for design and safety of products and services, as well as engineering best practices.
+Perform reviews and functional testing of peer software as needed to support team based agile software practices.
+Participate in system/architectural design efforts for core control software.
+Comply with version management and development branching policies using Git.
+Implement effective Change Management to achieve the desired organizational outcomes by successfully changing individual behaviors as needed.
+Some domestic, overseas travel and underground mines is possible.
+
+-------------------------------------------------------------------------------------------------------
+
+22. 
+
+Design, develop, and test robotic systems, includingmanipulators, sensors, and control systems.
+Integrate robotic systems with existing infrastructure andproduction processes.
+Conduct feasibility studies and analyze requirements todetermine the best approach for robotic applications.
+Program and configure robots using languages such as Python,C++, or ROS (Robot Operating System).
+Troubleshoot and debug issues with robotic systems, ensuringoptimal performance and reliability.
+Collaborate with electrical, mechanical, and software engineersto optimize system integration and functionality.
+Stay updated on industry trends and emerging technologies inrobotics and automation.
+Experience with industrial automation, including robotic arms, motioncontrol, and vision systems, is highly desirable.
+Familiarity with CAD software for designing robotic componentsand systems.
+
+-------------------------------------------------------------------------------------------------------
+
+23. 
+
+Working on the implementation of ROS packages/algorithms for mapping, localization, sensor fusion and navigation.
+MUST have intermediate knowledge of Robotics, Robotic Operating Systems (ROS), Multi-threaded applications, SLAM, VSLAM. LIDAR will be an add-on.
+Knowledge about Kino dynamic.
+Strong knowledge of Gazebo, URDF Models, Manipulation, Motion Planning, and Robot Navigation.
+Should have worked on Hardware.
+8/16/32 bit microcontrollers Atmega 8, Arduino (Atmega 320P), and Raspberry pi or any single board computer.
+Have knowledge of communication protocols like SPI, I2C, UART, TCP/IP, MQTT, HTTP.
+Proficiency in Python/C++ or any scripting language, Image/Video processing, Machine learning/Deep learning algorithms.
+Ability to efficiently and clearly communicate ideas, including to those who may have a limited theoretical background in the area.
+Ready to work with engineers of different departments and ready to work.
+-------------------------------------------------------------------------------------------------------
+
+24. 
+Bachelors degree in computer science, Robotics, Electrical Engineering, or a related field. (Master s degree preferred.)
+0-4 years of experience
+Strong software development skills in Modern C++ and Python.
+Expert in software development within Unix/Linux environments.
+Proficient in working with the ROS (Robot Operating System) framework.
+Familiar with G-Test, ROS Test Framework and user field acceptance testing.
+Preferred experience in mathematical modelling, path planning, and control of mobile robots.
+Familiar with SLAM/Position Tracking, 3D Reconstruction, Depth Sensing, Bayesian Filtering, Information Theory, or 3D Geometry.
+Preferred understanding of probability theory, linear and nonlinear control, and machine learning methodologies
+Experience with the development of embedded boards is desirable
+
+-------------------------------------------------------------------------------------------------------
+
+25. 
+
+Responsibilities:
+
+Conduct research to improve robotic intelligence using AI and machine learning.
+Develop models for perception, decision-making, and human-robot interaction.
+Prototype and test algorithms in simulated and physical environments.
+Publish research findings in journals and present at conferences.
+Collaborate with academic and industry partners on cutting-edge projects.
+Qualifications:
+
+Ph.D. in Robotics, AI, Computer Science, or related field.
+Strong programming skills in Python, TensorFlow, and PyTorch.
+Experience with ROS and simulation tools like Gazebo or V-REP.
+Strong mathematical foundation in linear algebra and optimization.
+
+------------------------------------------------------------------------------------------------------
+
+26. 
+
+Perform full mechanical services on robots, including gear replacements and timing belt adjustments.
+Troubleshoot and resolve software-related issues effectively.
+Identify controller models by observing robot models.
+Debug and program robot systems as needed, utilizing Epson and Mitsubishi robot editing software.
+Configure IP settings for communication between robots and IPC or CCD.
+Collaborate with the team to identify and communicate technical issues clearly and effectively.
+
+
+----------------------------------------------------------------------------------------------------
+
+27. 
+
+Design and deploy robots for warehouse automation, including pick-and-place and sorting tasks.
+Develop algorithms for optimizing robot navigation and item retrieval.
+Monitor and troubleshoot robotic systems in live operational environments.
+Analyze data to enhance system performance and reduce error rates.
+Ensure system safety and compliance with workplace standards.
+Degree in Robotics, Automation, or related field.
+Knowledge of computer vision techniques for object recognition.
+Experience with AGVs (Automated Guided Vehicles) or AMRs (Autonomous Mobile Robots).
+Proficiency in ROS and simulation tools like Gazebo.
+
+----------------------------------------------------------------------------------------------------
+
+28. 
+
+REQUIRED SKILLS
+
+Robotics and automation - ideally 2-3 years of commercial experience
+ROS Tech Stack - at least 1 year of experience
+Experience with ROS/ROS2 modules: odometry, motion control, SLAM, multi-trajectory planning systems, and multi-robot communication.
+Python - 2 years of commercial experience
+Experienced with Path Planning
+Experience in various sensor inputs (LIDAR, Depth camera, IMU, etc.)
+Experience with Gazebo simulation tools or alternatives
+Python - 2 years of commercial experience
+Excellent debugging and troubleshooting experience on software and hardware.
+NICE TO HAVE
+
+Strong C++/Java coding and debugging experience
+Robotics Arms and Self-driving Robot development experience
+Drone development experience
+MATLAB/SimuLink development experience
+
+----------------------------------------------------------------------------------------------------
+
+29.  
+
+Hands on the implementation of ROS packages/algorithms for mapping, localization,sensor fusion and navigation.
+Multi-threaded applications like, SLAM, VSLAM. 2D&3D LIDAR, 2D&3D camera.
+Knowledge about Kino dynamic.
+Strong knowledge of Gazebo, URDF Models, Manipulation, Motion Planning.
+Should have worked on Hardware.
+8/16/32 bit microcontrollers like AVR,ARM and any single board computer like Nvidia Jetson ,Intel NUC.
+Have knowledge of communication protocols like SPI, I2C, UART,MODBUS,CAN, TCP/IP, MQTT, HTTP.
+Proficiency in Python/C++,Linux, Image & Video processing, Machine learning & Deep learning algorithms.
+Ready to work with engineers of different departments.
+Understanding of Any CAD Software.(Prefer Solid-work,Ansis).
+Sound knowledge of different types of sensors like Ultrasonic,IMU etc.
+Practical knowledge of Motor & Actuators.
+----------------------------------------------------------------------------------------------------
+
+30. 
+
+bachelors degree in Robotics, Computer Science, Electrical Engineering, or a related field. masters degree preferred.
+Proven experience in robotics design, building, and programming, with a strong portfolio of successful projects.
+Excellent programming skills in languages such as Python, C++, or Java, Bloch based Coding
+Experience working with robotics kits such as LEGO EV3/Spike Prime, or similar platforms.
+Strong communication and interpersonal skills, with the ability to inspire and motivate students.
+Previous coaching or mentoring experience, especially in robotics competitions, is a plus.
+Passion for STEM education and a commitment to fostering the next generation of innovators.
+
+----------------------------------------------------------------------------------------------------
+
+31. 
+
+5 - 7 yr of experience in Robotics & automation.
+•Core knowledge in robotic palletizer applications and other warehouse automation robotic applications.
+•Worked on Industrial articulated robots with make as ABB, Yaskawa, Fuji, KUKA, cobot, AMR, gantry robots.
+•Robotic application layout design.
+•Experience in mechanical design softwares like AutoCAD, 3D.
+•Robot simulation softwares of Yaskawa, KUKA, ABB, etc.
+•Flawless communication with customer and stakeholders
+•Industrial robot course certified.
+Having core knowledge in Siemens (Siemens S7-300, S7-1200, & S7-1500) & Rockwell automation systems.Ability to program in multiple languages, including ladder logic, FBD,SCL & STL. Ability to read and interpret PLC wiring diagrams, Control Narratives.
+Having core knowledge in Industrial robots (Yaskawa, Fuji, ABB, Fanuc, KUKA,..). Ability to program industrial robots, installation & commissioning on site. Ability to read and interpret control panel electrical wiring diagrams.
+
+---------------------------------------------------------------------------------------------------
+
+32. 
+
+Required Skills and Qualifications:
+Bachelor s or Master s degree in Robotics Engineering, Mechanical Engineering, Electrical Engineering, or a related field.
+3+ years of experience in robotics engineering, especially in manufacturing environments.
+Proficiency in robot programming languages (e.g., Python, C++, MATLAB).
+Hands-on experience with robotic systems (e.g., ABB, FANUC, KUKA, or Yaskawa robots).
+Strong knowledge of PLC programming and industrial automation protocols.
+Experience with CAD software (e.g., AutoCAD, SolidWorks) for designing and testing robotic components.
+Excellent problem-solving skills and attention to detail.
+Preferred Qualifications:
+Experience with machine vision systems and integration (e.g., camera calibration, object recognition).
+Knowledge of AI and ML algorithms as applied to robotics. Certifications in robotic systems (e.g., FANUC, KUKA) are a plus.
+
+---------------------------------------------------------------------------------------------------
+
+33. 
+
+Design user-friendly robotic systems for home and personal use.
+Collaborate with UX/UI teams to improve robot interaction interfaces.
+Implement AI-based features for behavior customization and adaptability.
+Test and iterate designs based on user feedback and market research.
+Integrate hardware components for smooth operation and durability.
+Bachelor’s degree in Robotics, Computer Engineering, or related field.
+Experience with embedded systems and microcontrollers.
+Strong programming skills in Python and JavaScript.
+Familiarity with IoT technologies and protocols.
+
+--------------------------------------------------------------------------------------------------
+
+34. 
+
+Responsibilities:
+
+Develop advanced control algorithms for robotic motion and stability.
+Analyze system dynamics and simulate control models using MATLAB/Simulink.
+Test and implement real-time control systems for various robotic platforms.
+Collaborate with mechanical engineers to integrate control systems into designs.
+Perform failure mode analysis to ensure robustness and reliability.
+Qualifications:
+
+Master’s degree in Control Systems or Robotics.
+Strong understanding of kinematics, dynamics, and control theory.
+Proficiency in MATLAB/Simulink and C++.
+Experience in developing PID, LQR, or MPC controllers.
+--------------------------------------------------------------------------------------------------
+
+36. 
+
+Perform full mechanical services on robots, including gear replacements and timing belt adjustments.
+Troubleshoot and resolve software-related issues effectively.
+Identify controller models by observing robot models.
+Debug and program robot systems as needed, utilizing Epson and Mitsubishi robot editing software.
+Configure IP settings for communication between robots and IPC or CCD.
+Collaborate with the team to identify and communicate technical issues clearly and effectively.
+
+
+--------------------------------------------------------------------------------------------------
+
+37. 
+
+Hands on the implementation of ROS packages/algorithms for mapping, localization,sensor fusion and navigation.
+Multi-threaded applications like, SLAM, VSLAM. 2D&3D LIDAR, 2D&3D camera.
+Knowledge about Kino dynamic.
+Strong knowledge of Gazebo, URDF Models, Manipulation, Motion Planning.
+Should have worked on Hardware.
+8/16/32 bit microcontrollers like AVR,ARM and any single board computer like Nvidia Jetson ,Intel NUC.
+Have knowledge of communication protocols like SPI, I2C, UART,MODBUS,CAN, TCP/IP, MQTT, HTTP.
+Proficiency in Python/C++,Linux, Image & Video processing, Machine learning & Deep learning algorithms.
+Ready to work with engineers of different departments.
+Understanding of Any CAD Software.(Prefer Solid-work,Ansis).
+Sound knowledge of different types of sensors like Ultrasonic,IMU etc.
+Practical knowledge of Motor & Actuators.
+Key Skills
+Electro-mechanical systems
+Kinodynamic
+C++/Python
+Computer Vision
+Electrical and Mechanical Actuators
+communication protocols.
+Sensors
+MIcrocontroller
+Linux OS
+TensorFlow
+SLAM
+VSLAM
+2D&3D LIDAR
+2D&3D camera
+Robot Operating System (ROS)
+
+-------------------------------------------------------------------------------------------------
+
+38. 
+
+bachelors degree in Robotics, Computer Science, Electrical Engineering, or a related field. masters degree preferred.
+Proven experience in robotics design, building, and programming, with a strong portfolio of successful projects.
+Excellent programming skills in languages such as Python, C++, or Java, Bloch based Coding
+Experience working with robotics kits such as LEGO EV3/Spike Prime, or similar platforms.
+Strong communication and interpersonal skills, with the ability to inspire and motivate students.
+Previous coaching or mentoring experience, especially in robotics competitions, is a plus.
+Passion for STEM education and a commitment to fostering the next generation of innovators.
+
+------------------------------------------------------------------------------------------------
+
+39. 
+
+Design and Development: Conceptualize, design, and prototype robotic systems, including mechanical components, software architecture, and electronic controls.
+Programming and Coding: Develop software for robot control, using languages such as Python, C++, ROS (Robot Operating System), and/or MATLAB.
+Testing and Troubleshooting: Perform rigorous testing to identify system issues and optimize performance; troubleshoot hardware, software, and control systems.
+Sensor and Actuator Integration: Integrate sensors (e. g. , LIDAR, cameras, IMUs) and actuators (e. g. , motors, pneumatic systems) to enhance robotic functionalities.
+Research and Innovation: Keep up to date with the latest trends in robotics, AI, and machine learning to propose new technologies and solutions.
+Collaboration: Work closely with engineers, data scientists, and product designers to ensure the successful implementation of robotics solutions.
+
+------------------------------------------------------------------------------------------------
+
+40. 
+
+
+Responsibilities:
+
+Design and develop underwater robotics for exploration and research.
+Integrate sensors like sonar, cameras, and depth sensors for navigation.
+Implement algorithms for autonomous underwater vehicle (AUV) control.
+Test robotic systems in lab and field conditions, analyzing performance.
+Document designs and ensure compliance with environmental regulations.
+Qualifications:
+
+Degree in Robotics, Ocean Engineering, or related field.
+Experience with underwater communication and navigation technologies.
+Knowledge of waterproofing and corrosion-resistant materials.
+Programming skills in Python and C++.
+
+------------------------------------------------------------------------------------------------
+
