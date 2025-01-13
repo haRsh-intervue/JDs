@@ -1,0 +1,719 @@
+1. 
+
+Responsibilities:
+
+Monitor, analyze, and respond to security threats and incidents in real time.
+Perform vulnerability assessments and implement security measures to mitigate risks.
+Maintain and update security tools, including firewalls, IDS/IPS, and antivirus software.
+Analyze security breaches to determine root causes and implement preventive measures.
+Create and enforce security policies, standards, and guidelines for the organization.
+Skills:
+
+Proficiency with SIEM tools (e.g., Splunk, QRadar).
+Strong knowledge of operating systems (Windows, Linux) and network protocols (TCP/IP, DNS).
+Incident response and threat analysis expertise.
+Certifications like CompTIA Security+, CISSP, or CISM are a plus.
+
+----------------------------------------------------------------------------------------------------------
+
+2. 
+
+Role & responsibilities
+
+Identify security vulnerabilities using OWASP Top 10 or SANS 25 frameworks and perform penetration testing.
+Perform manual and automated for both web and mobile applications and familiar with security testing using tools like Burp Suite, Nessus, OWASP ZAP, Mobsf.
+Prepare detailed VAPT reports and provide remediation recommendations to the development and infrastructure teams.
+Validate security fixes and perform retesting after remediation
+Provide security consultation during project planning and implementation.
+
+Preferred candidate profile
+
+Hands-on experience with VAPT tools like Nessus, Burp Suite, Nmap, Kali Linux, OWASP ZAP, Wireshark, Postman.
+Knowledge of OWASP Top 10, SANS Top 25, etc.
+Experience with secure coding practices and code review processes.
+Familiarity with Linux and Python/Bash scripting (Added Advantage).
+Excellent attention to detail and strong problem-solving skills.
+Effective communication skills for reporting and collaboration within teams.
+
+----------------------------------------------------------------------------------------------------------
+
+3. 
+
+Skills Required:
+Strong in Linux debugging.
+Experience in Linux automation Shell scripting.
+Proficient and good hands-on knowledge of Opensource tools.
+knowledge of Cyber Security, Ethical Hacking VAPT.
+Should be a quick learner with a hardworking personality.
+Good in python OOPS.
+Responsibilities:
+Solution deployment and Customer support.
+Digital forensics cybercrime investigations.
+Cyber attack prevention and Protection.
+Next Generation Cyber Threat detection.
+Vulnerability scanning and penetration testing.
+Dark web crawling and Deep web scanning.
+
+----------------------------------------------------------------------------------------------------------
+
+4. 
+
+Conduct authorized penetration testing to identify vulnerabilities in systems, applications, and networks.
+Simulate real-world attacks using various tools and techniques to evaluate defenses.
+Develop detailed vulnerability assessment reports with actionable recommendations.
+Collaborate with development and operations teams to remediate identified security gaps.
+Stay updated on the latest hacking methods and security trends.
+Hands-on experience with tools like Metasploit, Burp Suite, Nessus, or Wireshark.
+Deep understanding of application security, network vulnerabilities, and social engineering.
+Strong scripting skills in Python, Bash, or PowerShell.
+Certifications such as CEH, OSCP, or GPEN are highly valued.
+
+
+----------------------------------------------------------------------------------------------------------
+
+5.
+
+
+Tertiary level qualification in IT related discipline; or related industry qualification and industry experience.
+5 + years experience working a security engineer or similar Cyber Security role.
+3 + years cybersecurity experience including risk assessments, systems engineering, and secure architecture required
+2 + years experience as a Systems Administrator (windows Linux
+Experience in investigating threats, utilizing OSINT, closed sources, and other research techniques to uncover threat actors and their TTPs while providing context to threats and reaching conclusions from incomplete or missing data.
+Technical know-how on extracting threat data (IPs, domains, ports, malware, and malicious communications) from multiple sources
+Experience working with cloud security and governance tools, cloud access security brokers (CASBs), and server virtualization technologies required
+Working knowledge on cloud platform from AWS, Microsoft Azure
+At least one Information Security industry certification such as SSCP, CISSP, CEH, CCNA, SANS GIAC Security Certifications (GSEC / GCED / GSIP).
+Knowledge of ISO 27001/2, NIST CSF and related standards/frameworks, privacy legislation and security policies.
+
+
+----------------------------------------------------------------------------------------------------------
+
+6. 
+
+Proven experience in installation, configuration, and administration of CyberArk components (Vault, PVWA, CPM, PSM, Conjur/DAP).
+Strong understanding of privileged access management (PAM) concepts and best practices.
+Proficiency in scripting and task automation using PowerShell, Python, or similar programming languages.
+Ability to troubleshoot technical issues and provide effective solutions.
+Familiarity with tools and practices for documentation and workflow management (e.g., Jira, Confluence).
+Flexibility to work in rotational shifts and provide on-call support as per project requirements.
+
+----------------------------------------------------------------------------------------------------------
+
+7. 
+
+Experience with penetration testing, vulnerability assessment
+Web application and external network penetration testing using industry standard tools and technologies
+Well versed with Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST). Development experience preferred.
+Experience with OWASP testing Guide / Open Source Security Testing Methodology Manual.
+Offensive Security Certified Professional (OSCP), Certified Ethical Hacker (CEH), CREST Penetration testing or similar certification preferred.
+Expert with common web application penetration testing tools including, but not limited to Burp, Fiddler, OWASP Zap, BeEF, and at least one commercial solution (Veracode, AppScan, or similar).
+Familiarity with common network vulnerability/penetration testing tools including, but not limited to, Metasploit, vulnerability scanners, Kali Linux, and Nmap
+Create actionable reporting based on security testing, including black,grey,white box,code reviews and reverse engineering, network and software architecture reviews and social engineering.
+Must have a working knowledge and strong understanding of security best practices for the following technologies:
+Windows Active Directory,
+network routing and switching,
+firewalls,
+IDS/IPS.
+Prior experience with penetration testing, red teaming, white hat hacking, and/or performing information security assessments Compliance like PCI, HIPAA and frameworks like COBIT, ITIL etc. Must have experience in building test strategy, test plan, governing UATs, performance testing, integration testing, load/ stress testing, test automation, building/ maintaining currency of automated test beds.
+Must have experience in testing mobile apps (apps performance and Security testing)
+Managing penetration testing services, including both expert consulting and managed services. Providing manual penetration testing and standards gap analysis services to internal business and technology partners. Providing security requirements for test driven design supporting application security tool deployments including static analysis and runtime testing tools.
+Producing metrics reporting the state of application security programs and performance. Must be able to approach IT security and testing from the perspective of risk management
+
+----------------------------------------------------------------------------------------------------------
+
+8. 
+
+
+Skills:
+
+In-depth understanding of enterprise-level security controls and frameworks (e.g., NIST, ISO 27001).
+Proficiency in designing secure cloud architectures (AWS, Azure, GCP).
+Strong leadership and project management abilities.
+Advanced certifications like CISSP, CISM, or SABSA are preferred.
+Design and implement an organization’s cybersecurity architecture and strategy.
+Evaluate and select security solutions, such as encryption methods and access controls.
+Ensure secure integration of new systems and applications into existing infrastructure.
+Perform risk assessments to identify potential security gaps in architecture.
+Lead the creation of security frameworks and policies.
+
+
+---------------------------------------------------------------------------------------------------------
+
+9. 
+
+Responsibilities
+Determine security violations and inefficiencies by conducting periodic audits
+Upgrade our network and infrastructure systems
+Implement and maintain security controls
+Identify and solve potential and actual security problems
+Assess the current situation, evaluating trends and anticipating security requirements
+Keep users informed by preparing performance reports; communicating system status
+Maintain quality service by following organization standards
+Maintain technical knowledge by attending educational workshops
+Contribute to team effort by accomplishing related results as needed
+Requirements
+Proven work experience as a Cyber Security Specialist or similar role
+Hands-on experience analyzing high volumes of logs, network data and other attack artifacts
+Experience with vulnerability scanning solutions
+Proficiency with antivirus and security software
+Bachelor s degree in Computer Science, Information Systems, or equivalent education or work experience.
+
+----------------------------------------------------------------------------------------------------------
+
+10. 
+
+
+
+
+Manage and respond to cybersecurity incidents, including breaches, malware infections, and phishing attacks.
+Investigate incidents to determine root causes and scope of impact.
+Develop and execute containment, eradication, and recovery plans.
+Document incidents, lessons learned, and mitigation strategies for future prevention.
+Work with law enforcement and legal teams when required.
+Expertise in digital forensics and malware analysis.
+Familiarity with incident response frameworks (e.g., NIST, SANS).
+Proficiency with tools like EnCase, Volatility, or Autopsy.
+Certifications such as GCIH, GCFA, or CISM are beneficial.
+
+
+----------------------------------------------------------------------------------------------------------
+
+10. 
+
+
+Conduct questionnaire-based assessments to evaluate vendors' cybersecurity practices.
+Assist in performing on-site assessments of critical vendors as necessary.
+Analyse assessment results and contribute to detailed risk reports for stakeholders.
+Support the remediation of identified risks in collaboration with internal teams.
+Assist in preparing metrics and data for TPRM program performance reporting.
+Review standard cyber clauses in contracts and flag variations for senior team members.
+Maintain accurate and up-to-date records in the TPRM tool or platform.
+Contribute to the development and improvement of TPRM processes and procedures.
+Stay current with industry trends, regulations, and best practices in cybersecurity and third-party risk management.
+Assist in gathering data for dashboards and reports on TPRM performance.
+Skills : -
+
+Cyber Security, TPRM, Cyber Security Analyst,
+DevOps, MySQL, Oracle, Linux, Python, PHP, cloud-based infrastructures, AWS, Azure, Docker, Kubernetes
+
+-----------------------------------------------------------------------------------------------------------
+
+11. 
+
+
+Strong communication and consulting skills.
+Expertise in risk management and compliance frameworks (e.g., GDPR, HIPAA).
+Proficiency in security assessment tools like Nessus or Qualys.
+Certifications such as CISSP, CISA, or ISO 27001 Lead Auditor are desirable.
+Advise organizations on best practices for securing their infrastructure and data.
+Conduct comprehensive security assessments and provide tailored recommendations.
+Assist in developing security policies, procedures, and compliance strategies.
+Train internal teams on cybersecurity awareness and incident response.
+Perform gap analysis to ensure alignment with industry standards and regulations.
+----------------------------------------------------------------------------------------------------------
+
+12. 
+
+Experience at admin level for O365 portals and Defender.
+• Experience at admin level on Proofpoint email protection system.
+• Experience with Microsoft operating systems and their security hardening.
+• Experience in the cloud, including Azure/CGP/AWS.
+• Experience within EDR/MDR/XDR and/or Sysmon, Anti-Virus, SIEM, general security analytics and log sources.
+• Familiarity with Mac, and Linux operating systems
+• Familiarity with encryption, access management, transmission control and internet protocols (TCPs and IPs), and the CIA Triad (confidentiality, integrity, accessibility).
+• DLP management in an enterprise environment.
+• Experience dealing with malware and attack vectors, and the ability to perform pattern analysis and discover root causes.
+• Planning and scoping security vulnerability assessments and penetration tests, familiar with assessment tools like Tenable and Qualys.
+• Take ownership of analysing and responding to security alerts from multiple sources within Ankura and determining possible causes of such security incidents.
+• Strong understanding of malware, intrusion detection, and prevention systems.
+• To respond to incidents, perform real-time information security incident handling (e.g., forensic collections, intrusion correlation/tracking, threat analysis, and direct system remediation).
+• Responsible for monitoring emerging threat patterns, vulnerabilities, and anomalies and escalating any unknown threats to the Senior Management.
+• Report appropriate operational issues to the Security Architecture team so that they may be resolved at an architecture level.
+• Understand the latest cyber threat landscape, as well as the company’s IT infrastructure.
+• Keeping up to date with attacker techniques, stay current on Information Technology (IT) security trends and news.
+• Knowledge of networking protocols, switches, routers etc.
+• Knowledge of Firewalls.
+• Knowledge of cloud security.
+• Knowledge of VMware.
+• Industry-specific technical knowledge, such as use of specific analysis tools.
+• An understanding of information security frameworks and standards such as Cyber Essentials, NIST and ISO 27001.
+• Excellent problem-solving and analytical skills.
+• Effective communication and collaboration abilities.
+----------------------------------------------------------------------------------------------------------
+
+13. 
+
+Responsibilities:
+
+Perform security testing for web, mobile, and desktop applications.
+Integrate security practices into the software development lifecycle (SDLC).
+Identify, document, and remediate application vulnerabilities (e.g., OWASP Top 10).
+Conduct code reviews to identify potential security flaws.
+Collaborate with developers to design secure applications.
+Skills:
+
+Knowledge of secure coding practices and tools like Veracode or Checkmarx.
+Familiarity with programming languages like Java, Python, or JavaScript.
+Expertise in penetration testing and vulnerability scanning.
+Certifications like CSSLP or GWAPT are advantageous.
+
+----------------------------------------------------------------------------------------------------------
+
+14. 
+
+
+Cybersecurity, Information Technology minimum 2-year experience working in security operations environment or in IT operations Data Centre, SOC/NOC.
+• Conduct cybersecurity assessments according to Corporate Security standards and directives
+• Assist in the end-to-end management of cybersecurity processes & ensure review of compliance with standard operating procedures
+• Support the implementation and adaptation of security services and products within business solutions
+• Collaborate with product owners and stakeholders to ensure alignment with security requirements.
+• Basic understanding of cybersecurity principles, including risk assessments, security policies, and vulnerability management
+• Familiarity with security standards and best practices (ISO/IEC 27001, NIST, etc.).
+• Track remediation action plans and follow up to ensure timely implementation.
+• Contribute to documentation updates, ensuring they reflect the latest security processes, tools, and standards.
+• Ensure thorough knowledge of Protection of Personal Identifiable Information and GDPR
+----------------------------------------------------------------------------------------------------------
+
+15. 
+
+inimum 7-9 years of working experience in similar industry
+
+Job-Specific Skills:
+Essential strengths:
+• C and C++ programming languages
+• GNU toolchain (GCC, GDB, Cross Compiler, JTAG)
+• Linux, Yacto
+• ARM architecture
+• Development of Embedded real-time applications
+• Source code management tools like GIT, Subversion(SVN), SourceSafe
+• Unit testing methodology
+• Familiarity with bug tracking and traceability tools like OpenProject, JIRA, Bugzilla
+• UML (Unified Modelling Language)
+• XML or HTML
+• Eclipse IDE (Integrated Development Environment)
+• Continuous Integration tools such as Jenkins, Hudson
+• Knowledge of Role Based User Account Management (UAM) integrated with the Web Server.
+• Cyber Security knowledge – IEC 62351, NERCIP, encryption algorithms, IEEE 1686
+• Protocols such as IEC 104/101/103, Modbus Serial/TCP IP, DNP3 Serial/TCP IP, IEC 61850, HTTP and protocol test tools
+
+Desirable strengths:
+• CMake (Cross-platform Makefile generator)
+• Design using State Machines, State Machine tools such as SMC
+• Code quality analysis tools such as Klocwork, Lint, LDRA, MISRA
+• Firmware, Configuration and Patch management.
+• Real-time operating systems
+• Multiprocessor software architecture
+• Device drivers like CAN bus, SPI, I2C, SPI, Ethernet, Serial
+• XML Schema design and XSLT (XML Transformations)
+• Unit testing frameworks such as C++ Unit
+• Inter-process communication using Zero MQ
+----------------------------------------------------------------------------------------------------------
+
+16. 
+
+Design and implement security controls for cloud environments (AWS, Azure, GCP).
+Monitor cloud infrastructure for threats and vulnerabilities.
+Configure secure identity and access management (IAM) policies.
+Ensure compliance with cloud security standards (e.g., CSA, ISO 27017).
+Automate security processes using cloud-native tools.
+Proficiency with tools like AWS Security Hub, Azure Security Center, or GCP Security Command Center.
+Knowledge of container security (Docker, Kubernetes).
+Expertise in identity management and data encryption.
+Certifications like CCSP, AWS Certified Security, or Google Professional Cloud Security Engineer are valuable.
+---------------------------------------------------------------------------------------------------------
+
+17. 
+
+Monitor, analyze, and respond to cyber security threats, incidents, and vulnerabilities.
+Develop and implement preventive measures to protect the organization’s data assets.
+Identify and assess security risks in order to propose solutions.
+Collaborate with other security teams to ensure the organization’s security posture.
+Maintain up-to-date knowledge of the latest cyber security trends and technologies.
+Develop and maintain security policies, procedures, and plans.
+Design and develop security protocols and countermeasures.
+Provide technical guidance and support to other departments.
+Investigate suspicious activities and act to prevent security breaches.
+Prepare detailed reports and documentation on security measures.
+
+--------------------------------------------------------------------------------------------------------
+
+18. 
+
+Key Responsibilities:
+
+Proactively collect, analyze, and disseminate actionable intelligence about emerging cyber threats and vulnerabilities.
+Collaborate with SOC teams to investigate potential threats and strengthen defenses.
+Monitor dark web forums, hacker communities, and global threat feeds to detect early indicators of attack.
+Maintain a knowledge repository of threat actors, their techniques, and tools.
+Prepare detailed intelligence reports for leadership and technical teams.
+Required Skills:
+
+Proficiency in tools like ThreatConnect, Anomali, or Recorded Future.
+Deep understanding of threat frameworks like MITRE ATT&CK and Diamond Model.
+Strong research and analytical skills with knowledge of Python or scripting for automation.
+Certifications: GIAC Cyber Threat Intelligence (GCTI), Certified Ethical Hacker (CEH).
+--------------------------------------------------------------------------------------------------------
+
+19. 
+
+Design, implement, and maintain secure network architectures to protect against cyber threats.
+Continuously monitor and analyze network traffic to identify anomalies and potential breaches.
+Deploy and manage firewalls, intrusion detection/prevention systems, and endpoint protection solutions.
+Coordinate with IT teams to ensure secure configurations of routers, switches, and servers.
+Perform vulnerability assessments and implement remediation measures.
+Strong knowledge of networking protocols (TCP/IP, DHCP, DNS) and their vulnerabilities.
+Hands-on experience with tools like Wireshark, Palo Alto, Cisco ASA, and Fortinet products.
+Familiarity with zero-trust network principles and segmentation techniques.
+Certifications: CCNP Security, CompTIA Network+, or CISSP.
+
+-------------------------------------------------------------------------------------------------------
+
+20. 
+
+
+ Evaluate the organization’s security needs and establish best practices and standards accordingly.
+• Designing, implementing, maintaining, overseeing, and upgrading all security measures needed to protect organizations’ data, systems, and networks.
+• Responding to all security breaches to the network and associated systems.
+• Troubleshooting all network and security issues and incidents.
+• Routinely conduct penetration testing.
+• Taking appropriate security measures to ensure that the organization's infrastructure and existing data are kept safe.
+• Conducting testing and scans to identify any vulnerabilities in the network and system.
+• Taking an active role in the change management process.
+• Assist in any security breach investigations.
+• Handling routine daily administrative tasks such as reporting and keeping open lines of communication with the organization’s appropriate departments. Skills:- Cyber Security
+
+-------------------------------------------------------------------------------------------------------
+
+21. 
+
+
+Required Skills:
+
+Proficiency in risk management frameworks like NIST Cybersecurity Framework, COBIT, or ISO 31000.
+Strong project management and stakeholder communication skills.
+Understanding of regulatory and compliance requirements across industries.
+Certifications: Certified Information Security Manager (CISM), CRISC, or ISO 27001 Lead Auditor.
+Identify, analyze, and evaluate cybersecurity risks across organizational assets and operations.
+Develop and enforce policies and procedures to mitigate identified risks.
+Ensure compliance with regulations and standards like ISO 27001, GDPR, HIPAA, or PCI DSS.
+Lead risk assessment initiatives, including third-party vendor evaluations.
+Report on risk trends and mitigation plans to C-level executives and stakeholders.
+-------------------------------------------------------------------------------------------------------
+
+22. 
+
+At least 4+ years of experience in SIEM engineering, cybersecurity, or a related role.
+Proficiency with SIEM tools such as Sentinel, Splunk, QRadar, Chronicle, or similar platforms, query languages (e.g., AQL, SPL, KQL), and understanding of network security and threat intelligence.
+Strong understanding of IT & OT security principles, industrial control systems (ICS), and SCADA systems.
+Experience in developing and managing security use cases and playbooks for OT environments.
+Excellent analytical and problem-solving skills.
+Strong communication and collaboration skills.
+Ability to work independently; self-starter/self-motivated.
+
+Preferred Requirements
+Experience with Google Chronicle SIEM & SecOps SOAR platform or Siemplify.
+Experience working with API, webhooks and custom queries to ingest data.
+Relevant certifications such as GICSP, CISSP, CISM, CEH, or similar.
+Experience with OT protocols such as Modbus, DNP3, and IEC 60870-5-104.
+Azure Devops experience.,
+
+-------------------------------------------------------------------------------------------------------
+
+23. 
+
+Ideally 5+ years of experience in IT Security engineering capacity with experience in integration, automation, development efforts
+
+Technical experience in infrastructure setup for Application security and Penetration testing tools
+
+Very good knowledge of the Azure cloud ecosystem and its native capabilities
+
+Solid scripting experience (e.g. PowerShell, bash, python) and version control basics (e.g. Git)
+
+Sound experience of automation pipelines and DevOps tooling
+
+Sound experience with Windows and Linux operating systems
+
+Good knowledge on Network and Infrastructure
+
+Good knowledge of Infra as Code (e.g. ARM, Terraform)
+
+Previous experience with container technologies is a plus (e.g. Kubernetes)
+
+Previous experience with deploying complex cybersecurity enterprise solutions is a plus (e.g. vulnerability scanning suites, pen-testing software, application security tools)
+
+Solid understanding of agile methodologies within a large organization
+
+Inquisitive, able to challenge effectively and manage conflicting stakeholder needs
+
+Technical communication and documentation skills
+-------------------------------------------------------------------------------------------------------
+
+24. 
+
+
+Assume the lead role in assigned projects, ensuring delivery on time, within budget, and to customer satisfaction.
+ Stay technically current with cybersecurity solutions and expand knowledge in designated network disciplines.
+ Maintain relevant cybersecurity certifications such as CISSP, GICSP, or similar.
+ Keep abreast of current industry security standards (e.g., IEC-62443, ISO 27000).
+ Build strong relationships with internal and external customers by providing accurate and efficient technical/engineering support.
+ Diagnose problems and provide timely, accurate technical solutions in response to customer inquiries, questions, and issues.
+ Uphold industrial safety awareness through the completion of pertinent safety certifications.
+Basic Qualifications:
+ Bachelor's degree in computer-related fields (e.g., Computer Science, Computer Information Systems, Electronics) or equivalent experience.
+ Cisco Certified Network/Design/Security Professional (at least one certification).
+ GICSP/CISSP Certified Information Systems Security
+Professional or similar security certification.
+ 5+ years of experience in Networking, endpoint security, and conducting audits/assessments in IT security.
+ 3+ years of experience in Security Projects.
+ 2+ years of experience in Cybersecurity Vulnerability or Risk assessment.
+ 2+ years of experience with Microsoft Active Directory, DNS, WSUS, and Terminal Server.
+ 2+ year of experience in vulnerability scanning and assessments using tools like Nessus and NMAP.
+ Proven experience designing or deploying a minimum of 10 projects leveraging virtualization, preferably VMware.
+ 3+ years of Network Security Experience: Firewalls, ACL, IDS, IPS, SIEM, particularly with Cisco Routers, Switches, or Firewalls.
+ 3+ years of experience with antivirus systems and backup & restore solutions.  3+ years of experience providing network services on customer sites.
+ Excellent written and oral communication skills.
+ Willingness to travel 30-65%. Preferred Qualifications and Experience.
+ 3 years’ experience in Operational Technology (OT).
+-------------------------------------------------------------------------------------------------------
+
+25. 
+
+Key Responsibilities:
+
+Investigate and analyze malicious software to understand its functionality, objectives, and impact.
+Reverse-engineer malware using specialized tools to identify indicators of compromise (IoCs).
+Collaborate with incident response teams to contain and mitigate malware outbreaks.
+Develop YARA rules and other signatures to detect and prevent malware activity.
+Produce detailed reports to document findings for both technical teams and stakeholders.
+Required Skills:
+
+Expertise in reverse engineering tools like IDA Pro, Ghidra, and OllyDbg.
+Strong programming knowledge in assembly, C, or Python.
+Familiarity with dynamic analysis tools like Cuckoo Sandbox or Any.Run.
+Certifications: GIAC Reverse Engineering Malware (GREM), Malware Analysis Professional (MAP).
+
+------------------------------------------------------------------------------------------------------
+
+26. 
+
+
+Required Skills:
+
+Excellent communication and teaching abilities to convey complex security concepts in simple terms.
+Knowledge of social engineering techniques and cybersecurity fundamentals.
+Experience with e-learning tools, gamification techniques, and content creation platforms.
+Certifications: Certified Cybersecurity Awareness Professional (CCAP), CompTIA Security+, or CISM.
+Develop engaging training programs to educate employees on cybersecurity risks and best practices.
+Design and implement phishing simulations to test organizational awareness levels.
+Regularly update training content to reflect emerging threats like social engineering tactics or ransomware attacks.
+Work with HR and IT teams to enforce mandatory cybersecurity training sessions.
+Measure the effectiveness of training programs through metrics like incident reduction and quiz performance.
+----------------------------------------------------------------------------------------------------
+
+27. 
+
+
+Diploma or Degree in Computer Science, Electronics, IT, or a related field.
+Well versed with ISA/IEC 62443, ISO 27001, NIST framework
+Extensive experience with SCADA systems (Schneider, ABB, Citect, Aviva).
+Strong knowledge in firewall (Fortinet) and network infrastructure (Cisco).
+Proficient in LAN/WAN management, routing, switching concepts.
+Experience with Windows Server and Windows client administration.
+Expertise in server hardening and IT infrastructure hardening.
+In-depth understanding of ICS cyber security frameworks and OT protocols (such as OPC UA).
+Proven track record of managing IT & OT environments effectively.
+Familiarity with ISMS implementation and requirements.
+Strong technical skills in SCADA application administration.
+Highly self-motivated and eager to learn and implement new technologies.
+Minimum of 2-6 years of experience in Industrial Automation Control systems (IACS) including Design, Testing (FAT/SAT), Site Commissioning, Maintenance.
+Strong knowledge on Industrial control systems (PLC/DCS/SCADA/HMI & IPC). Know-how of Automation Hardware and Software.
+Experience in design and configuration of Industrial control systems application.
+Understand basics of OT Networking, OT Network components, Communication protocols (Modbus, TCP/IP, ProfNet etc.), OT Server and Storage Components.
+Knowledge of OT Server configuration, OT Network components (switches and firewall) configuration.
+Basic Field Instrumentation knowledge and site commissioning experience.
+Technical proficiency on controls systems including familiarity with control panels, networking, panel/field wiring and PLC control systems.
+Through understanding of Automation Hardware, Software, programming fundamentals, data flow from PLC, SCADA, HMI in the OT network.
+----------------------------------------------------------------------------------------------------
+
+28. 
+
+Bachelor's degree in Cybersecurity, Information Technology, or a related field.
+A minimum of 5 years of relevant IT compliance and audit experience is required.
+At least 8 years of relevant industry experience is preferred.
+IT security experience especially in IT audit and compliance processes.
+Familiarity with security frameworks e.g., NIST CSF, ISO, SOX, PCI-DSS, etc.
+Prior experience with Security GRC tools e.g., ServiceNow.
+
+----------------------------------------------------------------------------------------------------
+
+29.  
+
+Proficient in understanding application-level vulnerabilities like XSS, SQL Injection, CSRF, authentication bypass, weak cryptography, authentication flaws, etc and hands-on in detecting these issues in web applications.
+Experience in different web application security testing tools like Acunetix, Metasploit,Burp Suite, Sqlmap, OWASP ZAP Proxy,MobSF and Nmap.
+Participation in red teaming activity, mobile app testing and bug bounty is added advantage.
+Good communication skills to work with business/application teams.
+Clearing CEH is essential.
+----------------------------------------------------------------------------------------------------
+
+30. 
+
+ Design and Implementation: Design and implement CyberArk PAM solutions to meet client requirements, ensuring alignment with security best practices and compliance regulations.
+
+2. Solution Architecture: Develop and maintain solution architectures for CyberArk PAM implementations, including integration with other security tools and systems.
+
+3. Configuration and Deployment: Configure and deploy CyberArk components, including Privileged Session Manager, Privileged Account Security, and Application Identity Manager.
+
+4. Integration and Automation: Integrate CyberArk with other security tools and systems, such as Active Directory, LDAP, and SIEM systems. Automate workflows and tasks using CyberArk's API and scripting tools.
+
+5. Security and Compliance: Ensure CyberArk PAM solutions meet security and compliance requirements, including PCI-DSS, HIPAA, and GDPR.
+
+6. Client Engagement: Engage with clients to understand their PAM requirements and provide guidance on CyberArk PAM solutions.
+
+7. Project Management: Manage CyberArk PAM implementation projects, including project planning, execution, and delivery.
+
+8. Documentation and Knowledge Transfer: Develop and maintain documentation for CyberArk PAM solutions and provide knowledge transfer to clients and internal teams.
+
+----------------------------------------------------------------------------------------------------
+
+31. 
+
+8-12 Years of experience in hands-on knowledge of domains in Active Directory, WSUS, ePO, system and network hardening, and application whitelisting and experience in CND activities (Protect, Detect, Respond, and Sustain) within a Computer Incident Response organization.
+Thorough understanding of the lifecycle of network threats, attack vectors, and exploitation methods, including intrusion tactics, techniques, and procedures (TTPs).
+Advanced knowledge of TCP/IP, networking protocols, traffic flow, system administration, OSI model, defense-in-depth, and security elements and hands-on experience analyzing logs, network data (e.g., NetFlow, Full Packet Capture), and other attack artifacts for incident investigations
+Expertise in at least one enterprise SIEM platform (e.g., QRadar, Splunk, McAfee Enterprise Security Manager, or LogRhythm).
+Engineering degree with at least 4 years of experience in networking or cybersecurity and willingness to travel as required.
+
+---------------------------------------------------------------------------------------------------
+
+32. 
+
+Own and prioritize the backlog of our Unique Security Requirements ID Service in close collaboration with key stakeholders
+Roll-in and analyze requirements in close collaboration with key stakeholders
+Define business processes/use cases within the service itself and contribute to building the long-term service roadmap.
+Innovate with internal stakeholders and team members. Provide their feedback back to the core team.
+Own the conceptualization, planning and launch of new features.
+Create roadmaps based on stakeholder feedback, data, and market needs.
+
+---------------------------------------------------------------------------------------------------
+
+33. 
+
+
+Tier 2 Intake and Investigation Coordination:
+Conduct Tier 2 intake and investigation coordination for security alerts, events, and incidents.
+Utilize security technologies and documented procedures to enhance the organization's ability to address potential insider threats.
+Incident Management and Escalation:
+Assign investigation tasks or escalate issues to the appropriate resource teams.
+Ensure effective communication and resource allocation in response to identified threats.
+Cyber Defence Collaboration:
+Actively participate in Cyber Defence calls, providing insights and updates related to cybersecurity incidents and initiatives.
+Foster a collaborative environment for threat mitigation and response.
+Peer Review and Performance Analysis:
+Conduct periodic peer reviews of work performed by CFC cyber analysts.
+Identify trends in performance effectiveness and areas requiring improvement, promoting a culture of continuous learning and development.
+Program Development and Policy Creation:
+Collaborate in the development and enhancement of the insider threat program.
+Contribute to policy creation and implementation to address insider risks, ensuring compliance with legal and regulatory requirements.
+Risk Assessment and Mitigation:
+Perform in-depth risk assessments related to insider threats.
+Identify vulnerabilities within the organization and work with different teams on mitigation strategies to protect sensitive information and resources.
+User Behavior Analytics and Monitoring:
+Leverage user behavior analytics tools to monitor and analyze user activities for anomalous behavior.
+Provide timely interventions when necessary to address potential insider threats.
+Documentation and Reporting:
+Maintain thorough documentation of insider threat investigations, including findings, actions taken, and lessons learned.
+Report to relevant stakeholders for transparency and future reference.
+Stakeholder Communication:
+Communicate effectively with key stakeholders, including executive management.
+Provide status updates on insider threat investigations and the overall landscape of insider threat risks.
+--------------------------------------------------------------------------------------------------
+
+34. 
+
+Develop, review and release process templates for cybersecurity confirmation measures in line with the cybersecurity confirmation measure strategy.
+Plan, align and coordinate cybersecurity confirmation measures with projects including cybersecurity assessments, confirmation reviews and audits.
+Execute incremental cybersecurity confirmation measures in line with the Magna electronics internal product development process (PDP).
+Provide confirmation measure reports to project teams highlighting non-compliances and specify recommendations on how to close them.
+Train and qualify internal subject matter experts according to internal cybersecurity confirmation measures qualification program.
+Spread cybersecurity culture to the organization by interfacing with and supporting internal communities.
+Support other Global Safety and Security functions in line with your objectives and contribute to a cross-collaboration and team spirit
+--------------------------------------------------------------------------------------------------
+
+36. 
+
+Key Responsibilities:
+
+Conduct security assessments of web and mobile applications, including code reviews and penetration testing.
+Integrate security practices into the software development lifecycle (SDLC) using DevSecOps principles.
+Collaborate with development teams to fix vulnerabilities such as SQL injection, XSS, and CSRF.
+Develop automated tools to identify and mitigate application vulnerabilities.
+Stay updated on OWASP Top 10, SANS CWE Top 25, and other relevant security frameworks.
+Required Skills:
+
+Proficiency in secure coding practices and languages like Java, Python, or JavaScript.
+Experience with tools like Burp Suite, ZAP, and Snyk for vulnerability scanning.
+Knowledge of CI/CD tools and their integration with security scanners.
+Certifications: Certified Application Security Engineer (CASE), Offensive Security Web Expert (OSWE).
+
+--------------------------------------------------------------------------------------------------
+
+37. 
+
+Design and implement secure architectures for cloud environments like AWS, Azure, or Google Cloud.
+Monitor cloud infrastructure for unauthorized access, misconfigurations, and threats.
+Apply identity and access management (IAM) best practices to secure cloud resources.
+Perform risk assessments and ensure compliance with cloud security standards like CIS Benchmarks.
+Automate cloud security processes using Infrastructure as Code (IaC) tools like Terraform or CloudFormation.
+Strong understanding of cloud-specific security services like AWS GuardDuty, Azure Security Center, or Google Chronicle.
+Expertise in securing serverless computing, containers, and microservices.
+Familiarity with encryption techniques, key management, and Zero Trust models.
+Certifications: AWS Certified Security Specialty, Microsoft Certified: Azure Security Engineer Associate, or CCSP.
+-------------------------------------------------------------------------------------------------
+
+38. 
+
+
+
+------------------------------------------------------------------------------------------------
+
+39. 
+
+
+
+------------------------------------------------------------------------------------------------
+
+40. 
+
+------------------------------------------------------------------------------------------------
+
+41.  
+
+
+
+-----------------------------------------------------------------------------------------------
+
+42. 
+
+
+
+-----------------------------------------------------------------------------------------------
+
+43. 
+
+
+
+-----------------------------------------------------------------------------------------------
+
+44. 
+
+
+
+-------------------------------------------------------------------------------------------------
+
+45. 
+
+
+
+--------------------------------------------------------------------------------------------------
+
+
