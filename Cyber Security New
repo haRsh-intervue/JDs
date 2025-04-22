@@ -610,21 +610,7 @@ Certifications like CCSP, AWS Certified Security, or Google Professional Cloud S
 
 40. 
 
-C and C++ programming languages;
-GNU toolchain (GCC, GDB, Cross Compiler, JTAG);
-Linux, Yacto;
-ARM architecture;
-Development of Embedded real-time applications;
-Source code management tools like GIT, Subversion (SVN), SourceSafe
-Unit testing methodology;
-Familiarity with bug tracking and traceability tools like Open Project, JIRA, Bugzilla;
-UML (Unified Modelling Language);
-XML or HTML.
-Eclipse IDE (Integrated Development Environment)
-Continuous Integration tools such as Jenkins, Hudson
-Knowledge of Role Based User Account Management (UAM) integrated with the Web Server.
-Cyber Security knowledge IEC 62351, NERCIP, encryption algorithms, IEEE 1686
-Protocols such as IEC 104/101/103, Modbus Serial/TCP IP, DNP3 Serial/TCP IP, IEC 61850, HTTP and protocol test tools
+
 ------------------------------------------------------------------------------------------------
 
 41.  
