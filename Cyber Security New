@@ -900,17 +900,80 @@ Coordinate with partners, Cyber Security Auditors, and Apraava IT Team.
 --------------------------------------------------------------------------------------------------
 56.
 
+A bachelor’s degree in Computer Science, Information Technology, or a related field or equivalent work experience of 1-2years that provides exposure to fundamental theories, principles, and concepts.
+ Basic understanding of information security principles and practices.
+ Knowledge of common cybersecurity threats and vulnerabilities.
+ Strong analytical and problem-solving skills.
+ Experience with database management systems like SQL Server, Oracle, or MySQL.
+ Ability to troubleshoot and solve basic software development issues.
+ Willingness to work as part of a team and collaborate with other developers, testers, and business analysts.
+ Good written and verbal communication skills to interact effectively with team members and stakeholders.
 --------------------------------------------------------------------------------------------------
 57.
 
+A degree in computer science, IT, systems engineering, or related qualification. 
+Experience with incident detection, incident response, and forensics. 
+Core experience and profound knowledge in application and infrastructure security testing. 
+Strong understanding and hands on experience on application and infrastructure vulnerabilities, automated/manual testing, auditing and remediation techniques 
+Strong understanding of OWASP, WASC 2.0 Threats classification 
+Strong understanding of cryptography 
+Experience with standard security tools such as Metasploit, SQLMap, Nmap, OWASP ZAP, Burp Suite etc. 
+Experience with network/infrastructure vulnerability assessment tools such as Nessus, Qualys etc. 
+Experience with establishing penetration testing procedures and processes. 
+Experience with Firewalls (functionality and maintenance), Office 365 and Endpoint Security. 
+Proficiency in any one of the scripting languages like Python, C++, Java, Ruby, Node, Go, and/or Power Shell 
+Ability to work under pressure in a fast-paced environment. 
+Strong attention to detail with an analytical mind and outstanding problem-solving skills. 
+Great awareness of cybersecurity trends and hacking techniques. 
 --------------------------------------------------------------------------------------------------
 58.
+
+Strong hands-on experience in setting up and configuring vulnerability management scans for internal and external networks.
+Expertise in identifying, prioritizing, and remediating security vulnerabilities across IT assets.
+Proficiency in recommending and implementing security patches, configuration changes, and risk mitigation strategies.
+Experience working with security tools for Data Loss Prevention (DLP), Threat Intelligence, Endpoint Protection, and Security Information & Event Management (SIEM), Zscaler.
+Ability to support and build new security capabilities across various domains, including cloud security, network security and identity & access management.
+Cloud security design, configurations, and initial triage of cloud security alerts. GCP must. OCI is desirable.
+Zscaler Rollout for Remote Access Contractors: Manage and oversee the implementation of Zscaler to provide secure remote access for contractors and ensure compliance with security standards.
+Password Complexity Rollouts: Implement and enforce password complexity policies across the organization to enhance security posture.
+Security Awareness: Design and support security awareness programs to educate employees about cyber security best practices, phishing, and other social engineering risks.
 
 --------------------------------------------------------------------------------------------------
 59.
 
+Bachelor's degree/MTech with an emphasis on cyber security.
+Minimum 1 - 3 years of overall experience in SDLC, security architecture and engineering expertise, Application Security, Network Security, Mobile Security, Software Security etc.
+Strong understanding of operational technology principles, concepts and techniques, system security vulnerability assessment and penetration testing for operational technology.
+Mastery understanding the industrial protocols.
+Expertise in leading security projects (including reviews, tool development, and security best practices)
+Experience with penetration testing standardization frameworks, such as ISA/IEC 62443, NIST and CIS.
+Experience with severity ratings systems, and ability to calculate CVSS ratings for identified vulnerabilities.
+Automate penetration and other security tests on networks, systems, and applications.
+Knowledge of penetration testing techniques, application security vulnerabilities, OWASP Top 10, SANS 25, CWE, etc.
+Ability to test devices including network protocols: Ethernet, Wi-Fi, Zigbee, Z-Wave, Bluetooth, etc.
+Coding experience for tooling development and security code review (bonus points for C/C++).
+Perform research, evaluation and engineering of security technology, products and solutions.
 --------------------------------------------------------------------------------------------------
 60.
+
+Preferred Qualification:
+•3 or more years of work experience with a Bachelor’s Degree or more than 2
+years of work experience with an Advanced Degree (e.g. Masters, MBA, J,MD)
+•Bachelor degree in a technical field such as computer science, computer
+engineering or related field required. Advanced degree preferred.
+•Minimum of 3 years of hands-on expertise with Java, Spring, Python and
+related technologies
+•Experience in Gen AI, Big data and UI technologies will be an added advantage
+•Experience with highly distributed, scalable, concurrent and low latency
+systems working with one or more of the following database technologies:
+DB2, MySQL and NoSQL data warehouses such as HBase.
+•Experience working in an Agile and Test-Driven Development environment.
+•Experience with Continuous Integration and Automated Test tools such as
+Jenkins, Artifactory, Git, Selenium, Chef desirable.
+•Strategic thinker and good business acumen to orient data engineering to the
+business needs of internal clients.
+•Demonstrated intellectual and analytical rigor, strong attention to detail, team
+oriented, energetic, collaborative, diplomatic, and flexible style.
 
 --------------------------------------------------------------------------------------------------
 
