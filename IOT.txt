@@ -1,0 +1,837 @@
+JD 1
+
+System Design:
+Design end-to-end IoT systems, considering hardware, software, and communication protocols.
+Develop system architecture and define the components required for IoT solutions.
+
+Hardware Integration:
+Select and integrate sensors, actuators, and other hardware components.
+Collaborate with hardware engineers to ensure compatibility and optimize performance.
+
+Software Development:
+Develop embedded software for IoT devices, ensuring efficient data processing and communication.
+Implement communication protocols, middleware, and APIs for device interaction.
+
+Networking:
+Design and implement secure and scalable network architectures for IoT systems.
+Configure and manage communication protocols such as MQTT, CoAP, or HTTP.
+
+Data Management:
+Implement data storage and management solutions for IoT-generated data.
+Develop algorithms for real-time data analysis and decision-making.
+
+Security:
+Implement security measures to protect IoT devices and data.
+Stay updated on the latest security threats and vulnerabilities in IoT environments.
+
+Testing and Validation:
+Conduct thorough testing of IoT solutions to ensure reliability, scalability, and performance.
+Validate system functionality and troubleshoot issues as they arise.
+
+Collaboration:
+Collaborate with cross-functional teams, including hardware engineers, software developers, and data scientists.
+Communicate effectively with stakeholders to understand requirements and provide updates on project progress.
+
+Bachelors or Masters degree in Electrical Engineering, Computer Science, or a related field.
+0 to 2 years of experience in IOT Experience in IoT system design, development, and implementation.
+Proficiency in programming languages such as C, C++, Python, or Java.
+Knowledge of communication protocols (e.g., MQTT, CoAP), networking, and security in IoT.
+Familiarity with IoT platforms and frameworks.
+Strong problem-solving and analytical skills.
+Experience with cloud platforms (e.g., AWS, Azure, Google Cloud) for IoT deployment.
+----------------------------------------------------------------------------------------------------------------------
+
+JD 2
+
+Skills Required
+
+Experience on C and Python
+Knowledge of Database concepts and Database design
+Exposure to AVR, STM, Atmel Microcontrollers and various sensors
+Knowledge and Understanding on Computer Networking and IoT cloud applications
+----------------------------------------------------------------------------------------------------------------------
+JD 3
+
+Key Responsibilities:
+Design and develop IoT hardware for remote monitoring systems, including IoT applications with CNC/PLC controls.
+Program microprocessors (e.g., Raspberry Pi) using Python and PLC ladder logic.
+Implement communication protocols, including industrial (Modbus, Fanuc FOCAS, Siemens S7) and IoT (OPC UA, MQTT).
+Create system architectures for integration of IoT edge devices and gateways.
+Manage inventory, procurement, and cost calculations for hardware.
+Present models to clients and coordinate installations.
+
+
+Eligibility:
+Qualifications: B.Sc./M.Sc./BE/B.Tech. in Electronics or related field with 1 to 4 years of IoT/Automation experience.
+Skills:
+o Proficient in programming microcontrollers (Arduino, Raspberry Pi).
+o Experience in electronic circuit design and wiring.
+o Familiar with communication protocols (industrial and IoT).
+o PLC programming experience (Delta & Honeywell) is a plus.
+----------------------------------------------------------------------------------------------------------------------
+JD 4
+
+Excellent communication and teamwork skills.
+
+Proven experience as an IoT Developer or similar role.
+
+Proficiency in programming languages commonly used in IoT development (e.g., C/C++, Python, Java).
+
+Familiarity with IoT platforms, hardware components, and communication protocols.
+
+Experience with cloud platforms, IoT security, and data analytics.
+
+Strong problem-solving and debugging skills.
+
+Salary- As per industry standards
+
+Responsibilities
+
+IoT Solution Design: Collaborate with cross-functional teams to design end-to-end IoT solutions that meet business requirements and leverage IoT technologies.
+
+Hardware and Sensor Integration: Work on connecting and integrating IoT sensors and devices to collect data and enable communication with cloud platforms.
+
+IoT Protocols: Implement IoT communication protocols (e.g., MQTT, CoAP) and develop APIs for device interaction.
+
+Cloud Integration: Integrate IoT solutions with cloud platforms (e.g., AWS IoT, Azure IoT, Google Cloud IoT) to process, store, and analyze data.
+
+Data Analytics: Develop data analytics and machine learning models to gain insights from IoT data and enable predictive maintenance and optimization.
+
+Security: Implement security measures to protect IoT devices, data, and communication channels, adhering to best practices.
+
+Firmware Development: Develop and update firmwar for IoT devices and sensors.
+
+IoT Platforms: Work with IoT platforms and frameworks to accelerate development and reduce time to market.
+
+Testing and Quality Assurance: Conduct testing and validation of IoT solutions to ensure reliability and performance.
+
+Documentation: Maintain documentation for IoT solutions, including design specifications, architecture diagrams, and user manuals.
+
+Stay Updated: Keep up to date with the latest IoT technologies, protocols, and best practices.
+----------------------------------------------------------------------------------------------------------------------
+JD 5
+
+Bachelor's/Masters degree in Computer Science, Electronics, or a related field.
+3 to 5 years of experience in IoT development.
+Strong proficiency in WebSocket, MQTT, and other IoT-specific protocols.
+Solid understanding of Embedded Systems and hands-on experience in firmware development.
+Familiarity with microcontrollers, sensors, and edge computing platforms.
+Excellent problem-solving skills and ability to work independently.
+Strong communication and interpersonal skills.
+Experience with cloud IoT platforms (AWS IoT, Azure IoT, etc.).
+Knowledge of real-time data streaming and remote device management.
+
+----------------------------------------------------------------------------------------------------------------------
+JD 6
+
+Key Responsibilities:
+
+Provide technical support for Industrial IoT solutions and troubleshoot issues
+
+Develop and implement IIoT use cases to enhance industrial efficiency
+
+Work on the IoT IMAC (Install, Move, Add and Change) tasks
+
+Work with IoT devices, cloud platforms, and edge computing to build scalable solutions
+
+Collaborate with industrial teams to identify problems and propose innovative solutions
+
+
+
+Key Performance Indicators:
+
+Configure and maintain industrial protocols such as MQTT, OPC UA, Modbus, TCP/IP, UDP
+
+Create preventive maintenance, reports, alerts and Grafana dashboards
+
+Ensure data collection, processing, and analysis for predictive maintenance and optimization
+
+Stay updated with emerging IIoT trends, security best practices, and new technologies
+
+
+Qualificaton:
+
+Bachelors degree in Engineering, Electronics/computer science, or a related field
+
+Strong troubleshooting and problem-solving skills in an industrial setting
+
+Knowledge of cloud computing such as Azure
+
+Knowledge of PLC, SCADA, Grafana, and industrial automation systems.
+
+Proficiency in Javascript, Python, Node-red for IoT application development
+
+Familiarity with all type of databases (i.e. SQL/NOSQL/Time Series)
+
+Understanding of edge computing and embedded systems.
+
+Expertise in installing OS and handling the hardware related issues
+
+Excellent communication and teamwork skills
+
+
+Functional Skills/Competencies:
+
+Hands-on experience with Raspberry Pi, Arduino, or other IoT hardware
+
+Good to have knowledge on Linux and bash scripting
+
+Knowledge of GIT and Docker
+
+Knowledge of cybersecurity principles for industrial IoT
+
+
+Behavioral Skills/Competencies:
+
+Knowledge of GIT and Docker
+
+Knowledge of cybersecurity principles for industrial IoT
+----------------------------------------------------------------------------------------------------------------------
+JD 7
+
+2+ years of proven experience AWS cloud backend development with demonstrated ability in developing use cases, Servereless architecture. 
+1+ years of Professional experience Developing solutions built on AWS cloud platform (IoT Core, Kinesis, Lambda, CloudWatch, CloudFront, CDK, Device Shadow) 
+Hands On Experience on creating Serverless AWS APIs for IOT products User & Device Managment. 
+Experience working in large organizations, implementing, and managing complex distributed IT applications and large-scale IoT solutions. 
+Solid experience in IoT-related security standard processes in both edge and cloud regarding authentication, authorization, data protection and identity/access management. 
+Ability to think strategically about business, product, and technical challenges in an enterprise environment. 
+Experience with/of horizontally scalable micro services architecture and low latency, consistent, simple to use RESTful APIs with TypeScript, NodeJS. Serverless Deployment. 
+AWS CDK with Iaac exposure will be plus 
+Experience with a formal software development methodology such as Agile is required. Knowledge of Domain Driven Design (DDD) and Test-Driven Development (TDD) 
+Experience working with geographically distributed teams is required. 
+Experience driving architecture initiatives by influencing different organizations. 
+Experience in any of these industries: Manufacturing or Industrials customers. Experience in one or more specific IoT / embedded / M2M industries (i.e., home automation, asset tracking, smart utilities, etc.). 
+Awareness of software development tools and methodologies 
+Presentation skills with high comfort speaking with executives, IT Management, and developers. 
+Demonstrated ability to continuously adapt to new technologies and trends and learn new skills quickly 
+Ability to communicate at all levels, orchestrate resources and work effectively across internal and external stakeholders at multiple levels.
+----------------------------------------------------------------------------------------------------------------------
+JD 8
+
+ELEKTRO LABS is looking for IoT Developer to join our dynamic team and embark on a rewarding career journey.Developing and implementing IoT strategies and solutions to enable real-time data collection, analysis, and visualization.
+Designing and developing firmware and software for IoT devices, including sensors, controllers, and actuators.
+Developing and integrating IoT platforms and protocols, such as MQTT, CoAP, and HTTP.
+Building and configuring cloud based IoT infrastructures, such as AWS IoT, Microsoft Azure IoT, or Google Cloud IoT.
+Developing and deploying data analytics models and algorithms to extract insights from IoT data.
+Ensuring the security and privacy of IoT data by implementing encryption, authentication, and access control measures.
+Collaborating with cross-functional teams, to identify project requirements and develop software solutions.
+Strong background in software development, embedded systems, and cloud computing.
+Good knowledge of IoT platforms and protocols.
+----------------------------------------------------------------------------------------------------------------------
+JD 9
+
+Responsibilities
+Understand business requirements and design.
+Researches new technologies and incorporates them into new systems and products.
+Tests, integrate, troubleshoots, and debugs products.
+Responsible for architecture and implementation of critical components.
+Work to improve the efficiency and functionality of current systems and products.
+Strong knowledge of sensors and Wireless communication.
+Knowledge of C/C++, python, Arduino language.
+Knowledge of Raspberry pi, Arduino, ESP32, and STM development boards.
+Basic experience in working with PCB.
+Domain expertise in IoT/M2M, GSM/GPS(different modules) & Device Management, and telecom will be preferable.
+Working knowledge of protocols and standards such as HTTP, MQTT, ZigBee, BLE, WiFi, CoAP, and WebSocket are preferred.
+Knowledge of M2M domains/verticals like SmartGRID, SmartHome/SmartCity, Agriculture, advertisement, Automotive, and Health care industry preferred.
+Key Skills
+Preferred controller - ESP Boards, ARM, AVR
+Python/Micro Python
+NodeJs
+RF communication and LORA
+LORAWAN
+MQTT
+AMQP
+HTTP/HTTPS
+BLE/COAP
+Embedded C
+----------------------------------------------------------------------------------------------------------------------
+JD 10
+
+Passionate engineer who wants to learn and work hard
+
+Embedded C programming skill with hands-on experience
+
+Good understanding of embedded system concepts.
+
+Good understanding of Microcontroller architecture and firmware development.
+
+Good understanding of UART, SPI, I2C, LIN and Memory
+Experience in CAN is added advantage
+Experience in RTOS based development; (any RTOS)
+Deep understanding of LWIP, mBED TLS , Secure Cloud communication.
+UDS protocol understanding and / or work experience such as ISO14229, ISO15765,
+J1939 and others.
+Functional knowledge of IoT and Telecom (4G, LTE) is preferable.
+Develop and Integrate Telematics, Clusters , and IVI application.
+Proven ability to work with standard lab equipment oscilloscopes, logic analyzers
+Skills
+Bachelor/Masters in Electronics or Computer Science with experience in embedded
+design/development/system integration.
+Good debugging skills and understanding of software process such as Agile, Scrum or
+CMM.
+----------------------------------------------------------------------------------------------------------------------
+JD 11
+
+Responsibilities:
+Design and develop IoT software applications and platforms.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Implement and integrate IoT devices and sensors.
+Develop and maintain cloud and edge computing architectures for IoT solutions.
+Build IoT security frameworks and protocols.
+Conduct testing and troubleshooting of IoT applications.
+Monitor and optimize IoT solutions for performance, scalability, and reliability.
+Ensure compliance with IoT industry standards and best practices.
+Research and evaluate new IoT technologies and trends.
+Document IoT development processes and procedures.
+Requirements:
+Bachelor s degree in Computer Science, Engineering, or related field (or equivalent practical experience).
+Proven experience as an IoT Developer or similar role.
+Strong programming skills in languages such as C, C++, Java, Python, etc.
+Experience with IoT platforms (e.g., AWS IoT, Azure IoT, Google Cloud IoT).
+Familiarity with IoT protocols and standards (e.g., MQTT, CoAP, AMQP).
+Experience with embedded systems and microcontroller programming.
+Knowledge of cloud computing technologies and services.
+Understanding of data management and analytics for IoT.
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration abilities.
+Ability to work independently and as part of a team in a fast-paced environment.
+----------------------------------------------------------------------------------------------------------------------
+JD 12
+
+Responsibilities:
+Design and develop IoT solutions for various applications, including smart homes, healthcare, and industrial automation.
+Work with hardware engineers to integrate sensors and actuators with cloud-based systems.
+Develop, test, and deploy software for IoT devices and platforms.
+Implement security features for IoT applications to protect sensitive data.
+Collaborate with product managers to define product requirements and deliver features.
+Qualifications:
+Bachelor s degree in Computer Science, Electrical Engineering, or a related field.
+Proficiency in programming languages like Python, C++, or JavaScript.
+Experience with IoT communication protocols such as MQTT, CoAP, or HTTP.
+Experience with cloud platforms like AWS IoT, Google Cloud IoT, or Azure IoT.
+Experience with embedded systems and real-time operating systems (RTOS).
+Strong troubleshooting skills and a keen interest in emerging IoT technologies.
+----------------------------------------------------------------------------------------------------------------------
+JD 13
+
+Key Responsibilities:
+Design and architect IoT solutions that meet business requirements.
+Collaborate with stakeholders to define project scope, objectives, and deliverables.
+Develop and maintain architecture documentation, including diagrams and specifications.
+Evaluate and recommend IoT platforms, tools, and technologies.
+Ensure the security and scalability of IoT systems.
+Lead the development and integration of IoT devices, gateways, and cloud services.
+Monitor industry trends and emerging technologies to drive innovation.
+Provide technical guidance and mentorship to development teams.
+Conduct performance tuning and optimization of IoT solutions.
+
+Qualifications:
+Bachelor s degree in Computer Science, Engineering, or related field; Master s preferred.
+Proven experience in IoT architecture, design, and implementation.
+Strong knowledge of IoT protocols (MQTT, AMQP, CoAP, etc.), Serial communication protocols such as RS-232, OPC, Modbus and cloud platforms (AWS, Azure, Google Cloud).
+Proficiency in programming languages such as Python and Java
+Strong knowledge of Networking and Architecture
+Excellent problem-solving skills and ability to work in a fast-paced environment.
+Strong communication and interpersonal skills.
+
+----------------------------------------------------------------------------------------------------------------------
+JD 14
+Should possess experience working on constrained devices like Arduino, TI, RaspberryPI (tools mentioned above)
+Should have work experience in Firmware, Network security, Cloud, HW, and Virtualization.
+Knowledge of communication networking protocols like TCP and Ethernet and programming languages like C , C#, and Python.
+Should know how to carry out end to end IoT/IP systems that include connectivity, device, cloud, backend, applications, and analytics.
+Experience working on wireless protocols like Wifi, Bluetooth and ZigBee
+Good communication presentation skills
+Good analytical problemsolving skills
+
+----------------------------------------------------------------------------------------------------------------------
+JD 15
+
+Responsibilities Include:
+- Designing, implementing, and optimizing advanced industrial systems to enhance manufacturing processes and productivity
+- Installation, configuration, and troubleshooting of Indec 4.0 server infrastructure support
+- Managing and monitoring installed systems and infrastructure
+- Installing, configuring, testing, and maintaining operating systems, application software, and system management tools
+
+Requirements:
+- Desired degree in Computer Science/Technology, Engineering or Equivalent Experience
+- Minimum of 1 year's IT operational experience in a large-scale industry to implement and maintain IT operations
+
+Preferred Qualifications:
+- Technical skills such as installation and configuration of Linux RedHat, CentOS, Ubuntu, Windows 2016 & 2019 and troubleshooting skills
+- Command line management of Linux systems and protocols such as DNS, HTTPs, LDAP, SMTP, and SNMP
+----------------------------------------------------------------------------------------------------------------------
+JD 16
+
+Mandatory Skills:
+
+AWS Services: 2+ years of proven experience AWS cloud backend development Lambda, API Gateway, 1+ years of Professional experience Developing solutions built on AWS cloud platform (IoT Core, Kinesis, Lambda, CloudWatch, CloudFront, CDK, Device Shadow)
+
+Unit Testing: Experience with Jest framework, Mocha
+
+Architecture: Strong understanding of Clean Architecture
+
+Database: DynamoDB
+
+Programming Languages:Node.js, TypeScript
+
+Deployment Tools: YAML, AWS CDK
+
+Good to Have:
+
+Experience or exposure to IoT
+• Experience working in large organizations, implementing, and managing complex distributed IT applications and large-scale IoT solutions.
+• Solid experience in IoT-related security standard processes in both edge and cloud regarding authentication, authorization, data protection and identity/access management.
+• Ability to think strategically about business, product, and technical challenges in an enterprise environment.
+• AWS CDK with Iaac exposure will be plus
+• Experience with a formal software development methodology such as Agile is required. Knowledge of Domain Driven Design (DDD) and Test-Driven Development (TDD)
+• Experience working with geographically distributed teams is required.
+• Experience driving architecture initiatives by influencing different organizations.
+• Experience in any of these industries: Manufacturing or Industrials customers. Experience in one or more specific IoT / embedded / M2M industries (i.e., home automation, asset tracking, smart utilities, etc.).
+• Awareness of software development tools and methodologies
+• Presentation skills with high comfort speaking with executives, IT Management, and developers.
+• Ability to communicate at all levels, orchestrate resources and work effectively across internal and external stakeholders at multiple levels.
+----------------------------------------------------------------------------------------------------------------------
+JD 17
+
+Qualifications & Certifications:
+• Education:
+Bachelor's or Master’s degree in Cybersecurity, Embedded Systems, Computer Engineering, or a related field.
+• Certifications (Preferred):
+• OSCP (Offensive Security Certified Professional)
+• OSCE (Offensive Security Certified Expert)
+• GXPN (GIAC Exploit Researcher and Advanced Penetration Tester)
+• Equivalent certifications in ethical hacking, penetration testing, or embedded system security are also highly valued.
+• Industry Standards Familiarity:
+Familiarity with security frameworks such as ISO/IEC 62443, RED 18031, and IoT security frameworks.
+----------------------------------------------------------------------------------------------------------------------
+JD 18
+
+equirements
+
+15+ years extensive experience as a Software Architect with a focus on IoT solutions.
+
+BE/ME or BTech/MTech computer science, Engineering, or a related field.
+• Programming Languages: Proficiency in languages such as Python, JavaScript, C/C++, and Java.
+• Edge Platforms: Experience with edge computing platforms like Raspberry Pi, Arduino, or similar.
+• Cloud Services: Expertise in cloud platforms such as AWS IoT, Azure IoT, or Google Cloud IoT.
+• Networking: Strong understanding of networking protocols and IoT communication standards (e.g., MQTT, CoAP).
+• Database Management: Experience with both SQL and NoSQL databases.
+• DevOps: Knowledge of CI/CD pipelines, containerization (Docker), and orchestration (Kubernetes).
+• Experience with modern DevOps practices and tools: test-driven development, GIT, automated builds and tests, CI/CD with Gitlab/GitHub, Jenkins, AWS etc.
+
+Soft Skills: Excellent problem-solving abilities, strong communication skills, and the ability to work collaboratively in a team environment.
+----------------------------------------------------------------------------------------------------------------------
+JD 19
+
+Required Skills And Experience
+• C, C++, python language skills.
+• Strong background in developing on linux platforms ( centos and ubuntu).
+• Strong knowledge in network protocols, application protocols, TCP/IP stacks, Layer 3 and 2.
+• Strong Experience working on Suricata and other IPS/IDS solutions.
+• Kali linux and security hacking tools experience desirable.
+• Experience in developing network security appliance products
+• Strong coding skills a must.
+• Cloud components like mongodb, micro services and analytics skills are good to have.
+• Experienced in using test tools such as IXIA and Spirent are good to have.
+
+----------------------------------------------------------------------------------------------------------------------
+JD 20
+
+Responsibilities:
+• Develop and implement the security strategy for the IIOT platform.
+• Identify and evaluate potential security risks and threats to the platform.
+• Design and implement security controls to mitigate risks and threats.
+• Ensure compliance with relevant security standards, regulations, and best practices
+• Design Security Architecture for the Solution
+• Conduct regular security assessments and audits of the platform.
+• Work closely with other teams, such as development, operations, and compliance, to ensure the security of the platform.
+• Stay up to date with the latest security trends, technologies, and threats.
+• Build IoT & Cloud Security Practice Team, Frameworks, Standard Methodologies & Solutions that can be reused for multiple customers across industrial segments
+
+Skills:
+• Strong knowledge of security principles and best practices, such as cryptography, network security, and secure coding.
+• Experience in designing and implementing security controls for IIOT platforms.
+• Strong knowledge on IT – OT Security
+• Strong Knowledge on AWS, Azure, and other relevant cloud security services
+• Knowledge of IIOT platforms, protocols, and technologies, such as MQTT, OPC UA, and REST APIs.
+• Experience in conducting security assessments and audits.
+• Strong communication and collaboration skills.
+• Experience in working in agile environments.
+• Familiarity with relevant security standards and regulations, such as NIST, ISO, and GDPR.
+• Experience with cloud security and DevOps security.
+----------------------------------------------------------------------------------------------------------------------
+JD 21
+
+Key Responsibilities:
+
+Develop and manage IoT device registries, identity provisioning, and data ingestion services.
+
+Implement RESTful and MQTT-based APIs for secure device communication.
+
+Integrate with message queues such as Kafka, RabbitMQ, or MQTT brokers.
+
+Design and deploy scalable infrastructure using containers and orchestration tools (Docker, Kubernetes).
+
+Collaborate with firmware and frontend teams to ensure full-stack alignment.
+
+Skills & Qualifications:
+
+Strong experience in backend development using Node.js, Python, or Go.
+
+Familiarity with containerized environments and CI/CD pipelines.
+
+Experience with platforms like AWS IoT Core, Azure IoT Hub, or GCP Pub/Sub.
+
+Solid understanding of authentication protocols like OAuth 2.0 and TLS.
+----------------------------------------------------------------------------------------------------------------------
+JD 22
+
+University Bachelor’s Degree in System Engineering, Mechatronics, or Computer Science
+3+ years working in IoT device, and systems development
+2+ years implementing and managing automation pipelines
+2+ years experience in telemetry and communication protocols
+Certified Technician Degree in Electics, Electronics, or Telecommunication
+knowledge of some or all of the following: Jira, Kafka, Docker, Kubernetes, CI / CD, Jenkins, Puppet, Ansible, Splunk, Nexus, MATLAB, MQTT, LoRa, LTE, NB-IoT, Python, Prometheus, Grafana, GitLab, C# and Java.
+Fluency in English, additional languages beneficial
+Awareness of emerging technologies
+Strong influencer with excellent communication skills
+Self motivated and proactive, ability to anticipate issues early
+Ability to manage a high level of complexity and uncertainty
+Consensus builder across diverse interest groups
+Ability to deliver in a cross cultural environment
+Strong customer focus, communication, teamwork and negotiation skills
+----------------------------------------------------------------------------------------------------------------------
+JD 23
+
+Strong knowledge of IoT protocols such as MQTT, CoAP, and AMQP.
+Proficiency in edge computing technologies and platforms such as Azure IoT Edge, AWS Greengrass, or Google Edge IoT Core.
+Solid understanding of AI/ML algorithms and frameworks, with experience in implementing them in Edge & IoT scenarios.
+Experience working with various IoT devices, sensors, and connectivity solutions (e.g., Wi-Fi, Bluetooth, 5G, LoRaWAN, NB-IoT, etc.).
+Familiarity with cloud-based IoT platforms like Azure IoT Hub, AWS IoT Core, and Google Cloud IoT.
+Proven experience with programming languages such as Python, C#, C/C++, or JavaScript.
+Familiarity with containerization technologies (e.g., Docker) and orchestration platforms (e.g., Kubernetes, K3S).
+Strong knowledge of networking concepts, protocols, and technologies (e.g., TCP/IP, UDP, VLAN, VPN, Ethernet, and wireless communication protocols), and experience in designing and implementing secure, reliable, and scalable network architectures for IoT and edge computing solutions.
+Familiarity with different hardware platforms such as Raspberry Pi, Arduino, NVIDIA Jetson, Intel NUC, and others, and the ability to choose the appropriate platform according to the specific requirements, constraints, and performance expectations of the solution.
+Expertise with packaging and deploying AI and ML models on edge devices using common AI frameworks such as TensorFlow, PyTorch, or ONNX Runtime, and familiarity with optimizing these models for resource-constrained environments and efficient execution at the edge.
+Experience in designing IoT and edge computing solutions that consider factors such as physical security, device management and maintenance, thermal management, and enclosure design.
+Proficiency in assessing the compatibility, interoperability, and performance of various hardware components and their integration into a comprehensive, well-structured solution architecture.
+Knowledge of industry standards, regulations, and best practices related to IoT hardware selection, deployment, and security.
+----------------------------------------------------------------------------------------------------------------------
+JD 24
+
+Requirements:
+
+Bachelor’s degree in Computer Science, Electrical Engineering, or related field.
+3-5 years of experience in IoT development, with a focus on embedded systems and sensor integration.
+Proficiency in IoT protocols such as MQTT, CoAP, and HTTP.
+Experience working with cloud platforms like AWS IoT, Google Cloud IoT, or Microsoft Azure IoT.
+Strong understanding of networking protocols and embedded systems.
+Knowledge of security protocols and best practices for IoT networks.
+Must Have:
+Strong proficiency in programming languages such as C/C++, Python, or JavaScript for embedded systems.
+Experience with microcontrollers and sensors.
+Hands-on experience with IoT device deployment and troubleshooting.
+----------------------------------------------------------------------------------------------------------------------
+JD 25
+
+Key Responsibilities:
+1. On-site assessments to understand existing OT-IT infrastructure, identify integration challenges, and troubleshoot industrial protocols (e.g., OPC-UA, Modbus, MQTT)
+
+2. Develop and manage data collection architecture, including hardware and software selection and BoM preparation for scalable and reliable deployments.
+
+3. Implement end-to-end IoT solutions, including configuration, installation, and validation of data collection systems.
+
+4. Work with Python, SQL, and Django for backend development, and manage Linux-based environments.
+
+5. Deploy and maintain cloud infrastructure using AWS or GCP for data ingestion and visualization.
+
+6. Ensure timely delivery of project milestones and maintain strong customer relationships for post-deployment success.
+
+Required Skills:
+Hands-on experience with industrial protocols and control systems.
+
+Proficient in Python, SQL, Django, and Linux.
+
+Experience with AWS/GCP for IoT or data-related services.
+
+Strong troubleshooting and problem-solving abilities.
+
+Excellent communication and customer-facing skills.
+----------------------------------------------------------------------------------------------------------------------
+JD 26
+
+Master’s degree in technical field
+Experience working in a Continuous Integration & Delivery model on Digital/IoT environment
+Experience from DevOps and/or lean and agile development
+Experience from IoT industry
+High skills in Java 8, micro services, REST APIs, event-based architectures, distributed architectures, algorithm complexity, message bus (Kafka, AMQP), mongodb, redis, test automation frameworks, monitoring tools, AWS, oauth2, deployment strategies.
+High skills in best practices (like DRY, KISS, YAGNI, etc.) in coding and in reaching high coverage on unit tests, integration test and component test for the code produced
+Fluent in English – both written and spoken.
+Good Team Player and Mentor.
+Responsibilities:-
+
+Write new code or modify existing software to meet projects and program goals.
+Design the best data-driven solutions to improve our users’ journey.
+Close cooperation and communication with software engineering specialists.
+----------------------------------------------------------------------------------------------------------------------
+JD 27
+
+Key Responsibilities :
+
+Work on R&D and design of new IoT devices.
+Define and execute comprehensive test plans to validate and optimize the performance of the product under various environmental conditions.
+Stay updated with industry trends, emerging technologies, and scientific advancements in the field Agriculture IoT products, and apply that knowledge to improve device design and performance.
+Collaborate with the product development team to define product requirements, specifications, and roadmap for soil sensing technologies.
+Document design specifications, test results, and technical reports to facilitate knowledge sharing and product improvement.
+Testing documentation.
+Troubleshooting hardware problems.
+Device manual and catalog documentation
+Requirements :
+
+Bachelor's or Master's degree in ECE, EE and Instrumentation or a related field.
+Proficiency in IoT product design, schematics and BOM.
+Proficiency in writing firmware code.
+Experience with hardware integration and testing.
+Having good knowledge in analog and digital circuitry, and signal processing techniques.
+Familiarity with precision agriculture concepts.
+Ability to work independently as well as collaboratively in a cross- functional team environment.
+Strong problem-solving skills and attention to detail.
+Excellent verbal and written communication skills.
+
+----------------------------------------------------------------------------------------------------------------------
+JD 28
+
+1. Configure firmware and commission IoT hardware gateways
+
+2. Test and validate performance of instrumentation, sensors, and devices
+
+3. Provide remote technical support to clients during setup and troubleshooting
+
+Required Skills:
+
+1. Basic understanding of sensors, instrumentation, gateways, and PLCs
+
+2. Knowledge of analog signals, HART, Modbus, MQTT, IoT architecture, and networking
+
+3. Good documentation discipline and technical report writing
+----------------------------------------------------------------------------------------------------------------------
+JD 29
+
+Hands-on in enabling Edge compute frameworks like AWS Green grass , Azure IoT Edge, EdgeX, Kaa, Google IoT Edge
+Exposure to Microprocessor Architecture Family, e.g., ARM Cortex, Raspberry PI, iMX series
+Knowledge of embedded Linux , device driver concepts, and inter-process communication.
+Knowledge of build tool chains and frameworks such as Buildroot, Yocto
+Knowledge of peripherals and drivers, e.g., UART, RS485 , DMA, Ethernet, SD/eMMC, SDIO, UFS
+Knowledge of Wireless interfaces like WIFI , Bluetooth/BLE , IoT Cellular.
+Knowledge of networking concepts like OSI layers, embedded TCP/IP stacks, and common IP protocols.
+Knowledge of IoT communication protocols , MQTT , HTTP
+Coding standards , guidelines, and compliance tools
+Version control and repositories using git tools
+Software quality assurance and automated testing tools
+
+Experience /
+
+Skills:
+Embedded software design cycle
+Documenting Software Design (flow charts, state diagrams, logic design, analysis, implementation, debugging, and testing, etc)
+Good hands-on programming in Embedded C, C++
+Programming in scripting languages such as batch, shell, Python , Node.js .
+
+Experience with AWS/Google Cloud for device connectivity. Exposure to IoT cloud services. e.g., AWS IoT is a plus.
+Protocol debugging using a protocol analyzer
+Understanding of Schematic/ Hardware design around microcontrollers like ST, TI, Atmel, Microchip, ARM core
+----------------------------------------------------------------------------------------------------------------------
+JD 30
+
+Key Responsibilities:
+
+Design and implement integration solutions for IoT data into ERP, CRM, or SCADA systems.
+
+Work with APIs, middleware, and data transformation tools to ensure compatibility.
+
+Configure OPC-UA, BACnet, or Modbus gateways for industrial use cases.
+
+Develop scripts and microservices to automate data pipelines.
+
+Provide technical documentation and support for integration processes.
+
+Skills & Qualifications:
+
+Strong understanding of REST/SOAP APIs, JSON/XML data structures.
+
+Experience with integration platforms like MuleSoft, Node-RED, or Apache NiFi.
+
+Familiarity with industrial protocols and control systems.
+
+Proficient in Python, Java, or Bash scripting.
+
+
+----------------------------------------------------------------------------------------------------------------------
+JD 31
+
+Bachelor’s degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field.
+3+ years of experience in embedded systems development.
+Proficiency in C/C++ programming for microcontrollers.
+Experience with Real-Time Operating Systems (RTOS) like FreeRTOS, Zephyr, or similar.
+Strong understanding of microcontroller peripherals (SPI, I2C, UART, ADC, DAC).
+Experience with wireless communication protocols relevant to IoT.
+Familiarity with debugging tools (e.g., JTAG, SWD, logic analyzers).
+----------------------------------------------------------------------------------------------------------------------
+JD 32
+
+Required Qualifications:
+Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+3+ years of experience in cloud platform development, with a focus on IoT.
+Strong proficiency in at least one major cloud platform (AWS IoT, Azure IoT Hub, Google Cloud IoT Core).
+Experience with IoT communication protocols (e.g., MQTT, AMQP, HTTPS).
+Proficiency in programming languages like Python, Java, Node.js, or Go.
+Experience with containerization (Docker, Kubernetes) and serverless architectures (e.g., Lambda, Azure Functions).
+Solid understanding of database technologies and data modeling for IoT.
+Knowledge of network security and cloud security best practices.
+
+
+Preferred Qualifications:
+Experience with big data processing frameworks (e.g., Spark, Kafka, Kinesis).
+Familiarity with DevOps practices and tools.
+Experience with device management and OTA update solutions for IoT.
+Certifications in relevant cloud platforms.
+----------------------------------------------------------------------------------------------------------------------
+JD 33
+
+----------------------------------------------------------------------------------------------------------------------
+JD 34
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related technical field.
+7+ years of experience in technology roles, with at least 3-5 years in designing and architecting IoT solutions.
+Broad understanding of the entire IoT technology stack: embedded systems, wireless communication (e.g., Cellular, Wi-Fi, Bluetooth, LoRaWAN, NB-IoT), IoT platforms (AWS IoT, Azure IoT, GCP IoT), data management, and analytics.
+Proven experience in translating business requirements into technical solution designs.
+Strong analytical and problem-solving skills.
+Excellent communication, presentation, and interpersonal skills, with the ability to articulate complex technical concepts to diverse audiences.
+Experience with system integration and API design.
+----------------------------------------------------------------------------------------------------------------------
+JD 35
+
+Key Responsibilities:
+
+Collect, clean, process, and analyze large datasets from IoT sensors and systems.
+Develop and implement machine learning models for tasks such as anomaly detection, predictive maintenance, classification, and forecasting.
+Perform exploratory data analysis to identify patterns, correlations, and insights.
+Design and build dashboards and reports to visualize data and communicate findings to stakeholders.
+Collaborate with engineers to define data collection requirements and improve data quality.
+Evaluate the performance of ML models and iterate on them for improvement.
+Stay up-to-date with the latest advancements in data science, machine learning, and IoT analytics.
+Translate complex findings into actionable business recommendations.
+
+
+Required Qualifications:
+Master’s or Ph.D. in Data Science, Statistics, Computer Science, Mathematics, or a related quantitative field.
+2+ years of experience in data science or data analysis, preferably with IoT data.
+Strong proficiency in Python (with libraries like Pandas, NumPy, Scikit-learn, TensorFlow/Keras, PyTorch) or R.
+Experience with SQL and NoSQL databases.
+Solid understanding of statistical concepts and machine learning algorithms.
+Experience with data visualization tools (e.g., Tableau, Power BI, Matplotlib, Seaborn).
+Excellent problem-solving and analytical skills.
+----------------------------------------------------------------------------------------------------------------------
+JD 36
+
+At least two years of industrial electrical experience in developing embedded systems.
+Well experienced in schematic design and PCB layout. This is the most critical required qualification. Familiar with PCB design software tool such as Altium, KiCad, EasyEDA, and Eagle.
+Well experience with RTOS and Linux based driver development in C/C++
+Experience with development over MCUs (microcontrollers), especially STM32 and ESP32 and related interfaces including SPI, I2C and UART.
+Experience with wireless solutions including Wi-Fi and BLE. Experience with LoRa and Wi-Fi antennas is a big plus.
+Experience with wireless solutions including Wi-Fi and BLE. Experience with LoRa and Wi-Fi antennas is a big plus.
+----------------------------------------------------------------------------------------------------------------------
+JD 37
+
+
+Responsibilities and Role:
+
+•Understand business requirements and design
+
+•Researches new technologies and incorporates them into new systems and products.
+
+•Tests, integrate, troubleshoots, and debugs products.
+
+•Responsible for architecture and implementation of critical components.
+
+•Work to improve the efficiency and functionality of current systems and products.
+
+Required Qualifications:
+
+•B. Tech. (any branch)
+
+•Minimum 75% in 10 th and 12 th
+
+•Knowledge of Linux server environment preferred
+
+•Basic experience in working with PCB
+
+•Domain expertise in IoT/ M2M, SIM & Device Management, Telecom will be preferable.
+
+•Knowledge of protocols and standards such as MQTT, ZigBee, LoRaWAN, CoAP, WebSocket preferred.
+
+•Knowledge of M2M domains/ verticals like SmartGRID, SmartHome/ SmartCity, Agriculture, advertisement, Automotive and Health care industry preferred.
+
+----------------------------------------------------------------------------------------------------------------------
+JD 38
+
+Design real-time analytics pipelines for sensor data, events, and logs.
+
+Build dashboards and visualizations using Power BI, Grafana, or Kibana.
+
+Implement anomaly detection and predictive maintenance algorithms.
+
+Optimize data storage using time-series databases like InfluxDB or TimescaleDB.
+
+Develop ETL pipelines for long-term trend analysis and reporting.
+
+Skills
+
+Strong skills in SQL, Python (Pandas, NumPy), and data wrangling tools.
+
+Experience with Apache Kafka, Spark, or Flink for stream processing.
+
+Familiarity with IoT schemas, telemetry formats, and JSON/Avro data encoding.
+
+Knowledge of statistical analysis and machine learning fundamentals.
+----------------------------------------------------------------------------------------------------------------------
+JD 39
+
+Wireless Technologies: Deep understanding and hands-on experience with LoRaWAN, NB-IoT, LTE-M, 5G, Wi-Fi, Bluetooth/BLE, and Zigbee/Thread.
+
+Network Architecture: Designing resilient network topologies, including gateway deployment, backhaul configuration, and integration with core networks.
+
+Network Security: Implementing and managing security protocols (VPNs, TLS/DTLS), firewalls, intrusion detection/prevention systems, and device authentication mechanisms specific to IoT.
+
+Device & SIM Management: Experience with M2M/IoT SIM lifecycle management, APN configurations, and device provisioning platforms.
+
+Network Monitoring & Troubleshooting: Utilizing network monitoring tools to ensure uptime, performance, and rapid resolution of connectivity issues.
+
+Protocol Analysis: Proficient in using tools like Wireshark to analyze network traffic and diagnose communication problems.
+
+
+
+Key Responsibilities & Outcomes:
+Develop and deploy robust network solutions for new IoT product lines.
+Optimize existing network performance for thousands of connected devices.
+Ensure end-to-end network security and compliance.
+Provide Tier 3 support for complex connectivity issues.
+Collaborate with hardware, firmware, and cloud teams.
+
+
+
+Qualifications:
+B.S. in Network Engineering, Telecommunications, CS, or equivalent.
+5+ years in network engineering, with at least 2 years focused on IoT/M2M connectivity.
+Relevant certifications (e.g., CCNA, CWNA) are a plus.
+----------------------------------------------------------------------------------------------------------------------
+JD 40
+
+Strong Linux administration and scripting (Python, Bash).
+Experience with edge computing frameworks and platforms (e.g., AWS Greengrass, Azure IoT Edge, KubeEdge).
+Proficiency in containerization and orchestration technologies.
+Understanding of networking protocols relevant to edge and IoT.
+Familiarity with embedded systems and IoT device communication.
+Bachelor's in CS, CE, or related; 3+ years relevant experience.
+----------------------------------------------------------------------------------------------------------------------
